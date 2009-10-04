@@ -1,6 +1,8 @@
 from PyQt4 import QtCore
 from PyQt4 import QtGui
 
+import encoding
+
 class TextView(QtGui.QGroupBox):
     def __init__(self, parent=None):
         super(TextView, self).__init__(parent)
@@ -14,11 +16,14 @@ class TextView(QtGui.QGroupBox):
         # set title
         self.setTitle("Document")
 
-        # create table
+        self.encodingselect = EncodingSelect()
+
+        # create text viewport
         self.textwidget = QtGui.QTextEdit(self)
 
         # set layout
         box = QtGui.QVBoxLayout()
+        box.addWidget(self.encodingselect)
         box.addWidget(self.textwidget)
         self.setLayout(box)
         
@@ -85,3 +90,53 @@ class TextView(QtGui.QGroupBox):
         cursor = self.textwidget.textCursor()
         pos = cursor.selectionStart()
         return self.text.find_word_near_pos(pos)
+
+class EncodingSelect(QtGui.QWidget):
+    def __init__(self, parent=None):
+        super(EncodingSelect, self).__init__(parent)
+        
+        self.bylang = {}
+        self.byenc = {}
+
+        self.langs = []
+
+        self.widget_init()
+
+    def widget_init(self):
+        # gui
+        self.countrycombo = QtGui.QComboBox()
+        self.encodingcombo = QtGui.QComboBox()
+
+        box = QtGui.QHBoxLayout()
+        box.addWidget(self.countrycombo)
+        box.addWidget(self.encodingcombo)
+        self.setLayout(box)
+
+        # events
+        self.connect(self.countrycombo,
+                     QtCore.SIGNAL("currentIndexChanged(int)"),
+                     self.handle_language_changed)
+        self.connect(self.encodingcombo,
+                     QtCore.SIGNAL("currentIndexChanged(int)"),
+                     self.handle_encoding_changed)
+
+        # populate
+        self.bylang, self.byenc = encoding.generate_encoding_table()
+        self.langs = self.bylang.keys()
+        self.langs = sorted(self.langs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
+
+        self.countrycombo.insertItems(0, self.langs)
+
+    def handle_language_changed(self):
+        index = self.countrycombo.currentIndex()
+        lang = self.langs[index]
+
+        encs = self.bylang[lang]
+        encs = sorted(encs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
+
+        self.encodingcombo.clear()
+        self.encodingcombo.insertItems(0, encs)
+
+    def handle_encoding_changed(self):
+        pass
+        # emit signal
