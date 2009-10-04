@@ -74,15 +74,15 @@ class MainWindow(QtGui.QMainWindow):
         # item selection in word list
         self.connect(self.wordlistview.get_active_widget(),
                      QtCore.SIGNAL("activated(QModelIndex)"),
-                     self.wordlist_item_selected)
+                     self.handle_wordlist_item_selected)
         # item selection in wordhit list
         self.connect(self.wordhitview.get_active_widget(),
                      QtCore.SIGNAL("activated(QModelIndex)"),
-                     self.wordhit_item_selected)
+                     self.handle_wordhit_item_selected)
         # selection changed in textview
         self.connect(self.textview.get_active_widget(),
                      QtCore.SIGNAL("copyAvailable(bool)"),
-                     self.selection_changed_in_textview)
+                     self.handle_selection_changed_in_textview)
 
         # left side splitter
         splitter_left = QtGui.QSplitter(QtCore.Qt.Vertical)
@@ -166,7 +166,7 @@ class MainWindow(QtGui.QMainWindow):
         self.wordlistmodel = model.wordlistmodel.WordListModel(self.text, parent=self)
         self.wordlistview.set_model(self.wordlistmodel)
 
-    def wordlist_item_selected(self, *args):
+    def handle_wordlist_item_selected(self, *args):
         # find row number in table
         rows = self.wordlistview.get_row_selection()
         if not rows:
@@ -191,9 +191,9 @@ class MainWindow(QtGui.QMainWindow):
         for (line, pos, prefix, word_s, suffix) in self.text.get_fragments(word_s):
             fragment = "%s*%s*%s" % (prefix, word_s, suffix)
             fragments.append( (prefix, word_s, suffix, line, pos) )
-        self.wordhitview.set_words(fragments, self.wordhit_item_selected)
+        self.wordhitview.set_words(fragments, self.handle_wordhit_item_selected)
 
-    def wordhit_item_selected(self, *args):
+    def handle_wordhit_item_selected(self, *args):
         (word_s, word_pos) = self.wordhitview.get_selected_word()
         if not word_pos:
             return
@@ -204,7 +204,7 @@ class MainWindow(QtGui.QMainWindow):
         # scroll to word
         self.textview.scroll_to(word_pos)
     
-    def selection_changed_in_textview(self, *args):
+    def handle_selection_changed_in_textview(self, *args):
         (selection, ) = args
         if not selection:
             return
@@ -212,9 +212,9 @@ class MainWindow(QtGui.QMainWindow):
         (pos, word_obj) = self.textview.get_selected_word()
         if word_obj:
             self.wordlistview.select_word(word_obj.get())
-            self.wordlist_item_selected()
+            self.handle_wordlist_item_selected()
             for (row, hit) in enumerate(word_obj.get_hits()):
                 if hit.get_pos() == pos:
                     self.wordhitview.select_row(row)
-                    self.wordhit_item_selected()
+                    self.handle_wordhit_item_selected()
                     break
