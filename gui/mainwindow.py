@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 
 from PyQt4 import QtCore
@@ -129,6 +130,13 @@ class MainWindow(QtGui.QMainWindow):
         if filename:
             self.input_url.setText(filename)
             self.open_file(filename)
+
+    def openPath(self, path):
+        self.input_url.setText(path)
+        loader = self.open_file
+        if re.match(u'^[a-z]+[:]', path):
+            loader = self.open_url
+        loader(path)
 
     def open_file(self, filename):
         self.update_status("Loading %s..." % filename, run=[self._load_text, filename])

@@ -26,12 +26,7 @@ class Application(QtGui.QApplication):
         args = list(self.arguments())[1:]
         if args:
             arg = unicode(args[0])
-            self.mainwindow.input_url.setText(arg)
-
-            loader = self.mainwindow.open_file
-            if re.match(u'^[a-z]+[:]', arg):
-                loader = self.mainwindow.open_url
-            loader(arg)
+            self.mainwindow.openPath(arg)
 
 
 if __name__ == "__main__": 
