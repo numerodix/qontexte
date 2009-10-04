@@ -47,6 +47,8 @@ class MainWindow(QtGui.QMainWindow):
                 target.addAction(action)
 
     def init_gui(self):
+        self.setWindowTitle("Qontexte")
+
         action_close = self.create_action("Quit", slot=self.close, shortcut='Ctrl+Q')
         action_openlocal = self.create_action("Open file", slot=self.openLocal, shortcut='Ctrl+O')
 
