@@ -1,0 +1,1 @@
+class EventCollisionError(Exception): pass
