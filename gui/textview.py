@@ -8,7 +8,10 @@ class TextView(QtGui.QGroupBox):
         super(TextView, self).__init__(parent)
 
         self.textwidget = None
+
         self.text = None
+        self.encoding = None
+        self.path = None
 
         self.widget_init()
 
@@ -46,9 +49,15 @@ class TextView(QtGui.QGroupBox):
     def get_encodingcombo_widget(self):
         return self.encodingselect.get_encodingcombo_widget()
 
-    def set_text(self, text):
+    def set_text(self, text, encoding, path):
         self.text = text
+        self.encoding = encoding
+        self.path = path
         self.textwidget.setPlainText(self.text.get_txt_u())
+        self.encodingselect.set_encoding(encoding)
+
+    def get_file_path(self):
+        return self.path
 
     def clear_formatting(self):
         # reset all formatting
@@ -133,6 +142,13 @@ class EncodingSelect(QtGui.QWidget):
 
     def get_encodingcombo_widget(self):
         return self.encodingcombo
+
+    def set_encoding(self, encoding):
+        lang = self.byenc[encoding]
+        langid = self.langs.index(lang)
+        self.countrycombo.setCurrentIndex(langid)
+        encid = self.encs.index(encoding)
+        self.encodingcombo.setCurrentIndex(encid)
 
     def get_selected_encoding(self):
         index = self.encodingcombo.currentIndex()

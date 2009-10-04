@@ -155,19 +155,20 @@ class MainWindow(QtGui.QMainWindow):
         self.wordhitview.clear_words()
         # set text in textview
         self.text = word.Text()
-        self.text.set_from_file(filename)
-        self.textview.set_text(self.text)
+        encoding = self.text.set_from_file(filename)
+        self.textview.set_text(self.text, encoding, filename)
 
     def _load_url(self, url_u):
         # word hit list obsolete
         self.wordhitview.clear_words()
         # set text in textview
         ret = fetcher.fetch(url_u)
-        txt_u = decoder.detect_decode(ret.txt_byte)
+        encoding = decoder.detect_encoding(ret.txt_byte)
+        txt_u = decoder.decode(ret.txt_byte, encoding)
         txt_u = unmarkup.unwiki(txt_u) or unmarkup.unhtml(txt_u)
         self.text = word.Text()
         self.text.set_from_txt_u(txt_u)
-        self.textview.set_text(self.text)
+        self.textview.set_text(self.text, encoding, url_u)
 
     def _index_text(self):
         # index text
@@ -232,7 +233,8 @@ class MainWindow(QtGui.QMainWindow):
                     break
 
     def handle_encoding_changed_in_textview(self, *args):
-        print self.textview.get_selected_encoding()
-#        encoding = self.textview.get_selected_encoding()
-#        filepath = self.textview.get_file_path()
-
+#        print self.textview.get_selected_encoding()
+        encoding = self.textview.get_selected_encoding()
+        filepath = self.textview.get_file_path()
+#        print encoding, filepath
+#        self.openPath(filepath, encoding)

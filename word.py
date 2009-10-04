@@ -82,6 +82,7 @@ class Text(object):
         encoding = decoder.detect_encoding(filename=filename)
         txt_u = codecs.open(filename, 'rU', encoding).read()
         self.txt_u = txt_u
+        return encoding
 
     def do_index(self, delim=None, linebreak=None, invalid=None, punctuation=None):
         if not delim: delim=self.delimiter
