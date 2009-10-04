@@ -175,6 +175,8 @@ class EncodingSelect(QtGui.QWidget):
 
         # set lock so that the signal on changed selection index for encoding
         # combo gets dropped
+
+        # Todo: inhibit this signal instead of using a lock
         self.lock = True
         self.encodingcombo.clear()
         self.encodingcombo.insertItems(0, self.encs)
