@@ -43,6 +43,9 @@ class TextView(QtGui.QGroupBox):
     def get_textview_widget(self):
         return self.textwidget
 
+    def get_encodingcombo_widget(self):
+        return self.encodingselect.get_encodingcombo_widget()
+
     def set_text(self, text):
         self.text = text
         self.textwidget.setPlainText(self.text.get_txt_u())
@@ -91,6 +94,9 @@ class TextView(QtGui.QGroupBox):
         pos = cursor.selectionStart()
         return self.text.find_word_near_pos(pos)
 
+    def get_selected_encoding(self):
+        return self.encodingselect.get_selected_encoding()
+
 class EncodingSelect(QtGui.QWidget):
     def __init__(self, parent=None):
         super(EncodingSelect, self).__init__(parent)
@@ -99,6 +105,7 @@ class EncodingSelect(QtGui.QWidget):
         self.byenc = {}
 
         self.langs = []
+        self.encs = []
 
         self.widget_init()
 
@@ -116,9 +123,6 @@ class EncodingSelect(QtGui.QWidget):
         self.connect(self.countrycombo,
                      QtCore.SIGNAL("currentIndexChanged(int)"),
                      self.handle_language_changed)
-        self.connect(self.encodingcombo,
-                     QtCore.SIGNAL("currentIndexChanged(int)"),
-                     self.handle_encoding_changed)
 
         # populate
         self.bylang, self.byenc = encoding.generate_encoding_table()
@@ -127,16 +131,19 @@ class EncodingSelect(QtGui.QWidget):
 
         self.countrycombo.insertItems(0, self.langs)
 
+    def get_encodingcombo_widget(self):
+        return self.encodingcombo
+
+    def get_selected_encoding(self):
+        index = self.encodingcombo.currentIndex()
+        return self.encs[index]
+
     def handle_language_changed(self):
         index = self.countrycombo.currentIndex()
         lang = self.langs[index]
 
-        encs = self.bylang[lang]
-        encs = sorted(encs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
+        self.encs = self.bylang[lang]
+        self.encs = sorted(self.encs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
 
         self.encodingcombo.clear()
-        self.encodingcombo.insertItems(0, encs)
-
-    def handle_encoding_changed(self):
-        pass
-        # emit signal
+        self.encodingcombo.insertItems(0, self.encs)

@@ -83,6 +83,10 @@ class MainWindow(QtGui.QMainWindow):
         self.connect(self.textview.get_textview_widget(),
                      QtCore.SIGNAL("copyAvailable(bool)"),
                      self.handle_selection_changed_in_textview)
+        # encoding changed in textview
+        self.connect(self.textview.get_encodingcombo_widget(),
+                     QtCore.SIGNAL("currentIndexChanged(int)"),
+                     self.handle_encoding_changed_in_textview)
 
         # left side splitter
         splitter_left = QtGui.QSplitter(QtCore.Qt.Vertical)
@@ -218,3 +222,9 @@ class MainWindow(QtGui.QMainWindow):
                     self.wordhitview.select_row(row)
                     self.handle_wordhit_item_selected()
                     break
+
+    def handle_encoding_changed_in_textview(self, *args):
+        print self.textview.get_selected_encoding()
+#        encoding = self.textview.get_selected_encoding()
+#        filepath = self.textview.get_file_path()
+
