@@ -114,6 +114,16 @@ def generate_encoding_table():
             if item: languages.append(item)
 
         for lang in languages:
+            if lang == 'West Europe': # collapse these two
+                lang = 'Western Europe'
+            if lang == 'Byelorussian': # less wacky
+                lang = 'Belarusian'
+            if lang == 'Traditional Chinese': # sorting
+                lang = 'Chinese Traditional'
+            if lang == 'Simplified Chinese':
+                lang = 'Chinese Simplified'
+            if lang == 'Unified Chinese':
+                lang = 'Chinese Unified'
             if lang not in bylang:
                 bylang[lang] = []
             bylang[lang].append(canonical)
@@ -122,7 +132,9 @@ def generate_encoding_table():
 
     for lang in bylang.keys():
         for enc in bylang[lang]:
-            byenc[enc] = lang
+            if not enc in byenc:
+                byenc[enc] = []
+            byenc[enc].append(lang)
 
     return bylang, byenc
 

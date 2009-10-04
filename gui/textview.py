@@ -2,6 +2,7 @@ from PyQt4 import QtCore
 from PyQt4 import QtGui
 
 import encoding
+import exceptions
 
 class TextView(QtGui.QGroupBox):
     def __init__(self, parent=None):
@@ -116,6 +117,8 @@ class EncodingSelect(QtGui.QWidget):
         self.langs = []
         self.encs = []
 
+        self.lock = None
+
         self.widget_init()
 
     def widget_init(self):
@@ -144,13 +147,22 @@ class EncodingSelect(QtGui.QWidget):
         return self.encodingcombo
 
     def set_encoding(self, encoding):
-        lang = self.byenc[encoding]
-        langid = self.langs.index(lang)
-        self.countrycombo.setCurrentIndex(langid)
+        # find what language is selected
+        index = self.countrycombo.currentIndex()
+        lang = self.langs[index]
+
+        # if this encoding doesn't apply to the current language, find a
+        # language that matches
+        if lang not in self.byenc[encoding]:
+            langid = self.langs.index(lang)
+            self.countrycombo.setCurrentIndex(langid)
+
         encid = self.encs.index(encoding)
         self.encodingcombo.setCurrentIndex(encid)
 
     def get_selected_encoding(self):
+        if self.lock:
+            raise exceptions.EventCollisionError()
         index = self.encodingcombo.currentIndex()
         return self.encs[index]
 
@@ -161,5 +173,9 @@ class EncodingSelect(QtGui.QWidget):
         self.encs = self.bylang[lang]
         self.encs = sorted(self.encs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
 
+        # set lock so that the signal on changed selection index for encoding
+        # combo gets dropped
+        self.lock = True
         self.encodingcombo.clear()
         self.encodingcombo.insertItems(0, self.encs)
+        self.lock = False

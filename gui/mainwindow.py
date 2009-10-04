@@ -13,6 +13,7 @@ import gui.wordlistview
 import model.wordlistmodel
 
 import decoder
+import exceptions
 import fetcher
 import unmarkup
 import word
@@ -131,39 +132,42 @@ class MainWindow(QtGui.QMainWindow):
             self.input_url.setText(filename)
             self.open_file(filename)
 
-    def openPath(self, path=None):
+    def openPath(self, path=None, encoding=None):
         if not path:
             path = unicode(self.input_url.text())
         self.input_url.setText(path)
         loader = self.open_file
         if re.match(u'^[a-z]+[:]', path):
             loader = self.open_url
-        loader(path)
+        loader(path, encoding=encoding)
 
-    def open_file(self, filename):
-        self.update_status("Loading %s..." % filename, run=[self._load_text, filename])
+    def open_file(self, filename, encoding=None):
+        self.update_status("Loading %s..." % filename, run=[self._load_text,
+                                                            filename, encoding])
         self.update_status("Indexing document...", run=self._index_text)
         self.update_status("Building word index...", run=self._render_wordlist)
 
-    def open_url(self, url_u=None):
-        self.update_status("Loading %s..." % url_u, run=[self._load_url, url_u])
+    def open_url(self, url_u=None, encoding=None):
+        self.update_status("Loading %s..." % url_u, run=[self._load_url, url_u,
+                                                        encoding])
         self.update_status("Indexing document...", run=self._index_text)
         self.update_status("Building word index...", run=self._render_wordlist)
 
-    def _load_text(self, filename):
+    def _load_text(self, filename, encoding=None):
         # word hit list obsolete
         self.wordhitview.clear_words()
         # set text in textview
         self.text = word.Text()
-        encoding = self.text.set_from_file(filename)
+        encoding = self.text.set_from_file(filename, encoding=encoding)
         self.textview.set_text(self.text, encoding, filename)
 
-    def _load_url(self, url_u):
+    def _load_url(self, url_u, encoding=None):
         # word hit list obsolete
         self.wordhitview.clear_words()
         # set text in textview
         ret = fetcher.fetch(url_u)
-        encoding = decoder.detect_encoding(ret.txt_byte)
+        if not encoding:
+            encoding = decoder.detect_encoding(ret.txt_byte)
         txt_u = decoder.decode(ret.txt_byte, encoding)
         txt_u = unmarkup.unwiki(txt_u) or unmarkup.unhtml(txt_u)
         self.text = word.Text()
@@ -233,8 +237,13 @@ class MainWindow(QtGui.QMainWindow):
                     break
 
     def handle_encoding_changed_in_textview(self, *args):
-#        print self.textview.get_selected_encoding()
-        encoding = self.textview.get_selected_encoding()
-        filepath = self.textview.get_file_path()
-#        print encoding, filepath
-#        self.openPath(filepath, encoding)
+        try:
+            encoding = self.textview.get_selected_encoding()
+            filepath = self.textview.get_file_path()
+            try:
+                self.openPath(filepath, encoding)
+                self.update_status("Decoded with encoding %s" % encoding)
+            except:
+                self.update_status("Failed to decode with encoding %s" % encoding)
+        except exceptions.EventCollisionError:
+            pass

@@ -78,8 +78,9 @@ class Text(object):
             txt_u = unmarkup.unhtml(txt_u)
         self.txt_u = txt_u
 
-    def set_from_file(self, filename):
-        encoding = decoder.detect_encoding(filename=filename)
+    def set_from_file(self, filename, encoding=None):
+        if not encoding:
+            encoding = decoder.detect_encoding(filename=filename)
         txt_u = codecs.open(filename, 'rU', encoding).read()
         self.txt_u = txt_u
         return encoding
