@@ -32,7 +32,7 @@ class WordListView(QtGui.QGroupBox):
         verticalheader = self.tablewidget.verticalHeader()
         verticalheader.setVisible(False)
 
-    def get_active_widget(self):
+    def get_wordlist_widget(self):
         return self.tablewidget
 
     def set_display_settings(self): 

@@ -40,7 +40,7 @@ class TextView(QtGui.QGroupBox):
         self.color_highlight = (161, 255, 211)
         self.color_superhighlight = (247, 181, 148)
 
-    def get_active_widget(self):
+    def get_textview_widget(self):
         return self.textwidget
 
     def set_text(self, text):

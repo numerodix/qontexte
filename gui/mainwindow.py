@@ -72,15 +72,15 @@ class MainWindow(QtGui.QMainWindow):
 
         # events
         # item selection in word list
-        self.connect(self.wordlistview.get_active_widget(),
+        self.connect(self.wordlistview.get_wordlist_widget(),
                      QtCore.SIGNAL("activated(QModelIndex)"),
                      self.handle_wordlist_item_selected)
         # item selection in wordhit list
-        self.connect(self.wordhitview.get_active_widget(),
+        self.connect(self.wordhitview.get_wordhit_widget(),
                      QtCore.SIGNAL("activated(QModelIndex)"),
                      self.handle_wordhit_item_selected)
         # selection changed in textview
-        self.connect(self.textview.get_active_widget(),
+        self.connect(self.textview.get_textview_widget(),
                      QtCore.SIGNAL("copyAvailable(bool)"),
                      self.handle_selection_changed_in_textview)
 
