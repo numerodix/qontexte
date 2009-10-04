@@ -154,6 +154,7 @@ class EncodingSelect(QtGui.QWidget):
         # if this encoding doesn't apply to the current language, find a
         # language that matches
         if lang not in self.byenc[encoding]:
+            lang = self.byenc[encoding][0] # pick a language from the list
             langid = self.langs.index(lang)
             self.countrycombo.setCurrentIndex(langid)
 
