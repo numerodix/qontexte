@@ -61,8 +61,8 @@ class MainWindow(QtGui.QMainWindow):
         toolbar.addWidget(self.input_url)
 
         self.connect(self.input_url.get_active_widget(),
-                     QtCore.SIGNAL('returnPressed()'), self.open_url)
-        
+                     QtCore.SIGNAL('returnPressed()'), self.openPath)
+
         self.statusbar = self.statusBar()
 
         # init widgets
@@ -131,7 +131,9 @@ class MainWindow(QtGui.QMainWindow):
             self.input_url.setText(filename)
             self.open_file(filename)
 
-    def openPath(self, path):
+    def openPath(self, path=None):
+        if not path:
+            path = unicode(self.input_url.text())
         self.input_url.setText(path)
         loader = self.open_file
         if re.match(u'^[a-z]+[:]', path):
@@ -144,8 +146,6 @@ class MainWindow(QtGui.QMainWindow):
         self.update_status("Building word index...", run=self._render_wordlist)
 
     def open_url(self, url_u=None):
-        if not url_u:
-            url_u = unicode(self.input_url.text())
         self.update_status("Loading %s..." % url_u, run=[self._load_url, url_u])
         self.update_status("Indexing document...", run=self._index_text)
         self.update_status("Building word index...", run=self._render_wordlist)
