@@ -117,7 +117,8 @@ class EncodingSelect(QtGui.QWidget):
         self.langs = []
         self.encs = []
 
-        self.lock = None
+        self.lock_country = None
+        self.lock_encoding = None
 
         self.widget_init()
 
@@ -147,38 +148,46 @@ class EncodingSelect(QtGui.QWidget):
         return self.encodingcombo
 
     def set_encoding(self, encoding):
-        # find what language is selected
-        index = self.countrycombo.currentIndex()
-        lang = self.langs[index]
+        try:
+            self.lock_encoding = True
+            # find what language is selected
+            index = self.countrycombo.currentIndex()
+            lang = self.langs[index]
 
-        # if this encoding doesn't apply to the current language, find a
-        # language that matches
-        if lang not in self.byenc[encoding]:
-            lang = self.byenc[encoding][0] # pick a language from the list
-            langid = self.langs.index(lang)
-            self.countrycombo.setCurrentIndex(langid)
+            # if this encoding doesn't apply to the current language, find a
+            # language that matches
+            if lang not in self.byenc[encoding]:
+                lang = self.byenc[encoding][0] # pick a language from the list
+                langid = self.langs.index(lang)
+                self.countrycombo.setCurrentIndex(langid)
 
-        encid = self.encs.index(encoding)
-        self.encodingcombo.setCurrentIndex(encid)
+            encid = self.encs.index(encoding)
+            self.encodingcombo.setCurrentIndex(encid)
+        finally:
+            self.lock_encoding = False
 
     def get_selected_encoding(self):
-        if self.lock:
+        if self.lock_country or self.lock_encoding:
             raise exceptions.EventCollisionError()
         index = self.encodingcombo.currentIndex()
         return self.encs[index]
 
     def handle_language_changed(self):
-        index = self.countrycombo.currentIndex()
-        lang = self.langs[index]
+        if self.lock_country:
+            return
+        try:
+            self.lock_country = True
+            index = self.countrycombo.currentIndex()
+            lang = self.langs[index]
 
-        self.encs = self.bylang[lang]
-        self.encs = sorted(self.encs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
+            self.encs = self.bylang[lang]
+            self.encs = sorted(self.encs, cmp=lambda x,y: cmp(x.lower(), y.lower()))
 
-        # set lock so that the signal on changed selection index for encoding
-        # combo gets dropped
+            # set lock so that the signal on changed selection index for encoding
+            # combo gets dropped
 
-        # Todo: inhibit this signal instead of using a lock
-        self.lock = True
-        self.encodingcombo.clear()
-        self.encodingcombo.insertItems(0, self.encs)
-        self.lock = False
+            # Todo: inhibit this signal instead of using a lock
+            self.encodingcombo.clear()
+            self.encodingcombo.insertItems(0, self.encs)
+        finally:
+            self.lock_country = False
