@@ -1,0 +1,177 @@
+Il mouse è un dispositivo in grado di inviare un input ad un computer in modo tale che ad un suo movimento ne corrisponda uno analogo di un indicatore sullo schermo detto puntatore. È inoltre dotato di uno o più tasti ai quali possono essere assegnate varie funzioni.
+
+Esistono due possibili spiegazioni riguardo l'etimologia del nome. La più comune è la parola mouse (ovvero topo) in relazione alla somiglianza del dispositivo con il roditore. La seconda spiega la parola come un acronimo che, a seconda delle versioni, può essere Manually Operated User Selection Equipment oppure Machine Operator's Unique Spotting Equipment.
+
+Funzionamento
+Le tecnologie utilizzate nei mouse hanno essenzialmente tre finalità:
+# rilevare il movimento del mouse
+# inviare il dato al dispositivo a cui il mouse è collegato
+# permettere l'attivazione di funzioni
+
+Rilevazione del movimento
+Mouse meccanici
+
+Nel tipo di mouse più comune, detto informalmente a rotella, vi è:
+*Una sfera (numero 1 sull'immagine) solitamente in metallo rivestita di gomma, che muove le ruote forate (ruote foniche) dell'encoder.
+*Due encoder, caratterizzati da:
+**Due ruote forate (numero 2 e 3 sull'immagine) disposte ortogonalmente tra loro.
+**Quattro sensori, (due per encoder, numero 5 sull'immagine) per misurare la velocità di rotazione delle ruote foniche.
+**Due fonti luminose (numero 4 sull'immagine) infrarossi.
+*Trasmissioni al computer.
+
+I mouse di questo tipo, pur avendo il pregio di essere economici, hanno lo svantaggio di sporcarsi molto facilmente con l'utilizzo: la polvere, infatti, tende a incastrarsi nelle rotelle che rilevano il movimento, rendendone l'utilizzo problematico e impreciso.
+
+Per pulire un mouse meccanico è sufficiente sfilare la sfera, solitamente sbloccando una ghiera, e ripulire le rotelle interne con una pinzetta o un bastoncino cotonato leggermente imbevuto di alcol. La sfera si può lavare con acqua e sapone.
+
+Mouse ottici
+
+I primi mouse ottici utilizzavano un LED e un trasduttore ottico-elettrico (fotodiodo) per rilevare il movimento relativo alla superficie d'appoggio. Questi mouse potevano essere utilizzati solo su una speciale superficie metallica con una rete di sottili linee blu e grigie.
+
+Successivamente i mouse ottici poterono incorporare chip per l'elaborazione dell'immagine, in modo da poter essere utilizzati su un maggior numero di superfici comuni. Questo permise il diffondersi di massa del dispositivo.
+
+Rispetto ai mouse tradizionali la struttura interna del mouse è quindi molto semplificata, infatti al posto della pallina, delle ghiere e dei sensori che captano i movimenti lungo i due assi di movimento, ci sono solamente un chip, un sensore ottico e un LED di illuminazione.
+Il processore di un mouse ottico è naturalmente molto più complesso di quello presente in un mouse tradizionale, a causa della maggiore elaborazione necessaria. Comunque un dispositivo a stato solido, per quanto complesso, è in generale molto più affidabile di un organo meccanico. Inoltre la totale mancanza di aperture dove si possono infiltrare sporco e polvere permette una vita media del mouse di gran lunga superiore a quelli tradizionali, senza alcun bisogno di manutenzione.
+
+Un altro vantaggio dei mouse ottici è la possibilità di essere utilizzati su superfici lisce, su cui la sfera di un mouse tradizionale slitterebbe. Per sua natura il mouse ottico è infatti in grado di funzionare con qualunque inclinazione, anche capovolto. Per contro non è in grado di funzionare su un vetro o su superfici prive di almeno una minima trama ottica.
+
+L'unico problema può essere dato dall'utilizzo su una superficie riflettente. Poiché il LED illumina il piano d'appoggio e il sensore acquisisce l'immagine, qualsiasi materiale riflettente inganna l'acquisizione dell'immagine e quindi la rilevazione precisa del movimento.
+
+I mouse laser, invece, sono essenzialmente mouse ottici che utilizzano un laser al posto di un LED per l'illuminazione del piano d'appoggio. Come conseguenza si ha una maggiore risoluzione nell'acquisizione dell'immagine, che si traduce in migliore precisione e sensibilità di movimento.
+
+Guardare direttamente il laser di un mouse può causare danni alla retina. Durante il normale utilizzo il laser o il LED sono puntati verso la superficie d'appoggio e coperti dal mouse stesso, quindi i rischi sono nulli e legati esclusivamente a un utilizzo improprio.
+
+Connettività e protocolli di comunicazione
+
+Mouse con il cavo
+Il collegamento via cavo esiste fin dai primi mouse e sopravvive ancora oggi perché semplice, economico ed esente da rilevanti svantaggi. Il cavo inizia dalla parte anteriore del mouse e termina con un connettore per l'inserimento nel dispositivo.
+
+Mouse tradizionali avevano un connettore seriale mentre i mouse Apple avevano un connettore ADB, entrambe tipologie non più utilizzate. Attualmente i connettori sono di tipo PS/2 oppure USB.
+
+Il protocollo PS/2
+Il nome del connettore din a 6 pin deriva dalla serie di computer IBM Personal System/2, introdotta da IBM nel 1987. Lo stesso connettore viene utilizzato anche nelle tastiere PS/2.
+
+Per ogni evento di movimento, pressione o rilascio di un pulsante, un mouse PS/2 invia sulla sua porta seriale bidirezionale una sequenza di tre byte con il seguente formato:
+
+* XS e YS indicano il segno rispettivamente del valore del movimento dell'asse X e dell'asse Y
+* XV e YV servono per indicare un overflow nei rispettivi dati di movimento
+* MB, LB, RB sono gli indicatori di stato dei pulsanti centrale, sinistro e destro. Se impostati a 1 indicano che il rispettivo pulsante è premuto.
+
+Un mouse PS/2 è inoltre in grado di comprendere diversi comandi per l'inizializzazione e il controllo, per cambiare modalità di funzionamento e per cambiare la risoluzione dei vettori di movimento.
+
+Mouse senza filo
+
+Un mouse senza filo (wireless) è collegato al dispositivo tramite un piccolo ricevitore, con il quale comunica attraverso onde radio, raggi infrarossi o via Bluetooth.
+
+La mancanza del cavo rende necessarie alcune aggiunte al corredo di un mouse tradizionale:
+* batterie d'alimentazione
+* ricevitore, ovvero un dispositivo collegato via cavo al computer che riceve i segnali del mouse
+* ricaricartore (5, opzionale) il ricevitore può fungere anche da base di ricarica richedendo un ulteriore cavo di alimentazione
+
+La mancanza di un cavo e quindi di un legame fisico con il computer è un indiscutibile vantaggio in caso di ambienti di lavoro affollati o in caso di utilizzo con computer portatili.
+
+Tuttavia esistono alcuni contro, come la necessità di alimentare separatamente la base di ricarica, possibili interferenze con il segnale radio e l'eventualità che l'utente si dimentichi di appoggiare il mouse sulla base di ricarica a computer spento ottenendo così un mouse non funzionante fino a ricarica effettuata. Per ovviare a questo inconveniente alcuni mouse dotati di pile sostituibili sono provvisti di un interruttore sul lato inferiore per poterli spegnere durante l'inattività.
+
+Lo scarso peso/frequenza degli svantaggi ha permesso una buona diffusione dei mouse senza filo.
+
+Pulsanti
+
+I pulsanti sui mouse sono utilizzati per attivare determinate funzioni, alcune delle quali sono oramai diventate parte di uno standard de facto, come la singola pressione (clic) per la selezione o due rapide pressioni (doppio clic) per l'esecuzione. Più in generale la pressione di un pulsante del mouse permette di interagire con l'oggetto software dell'interfaccia grafica indicato dal puntatore sullo schermo. Il tipo di interazione dipende sia dal pulsante premuto che dal software utilizzato.
+
+Generalmente i software e i sistemi operativi permettono la piena configurazione e personalizzazione dei tasti.
+
+Al contrario di ciò che è successo alle tecnologie per la rilevazione del movimento, i pulsanti del mouse non hanno subìto particolari innovazioni, a meno di qualche cambiamento nella forma per motivi di design, Ergonomia e nel numero dei pulsanti.
+
+Prendendo come riferimento l'immagine del mouse a fianco, i vari pulsanti sono i basilari pulsante sinistro (1) e destro (2), la rotella di scorrimento (3) che è possibile premere come pulsante centrale ed eventuali pulsanti laterali (4) attivabili con il pollice o l'anulare.
+
+Mentre i pulsanti sinistro, destro e centrale sono presenti fin dai primi mouse, la rotella di scorrimento ha avuto ampia diffusione di pari passo con il diffondersi di Internet e del World Wide Web perché permette di scorrere i contenuti dei siti con più facilità rispetto all'uso della classica barra di scorrimento delle finestre.
+
+Utilizzi comuni
+Nonostante sia possibile personalizzare il comportamento del mouse, con il tempo si è creata un'implicita semantica gestuale associata agli utilizzi più comuni. Gli sviluppatori di software in generale cercano di rispettare questi significati per permettere all'utente un utilizzo coerente e intuitivo del software attraverso il mouse.
+
+Clic
+Una breve pressione di un pulsante con immediato rilascio è detta clic o fare clic o, in inglese, click.
+
+Un clic con il tasto sinistro (nei mouse a due pulsanti) serve tipicamente a selezionare un oggetto come un'icona o un comando da un menu, mentre un clic con il tasto destro richiama un menu contestuale.
+
+Un clic con il tasto centrale, o l'equivalente pressione della rotella di scorrimento, non ha un significato comune ben definito, ma dipende dal contesto e dall'applicativo. In Mozilla Firefox e in Internet Explorer per esempio, cliccare con mouse3 su un collegamento permette di aprirlo direttamente in una nuova scheda, mentre cliccando con il tasto centrale in una qualunque altra parte della pagina lega lo scorrimento della pagina direttamente al movimento del mouse fino a un nuovo clic.
+
+I tasti addizionali a volte sono utilizzati nella consultazione di ipertesti replicando il comportamento dei pulsanti Avanti e Indietro dell'interfaccia grafica, ma in linea di massima la loro configurazione è lasciata alle necessità e al gusto dell'utente.
+
+Doppio clic
+Due clic in rapida successione a mouse fermo sono detti doppio clic. Nonostante sia possibile eseguire un doppio clic con qualsiasi pulsante del mouse, l'utilizzo preponderante, se non esclusivo, riguarda il tasto sinistro. Nell'ambito dei sistemi Microsoft Windows esiste solo il doppio clic con il tasto di sinistra.
+
+Nei programmi applicativi il doppio clic assume significati diversi, ma nei sistemi operativi dotati di interfaccia grafica a icone il doppio clic è da sempre e sinonimo di esecuzione dell'azione predefinita associata all'oggetto, ovvero al punto sensibile sul quale il doppio clic viene eseguito. Nell'ambito dei sistemi Microsoft Windows il significato implicito principale è l'esecuzione del comando Apri (Open), tuttavia eseguendo il doppio clic sull'icona in alto a sinistra in corrispondenza della barra del titolo della finestra il significato implicito, ovvero l'azione predefinita associata al doppio clic, è Chiudi (Close). Tale significato predefinito può essere modificato ovvero personalizzato, per esempio, per associare il doppio clic all'esecuzione del comando Stampa (Print).
+In Microsoft Windows e nei sistemi operativi Apple già dal System 6 eseguire un doppio clic su un'icona poteva avere i seguenti significati:
+* "esegui il programma associato all'icona"
+* "apri il documento associato all'icona eseguendo il programma associato al tipo di file"
+* "apri la directory associata all'icona"
+Tutti e tre adattano il concetto di esecuzione all'oggetto coinvolto.
+
+L'associazione doppio clic-esecuzione non è però universale: KDE per esempio esegue con un singolo clic e per selezionare un'icona è necessaria un'operazione di trascinamento.
+
+Non tutti gli elementi di un'interfaccia grafica sono suscettibili a un doppio clic. I menu e i pulsanti tipicamente rispondono ai singoli clic e interpretano un doppio clic come due clic distinti.
+
+Triplo clic
+È utilizzato in alcuni elabratori di testo (ad esempio Microsoft Word) per selezionare l'intero paragrafo.
+
+Trascinamento e drag & drop
+
+Premere un pulsante e muovere il mouse tenendo il pulsante premuto è detto trascinare. Se non è esplicitamente specificato quale sia il pulsante in questione, si intende quello sinistro.
+
+Il significato comune dell'azione è la selezione multipla di oggetti:
+* in un sistema operativo con interfaccia grafica si possono selezionare più icone racchiudendole nel rettangolo avente come diagonale il segmento che va dal punto in cui si è premuto inizialmente il pulsante al punto in cui si trova attualmente il cursore
+* in un elaboratore testi si può trascinare da un punto del testo a un altro, selezionando tutti i caratteri compresi
+* trascinando in un programma di computer grafica si può selezionare parte dell'immagine, disegnare o deformare una figura, ridimensionare un livello ecc.
+
+Il drag & drop (letteralmente trascina e lascia) è il trascinamento applicato a un oggetto, spesso utilizzato per un'operazione di spostamento. Effettuare un drag & drop è simile all'afferrare qualcosa, trasportarlo e poi appoggiarlo. Applicato alle interfacce grafiche viene usato per spostare o copiare file e directory dentro un'altra directory o per spostare finestre trascinandole per la barra del titolo. L'utilizzo negli applicativi è molto vario, ma comunque coerente con l'idea di base di movimento.
+
+Mouse gestures
+Alcuni programmi permettono un utilizzo più avanzato del mouse con le cosiddette mouse gestures ovvero una serie di movimenti e di pressioni che vengono interpretati come comandi di vario genere, permettendo teoricamente un'infinita gamma di comandi via mouse.
+
+La prima gesture fu introdotta dalla Apple e fu il trascinamento (drag), che ebbe così successo che oggi è uno dei requisiti base di un'interfaccia grafica. Nessun'altra gesture ha mai avuto la stessa sorte e sono rimaste relegate nei confini dei rispettivi applicativi di appartenenza.
+
+Programmi che utilizzano gesture sono i browser Opera e Firefox, quest'ultimo mediante un'estensione, mentre programmi come Sensiva e StrokeIt (per Microsoft Windows) permettono di utilizzare le gesture in ogni applicazione. Per quanto riguarda l'ambiente *nix, KDE supporta le gesture dalla versione 3.2.
+
+Alcuni videogiochi che fanno uso di gesture sono Black & White, Myth e Darwinia.
+
+Storia
+
+L'ideatore di questo supporto tecnologico si chiama Douglas Engelbart, nato nel 1925, che con mille problemi e difficoltà assieme a diciassette colleghi creò l'Augmentation Research Center. Nacque così il progetto dell'NLS: computer come estensioni delle capacità cognitive e di comunicare.
+
+Il 21 giugno 1967 ottenne il brevetto per il suo indicatore di posizione X-Y per display: il mouse.
+
+Durante la Joint Computer Conference al Convention Center di San Francisco, nel 1968, si svolse la dimostrazione pubblica del progetto al cospetto di oltre mille esperti. È possibile osservare le immagini dell'evento che pose le basi di tutto quello che è l'utilizzo odierno del pc.
+
+L'idea di Engelbart era quella di migliorare il modo di lavorare delle persone. Utilizzare ipertesti, wordprocessor, tastiera e mouse e finestre, comunicazione a distanza, telelavoro, etc. Se oggi si utilizzano il mouse e l'ipertesto, lo si deve a Douglas.
+
+Alcuni anni dopo Steve Jobs (della Apple Computer), vedendo una dimostrazione alla Xerox dell'uso del mouse, ebbe l'idea che verrà sviluppata poi nel primo computer con mouse, Lisa, e dopo sul Macintosh, ed ancor oggi in tutti i pc.
+
+Ancora nel 2002, a 75 anni, la creatività e l'entusiasmo di Engelbart, dopo quella scoperta, non si sono fermati. Nelle sue parole, di una modernità sconcertante, c'è il suo successivo progetto.
+
+:"Dobbiamo creare un ambiente evolutivo nel quale i paesi e le istituzioni possano crescere; in questo modo potremo risolvere i problemi a mano a mano che si presentano, unire attorno all'idea di come l'intelligenza collettiva possa trovare le soluzioni ai problemi del pianeta. Mettere insieme!"(Bootstrapping, in lingua inglese).
+
+Così nasce il Bootstrap Institute ed il suo progetto.
+
+Note
+
+Voci correlate
+*Dispositivo di puntamento
+*Tastiera
+*Tavoletta grafica
+*GUI
+*Hardware
+*Storia del Personal Computer
+*Touchpad
+*Trackball
+*Trackpoint
+
+Altri progetti
+
+Collegamenti esterni
+* Funzionamento dei mouse a lettura ottica
+* Primo Mouse progettato da Douglas Engelbart
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 21:22:43 from:
+  http://it.wikipedia.org/wiki/Mouse
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

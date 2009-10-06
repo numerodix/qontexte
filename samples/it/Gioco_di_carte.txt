@@ -1,0 +1,197 @@
+Un gioco di carte è un qualunque gioco che necessita l'uso di carte da gioco, sia tradizionali che specifiche per il gioco.
+
+Posizionamento dei giocatori
+I giocatori devono disporsi intorno a una superficie orizzontale, normalmente un tavolo, su cui poter posare le carte. I giocatori, rivolti verso l'interno della superficie, devono inoltre disporsi in modo equidistante, così che ognuno non possa vedere le carte in mano agli altri.
+
+Il mazzo
+Un gioco di carte può essere giocato con un mazzo di carte qualunque, o con un mazzo specifico per quel gioco (se le regole lo richiedono).
+Il mazzo consiste in un numero fisso di pezzi di cartoncino stampato detti carte. Le carte in un mazzo sono identiche in forma e dimensione.
+Ogni carta ha due lati, la faccia e il dorso. Due carte di uno stesso mazzo hanno il dorso identico. Le facce delle carte di un mazzo possono essere ognuna unica o possono includere duplicati, a seconda del gioco. In ogni caso, ogni carta è facilmente identificabile dalla sua faccia.
+
+L'insieme di carte che costituisce un mazzo è conosciuto a tutti i giocatori che lo utilizzano. Esistono inoltre giochi di carte che richiedono mazzi multipli.
+
+Distribuzione delle carte
+La distribuzione delle carte può essere fatta nel senso dell'orologio o in senso contrario. A meno che le regole di un certo gioco non indichino il contrario, di norma la distribuzione avviene:
+* nel senso dell'orologio per giochi provenienti dal Nord America, Europa Occidentale e Settentrionale e dalla Russia.
+* in senso contrario all'orologio per Europa Meridionale e Orientale e dall'Asia, così come per i giochi svizzeri e per tutti i giochi di Tarocchi.
+
+Viene scelto un giocatore (il mazziere) incaricato di distribuire le carte. Questa persona prende tutte le carte del mazzo, le raggruppa così che siano orientate nello stesso senso (la faccia rivolta verso il basso) e le mescola. Esistono diverse tecniche per mescolare le carte, tutti mirate a metterle in ordine casuale. Mentre mescola le carte, il mazziere le tiene in modo che né lui, né gli altri giocatori possano vederne le facce, ma solo i dorsi.
+
+Le carte vanno mescolate fino a che la probabilità che una carta sia rimasta vicina a quelle a cui era vicina inizialmente sia minima. Accade spesso, infatti, che molti giocatori non mescolino a sufficienza le carte per raggiungere questo obiettivo.
+
+Il mazziere offre poi le carte a un altro giocatore per fargli tagliare il mazzo (detto anche alzare il mazzo): il giocatore incaricato di tagliare il mazzo è quello alla destra del mazziere, se le carte sono distribuite in senso orario, viceversa, quello alla sua sinistra.
+L'invito a tagliare il mazzo viene fatto posando il mazzo sul tavolo, con le facce rivolte verso il basso, vicino al giocatore che deve tagliarlo: questo solleva la parte superiore del mazzo e la appoggia vicino alla parte inferiore. La parte inferiore viene quindi posta sopra a quella superiore.
+
+A questo punto il mazziere distribuisce le carte, tenendo il mazzo in una mano, sempre con le facce rivolte verso il basso, e rimuovendo le carte dalla cima con l'altra mano per distribuirle agli altri giocatori, posando ciascuna carta, sempre con la faccia coperta, di fronte al giocatore a cui sono destinate.
+Se le regole del gioco non specificano diversamente, normalmente si inizia con il giocatore accanto al mazziere nel senso del gioco (quello a sinistra nel caso di un gioco in cui si giri nel senso dell'orologio, quello a destra in caso contrario) e si continua nella stessa direzione attorno al tavolo. Le carte possono essere distribuite una alla volta o in gruppi. Inoltre, a seconda del gioco, possono essere distribuite tutte le carte del mazzo o solo una parte, mentre le altre rimangono nel mazzo, che viene posto a faccia in giù in mezzo al tavolo, formando il tallone o riserva.
+
+Il giocatore che riceve la prima carta della mano ed inizia a giocare è il primo di mano. L'insieme delle carte distribuite a un giocatore è dunque la sua mano.
+
+Le operazioni di mischiamento, taglio e distribuzione delle carte dovrebbero essere eseguite in modo che i giocatori non possano vederne le facce ed i giocatori non dovrebbero tentare di vederle. Se una carta dovesse accidentalmente essere esposta (essere visibile a tutti) allora ogni giocatore ha il diritto di richiedere una nuova distribuzione — ovvero tutte le carte sono raccolte, mischiate, tagliate e distribuite di nuovo. Se un giocatore dovesse accidentalmente vedere la faccia di una carta (diversa da quelle ricevute da lui stesso) allora dovrebbe ammetterlo. Tentare di vedere le carte mentre vengono distribuite o sfruttare l'averle viste accidentalmente è considerato disonesto.
+
+Terminata la distribuzione delle carte ogni giocatore le raccoglie e le tiene in modo tale da essere il solo a poter vedere la faccia delle sue carte. In genere è utile tenerle a ventaglio in modo da poter vedere tutti valori alla volta (possibile se il valore è riportato nell'angolo della carta). Nella maggior parte dei giochi è anche utile ordinare la propria mano in modo appropriato al gioco.
+
+Il giocatore di mano è il giocatore cui tocca giocare, al termine della giocata, passa la mano al giocatore successivo. Scartare una carta indica normalmente piazzarla dalla propria mano in un apposito mazzo degli scarti (generalmente a faccia verso l'alto).
+
+Le regole
+Un nuovo gioco di carte inizia in piccola scala, o come invenzione originale di qualcuno o come modifica di un gioco esistente. I giocatori di un gioco possono accordarsi per cambiarne le regole come desiderano, le nuove regole su cui si accordano diventano le "regole della casa" sotto cui giocano il gioco. Un insieme di regole della casa potrebbe essere accettato da un gruppo di giocatori quando giocato. Potrebbe anche essere accettato come modifica per tutte le regole di una particolare casa, caffè o club.
+
+Quando il nuovo gioco diventa sufficientemente popolare (sia come invenzione originale, che come modifica di un gioco esistente), occorre un insieme di regole accettato generalmente. Queste sono generalmente un insieme di regole della casa che vengono riconosciute generalmente. Per esempio quando il whist divenne popolare nell'Inghilterra del XIX secolo i giocatori del Portland Club si accordarono su un insieme specifico di regole della casa e le stamparono. I giocatori di altri club decisero di adottare le regole "Portland Club" piuttosto che prendersi il disturbo di codificare e stampare il proprio insieme di regole. Infine le regole del Portland Club furono adottate in tutta l'Inghilterra.
+
+Non c'è niente di "ufficiale" in questo processo. Se decidete di giocare a whist seriamente sarà utile imparare le regole del Portland Club, così che possiate giocare con altre persone che già le conoscano. Ma se lo giocate in famiglia potete ignorare queste regole ed usare quelle che scegliete. E se giocate whist seriamente con un gruppo di amici siete perfettamente liberi di progettare le vostre proprie regole, se voleste farlo.
+
+Se c'è un senso nel quale un gioco di carte possa avere regole "ufficiali", questo è quando quel gioco di carte ha un organismo "ufficiale" che lo controlla. Per esempio le regole di torneo per il Bridge contratto sono pubblicate dalla World Bridge Federation e da organismi locali nei vari paesi — in Italia la F.I.G.B. (Federazione Italiana Gioco Bridge). Le regole dello skat in Germania sono controllate dal Deutsche Skatverband che le pubblica. Le regole dei Tarocchi francesi sono controllate dalla Fédération Française de Tarot. Ma non ci sono obblighi a seguire le regole promulgate da queste organizzazioni.
+
+Molti giochi di carte diffusi, come ad esempio la canasta, non hanno un corpo ufficiale che le controlli.
+
+Infrazioni delle regole
+Un'infrazione è una qualunque azione contro le regole del gioco, come giocare una carta quando non è il proprio turno a giocare o rivelare accidentalmente la faccia di una carta.
+
+In molti regolamenti ufficiali di giochi di carte le regole che specificano le penalità per le varie infrazioni occupano più spazio delle regole che spiegano come giocare correttamente. Questo è noioso, ma necessario per i giochi giocati seriamente. I giocatori che intendono giocare ad un gioco di carte ad alto livello di solito si accertano, prima di giocare, che tutti concordino su quali penalità usare. Quando si gioca privatamente questo è normalmente un problema regolato dalle norme della casa. In un torneo ci sarà probabilmente un direttore di torneo che farà rispettare le regole quando richiesto e farà da arbitro nei casi dubbi.
+
+Se un giocatore infrange deliberatamente le regole di un gioco allora bara. Molti giocatori di carte si rifiuteranno di giocare con un baro conosciuto. Il resto di questa sezione riguarda pertanto infrazioni accidentali, causate da ignoranza, goffaggine, disattenzione, ecc..
+
+In un gruppo di amici in cui un gioco viene ripetutamente giocato, si accumulano i precedenti su come una particolare infrazione delle regole debba essere trattata, per esempio: "Sheila ha appena giocato una carta quando non era il suo turno. La settimana scorsa quando lo fece Jo ci accordammo che...". Queste regolamentazioni tendono a diventare codificate e ad essere accettate come parte delle regole della casa e successivamente possono essere formalizzate, come descritto nella sezione precedente. Pertanto, per alcuni giochi c'è una maniera "propria" di trattare le infrazioni alle regole. Ma per molti giochi, senza un organismo di controllo, non c'è una maniera standard di gestire queste infrazioni.
+
+In molte circostanze non c'è un bisogno specifico per regole speciali che gestiscano cosa accade dopo un'infrazione. Come principio generale la persona che ha infranto una regola non dovrebbe beneficiarne e gli altri giocatori non dovrebbero soffrire conseguenze negative. Un'eccezione a questa regola può essere in giochi in cui ci sono accoppiamenti di giocatori, nei quali si ritiene che anche il compagno di chi ha infranto una regola non dovrebbe beneficiarne. Le penalità per un'infrazione accidentale non dovrebbero essere pesanti, purché chi le abbia commesse non ne ricavi benefici.
+
+Elenco di giochi di carte
+
+Giochi tradizionali italiani
+*Asino
+*Asso che corre
+*Bestia
+*Bestia a 4 carte
+*Briscola
+** variante Marianna
+** variante Briscola a cinque (o "briscola chiamata", o "al 2")
+** Variante Gingo
+*Busche
+*Centocinque
+*Cicera bigia
+*Cucù
+*Kilòro
+*Machiavelli
+*Mariglia
+*Merda
+*Peppa Tencia
+*Perlina
+** Variante Fotografia
+*Pinnacola
+*Pipino
+** Variante (per due giocatori) Diavoletto
+*Rubamazzetto
+*Scala 40
+*Scopa
+** Variante Asso piglia tutto
+** Variante Scopa bugiarda
+** Variante Spazzino
+** Variante Ciapa No
+** Variante Scopone
+** Variante Scopone scientifico
+** Variante Scopa 15
+** Variante cirulla (in dialetto genovese Ciappachinze)
+*Sette e mezzo
+*Sinco
+*Stoppa
+*Straccia camicia o Scamicia (in lombardo occidentale strasa camisa o cava camisa)
+*Tarocchi
+**Variante Tarocchino bolognese
+**Variante Tarocco milanese
+**Variante Tarocco piemontese
+**Variante Tarocchino siciliano
+**Variante Minchiate fiorentine
+*Ti vitti
+*Tozzolo
+*Trentuno
+*Tressette
+** Cotecchio
+** Pigugno
+** Tersilio o Terziglio
+** Traversone o Ciapa no (simile alla Peppa)
+** Tresette con la briscola: Maraffone o Beccaccino
+*Zecchinetta
+
+Giochi internazionali (carte francesi)
+*Baccarà
+*Belot
+*Bestia
+*Biritch
+*Blackjack
+*Bridge
+*Burraco
+*Canasta
+*Carte
+*Chemin de fer
+*King
+*Ramino
+*Peppa
+*Pinnacolo
+*Pinella
+*Poker
+** tra le specialità, il Texas Hold'em
+** 7 card stud
+** Omaha
+*Scala 40
+*Trente et quarante
+
+*Garuta (Giochi giapponesi)
+**Uta Garuta
+**Hana Garuta
+**Iroha Garuta
+
+Giochi con figure
+
+*Mercante in Fiera
+*Biribi
+
+Giochi di carte collezionabili
+*Duel Masters
+*Eresia di Horus
+*Gormiti
+*Harry Potter Trading Card Game
+*Il Trono di Spade (gioco di carte)
+*Ken il Guerriero (gioco di carte)
+*
+*Mutant Chronicles
+*Pokémon Trading Card Game
+*Rat-Man - Il gioco senza nome
+*Spellfire
+*The Eye of Judgment
+*Warcraft
+*Wizards of Mickey (gioco di carte)
+*Yu-Gi-Oh! (gioco di carte)
+
+Giochi a tema (carte non collezionabili)
+*Bang!
+*Easy School
+*Koala
+*Munchkin
+*Ostrakon
+*Oriente
+*Sei
+*Sì, Oscuro Signore!
+*Solo
+*Uno
+*Up Front
+*Wings of War
+
+Voci correlate
+* Gioco
+* Solitario
+
+Bibliografia
+* Giampaolo Dossena, Solitari con le carte e altri solitari, Mondadori, Milano 1976.
+*	Giampaolo Dossena, Giochi di carte internazionali, Mondadori, Milano 1984.
+* Giordano Berti (a cura di), Antichi Tarocchi Bolognesi, con Marisa Chiesa Chiesa e Giuliano Crippa, Lo Scarabeo, Torino 1995.
+* Giordano Berti (a cura di), Antichi Tarocchi Liguri-Piemontesi, con Marisa Chiesa e Thierry Depaulis, Lo Scarabeo, Torino 1995.
+* Giordano Berti (a cura di), Antichi Tarocchi Milanesi, con Marisa Chiesa, Lo Scarabeo, Torino 1995.
+* Giordano Berti (a cura di), Carte da Gioco e da Divinazione. Giochi di Carte e Solitari, Alberto Peruzzo Editore, Milano 2005.
+
+Collegamenti esterni
+*Museo del tarocchi e delle carte da gioco
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 08:09:45 from:
+  http://it.wikipedia.org/wiki/Gioco_di_carte
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

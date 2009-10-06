@@ -1,0 +1,183 @@
+Firebird SQL è un database management system relazionale (RDBMS) opensource distribuito sotto licenza IPL (Interbase Public License) o IDPL (simile alla Mozilla Public License).
+
+Supporta numerosi sistemi operativi tra i quali: GNU/Linux, Windows, FreeBSD, Mac OS X e alcuni sistemi Unix.
+
+Le principali caratteristiche di questo RDBMS sono l'alto livello di conformità con gli standard SQL, la completa integrazione con molti linguaggi di programmazione e la facile installazione e manutenzione del software.
+
+Le ultime versioni rilasciate portano grandi miglioramenti riguardo alla resistenza del software ai crash esterni, la velocità d'esecuzione dei comandi SQL e la gestione e l'accesso ai dati del computer.
+
+Storia
+Firebird nasce dal codice sorgente di InterBase 6.0 e quindi ne acquista tutte le sue caratteristiche principali. È necessario, quindi, parlando di Firebird raccontare un po' la storia di Interbase (il suo antenato).
+Già quando era un prodotto commerciale e chiuso (prima della versione 6.0) l'antenato di Firebird era molto stimato e vantava una numerosa utenza, tra cui grossi nomi come NASA, National Bank di Chicago, Nokia, Ericsson, Boeing, Boston Stock Exchange e molti altri.
+La bassa occupazione di memoria, sia RAM che su disco (richiede ancora oggi poco più di 4 MB
+di RAM e meno di 10 MB su disco per una completa installazione), la facilità d’installazione,
+d’utilizzo e di gestione erano (e sono) molto competitivi verso altri RDBMS con
+uguali ed anche inferiori qualità e funzionalità.
+InterBase, dal principio, fu concepito, progettato e realizzato per un’utenza professionale ed
+aziendale pagante, con tutte le implicazioni del caso.
+InterBase fu sviluppato (nell'ultima fase della sua vita) da un'azienda leader a livello mondiale nello sviluppo di
+software per programmatori professionisti: la Borland International.
+
+La prima versione di Firebird fu null'altro che un InterBase riveduto e migliorato dopo che la Borland l'aveva reso opensource (la pubblicazione del codice sorgente di Interbase 6.0 avvenuta nel 2000).
+Firebird 1.0 infatti non rappresenta una rivoluzione rispetto ad InterBase 6.0, ma elimina alcuni seri problemi di sicurezza e qualche bug con l’aggiunta di poche migliorie.
+
+Firebird 1.5, pur essendo una versione di transizione verso la nuova 2.0, rappresenta un notevole passo avanti rispetto alla versione precedente. L'intero motore del database server è stato riscritto in C++, mentre la
+versione precedente era scritta in C. Il vantaggio di questa riscrittura è una maggior chiarezza e
+leggibilità del codice. Grazie a questa decisione, a lungo termine, le prossime versioni saranno più
+facili da estendere e da gestire.
+
+Firebird 2.0 conferma tutte le precedenti funzionalità e qualità e ne aggiunge molte altre a tutti i livelli. Le più interessanti sono quelle relative alle estensioni del linguaggio SQL derivate dall'SQL 200X e spianare la strada per Vulcano che sarà Firebird della prossima generazione.
+
+Le tappe del progetto
+*1984 Jim Starkey progetta Interbase per la Groton Database System (.gdb)
+*25/07/2000 Borland rilascia sotto licenza open "Initial Developer’s Public License (IDPL)" Interbase 6.0.
+*31/07/2000 Nasce il Progetto Firebird
+*22/11/2000 Primo kit d'installazione per Firebird
+*14/11/2001 Firebird 1.0.
+*23/02/2004 Firebird 1.5 scritto in C++
+*13/02/2004 Firebird 1.5.1
+*10/11/2004 Firebird 2.0 Alpha
+*19/05/2006 Firebird 2.0 Release Candidate 2
+*17/04/2008 Firebird 2.1
+*10/09/2008 Firebird 2.5 Alpha
+
+Organizzazione del progetto
+*Firebird Foundation - Raccoglie fondi, organizza conferenze e ne promuove l’utilizzo
+*Gruppo di sviluppatori in tutto il mondo
+
+Caratteristiche tecniche
+*È conforme allo SQL-92 Entry Level. Si può usare lo standard ANSI SQL per scrivere delle query portabili tra piattaforme diverse. In più Firebird ha delle estensioni che anticipano l'SQL3 come le stored procedure e i trigger e anche altre dell'SQL200X. È possibile accedere contemporaneamente ad un database Firebird da più applicazioni permettendo a più client di lavorare con gli stessi dati in conformità al modello client/server.
+*Implementa le specifiche A.C.I.D.; cioè il concetto di atomicità, consistenza, isolamento e durabilità.
+*Integrità referenziale dei dati con possibilità di riferire una chiave primaria con una o più chiavi esterne mantenendo collegamenti tra attributi di diverse relazioni.
+*Architettura multigenerazionale. Il server, in base alle esigenze, mantiene una copia dei vecchi record da ripristinare nel caso in cui una transazione fallisca.
+*Supporta le transazioni. Una funzionalità indispensabile per garantire la correttezza e il buon esito di operazioni di inserimento, aggiornamento o cancellazione di dati.
+*Gestione dei lock a livello del singolo record anziché dell'intera pagina. In questo modo gli altri record sono manipolabili liberamente da altri client.
+*Supporta il protocollo di rete TCP/IP su tutte le piattaforme garantendo l'utilizzo di Firebird come SQL server sia nelle applicazioni client/server sia in quelle web con completa trasparenza.
+*Protocollo XNET usato per accedere ai dati in maniere locale.
+*Tre architetture diverse a seconda del tipo della macchina e di come si vuole utilizzare il DBMS.
+*OSD (On-Disk Structure) 10.1 per Firebird 1.5 e OSD 11 per Firebird 2.0
+*Ottimizzazione delle query a livello di server o manualmente dall’utente. Quando viene scritto del codice SQL, Firebird, prima di eseguirlo, cerca di ottimizzarlo grazie al suo optimizer interno.
+*Viste aggiornabili in seguito ad eventi stabiliti.
+*Stored procedure. Sono delle applicazioni SQL che vengono memorizzate all'interno del database e vengono eseguite a livello di server. Offrono una grande flessibilità e potenza per svolgere i compiti più impensabili e bilanciare il carico di lavoro tra il client ed il server.
+*Trigger. Sono simili alle stored procedure ma non vengono mai eseguiti esplicitamente; svolgono le loro azioni in seguito a modifiche apportate alle tabelle (inserimento, modifica o eliminazione di un dato). Sono utili quando si cerca di ottenere un determinato risultato in seguito ad una azione specifica.
+*Un'applicazione può accedere contemporaneamente a più database.
+*Gestione del tipo di dato BLOB con possibilità di memorizzare dati di qualsiasi genere (immagini, suoni, animazioni, testi…).
+*Messaggi di allerta che informano un'applicazione delle modifiche avvenute nel database ed in seguito alle quali l'applicazione è chiamata a svolgere delle specifiche azioni.
+*UDF (User Defined Functions), ossia, funzioni definite dall’utente che permettono di scrivere programmi esterni che possono essere eseguite da codice SQL dall'interno del database.
+*Collegamento tra diverse relazioni con possibilità di eseguire su di esse delle query anche molto complesse. La lettura dei dati non è bloccante. Tutti i client possono leggere contemporaneamente gli stessi record.
+*Possibilità di richiamare le API di Firebird tramite codice SQL/DSQL (Dynamic SQL) in modo del tutto trasparente.
+*Possibilità di gestione di Firebird tramite l'applicazione grafica windows IBOConsole. Sono garantite l'esecuzione delle query e le operazioni di backup, restore, manutenzione e gestione della sicurezza.
+*isql, ossia Interactive SQL, è un'applicazione a linea di comando, multipiattaforma e serve per una totale gestione di Firebird.
+*gpre, è un preprocessore per convertire codice embedded SQL/DSQL in formati leggibili da linguaggi esterni. Ciò ci permette di scrivere applicazioni esterne in altri linguaggi, in C in modo particolare, all'interno delle quali possiamo inserire del codice SQL. In questo modo possiamo ottenere un’elevata efficienza ed aggiungere alle nostre applicazioni qualsiasi altra funzionalità.
+*Database di sola lettura. È possibile rendere un database accessibile solo per la lettura da impedire eventuali modifiche ai dati. Questa caratteristica è molto utile quando si distribuiscono programmi in CD-ROM con la versione embedded di Firebird.
+*Oltre a queste caratteristiche native di Firebird ce ne sono altre realizzate grazie al contributo di programmi esterni che permettono a Firebird di avere altre significativi vantaggi ad esempio la ricerca full text, la possibilità di gestire la replica oppure il salvataggio dei database automatica, e il supporto per il clustering.
+
+Architetture
+Firebird ha 3 tipi di architetture che lavorano in maniera diversa, ma non per questo una è migliore o peggiore dell’altra. Il motivo di questa differenziazione è stata la diversità di sistemi operativi, di risorse hardware e anche di possibili utilizzi del database.
+Tutti questi fattori permettono di scegliere di volta in volta quella più adatta.
+
+Classic Server
+È la prima architettura utilizzata dall'antenato di Firebird, Interbase, tra la fine degli anni '80 e '90, a quel tempo le risorse dei server erano scarse e i programmi richiedevano meno memoria.
+Questa architettura è usata ancora oggi per i sistemi operativi che hanno una gestione molto limitata dei thread. (Negli altri viene usata la versione SuperServer).
+In pratica per ogni connessione client, Firebird, apre sul server un processo dedicato con una memoria dedicata dove far elaborare le richieste del client, la cache di ogni processo non viene vista dagli altri (questo non permette lo scambio di informazioni già lette tra i vari processi). Normalmente la cache di ogni processo è per default di 75 pagine.
+In questa maniera si utilizzano più processi a seconda delle connessioni dei client, questa architettura è indicata nel caso il nostro server abbia più microprocessori, infatti ogni microprocessore si prenderà carico di uno o più processi (Firebird permette un’uguale distribuzione fra le varie CPU dei processi sia a seconda del numero sia a seconda della grandezza).
+Questa architettura rimane la migliore opzione nei casi dove c'è bisogno di alte performance e le risorse del sistema sono adeguate ad aumentare in maniera proporzionale alle richieste di nuove connessioni da parte dei client, ad esempio nel caso non ci siano connessioni sul server, non viene utilizzata per niente la memoria. Questa architettura è ideale, soprattutto, per i sistemi che si basano su elaborazioni complesse dove c'è poco input interattivo da parte degli utenti.
+Normalmente viene utilizzata con sistemi operativi GNU/Linux e Unix, mentre per Microsoft esiste una specifica versione di Firebird ma viene sconsigliata soprattutto in presenza di più processori.
+Questa architettura è l'unica che supporta SMP (la memoria condivisa tra i vari processori) e l'Hyper-Threading anche se i vantaggi dipendono fortemente dal sistema operativo e dalle caratteristiche tecniche stesse del computer, soprattutto della memoria.
+Lato client ogni richiesta di un nuovo processo occupa circa 2 MB in RAM.
+
+Superserver
+Dal 1996 e più precisamente dall’uscita di Interbase 4.1, fu introdotta l'architettura Superserver.
+Questa architettura andava incontro alle nuove caratteristiche tecniche di Windows, più precisamente all'architettura a 32 bit utilizzata per la prima volta con Windows 95.
+Il vantaggio della versione Superserver è che si possono utilizzare i thread e allocare dinamicamente memoria cache condivisa dove poter andare a leggere le informazioni in comune; i thread possono girare all’interno di un singolo processo o più processi..
+La memoria condivisa (cache) per questo tipo di architettura è per default di 2.048 pagine.
+Questa caratteristica è sicuramente un grosso vantaggio rispetto alla versione Classic server dove ogni processo ha un proprio spazio di memoria specifico e non condiviso.
+Questa proprietà rende indicata la versione Superserver, soprattutto, sia nei casi di un numero di operazioni interattive di scrittura e lettura molto elevate sia anche dove le risorse del computer sono limitate. Infatti avendo una memoria condivisa, tra i vari thread, c'è meno spreco di RAM.
+Normalmente all’avvio di Firebird la versione superserver anche se non c'è nessuna connessione con i client occupa (a differenza della versione classic server) un po' di memoria per mettersi in ascolto delle richieste, circa 2 MB.
+Da Firebird 1.0. la versione superserver è disponibile anche per altri sistemi operativi come GNU/Linux.
+Questa architettura è quella consigliata per i sistemi Microsoft dove la versione classic server per adesso è solo a livello "sperimentale", non ancora affidabile.
+
+Embedded server
+È l'ultima nata come architettura, sviluppata dalla versione 1.5 di Firebird in poi.
+Questo modello non è altro che una versione compatta dell’architettura Superserver, diciamo compatta perché non è altro che una libreria (fbembedd.dll) che fa il lavoro sia come parte server che client. Naturalmente permette la gestione del database solo a livello locale.
+Questo significa che questa architettura non si mette in ascolto di richieste di altri client ma soddisfa solo operazioni locali. Questo discorso vale anche per quei server utilizzati come terminal server, questa architettura permette l’utilizzo di una sola connessione per volta. Normalmente questa architettura viene utilizzata per quei database che girano su un solo PC, come ad esempio i portatili oppure per un database in sola lettura ad esempio su CD-ROM. Le risorse richieste da questa architettura sono minime, e può pertanto essere installata su qualsiasi client. L'interfaccia per la gestione del DBMS è identica a quella della versione SuperServer.
+
+Struttura del database
+Il database utilizzato da Firebird è normalmente un file con estensione.fdb, Tuttavia il database può essere suddivido anche in più file (sempre.fdb) con una dimensione precisa. Questo è stato fatto per risolvere il limite strutturale di certi sistemi operativi che non possono gestire file più grandi di una certa dimensione.
+L’estensione predefinita è .fdb ma firebird è compatibile anche con database creati precedentemente anche dal suo antenato, Interbase, e quindi file con estensione.gdb
+
+Il database essendo contenuto normalmente in un file ha il vantaggio di essere portato da un pc all’altro, anche con sistemi operativi diversi, in maniera molto veloce e senza bisogno di particolari meccanismi per essere ripristinato. Può essere portato anche con un semplice copia-incolla oppure comprimendo e decomprimendo il file. Queste due operazioni però vengono sconsigliate perché non controllano se il db è corrotto anzi potrebbero peggiorare la situazione.
+Per quanto riguarda il backup/restore esiste un’eseguibile dedicato (gbak) che sarà descritto in dettaglio in seguito. Il programma di backup ha numerose funzionalità: chiudere le transazioni aperte, controllare e riparare nei casi che il db sia corrotto, ricreare gli indici ed eliminare record obsoleti creati dalla architettura multigenerazionale (che vedremo successivamente).
+La O.S.D. (structure on disk) del database è cambiata dalla 10.0 di firebird 1.0. alla 10.1 di firebird 1.5 fino ad arrivare alla 11.0 di firebird 2.0.
+Naturalmente Firebird 2.0. può leggere qualsiasi struttura di database precedente alla 11.0, infatti nel momento che viene aperto viene in automatico convertito alla 11.0. (è sempre comunque consigliato utilizzare Gbak per far cambiare la struttura al db, in questa maniera viene fatto anche un controllo di errori del database).
+Sempre parlando del discorso della compatibilità con le vecchie versioni bisogna spiegare anche l’argomento dei cosiddetti "dialetti di Firebird".
+
+Dialetti di Firebird
+La prima versione di Firebird (Firebird 1.0) aveva introdotto diverse novità che hanno
+avuto come conseguenza l’alterazione di alcuni meccanismi interni del motore del database.
+Quindi, bisognava introdurre qualche artificio per poter ancora utilizzare vecchi database ed applicazioni create con le precedenti versioni.
+La soluzione è stata nell’introduzione dei dialetti che hanno il compito di controllare
+l’appartenenza o meno di una estensione ad una determinata versione.
+
+*Dialetto 1: corrisponde alle notazioni e funzionalità della versione precedente InterBase 5.6.
+*Dialetto 2: serve solo nel caso di debugging; viene segnalato un errore nel caso in cui viene usata una funzione oppure un comando con implementazione diversa da quella precedente. Per esempio, la variabile DATE nella nuova versione è di tipo diverso da quella della precedente.
+*Dialetto 3: rappresenta le nuove funzionalità e le estensioni relative solo all’ultima versione (ad esempio una nuova funzione Timestamp, possibilità di usare contatori a 64 bit e anche tools particolari come la possibilità di replicare il database) e si avvicina di più allo standard ANSI SQL.
+
+Il tipo di dialetto viene salvato nel database e quindi non dipende dal server.
+
+Specifiche di Firebird
+Questa sezione illustra i limiti strutturali di Firebird (molti di essi sono dovuti all'hardware e al sistema operativo usato):
+*Massimo numero di client connessi al server. Il numero di client che possono contemporaneamente collegarsi al server è teoricamente illimitato. Ma è ovvio che tale numero dipende strettamente dal sistema operativo e dall'hardware in uso. In linea di massima, un server basato su un Pentium 150 MHz e 64 MiB di RAM potrebbe reggere comodamente l'accesso contemporaneo di 150 client. Queste considerazioni si riferiscono ad un'applicazione client media che esegue delle normali query sul database. È evidente che se l'applicazione interagisce in modo intensivo col database il numero di accessi sopraindicato deve essere di conseguenza ridotto.
+*Dimensione massima di un database. La massima dimensione consentita ad un database è 2 GB sui sistemi operativi Windows 95/98 e di 4 GB sui sistemi Windows NT/2000 ed alcuni sistemi Unix. Occorre documentarsi sul sistema operativo in uso e controllare la dimensione massima di un file che tale sistema può gestire. Comunque, Firebird permette di suddividere un singolo database in più file e quindi sarà possibile gestire un database che abbia una dimensione limitata solo dalla capienza fisica dell'hard disk.
+*Numero massimo di file per un database. Da progetto, il numero massimo di file che costituiscono un database Firebird è fissato a 65536 (216) perché i file vengono identificati da un intero a 16 bit. Comunque la maggior parte dei sistemi operativi attuali non supporta un numero così elevato di file aperti. Anzi, il numero reale di file mantenuti contemporaneamente aperti è molto minore di 65536. Conviene comunque documentarsi sul sistema operativo in uso e sul numero massimo di file mantenuti aperti contemporaneamente dal sistema e cercare di aumentare quel valore in maniera da rispondere alle vostre esigenze.
+*Numero massimo di tabelle in un database. Anche il numero delle tabelle in un singolo database è stato fissato da progetto a 65536 (216) perché il numero delle tabelle viene identificato da un intero a 16 bit.
+*Dimensione massima di una linea. È stata fissata a 64 KB. Ogni campo BLOB o array contribuisce con 8 byte a questo valore. Le tabelle di sistema (tabelle mantenute automaticamente dal motore database per contenere i propri dati) hanno il limite di 128 KB per linea.
+*Numero massimo di linee e di colonne per tabella. Da progetto il numero delle linee è fissato a 4.294.967.296. Questo è dovuto al fatto che il numero di una linea viene identificato da un intero a 32 bit. Il numero delle colonne dipende strettamente dal numero delle linee. Una linea potrebbe essere di 64 KB al massimo. Si possono definire in questo caso 16384 colonne di interi (4 byte ciascuno) per costituire una singola tabella di dimensione massima.
+*Numero massimo di indici per database. Anche questo numero è stato fissato da progetto a 65536 perché gli indici di un database vengono identificati da un intero a 16 bit.
+*Numero massimo di indici per tabella. Questo numero è stato fissato da progetto a 256. In Interbase al massimo erano 64 indici per tabella.
+*Dimensione massima di una chiave indice. Una regola pratica per determinare questo valore è la seguente: iniziare con 256 byte per una chiave per una singola colonna e con 200 byte per una chiave per più colonne e sottrarre 4 byte per ogni colonna aggiuntiva. Esempio: una chiave CHAR per una singola colonna può occupare 256 - 4 = 252 byte; la stessa chiave per 3 colonne occuperà 188 byte. È da sottolineare che nel conteggio occorre tenere in considerazione il numero effettivo di byte e non di caratteri.
+*Numero massimo di eventi per una stored procedure: Il programma di Firebird non ha stabilito un limito per queste azioni, ma bisogna controllare le dimensioni di una stored procedure e il trigger.
+*Dimensione massima di stored procedure e di trigger: Il limite stabilito è di 48 KB per l'BLR (codice compilato bytecode di una stored procedure o un trigger).
+*Dimensione max. di un campo BLOB. La dimensione massima di un campo BLOB dipende dalla dimensione di pagina del database:
+**dimensione pagina = 1 KB - 64 MB per il campo BLOB
+**dimensione pagina = 2 KB - 512 MB per il campo BLOB
+**dimensione pagina = 4 KB - 4 GB per il campo BLOB
+**dimensione pagina = 8 KB - 32 GB per il campo BLOB
+:La dimensione massima di un segmento per il campo BLOB è di 32 KB.
+*Numero max. di tabelle collegate con JOIN. Da progetto, non esiste nessun limite a tale valore. Il carico di lavoro del sistema cresce in maniera esponenziale al crescere del numero delle tabelle da collegare con JOIN. Non è consigliabile superare il numero di 16 tabelle in una singola query.
+*Numero max. di query annidate. Non esiste un limite stabilito da progetto perché dipende strettamente dalla complessità delle query e dal risultato che l’utente vuole ottenere.
+*Numero max. di colonne per un indice composito: 16.
+*Numero max. di stored procedure e trigger annidati: 750 per tutti i sistemi Windows e 1000 per i sistemi Unix.
+*Dimensione max. di una chiave in operazione di SORT: 32 KB.
+*Limite di una data. Una data deve variare tra 1º gennaio 100 d.C. e il 29 febbraio 32768 d.C.
+N.B. Le caratteristiche citate di Firebird 2.0 che, in certe circostanze, sembrano delle pesanti
+limitazioni sono prevalentemente delle conseguenze dei sistemi operativi utilizzati. Con la
+diffusione di sistemi operativi a 64 bit e con l'annunciata versione di Firebird per tali sistemi,
+versione già esistente con l’avvento di Firebird 2.0 che può girare su sistemi a 64 bit) molti
+di questi limiti saranno definitivamente ed ampiamente superati.
+
+Funzionalità incluse nella versione 2.0
+* Accurata revisione dei meccanismi di indicizzazione per incrementare le prestazioni e minimizzare i colli di bottiglia durante le ricerche e le selezioni.
+* Varie limitazioni ereditate dal codice originario sono state rimosse, per es. il limite di 252-byte sulla lunghezza degli indici e il limite di 30Gb sulla dimensione delle tabelle.
+* Una nuova interfaccia per agganciare set di caratteri internazionali, che include il supporto per Unicode.
+* Supporto per le piattaforme a 64-bit grazie ai binari rilasciati per AMD64 e Intel EM64T. I binari per Windows 64-bit sono in fase di testing e verranno rilasciati in seguito.
+* Un'intensa attività di verifica della sicurezza del server, che include una più robusta cifratura delle password ed una protezione integrata contro gli attacchi a forza bruta.
+* Supporto per le tabelle derivate in SQL200x, che include l'annidamento a più livelli e il joning di subquery.
+* Sintassi EXECUTE BLOCK per il supporto di blocchi di SQL procedurale (PSQL), che può essere eseguito in statement SQL.
+* Cursori espliciti in PSQL, disponibili anche in statement EXECUTE BLOCK.
+* Timeout opzionale WAIT per la risoluzione dei conflitti di locking, disponibile come argomento di una SET TRANSACTION oppure come parametro di una transazione via API.
+* Funzionalità di backup incrementale completamente rinnovate.
+* Ridefinizione dell'architettura in modalità "serverless" (per connesioni locali) su Windows, per eliminare l'intrinseca instabilità del protocollo IPServer originario.
+* Implementazione delle Services API completata su tutte le piattaforme.
+
+Collegamenti esterni
+*Sito ufficiale di Firebird SQL
+*Firebird Italia
+*6a International Conference - Bergamo - Italia
+*Sito di Firebird SQL su Sourceforge
+*Sito di news su Firebird SQL
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 00:07:32 from:
+  http://it.wikipedia.org/wiki/Firebird_SQL
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

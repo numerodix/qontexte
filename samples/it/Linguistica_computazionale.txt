@@ -1,0 +1,183 @@
+La linguistica computazionale si concentra sullo sviluppo di formalismi descrittivi del funzionamento del linguaggio naturale, tali che si possano trasformare in programmi eseguibili dai computer.
+I problemi che il linguista computazionale affronta, come si può intuire dal nome stesso della disciplina (d'ora in poi LC), consistono nel trovare una mediazione fra un oggetto di studio in costante evoluzione (il linguaggio umano) e le capacità di comprensione della macchina, limitate a quanto può essere descritto tramite regole formali.
+
+Storia della disciplina
+
+Al principio della seconda metà del Novecento, due diversi filoni di ricerca costruirono le fondamenta sulle quali oggi la LC poggia: a) gli studi di padre Roberto Busa intorno all'utilizzo del computer come mezzo di immagazzinamento e di analisi del testo (anni Cinquanta e Sessanta), il cui il primo frutto fu il primo corpus elettronico dell'opera di Tommaso d'Aquino; b) l'applicazione di metodi formali alle suddette analisi testuali (anni Sessanta e Settanta), che procedette di pari passo ai progressi fatti nel settore dell'Intelligenza Artificiale.
+
+Il neonato settore dell'Elaborazione del Linguaggio Naturale (in inglese Natural Language Processing), fu lungamente influenzato dai metodi deduttivi utilizzati dalla grammatica generativa di Noam Chomsky: questa teoria linguistica, prescindendo dall'uso, cerca di individuare delle regole astratte che descrivano la competenza della lingua posseduta da un parlante.
+
+Di fianco alla tradizione razionalista se ne sviluppò una seconda che dava invece la priorità alla raccolta di ingenti quantità di testi: i corpora. Questo indirizzo (prevalente in Gran Bretagna e negli Stati Uniti) sfruttava metodi statistici per estrarre dai testi regolarità linguistiche, punti di partenza per la descrizione della struttura del linguaggio. Il primo grande successo del "metodo empirista" è datato 1964, anno di comparsa del Brown Corpus di Francis e Kucera: si tratta del primo esempio di corpus nato per lo studio di una varietà linguistica contemporanea, in tal caso l'inglese americano.
+
+La crescita delle dimensioni dei corpora -sempre più fondamentali per verificare l'efficacia degli strumenti- e quella parallela del web -dalle infinite risorse testuali- hanno sancito il prevalere del secondo approccio. Infatti, con l'aumento delle dimensioni del materiale da analizzare, occorrevano tecnologie che potessero affrontare l'immensa varietà delle realizzazioni linguistiche: le astrazioni dall'uso della metodologia razionalista, che avevano portato alla creazione dei cosiddetti "modelli giocattolo" (applicazioni di analisi linguistica inefficaci in contesti reali), erano inadeguate a tale scopo.
+Inoltre, nacquero linguaggi standard di marcatura come XML che aumentarono l'usabilità e la facilità di scambio reciproco dei corpora e permisero di esplicitare le strutture dei testi.
+
+Oggi la Linguistica Computazionale può contare su numerosi gruppi di ricerca nel panorama scientifico internazionale; un buon numero di centri sono presenti anche sul territorio italiano (per esempio l'Istituto di Linguistica Computazionale del Consiglio Nazionale delle Ricerche, fondato da Antonio Zampolli) e più d'una università italiana ha posto l'Informatica delle Scienze Umane come materia fondamentale di percorsi di studio a metà fra l'Informatica e gli studi umanistici.
+Dopo una lunga contrapposizione fra approccio razionalista ed empirista, ci si orienta sempre più verso la messa a punto di strumenti che, al tempo stesso, incorporino la conoscenza rappresentata come regole astratte e come moduli statistici. Siamo tuttavia ancora distanti dal simulare con le tecnologie informatiche una competenza linguistica paragonabile a quella umana, per limiti non sono solo tecnici, ma che concernono anche la nostra comprensione delle modalità con cui il linguaggio viene elaborato dalla mente umana.
+
+Analizzare il testo
+
+Il problema principale, quando si vuole avviare l'analisi computazionale del testo, è stabilire dei criteri di identificazione per quella che è la sua unità di base: la parola.
+
+I tokens
+
+La tokenizzazione, ovvero l'operazione mediante la quale si suddivide il testo in token (informatica), è relativamente semplice per lingue che -similmente all'italiano- adoperano gli spazi per delimitare le parole; molto complessa per lingue a sistema ortografico continuo (l'operazione richiede algoritmi estremamente complicati). Se ci limitiamo al primo caso, il token è definibile semplicemente come una qualunque sequenza di caratteri delimitata dagli spazi; tuttavia, tale definizione lascia spazio a numerose eccezioni. Pensiamo ad esempio ai segni di punteggiatura, che compaiono attaccati alle parole: l'apostrofo compare di norma in mezzo a due parole diverse che, in virtù della definizione, verrebbero erroneamente identificate come una parola unica.
+
+L'ambiguità della punteggiatura costituisce un problema anche quando dobbiamo identificare l'unità linguistica superiore alla parola, ovvero la frase. Potremmo definire le frasi -semplificando- come sequenze di parole separate da punto e spazio e comincianti con una maiuscola; ma ci sono anche abbreviazioni come "Mr. Johnson" che, secondo questa euristica, verrebbero scisse in frasi distinte.
+
+Stringhe ed espressioni regolari
+
+Come si capisce dagli esempi precedenti, la tokenizzazione deve basarsi su criteri a volte complessi per tenere conto delle possibili eccezioni. La ricerca di stringhe, cioè sequenze di caratteri che soddisfino certi criteri, viene effettuata per mezzo delle espressioni regolari, notazioni algebriche che descrivono formalmente dei pattern di stringhe.
+Vari linguaggi di programmazione, ad esempio Perl, consentono di specificare pattern di stringhe tramite la sintassi delle espressioni regolari (d'ora in poi ER) e verificano se in un testo esistono pattern corrispondenti. Ogni linguaggio restituisce un diverso risultato, nel caso la corrispondenza sia verificata: la stringa che soddisfa il pattern, la sua riga di occorrenza, un valore booleano ecc.
+
+Tramite le ER, possiamo formulare euristiche a struttura condizionale cioè basate sulla verifica di una serie di condizioni. L'esempio che segue mostra un'euristica per individuare il punto come confine di frase.
+
+/\ba-z+\.\s+A-Z/
+
+Se il punto è preceduto da una parola in lettere minuscole (\b indica il confine di token, la sequenza "a-z+" indica l'occorrenza di una o più lettere minuscole), seguito da uno o più spazi e infine da una maiuscola, allora quel punto è confine di frase ed andrà considerato come un token indipendente.
+
+Il caso dell'abbreviazione (vedi sopra) non viene così risolto, perciò serviranno dei perfezionamenti di questa euristica. Ciò che conta però è che, grazie alle ER, possiamo formalizzare in modo semplice le regole per tokenizzare il testo correttamente, regole leggibili dai programmi che si occupano di tale operazione: i tokenizzatori.
+
+Tipi di token
+
+Se ci interessasse sapere quanto un testo tokenizzato è ricco dal punto di vista lessicale, può esserci utile classificare i token in tipi di token, ovvero raggruppare in classi dei tokens con qualche tipo di somiglianza reciproca. Ad esempio potremmo raggrupparli in base alla forma grafica: due tokens appartengono allo stesso tipo se sono identici a prescindere dalla posizione nel testo. Si dovrebbe poi fare astrazione dalla rappresentazione tipografica del testo, per escludere differenze del tipo minuscole/maiuscole, stampato/corsivo ecc. Quando forme tipografiche diverse di una stessa parola vengono ricondotte a una forma standard, si dice che sono ricondotte a una forma normalizzata.
+
+Si definisce vocabolario di un testo l'insieme delle parole tipo che ricorrono al suo interno. Per farci un'idea della ricchezza lessicale di un testo, tenendo conto delle diverse lunghezze possibili, calcoliamo il rapporto fra i tipi di token -raggruppati in base alla loro forma normalizzata- e le unità di token (Type token ratio o TTR):
+
+0
+
+La TTR sarà sempre compresa fra 0 e 1: più vicino a 1 è il valore ottenuto, più variato e ricco sarà il testo analizzato.
+
+Un altro indice interessante della ricchezza lessicale di un testo è il rapporto fra il numero di hapax in esso presenti e la lunghezza del testo, dove per "hapax" s'intendono le parole che ricorrono una volta sola.
+
+0
+
+Il valore ottenuto ci dice in che percentuale il testo sia composto da parole "uniche"; valori bassi corrispondono a testi molto ripetitivi.
+
+In base alla loro frequenza, cioè al numero di occorrenze, potremmo ordinare le parole di un testo in una lista decrescente (dalle più frequenti alle meno frequenti). Indicando poi con un numero crescente le posizioni delle parole, chiameremmo questo numero rango della parola.
+Se osserviamo quali sono le parole del testo che occorrono più spesso, noteremo che ai primissimi ranghi ci sono le "parole grammaticali", grossomodo definibili come quelle parole che non sono associate ad un referente della realtà concreta o astratta, ma servono ad esprimere una serie di relazioni interne al sistema della lingua: ne sono un esempio articoli e preposizioni; queste parole costituiscono il tessuto connettivo di ogni testo, indipendentemente dall'argomento.
+In fondo alla lista ci saranno invece le "parole lessicalmente piene", la cui presenza è strettamente dipendente dall'argomento trattato. Va ricordato inoltre che le parole grammaticali sono una classe chiusa, cioè il loro numero complessivo in una lingua è basso e resta più o meno costante nel tempo, altro fattore che ne determina la massiccia presenza in qualunque tipo di testo.
+Un'interessante relazione esistente fra il rango della parola e la sua frequenza è espressa dalla Legge di Zipf.
+
+Andamento del vocabolario
+
+La distribuzione delle parole cambia col procedere del testo, per cui potremmo interessarci ad una visione più dinamica su di esso, il che significa studiare come varia nel tempo la composizione del suo lessico. Un simile interesse è facilmente motivabile con la ricerca di una qualche regolarità statistica che ci consenta di prevedere la distribuzione finale delle parole, sulla base di osservazioni solo parziali dei dati.
+Abbastanza intuitivamente, il vocabolario cresce con grande rapidità a inizio testo, ma rallenta non appena le parole cominciano a ripetersi. Anche nei testi lessicalmente molto vari, la ripetizione perlomeno delle parole grammaticali è inevitabile. Un altro fattore a favore della ripetitività è inoltre la coerenza lessicale, perché quando parliamo di uno stesso argomento tendiamo a riutilizzare sempre i medesimi termini.
+
+Il rapporto inverso alla TTR -ovvero la lunghezza del testo diviso per il suo vocabolario- ci restituisce la frequenza media delle parole in quel testo (f), un indice inverso della sua ricchezza lessicale. Ma se considerassimo le variazioni di T e vT nel procedere del testo, noteremmo che inizialmente il rapporto T/vT è uguale 1, per cominciare a crescere man mano che le parole si ripresentano. In testi dal contenuto omogeneo l'andamento è quello delle funzioni non decrescenti: f (k) ; occasionalmente può avvenire un'inversione di tendenza, con f (k+h)  se nelle ultime h parole il vocabolario cresce in modo significativo, rispecchiando con ogni probabilità una qualche discontinuità del contenuto.
+
+Teorema del limite centrale
+
+Le parole corte sono generalmente più difficili delle parole lunghe, quindi potrebbe essere interessante indagare come le parole di un testo si distribuiscono se le suddividiamo in base al parametro della lunghezza.
+La lunghezza media delle parole di tutto il testo avrà inevitabilmente un valore basso, per via dell'incidenza nel dato delle parole grammaticali (brevi ed assai frequenti in ogni tipo di testo). Proviamo invece a confrontare i valori della lunghezza media in una serie di campioni di testo, per vedere quanto si discostano dalla media dell'intera popolazione: disponendo su un grafico le medie ottenute, noteremo che la loro distribuzione assume la forma a campana tipica della curva normale, e che il numero di esse che si discostano dalla media globale tanto più diminuisce quanto più aumenta lo scostamento.
+L'osservazione è anticipata dal Teorema del Limite Centrale, il quale permette di stabilire con quanta esattezza si possono generalizzare conclusioni tratte dall'evidenza quantitativa di un campione.
+Per il teorema, data una serie di campioni d'ampiezza n estratti da una popolazione, le loro medie tendono a distribuirsi secondo una curva normale; l'approssimazione a tale curva migliora al crescere di n, indipendentemente da come la popolazione di partenza si distribuisce intorno alla sua media.
+Ne possiamo evincere che
+* laddove le medie si disperdono maggiormente attorno all'asse prinicipale non ci è possibile generalizzare le osservazioni sul campione all'intera popolazione;
+* più aumentano le dimensioni del campione, più sono affidabili le nostre generalizzazioni.
+
+Dai testi ai corpora
+
+Un corpus è un insieme di testi che sono stati selezionati in modo da essere funzionali per l'analisi linguistica. Grazie al crescente interesse per i metodi statistici in LC e alla coscienza di quanto sia importante il dato linguistico vero e proprio ai fini dell'indagine, i corpora costituiscono oggi la principale fonte di dati per la disciplina. L'evoluzione dei computer inoltre ha giocato un ruolo fondamentale, poiché il calcolatore ci consente di immagazzinare quantità sempre crescenti di testi e di esplorarli più rapidamente ed efficacemente.
+
+I corpora possono essere classificati in varie tipologie, a seconda dei criteri usati per selezionare i testi che lo compongono. Esistono:
+* corpora specialistici, ideati per studiare uno specifico settore della lingua (quello della medicina, della burocrazia ecc.) e corpora generali, i cui testi vengono selezionati trasversalmente rispetto alle diverse varietà di una lingua, per poterla poi esplorare nel suo insieme;
+* corpora di lingua scritta, di lingua parlata o misti;
+* corpora monolingue o multilingue;
+* corpora sincronici, i cui testi appartengono tutti a uno stesso momento nel tempo, e "corpora diacronici", comprendenti testi appartenenti a periodi differenti;
+* corpora annotati e non.
+I corpora annotati, oggi sempre più diffusi, sono corpora in cui vengono codificate informazioni sulla struttura linguistica del testo a vari livelli (sintattico, semantico ecc.).
+
+Rappresentatività dei corpora
+
+I corpora devono servire come fonte di dati al fine dell'indagine linguistica, ma non possono che racchiudere un sottoinsieme di tutti i prodotti linguistici in una data lingua. Affinché le osservazioni fatte sulla base di un corpus siano generalizzabili al più vasto insieme della lingua, occorre che questo corpus sia rappresentativo di quella lingua (o di quel settore della lingua) in un particolare momento, ovvero costituisca un "modello in scala ridotta" dell'oggetto d'indagine. Da una parte esso dovrà comprendere il più alto numero di testi possibile, dall'altra i testi dovranno essere selezionati in modo tale da rispettare le proporzioni esistenti nell'insieme principale. Siccome il parlato è prevalente rispetto allo scritto, per esempio sarebbe errato generalizzare al complesso della lingua osservazioni tratte da un corpus di scritti.
+Nel caso il corpus riesca a riprodurre l'intero ambito di variabilità dei tratti e proprietà di una lingua, possiamo ritenerlo un campione affidabile per quest'ultima e trarre conclusioni generalizzabili dalla sua osservazione.
+La disciplina che si occupa della selezione scientifica dei testi che andranno a comporre un corpus è la Linguistica dei corpora.
+
+L'annotazione dei corpora
+
+Come detto prima, i corpora annotati sono corpora in cui viene codificata dell'informazione linguistica in associazione al testo. L'esplicitazione nella codifica di livelli d'informazione come la struttura sintattica o i ruoli semantici di una frase
+rende tali livelli accessibili al computer, il che ha determinato l'importanza dell'annotazione linguistica nella LC di oggi. Ognuno dei livelli di descrizione della lingua pone degli specifici problemi nella rappresentazione dell'informazione:
+
+* nell'annotazione morfologica occorre effettuare la lemmatizzazione (si riconduce la parola al proprio lemma) di ogni token del testo ed assegnare a ciascuno la rispettiva categoria grammaticale;
+
+* nell'annotazione sintattica bisogna esplicitare l'analisi sintattica delle frasi del testo, cosa che si potrà fare diversamente a seconda dei vari approcci teorici. La rappresentazione per costituenti -in cui si individuano i sintagmi che compongono la frase e si analizzano le loro relazioni d'incassamento- e la rappresentazione a dipendenze -che descrive la frase in termini di dipendenze fra parole indicanti relazioni grammaticali (soggetto, oggetto ecc.)- sono i due approcci fondamentali alla rappresentazione del livello sintattico;
+
+* nell'annotazione semantica è necessaria la codifica esplicita del significato delle espressioni linguistiche del testo. Si potrebbero classificare le parole lessicali in base a una serie di categorie concettuali predefinite, tali da catturarne i tratti più importanti del significato (PERSONA, LUOGO, PROCESSO); marcarne altrimenti i ruoli semantici, che descrivono la funzione semantica svolta da un sintagma nell'evento espresso dal verbo;
+
+* l'annotazione pragmatica può interessare vari fenomeni riguardanti la funzione comunicativa di un enunciato o relazioni fra elementi linguistici che vanno al di là della singola frase. Ad esempio, in corpora contenenti trascrizioni di parlato dialogico torna utile identificare la funzione illocutoria degli enunciati (definibile come il tipo di azione che compiamo nell'emettere un particolare enunciato: domanda, richiesta, ordine ecc.). Potremmo anche aver bisogno di evidenziare le relazioni di anafora e catafora, quei fenomeni per cui ai fini della corretta interpretazione di un elemento è necessario fare riferimento al contesto linguistico rispettivamente precedente e successivo.
+
+Illustro in breve, qui di seguito, come possano essere rappresentate queste conoscenze nei corpora.
+
+Per quanto gli schemi d'annotazione possibili differiscano, esistono delle costanti, individuabili in tre tipi fondamentali d'informazione. Questi, singolarmente o combinati fra loro, costituiscono una sorta di "struttura portante" di qualsiasi schema:
+
+* 1) l'informazione categoriale, espressa come etichette che associano delle categorie alle unità del testo. Le annotazioni della categoria grammaticale e del lemma, o anche dei ruoli semantici, sono tipicamente realizzate in forma d'informazione categoriale. Il modo più intuitivo per rappresentare questo tipo d'informazione su XML è quello che fa uso di attributi associati all'elemento di riferimento;
+
+Giovanni
+torna
+a
+casa
+
+* 2) l'informazione strutturale concerne l'identificazione di unità strutturali nel testo e la loro organizzazione in strutture gerarchiche. La sintassi è il livello più strettamente legato a questo tipo d'informazione; le relazioni gerarchiche fra i costituenti sono rappresentate in XML con l'inclusione di elementi più piccoli in elementi più grandi.
+
+Giovanni
+tornaa casa
+
+I costituenti con l'etichetta "cos" sono inclusi nel costituente "Cos", di grado superiore;
+
+* 3) l'informazione relazionale collega fra loro unità linguistiche diverse, permettendo di rendere conto delle relazioni reciproche (ad esempio le dipendenze fra soggetto ed oggetto, o fra pronome anaforico e pronome antecedente).
+In XML l'informazione relazionale presuppone che a ogni elemento sia stato assegnato un identificatore univoco nella forma di un attributo ID, in modo tale da poter essere eventualmente richiamato per mezzo di un attributo IDREF.
+
+Ricordi
+Luigi
+?
+
+Non
+lo
+vedo
+da
+anni
+.
+
+Per uno stesso livello di descrizione sono ovviamente utilizzabili anche più tipi d'informazione; anzi, è raro che un livello possa essere descritto con un solo tipo d'informazione. Gli schemi di annotazione tendono a contaminarli fra di loro, in modo che difficilmente uno di questi tipi si presenta allo stato "puro" nel corpus. D'altra parte, individuare come vengono codificati e valutare con quanta efficacia descrittiva vengono espressi rappresentano passaggi fondamentali per la verifica della validità degli schemi di annotazione.
+
+La nuova frontiera
+
+Già si è detto che l'annotazione rende accessibili nuovi livelli d'informazione linguistica al calcolatore. L'annotazione di un testo da parte da esseri umani richiede però un grande dispendio di tempo ed energia e può presentare problemi d'incoerenza. Un approccio completamente opposto è quello secondo cui si cerca di arricchire il calcolatore con le conoscenze linguistiche necessarie a comprendere la struttura e il contenuto del testo, simulando il comportamento di un lettore umano.
+
+Gli strumenti realizzati in quest'ottica differiscono fra loro per la complessità delle conoscenze di cui sono dotati e per il livello di astrazione delle rappresentazioni che producono. Basti pensare alla differenza esistente fra uno stemmer e un analizzatore morfologico. Il primo è dotato di una lista delle terminazioni possibili in una lingua e dell'ordine in cui si dispongono all'interno di una parola, ma inevitabilmente non riesce a riconoscere le radici irregolari. Gli analizzatori invece hanno a disposizione un lessico di radici lessicali, uno di affissi, regole di combinazione fra radici ed affissi e regole di normalizzazione che possano ricondurre le varie forme di una stessa radice a un unico esponente lessicale; grazie a queste conoscenze sono in grado di compiere in autonomia l'analisi morfologica di un parola.
+
+Chiaramente ciò rappresenta solo un primo passo per avvicinare il computer alla comprensione del testo, a causa della presenza di ambiguità (espressioni linguistiche che possono essere interpretate in più modi) a più livelli: un problema che richiede applicazioni anche estremamente complesse per essere risolto in percentuali accettabili all'interno di una collezione di testi. Il cammino della LC verso macchine in grado d'interagire come esseri umani è ancora lungo e complesso ed è strettamente legato alla nostra comprensione dello strumento linguistico: non è difficile immaginarlo procedere di pari passo
+con quello di altre discipline come la linguistica generale, la psicologia e le scienze cognitive.
+
+Bibliografia
+
+*Lenci, Alessandro et al., Testo e computer. Elementi di linguistica computazionale, Roma, Carocci, 2005.
+*Pierazzo, Elena, La codifica dei testi. Un'introduzione, Roma, Carocci, 2005.
+*Jurafsky, Daniel e Martin, James H., Speech and Language Processing. An introduction to Natural Language Processing, New Jersey, Prentice Hall, 2000.
+*Garside, Roger et al., Corpus Annotation: Linguistic Information from Computer Text Corpora, London, Longman, 1997.
+
+Voci correlate
+
+* Intelligenza artificiale
+* Legge di Zipf
+* Elaborazione del linguaggio naturale
+* XML
+* Linguistica dei corpora
+* Computational Linguistics (periodico)
+* Perl
+* Espressioni regolari
+* Codifica dei testi
+
+Collegamenti esterni
+
+*Istituto di Linguistica Computazionale - CNR Pisa
+*The Cognitive and Communication Technologies (TCC) division at ITC-Irst
+*CISCL - Centro Interdipartimentale di Studi Cognitivi sul Linguaggio (Università di Siena)
+*Intervista a padre Roberto Busa
+*Un'altra intervista
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 15:36:53 from:
+  http://it.wikipedia.org/wiki/Linguistica_computazionale
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

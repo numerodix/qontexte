@@ -1,0 +1,116 @@
+L'elegia greca è una distinta forma della poesia lirica della Grecia antica, destinata a una grande fortuna e influsso sulla produzione poetica successiva: oggi il termine elegia ha all'attivo quasi tre millenni di fortuna letteraria.
+
+Storia
+
+Definizione e origini
+Il termine italiano è calco del femminile ἐλεγεῖα (eleghéia), mentre il neutro ἐλεγεῖον indica il distico elegiaco, cioè il metro utilizzato per tale poesia. Entrambi i termini non compaiono prima del V secolo a.C., e sono riconnessi alla parola ἔλεγος, parola di uso assai raro in greco e la cui etimologia è contrastante anche presso gli antichi: mentre alcuni (Fozio e L'Etymologicum Gudianum) riportano:
+Ἔλεγος. ὁ θρῆνος παρὰ τὸ εὖ λέγειν τοὺς θανόντας (Élegos. ho thrḗnos. parà tò éu légein tous thanóntas, Élegos, lamento, dall'elogio ai morti),
+altri lessicografi (Suda, E 774, e Zonara) citano la pseudoetimologia
+Ἔλεγος. θρῆνος. ἀπὸ τοῦ ε ε λέγειν (Élegos. thrḗnos. apó toũ e e légein, Élegos, lamento, dal verso ahi ahi).
+
+I linguisti moderni assegnano alla parola un'origine frigia, collegando il termine all'armeno elegn ("flauto").
+
+Le origini e la lirica arcaica
+Essa nasce presumibilmente in Ionia intorno all'VIII secolo a.C., infatti come per l'epica i suoi frammenti più arcaici databili intorno al VII secolo a.C. presentano una forma già raffinata.
+L'elegia greca si qualifica come il prodotto poetico di una classe nobiliare o aristocratica, nell'ambito del simposio, che nel VII secolo a.C. aveva una enorme importanza politica e sociale, implicando sia il confronto tra gli uguali che quello tra ospitanti e ospitati.
+
+Certamente il contesto in cui l'elegia si sviluppa presuppone
+# una stretta connessione con l'esecuzione orale, e dunque un costante riuso e comunicazione mnemonica e agonale,
+# il contesto del simposio, luogo di incontro aristocratico, privato e non legato ad esigenze di ritualità sacrale. In esso la componente di intrattenimento e di comunicazione impegnata erano inestricabilmente legate. Si aggiunga che l'elegia è dunque costantemente poesia d'occasione, connotata dunque dalle circostanze in cui viene recitata.
+
+La natura dattilica dei suoi versi la connette direttamente alla poesia epica, ma gli argomenti cantati sono in realtà molto diversificati: esortazioni e ammonimenti nell'elegia guerriera di Callino e Tirteo, temi amorosi inMimnermo, accenti sentenziosi e morali in Teognide, temi politici in Solone, temi civili in Semonide.
+
+La presenza di temi guerreschi e politici destinati a una collettività ha sollevato il dubbio che l'elegia potesse essere connessa ad un contesto esecutivo diverso dal simposio. A Sparta è documentata la tradizione arcaica di recitazioni agonali di elegie di Tirteo nei συσσίτια (sissizi) o presso la tenda dei re durante le campagne belliche.
+
+Dall'età classica all'ellenismo
+
+Il periodo di apogeo della πόλις fu caratterizzato da forme di partecipazione politica e di comunicazione artistica popolare: coerentemente le circostanze favorevoli all'ideazione e all'esecuzione della poesia elegiaca, forma eminentemente aristocratica e simposiale, diminuirono drasticamente, o necessitarono di una comunicazione clandestina e orale in un periodo di avanzata evoluzione verso una civiltà della scrittura.
+Dall'età classica ci sono tramandati solo frammenti di alcuni autori divenuti più noti in altri ambiti: Ippia, noto sofista ed erudito enciclopedico protagonista di un dialogo di Platone, a detta di Pausania (V, 25, 4) fu autore anche di elegie; i nove frammenti di Eveno di Paro, anch'egli citato più volte da Platone, in un totale di una ventina di versi ci rivelano un interesse per le sottigliezze sofistiche; infine le poche righe pervenuteci di Dionisio Calco e di Crizia rimandano ancora a una situazione simposiale, e ad argomento politico.
+
+Nel V-IV secolo a.C. l'elegia subisce un processo di rinnovamento secondo due tendenze che diverranno scelte definitive in età ellenistica:
+# un crescente interesse per l'erudizione mitologica
+# il progressivo sovrapporsi della vicenda personale a quella mitologica.
+La Lyde di Antimaco di Colofone (raccolta elegiaca, che prende il titolo dal nome della donna amata) ha grande importanza nello sviluppo di questo genere letterario: la vicenda personale, cioè la morte della donna amata, gli offre l'occasione di rievocare e narrare diversi miti di amore tragico, istituendo la connessione fra autobiografia e mito. Si può parlare con Antimaco del primo poeta doctus.
+
+L'elegia alessandrina: Callimaco
+
+Con l'opera di Callimaco l'elegia diviene opera di scrittura completamente diversa negli intendimenti rispetto all'elegia arcaica. Di tutta la produzione elegiaca ellenistica ci restano pochi titoli e scarsi frammenti da cui risulta difficile dare un'interpretazione complessiva. Dal confronto con l'unica fonte di ampiezza rilevante - gli Αἴτια (áitia, "origini, cause") di Callimaco- e con la produzione elegiaca latina che ad essi s'ispirò, desumiamo le tendenze espresse già in epoca classica, con l'importante cambiamento che la figura del poeta aveva assunto a seguito della fine della civiltà della πόλις.
+
+*Callimaco fu il primo autore che esplicitamente non si propose di scrivere meglio dei predecessori, bensì diversamente.
+I poemi elegiaci che compongono i quattro libri degli Αἴτια, a noi noti per frammenti di papiri e per citazioni trattano una eccezionale varietà di argomenti e miti trattati cursoriamente, supponendo dunque un pubblico dotto.
+Nei primi due libri il poeta racconta di come ricevesse in sogno dalle Muse risposta alle domande che rivolgeva loro: l'elegia si configura dunque come ampia enciclopedia di miti indagati poeticamente come se fossero storia antica da cui trarre insegnamento per il presente. Callimaco in tal modo contamina nelle elegie le funzioni originariamente di pertinenza dell'epica.
+Nel III libro l'elegia dedicata all'amore tra Aconzio e Cidippe diverrà argomento di due Heroides (XX e XXI) di Ovidio, l'elegia racconta una vicenda di amore travagliato a lieto fine che riprende motivi tipici della novellistica popolare.
+Nel IV libro trovava posto la Chioma di Berenice, elegia di cui Catullo diede libera traduzione nel suo Carme LXVI. Si tratta di un componimento sia encomiastico che eziologico (racconta cioè l'origine di una costellazione recentemente scoperta).
+
+Oltre agli Αἴτια ci sono tramandati altri due frammenti elegiaci di Callimaco, curiosamente si tratta di due epinici, componimenti normalmente lirico più che recitativo, a testimoniare la spericolata volontà di sperimentazione del loro compositore.
+
+L'elegia ellenistica
+L'elegia è in età ellenistica un componimento raffinatissimo scritto da esperti eruditi per altri loro pari, in cui l'originaria funzione encomiastica è piegata al servizio dei regali protettori. Il tema preferenziale è l'amore descritto in toni drammatici, e la spiegazione dell'origine di nomi, riti, istituzioni o comportamenti (eziologia). Si ricordano i nomi di
+* Filita (o Fileta di Cos), figura di vero e proprio poeta-filologo in grado di dissimulare abilmente nelle sue elegia intitolate Demetra, παίγνια (paighnia, sciocchezzuole) valutazioni storico letterarie in componimenti d'argomento erotico.
+* Ermesianatte di Colofone, autore di un lungo poema in distici elegiaci intitolato Leonzio. Nel lungo frammento del III libro a noi giunto egli riprende la tradizione esiodea del Catalogo, elencando gli amori di poeti e filosofi.
+* Alessandro Etolo di Pleuron scrisse l'Apollo, contenente profezie di amori infelici, e le Muse, che narrava gare tra i poeti più famosi, istituite a Efeso in onore di Artemide: i 20 versi a noi giunti ci fanno intuire una galleria di ritratti simile a quella di Ermesianatte.
+* Simia di Rodi, poeta e grammatico scrisse in distici i Mesi, di cui gli scarsissimi resti (fr. 8 Powell) ci dimostrano però la parentela di quest'opera con i Fasti di Ovidio.
+* Fanocle, vissuto intorno al III secolo a.C., nei suoi Ἔρωτες ἢ καλοί (Érotes e kalói, Gli amori o i belli) trattò le sfortunate vicende di molti amori pederotici. L'unico frammento pervenutoci (fr. 1 Powell) ha il vantaggio di essere un áition completo, relativo al mito di Orfeo innamorato del giovinetto Càlais e fatto a pezzi dalle donne tracie '"perché per primo mostrò tra i Traci gli amori maschili". La sua poesia fu certamente nota a Sesto Properzio.
+* Partenio di Nicea è l'ultimo esponente dell'elegia ellenistica: va ricordato come precettore di Virgilio. Della sua produzione elegiaca rimane il ricordo di un libro intitolato Metamorfosi, e uno spiccato interesse per le parole ricercate e rare, che ha permesso la trasmissione di alcuni suoi frammenti nelle raccolte lessicografiche. La sua opera fu molto considerata a Roma, e accompagnata da forti critiche ed esagerate lodi fu posto da Gellio sullo stesso piano di Callimaco). Tra i suoi ammiratori ci furono anche gli imperatori Tiberio e Adriano.
+
+Il distico elegiaco era anche il principale metro utilizzato nella produzione di epigrammi: il crescente gradimento per le composizioni brevi e la progressiva convergenza delle tematiche elegiache ed epigrammatiche decretarono la decadenza dell'elegia greca e il passaggio di testimone a quella latina, mentre nel mondo ellenico andarono moltiplicandosi le raccolte antologiche di epigrammi.
+
+Caratteristiche dell'elegia greca
+
+modalità d'esecuzione
+
+Rispetto alle altre manifestazioni della lirica greca l'elegia si caratterizza per
+# esecuzione monodica (in contrapposizione alla lirica corale)
+# esecuzione recitativa cantilenata con un ridotto sottofondo strumentale di aulos o lyra: la παρακαταλογή (parakatalogé) epica elegiaca e giambica si pone a metà tra il parlato puro e semplice tipico delle parti recitate del dramma e il canto "pieno" e accompagnato da strumentazione e notazione complessa tipico delle composizioni liriche corali.
+
+lingua
+
+L'elegia greca, nella tipica distinzione dei generi letterari greci in dialetti, è scritto in una lingua formata da una forte base di lingua omerica con colorito dialetto ionico. Tale impasto è costante: Tirteo scrive in tale lingua elegie destinate ad uditori spartani (e quindi parlanti lingua dorica), testimoniando che la convenzione linguistica era ormai dato assodato. Tale uso fu conservato dai poeti alessandrini e quindi da quelli ellenistici.
+
+metro
+
+L'elegia greca si articola fin dalla sua origine in un solo metro: il distico elegiaco, strofa di due versi formata da esametro e pentametro dattilici.
+
+Poeti elegiaci
+
+I filologi di età ellenistica, dediti al recupero testuale e all'interpretazione delle grandi opere del passato, costituirono un canone dei maggiori poeti della tradizione. Gli elegiaci arcaici a noi meglio noti tramite questo canone sono
+* Callino di Efeso
+* Tirteo (Laconia o Mileto)
+* Semonide di Amorgo
+* Solone di Atene
+* Senofane di Colofone
+* Teognide di Megara
+
+Solo i testi Teognide e Pindaro ci sono stati conservati per tradizione diretta attraverso manoscritti medievali bizantini, mentre per gli altri poeti dobbiamo rifarci alla tradizione indiretta, cioè alle citazioni e ai riferimenti presenti in altri autori. Altri frammenti papiracei affiorano periodicamente dalle sabbie del deserto egiziano.
+
+Voci correlate
+*lirica greca
+*elegia
+*elegia latina
+*distico elegiaco
+Collegamenti esterni
+
+Bibliografia
+L'elegia greca è normalmente trattata in studi di carattere generale comprendente la lirica in generale o insieme alla poesia giambica con cui condivide molti temi. Si citano dunque solo poche opere di carattere generale:
+
+Edizioni
+
+* AA.VV., Elegia greca arcaica / Callino, Tirteo, Solone, Mimnermo, Teognide, Focilide, Senofane, Einaudi, 1972.
+Per l'elegia ellenistica si dovrà ricorrere alla silloge
+* J.U. Powell, Collectanea Alexandrina, Oxford Clarendon Press, 1925 (19702), Fragmenta
+
+Studi
+
+* F. Jacoby, Zu den älteren griechischen Elegiakern in Hermes, LIII (1918), pp. 263-307
+* C. Miralles, La renovación de la elegia en la época clássica, in "BIEH", V (1971), pp. 13-31
+* B. Gentili, Lirica greca arcaica e tardo arcaica in AA.VV., Introduzione allo studio della cultura classica, Milano, Marzorati, 1972, pp. 57-105
+* M.L. West, studies in Greek Elegy and Iambus, Berlin-NEw York, (1974)
+* E. Degani, L'elegia in AA.VV. Storia e civiltà dei Greci, Milano, Bompiani, 19771 , vol. V/1, pp. 300-314
+* E.L. Bowie, Early Greek Elegy, Symposium and Public Festival, in JHS CVI (1986), pp. 13-35
+* P. Giannini, Esposizioni formulari nell'elegia greca arcaica, in "QUCC" 16 (1973), pp. 121-124
+* L.E. Rossi, Letteratura Greca, Firenze 1995&sup1;
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 13:14:41 from:
+  http://it.wikipedia.org/wiki/Elegia_greca
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

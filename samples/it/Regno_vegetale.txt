@@ -1,0 +1,182 @@
+Il regno delle piante comprende circa 350.000 specie di organismi viventi, distinti comunemente con i nomi di alberi, arbusti, cespugli, erbe, rampicanti, succulente, felci, muschi e molti altri ancora.
+
+La maggior parte delle piante esistenti e conosciute sono incluse nel gruppo delle Angiosperme (divisione Magnoliophyta), con circa 250.000 specie che si distinguono dalle altre divisioni per la produzione di fiori seguita, dopo l'impollinazione, dalla formazione di semi racchiusi e protetti all'interno di un frutto.
+
+La branca della biologia che si occupa dello studio delle piante è la botanica.
+
+Cosa sono le piante?
+Per i biologi le piante hanno alcune caratteristiche fondamentali:
+
+* sono organismi autotrofi, cioè riescono a produrre il loro nutrimento direttamente da sostanze inerti (l'aria, l'acqua, il terreno);
+* svolgono la fotosintesi, che è la particolare reazione chimica che permette di trasformare anidride carbonica e acqua in zuccheri e ossigeno, con l'aiuto del Sole e della clorofilla;
+* sono formati da cellule eucariote, cioè cellule perfettamente evolute, dotate di un vero e proprio nucleo;
+* le pareti cellulari sono ricche di cellulosa e le cellule stesse di amido.
+
+I limiti precisi del regno delle Piante, per quanto riguarda gli organismi inferiori e in particolare unicellulari, sono stati oggetto di valutazioni discordanti tra gli studiosi.
+
+Inizialmente, il regno delle Piante (più esattamente il regno Vegetale, v. sotto) comprendeva anche organismi eterotrofi, come i Funghi, e tutti i batteri. Successivamente, le Piante erano state ristrette ai soli organismi autotrofi pluricellulari, rimandando tutti gli organismi unicellulari anche autotrofi al regno dei Protisti.
+
+Oggi prevale la tendenza a riportare nel regno delle Piante gli organismi unicellulari autotrofi, purché eucarioti. Ciò si applica in particolare alle alghe verdi, tradizionalmente incluse nei Protisti; esse farebbero parte del regno delle Piante, perché hanno cellule con le pareti di cellulosa, contengono lo stesso tipo di clorofilla delle piante terrestri e producono amido con la fotosintesi.
+
+Nel capitoletto dedicato alla sistematica, vengono presentate anche altre posizioni, come quella degli studiosi che considerano ancora oggi le Piante un gruppo tassonomico ben circoscritto, dal quale ribadiscono l'esclusione delle alghe.
+
+Ancora più controversa è la collocazione delle alghe rosse o Rodofite, che hanno una parentela meno stretta delle alghe verde con le piante superiori.
+
+Rimangono unanimemente esclusi i procarioti capaci di fotosintesi, in particolare il gruppo delle alghe azzurre (più correttamente chiamate Cianobatteri).
+
+Per la loro semplicità strutturale e la stretta vicinanza filogenetica, le alghe verdi vengono considerate antenate delle piante terrestri. Secondo questa ipotesi, circa 400 milioni di anni fa alcune alghe verdi d'acqua dolce (le Caroficee o le Carofite secondo i diversi inquadramenti tassonomici), facevano capolino sulle rive dei laghi esposte per breve tempo all'aria. Queste sottili fasce verdi intorno alle zone d'acqua erano l'unica vegetazione sulla terraferma, allora completamente deserta.
+
+Sistematica
+Nell'Ottocento, le piante venivano incluse nel più vasto - ed allora poco conosciuto - Regno Vegetale, che comprendeva anche tutti i tipi di alghe, i funghi, i batteri e i licheni. Oggi funghi e batteri sono assegnati a ben diversi regni tassonomici, i licheni sono riconosciuti come organismi formati dalla simbiosi di un'alga e di un fungo, mentre le alghe sono state disperse, a seconda dei gruppi, in ambiti tassonomici molto differenziati e tuttora controversi.
+
+Nel corso della complessa storia della tassonomia del mondo vegetale, i continui cambiamenti apportati dai botanici sistematici hanno così generato la produzione di diverse categorie, basate soprattutto su distinzioni morfologiche e riproduttive. Anche se molti di essi sono ufficialmente in disuso, questi gruppi rimangono tuttora utilizzati in botanica perché offrono una rapida comprensione delle differenze mostrate dagli organismi vegetali, a seguito di una diversa complessità tracciata dal cammino evolutivo.
+
+La tabella che segue offre un quadro delle divisioni del Regno delle Piante; si tenga conto dell'esistenza di un dibattito in corso, che è illustrato per quanto possibile nelle note e nella discussione che viene dopo la tabella.
+
+Classificazione prima di Linneo
+Il primo tentativo di classificazione di cui siamo a conoscenza è l'opera in nove libri Historia Plantarum di Teofrasto (370-285 a. C.) che classificò 480 piante in base al portamento, (alberi, frutici, suffrutici ed erbe) e ad alcune caratteristiche floreali.
+
+Altro autore degno di nota nell'antichità fu Dioscoride un botanico greco, nato in Cilicia nel I° secolo a.C., che scrisse 5 volumi sulle piante medicinali che per secoli, vennero tradotte in tutti i paesi del mondo conosciuto.
+
+Nei secoli seguenti, e per tutto il medioevo, lo studio della botanica si limitò allo studio delle proprietà delle piante medicinali, senza ulteriori apporti scientifici, ad esclusione del botanico padovano Alberto Magno (1193 - 1280), che con l'opera De vegetalibus si distacca dalle opere fino allora prodotte e tramandate (con nozioni il più delle volte di pura fantasia), descrivendo accuratamente e con precisione le specie trattate, sviluppando grazie all'osservazione diretta in tutta Europa, la prima teoria sulla mutabilità della specie, che molti secoli dopo verrà ripresa da Darwin; egli propose inoltre una classificazione dei vegetali che riprendeva in parte quella di Teofrasto, e che riportiamo di seguito:
+*Piante prive di foglie
+*Piante con foglie
+**Piante con corteccia e midollo
+**Piante con tunica
+***Erbacee con nodi
+***Legnose con nodi
+
+Solo nel XVI° secolo, si ebbe la svolta nello studio sistematico delle piante su basi scientifiche grazie ad alcuni botanici (stimolati dalla scoperta di nuove specie, in seguito all'esplorazione di nuovi continenti, che rendevano impellente una nuova classificazione), come l'aretino Andrea Cesalpino (1519 -1603), il bolognese Ulisse Aldrovandi (1522 - 1605), e all'opera di Gaspard Bauhin (1560 – 1624) di Basilea, che pubblicando Pinax theatri botanici (1596), introdusse elementi di riflessione sulla classificazione delle piante seguita fino ad allora, cercando di individuare dei gruppi omogenei di piante, tenendo conto delle loro somiglianze.
+
+Successivamente il naturalista inglese John Ray (1628-1705), propose un nuovo sistema di classificazione, che prendeva in considerazione il più grande numero possibile di caratteristiche morfologiche dei fiori e delle foglie; cui seguì l'ideazione del termine famiglia da parte di Pierre Magnol (1638-1715) che classificò 76 famiglie di piante, mentre il concetto di genere e specie fu introdotto da Joseph Pitton de Tournefort (1656-1708) che stabilì una classificazione dei vegetali in base alla struttura dei fiori.
+
+Classificazione secondo Linneo
+Carl von Linné (1707-1778) botanico svedese, codificò la nomenclatura binomiale, di piante e animali, utilizzando due nomi in lingua latina, il primo indicante il genere e il secondo la singola specie animale o vegetale.
+
+Il tipo di classificazione delle piante adottato da Linneo, noto come Sistema sessuale, si basava essenzialmente sui rapporti numerici e sulla morfologia di stami e pistilli, suddividendo le piante in 24 classi, che riportiamo di seguito:
+*I Monandria
+*II Diandria
+*III Triandria
+*IV Tetrandia
+*V Pentandria
+*VI Esandria
+*VII Ettandria
+*VIII Ottandria
+*IX Enneandria
+*X Decandria
+*XI Dodecandria
+*XII Icosandria
+*XIII Polyandria
+*XIV Didynamia
+*XV Tetradynamia
+*XVI Monadelphia
+*XVII Diadelphia
+*XVIII Polyadelphia
+*IXX Syngenesia
+*XX Ginandria
+*XXI Monoecia
+*XXII Dioecia
+*XXIII Polygamia
+*XXIV Cryptogamia
+
+La determinazione sistematica di Linneo, in base al numero e morfologia degli organi sessuali delle piante, è stata di fondamentale importanza nel momento in cui è stata introdotta, ma ha anche costituito più tardi un limite al progresso della classificazione delle piante.
+
+La classe Cryptogamia era divisa in quattro ordini che ne testimoniano la sua assoluta eterogeneità: Alghe, Funghi, Felci e Muschi.
+
+Sviluppi successivi
+Comunque, alla classificazione introdotta da Linneo sono state apportate numerose modifiche in varie epoche. L'ultima versione della classificazione sistematica classica è dovuta a Cronquist (Sistema Cronquist, 1981-1988). Sono stati già proposti peraltro ulteriori raffinamenti (p.es. Judd, anni '90).
+
+Classificazione filogenetica
+Negli ultimi decenni è stato dato sempre più spazio all'affinità filogenetica nella classificazione degli esseri viventi.
+
+Questo approccio fu applicato già negli anni '70 e sta in particolare alla base della nuova classificazione proposta nel 1977 da Woese per l'intero insieme dei viventi.
+
+L'approfondimento degli studi di genetica ha indotto i diversi studiosi a proporre sia diversi limiti al regno delle Piante (p.es. includendo o escludendo le alghe rosse), sia una diversa strutturazione tassonomica.
+
+Ad oggi, non esiste un accordo universale, anche se lo schema che riportiamo qui sotto (con l'omissione delle Rodofite e delle Glaucofite) rappresenta con un'accettabile approssimazione l'opinione prevalente.
+
+Albero filogenetico
+
+{{Clade
+|1={{Clade
+|1=
+|2= Micromonadophyceae
+|3={{Clade
+|1= Charales
+|2={{Clade
+|1= Colochetales
+|2={{Clade
+|1= Marchantiophyta
+|2= Anthocerotophyta
+|3={{Clade
+|1= Bryophyta
+|2={{Clade
+|1= Rhynophyta (†)
+|2={{Clade
+|1=
+|2={{Clade
+|1= Trimerophyta (†)
+|2= Psilophyta
+|3= Sphenophyta
+|4= Pteridophyta
+|5= }} }} }} }} }} }} }} }}
+}}
+(†): Gruppo estinto.
+
+Classificazione filogenetica delle angiosperme
+L'approccio filogenetico è stato applicato alle piante superiori in modo sistematico da un gruppo di lavoro internazionale tra università e giardini botanici (Angiosperm Phylogeny Group, APG), il cui obiettivo è di costruire un sistema di classificazione delle angiosperme basato sulle affinità genetiche delle piante e non tanto sull'aspetto morfologico.
+
+La classificazione APG o Sistema APG è stata pubblicata nel 1998 con alcune lacune. Successivamente, essa è stata completata e revisionata nel 2003 (Classificazione APG II).
+
+Uno spirito simile a quello dell'APG ha generato il progetto PhyloCode, che riunisce alcuni tra i maggiori esperti di botanica del mondo per stilare una classificazione filogenetica totalmente innovativa. In questo ambizioso progetto, non solo verrebbe rivista la classificazione, ma anche il concetto stesso di nomenclatura binomiale.
+
+Il problema delle alghe rosse
+Le alghe rosse (rodofite) presentano una posizione filogenetica intermedia, che le rende abbastanza lontane ma non del tutto estranee alle altre piante.
+
+Per questo motivo, gli scienziati si sono divisi sull'opportunità o meno di inserirle nel regno delle Piante.
+
+Illustriamo qui due delle posizioni assunte da studiosi recenti, sottolineando che non sono le uniche.
+
+T. Cavalier-Smith (2004) considera il regno Plantae diviso in due sottoregni:
+* sottoregno Biliphyta, comprendente le due divisioni Rhodophyta e Glaucophyta;
+* sottoregno Viridaeplantae, comprendente tre sole grandi divisioni, Chlorophyta, Bryophyta e Tracheophyta.
+
+Sina M.Adl e altri (2005) riservano invece il termine Plantae a un gruppo relativamente ristretto. Il corrispondente del regno Plantae è chiamato Archaeplastida (non più chiamato espressamente "regno"); questo viene diviso a sua volta in Glaucophyta, Rhodophycaeae e Chloroplastida; Chloroplastida comprende, tra l'altro, Charophyta, che a sua volta, a un livello ancora inferiore, comprende Streptophytina, le quali infine comprendono Charales e Plantae. Dalle Piante sono escluse tutte le alghe, anche le alghe verdi.
+
+Ecologia
+
+La fotosintesi condotta dalle piante e dalle alghe è la principale fonte di energia e di materia organica (la fitomassa) in quasi tutti gli ecosistemi. Questo processo portò ad un radicale cambiamento della composizione dell'atmosfera originaria, causato da un incremento della quantità di ossigeno, che ora ne occupa il 21% del volume. Ciò permise lo sviluppo degli organismi aerobi ed in seguito l'approdo della vita nell'ambiente sub-aereo.
+Grazie all'autotrofia, le piante sono i produttori primari negli ecosistemi terrestri, formando la base della catena alimentare, da cui dipende l'esistenza degli animali e degli altri organismi eterotrofi.
+
+Le specie vegetali svolgono un'importante funzione all'interno del ciclo dell'acqua (evapotraspirazione) e di altri cicli biogeochimici. Alcune piante si sono coevolute con batteri azotofissatori, essenziali per il ciclo dell'azoto. Inoltre, lo sviluppo radicale ha un ben determinato ruolo nell'evoluzione del suolo (pedogenesi) e, assieme alle chiome che formano il manto vegetale, nel prevenire la sua erosione.
+
+Le piante sono anche gli organismi dominanti i vari biomi terrestri, i cui nomi derivano proprio dal tipo di vegetazione caratteristica.
+
+Numerosi animali si sono coevoluti con le piante, assumendo entrambi forme e comportamenti specializzati a favorire un'associazione mutualistica che, a volte, diviene così stretta da legare le due specie letteralmente per la "vita", perché la scomparsa di una particolare pianta provoca l'immediata estinzione della specie animale simbiotica e viceversa.
+Mentre le piante offrono tane, siti per la riproduzione e cibo in quantità, alcuni animali, detti pronubi, favoriscono l'impollinazione dei fiori; altri la dispersione dei semi.
+Le mirmecofite sono piante coevolutesi con le formiche, che le difendono dagli erbivori o da piante competitrici e le fertilizzano con i loro rifiuti organici, in cambio di una casa e, non sempre, di cibo.
+
+Oltre che con i batteri e gli animali, le piante instaurano frequentemente simbiosi con delle specie fungine tramite le radici, formando un'associazione definita micorriza: i funghi aiutano la pianta per l'assorbimento dell'acqua e dei nutrienti presenti nel suolo; la pianta offre in cambio i carboidrati prodotti con la fotosintesi. Altre specie ospitano al loro interno dei funghi endofitici che proteggono la pianta dagli erbivori mediante la produzione di tossine. Nelle Orchidacee, i semi sono privi o carenti di endosperma e la germinazione non può avvenire senza l'ausilio di un fungo specifico.
+
+Note
+
+Voci correlate
+*Botanica
+*Specie botaniche in Italia
+*Piante succulente o grasse
+*Piante nell'arte
+*Piante ornamentali
+*Piante aromatiche
+*Piante officinali
+*Piante medicinali
+*Piante carnivore
+*Piante parassite
+*Giardinaggio
+*Piante acquatiche o palustri
+
+Altri progetti
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 20:07:13 from:
+  http://it.wikipedia.org/wiki/Plantæ
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

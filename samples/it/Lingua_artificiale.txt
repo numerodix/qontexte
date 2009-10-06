@@ -1,0 +1,94 @@
+Una lingua artificiale è un idioma creato a tavolino, frutto di ingegno consapevole attribuibile ad una sola persona o ad un gruppo di lavoro che ne sviluppa deliberatamente la fonologia, la grammatica e il vocabolario (nel caso delle lingue ausiliarie capita però che il vocabolario venga fatto derivare da quello delle più diffuse lingue naturali). La principale differenza rispetto alle lingue naturali risiede dunque nel fatto che originariamente quelle artificiali non si sono sviluppate ed affermate spontaneamente nelle culture umane.
+
+Alcune, come le lingue naturali sono costruite per l'uso nella comunicazione umana, specialmente per essere utilizzate come lingue internazionali ausiliarie, ma altre sono state create per l'uso in opere di finzione, nella sperimentazione linguistica, nello sviluppo di codici segreti o solo per il gusto di farlo. Quest'ultima categoria si può ulteriormente suddividere tra le lingue usate per rappresentare un mondo fantastico artisticamente costruito, oppure come semplice passatempo.
+
+Il sinonimo "lingua pianificata" viene utilizzato talvolta in riferimento alle lingue ausiliarie internazionali, soprattutto da coloro che rifiutano il più comune termine "artificiale". Alcuni parlanti di esperanto, ad esempio, evitano questo termine poiché ritengono che denoti un aspetto "innaturale" nel comunicare attraverso questa lingua ("l'esperanto è una lingua artificiale come un'automobile è un cavallo artificiale"). Tuttavia al di fuori della comunità esperantista il termine pianificazione linguistica fa riferimento alle misure normative approntate nei confronti di una lingua naturale. In questo caso, persino nelle "lingue naturali" può essere presente una certa quantità di artificialità e, nel caso delle grammatiche regolarizzate, la linea di demarcazione tra lingue naturali e artificiali risulta spesso assai sottile.
+
+L'atto del creare tali lingue viene definito glossopoiesi, dal greco glóssa = "lingua" e póiesis = "creazione". Gli autori di lingue artificiali sono detti glottoteti, o glossopoeti per rimarcare l'aspetto creativo ed artistico di tale pratica.
+
+Classificazione delle lingue artificiali secondo gli scopi
+
+La maggior parte delle lingue artificiali possono essere suddivise approssimativamente in base agli scopi per cui sono state ideate:
+
+*Lingue ausiliarie: quelle progettate per la comunicazione internazionale;
+*lingue artistiche: quelle progettate per l'utilizzo all'interno di opere artistiche o per puro diletto;
+*lingue logiche: quelle progettate per scopi di sperimentazione filosofica e logica.
+
+Lingue "a priori" e lingue "a posteriori"
+
+Le lingue artificiali sono spesso divise in lingue "a priori", nelle quali gran parte della grammatica e del vocabolario è costruito dal nulla (usando l'immaginazione dell'autore o mezzi computazionali automatici) e lingue "a posteriori", dove la grammatica e il vocabolario sono derivati da una o più lingue naturali. Di fatto, si può dire che una lingua artificiale "a posteriori" soddisfa la proprietà della doppia articolazione (tipica di una lingua naturale) e possiede determinati sostrati linguistici che si trovano nella competenza linguistica del creatore, dei quali il più importante è la sua lingua materna; in generale, più i sostrati sono numerosi più il sistema risulterà elaborato e complesso (grado di ibridità).
+
+Una lingua "a priori" invece non soddisfa né il criterio della doppia articolazione, né, ovviamente, la presenza di sostrato linguistico nella competenza del creatore e quindi si può considerare semplice semiotica artificiale, (ovvero una combinazione di segni) piuttosto che una vera e propria lingua artificiale.
+
+Lingue naturalistiche e non naturalistiche
+
+Le lingue artificiali "a posteriori" possono ulteriormente esser divise in lingue pianificate naturalistiche, che seguono da vicino le lingue naturali da cui sono state costruite con l'obiettivo di minimizzare il tempo d'apprendimento e lingue pianificate schematiche, le cui caratteristiche sono deliberatamente semplificate o sintetizzate da varie sorgenti.
+In ogni caso, le lingue artificiali ausiliarie internazionali godono di un'ottima analizzabilità dei morfemi (per questo motivo la maggior parte di esse viene classificata tra le lingue agglutinanti), hanno paradigmi ridotti e molto regolari, nonché un livello di allofonia tendente a zero. Queste proprietà le rendono per certi versi simili alle lingue dei bambini e conseguentemente il loro apprendimento da adulti in generale è più rapido di quello delle lingue storico-naturali esistenti nel mondo.
+
+Le lingue sperimentali e le lingue di finzione "a posteriori" possono anch'esse essere naturalistiche, nel senso che possono assomigliare alle lingue naturali e tentare di seguire le regole naturali del cambiamento fonologico, morfologico e lessicale. Soprattutto le lingue artistiche, che non sono create solitamente con lo scopo di facilitare la comunicazione o l'apprendimento, tendono a essere più difficili e complesse rispetto alle lingue naturali, perché cercano di imitare al massimo i comportamenti comuni dei linguaggi naturali come i verbi e i nomi irregolari o le complicate regole fonologiche.
+
+Lingue artificiali e lingue naturali
+
+La differenza tra lingue naturali e lingue artificiali risiede nel fatto che le prime si sono sviluppate ed affermate spontaneamente nelle culture umane, mentre le ultime sono un atto di creazione consapevole e deliberata. Le lingue artificiali non sono, infatti, di solito il mezzo di comunicazione originario di una popolazione. Tuttavia, anche una lingua artificiale può avere "parlanti nativi", se i bambini l'apprendono durante l'infanzia da genitori che hanno imparato la lingua. L'esperanto ha un numero considerevole di parlanti nativi stimato tra le 200 e le 2000 persone. Un membro dell'Istituto della lingua klingon, d'Armond Speers cercò di educare il suo figlio come un parlante nativo di klingon, ma scoprì alla fine che il vocabolario klingon a quel tempo non era abbastanza ampio da esprimere il gran numero d'oggetti normalmente presenti in una casa, come "tavolo" e "bottiglia".
+
+Al momento della creazione un idioma artificiale è ovviamente privo di una comunità di parlanti. La varietà standard di una lingua artificiale viene pianificata a tavolino, generalmente per iscritto, per opera di un inventore che, da solo o con un gruppo di lavoro, assegna al sistema una propria fonologia (che, a differenza dei pidgin, tende ad essere complessa come quella della lingua madre dell'ideatore) una morfologia, una sintassi (quindi una sua propria grammatica) e di solito anche un lessico, generalmente aperto ad ampliamenti successivi. Tale forma non è riconducibile a un singolo sistema linguistico già esistente, sia esso inventato o meno. Se la creazione di una lingua intacca solo il livello lessicale non si parlerà di lingua artificiale ma di gergo (cfr. l'argot francese o lo slang inglese).
+
+Lingue naturali ed artificiali hanno comunque in comune la stessa funzione e gli stessi mezzi. Sia le prime che le seconde, si servono di regole grammaticali prestabilite e di un vocabolario di termini più o meno folto, e sono in grado di esprimere qualsiasi concetto o discorso, traducibile in qualunque altra lingua. Quindi i sostenitori di particolari linguaggi artificiali trovano spesso molte ragioni per usarle.
+Tra queste ci sono sicuramente il fatto che una lingua artificiale può esprimere in teoria gli stessi concetti di una qualsiasi lingua naturale. Inoltre esiste la famosa ma contestata ipotesi di Sapir-Whorf, ovvero che una lingua essenzialmente limita o espande il modo in cui uno pensa. Una lingua "migliore", costruita o perfezionata artificialmente, dovrebbe permettere al parlante di raggiungere un livello d'intelligenza superiore, o di comprendere un numero maggiore di modi di pensare. Ma la validità di questa affermazione è tutta da dimostrare.
+
+Motivazioni delle lingue artificiali
+
+La motivazione per la creazione di una lingua artificiale riveste una grande importanza: altrimenti nessuno si metterebbe in testa di costruire una lingua a tavolino. Tutte le lingue artificiali hanno una motivazione ludica inalienabile: molte sono per il creatore uno strumento di "espressione di sé", spesso accompagnato addirittura da un particolare senso del sacro, evidente in Ludwig Zamenhof come in Alessandro Bausani. Anche il klingon, creato in origine per un film della serie di Star Trek s'innesta in parte su questo binario.
+
+La motivazione ludico-sacrale non è certo l'unica: molto spesso ci sono motivazioni "laiche" e, per così dire, "utilitaristiche". Nelle intenzioni di molti creatori il loro progetto di lingua artificiale deve facilitare la comunicazione tra parlanti nativi di lingue diverse, su un piano di parità, senza cioè favorire né l'uno né l'altro (vocazione ausiliaria). Se una lingua inventata ha tale vocazione ausiliaria, il creatore cercherà di formare una comunità di parlanti che la sostenga.
+
+È altamente probabile che questa comunità crei istituzioni preposte al controllo, al sostegno e allo sviluppo della lingua, che produrranno inevitabilmente un processo di burocratizzazione della lingua artificiale.
+Attualmente sono tre le lingue artificiali che hanno raggiunto questo stadio: l'esperanto, l'ido e l'interlingua. Esistono inoltre lingue inventate per essere usate in contesti specifici (dette "lingue a pragmaticità limitata").
+
+Genesi e sviluppo delle lingue artificiali
+
+Su un migliaio di progetti, solo una decina ha potuto vantare una comunità linguistica che la parli, e solo l'esperanto è riuscito ad essere parlato anche in ambito familiare per più di una generazione. Per completare il processo di naturalizzazione, la lingua artificiale deve acquisire un sostegno politico-istituzionale duraturo. In altri termini, la lingua artificiale deve (o dovrebbe) diventare lingua ufficiale, attraverso la creazione di testi come una legislazione originale oppure l'insegnamento nella scuola dell'obbligo.
+
+Nell'arco di una generazione si avranno parlanti nativi (L1). Una lingua inventata del tutto naturalizzata condivide con le lingue storico-naturali tutte le proprietà fondamentali a eccezione della priorità storica del parlato. L'esempio più pertinente di lingua artificiale (ma non ausiliaria) che ha completato il processo di naturalizzazione è l'ebraico moderno, basato sull'ebraico antico biblico, già sostituito dall'aramaico nella Palestina ai tempi della predicazione di Gesù Cristo e in seguito germanizzatosi nello yiddish, parlato dagli ebrei ashkenaziti dell'Europa centrale.
+
+Bibliografia
+* Giacomo Francesco Sertorio. Il problema della lingua universale. Porto Maurizio, Berio, 1888.
+* Alessandro Bausani. Le lingue inventate. Roma, Ubaldini, 1974. ISBN 8887013101.
+* Umberto Eco. La ricerca della lingua perfetta nella cultura europea. Bari, Laterza, 1993. ISBN 8842050288.
+* Paolo Albani e Berlinghiero Buonarroti. Aga Magéra Difúra – Dizionario delle Lingue immaginarie. Bologna, Zanichelli, 1994. ISBN 8808095940.
+* Caterina Marrone. Le lingue utopiche. Viterbo, Nuovi Equilibri, 1995. ISBN 887226815X.
+* Alan Libert. A priori artificial languages. Munich, Lincom Europa, 2000. ISBN 3895866679.
+* Paolo Valore. Materiali per lo studio dei linguaggi artificiali nel Novecento, Milano, Cuem 2006. ISBN 887226815X.
+
+Voci correlate
+*Glottoteta
+*Sistema di scrittura artificiale
+*Gioco linguistico
+*Elenco di lingue artificiali
+*Esperanto
+*Esperantido
+*Interlingua
+*Lingua franca
+*Lingua ausiliaria internazionale
+*Kit di Costruzione di Linguaggi
+*ConScript Unicode Registry
+*Un vizio segreto
+*Europanto
+*Tommaso Landolfi
+
+Collegamenti esterni
+* Langmaker - Raccolta di migliaia di lingue artificiali
+* Come costruire una lingua artificiale
+
+Collegamenti esterni alle principali lingue artificiali
+* Multlingva Informcentro pri Esperanto
+* Uniono por la Linguo Internaciona Ido
+* Union Mundial Pro Interlingua
+* Klingon Language Institute (Istituto della lingua klingon)
+* Raccolta delle lingue create da J.R.R. Tolkien
+*Volapük: grammatica completa in lingua italiana e lessicologia, a cura di V. Amoretti (1888)
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 19:02:55 from:
+  http://it.wikipedia.org/wiki/Lingua_artificiale
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

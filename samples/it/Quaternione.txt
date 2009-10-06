@@ -1,0 +1,241 @@
+In matematica, i quaternioni sono entità introdotte da William Rowan Hamilton nel 1843 come estensioni dei numeri complessi.
+
+I quaternioni sono un corpo non commutativo: hanno quindi tutte le proprietà usuali dei campi, quali i numeri reali o complessi, tranne la proprietà commutativa del prodotto.
+
+I quaternioni contengono i numeri complessi, e sono anche uno spazio vettoriale sui numeri reali a 4 dimensioni (analogamente ai complessi, che sono uno spazio sui reali a 2 dimensioni). Le due proprietà di corpo e di spazio vettoriale danno quindi al corpo una struttura di algebra di divisione non commutativa.
+
+I quaternioni hanno importanti applicazioni nello studio del gruppo delle rotazioni dello spazio tridimensionale, nella fisica (nella teoria della relatività e nella meccanica quantistica). Impieghi "sorprendenti" dei quaternioni sono la robotica, dove vengono impiegati per individuare la posizione spaziale dei bracci meccanici a più snodi, e il controllo d'assetto, in quanto il calcolo tramite quaternioni è più stabile.
+Storia
+
+I quaternioni sono stati scoperti dal matematico irlandese William Rowan Hamilton nel 1843. Hamilton era alla ricerca di un metodo per estendere i numeri complessi (che possono essere visti come punti su un piano) su un numero maggiore di dimensioni spaziali. Dopo aver ricercato invano un'estensione tridimensionale, ne formulò una con 4 dimensioni: i quaternioni. In seguito raccontò di aver fatto questa scoperta nel corso di una passeggiata con sua moglie, quando improvvisamente gli venne in mente la soluzione nella forma dell'equazione
+: i^2 = j^2 = k^2 = ijk = -1.
+Eccitato dalla scoperta, incise l'equazione sul lato del vicino ponte Brougham (noto ora come Broom Bridge) a Dublino.
+
+Questa scoperta necessitava dell'abbandono della legge commutativa per la moltiplicazione, una scelta radicale per quel tempo, in cui non erano ancora disponibili l'algebra lineare ed il prodotto fra matrici. Più in generale, Hamilton ha in un certo senso inventato il prodotto vettoriale e il prodotto scalare negli spazi vettoriali. Hamilton descrisse un quaternione come una quadrupla ordinata (4-upla) di numeri reali, dove la prima coordinata è la parte 'scalare', e le rimanenti tre sono la parte 'vettoriale'. Se due quaternioni con parte scalare nulla sono moltiplicati, la parte scalare del prodotto è il prodotto scalare della parte vettoriale cambiato di segno, mentre la parte vettoriale del prodotto è il prodotto vettoriale. Hamilton continuò a rendere popolari i quaternioni con molti libri, l'ultimo dei quali, Elementi sui quaternioni aveva 800 pagine e fu pubblicato poco dopo la sua morte.
+
+L'uso dei quaternioni suscitò delle controversie. Alcuni dei sostenitori di Hamilton si opposero veementemente allo studio dei settori emergenti dell'algebra lineare e del calcolo vettoriale (sviluppato fra gli altri da Oliver Heaviside e Willard Gibbs), affermando che i quaternioni offrivano una notazione migliore. Oggi però sappiamo che i quaternioni sono una struttura molto particolare, che non offre molte altre generalizzazioni in altre dimensioni (se si escludono gli ottetti in dimensione otto). Una prima versione delle equazioni di Maxwell utilizzava una notazione basata sui quaternioni.
+
+Oggi, i quaternioni vengono utilizzati principalmente nella rappresentazione di rotazioni e direzioni nello spazio tridimensionale. Hanno quindi applicazioni nella grafica computerizzata, nella teoria del controllo, nell'elaborazione dei segnali, nel controllo dell'assetto, in fisica e in astrodinamica. Ad esempio, è comune per i veicoli spaziali un sistema di controllo dell'assetto comandato mediante quaternioni, che sono anche usati per misurare mediante telemetria l'assetto attuale. La ragione è che la combinazione di molte trasformazioni descritte da quaternioni è più stabile numericamente della combinazione di molte trasformazioni matriciali.
+
+Definizione
+Un quaternione è un elemento scrivibile come
+: a+bi+cj+dk
+con a, b, c  e  d  numeri reali ed  i, j, k  simboli letterali.
+
+Somma e prodotto di due quaternioni sono definiti tenendo conto delle relazioni
+: i^2 = j^2 = k^2 = ijk = -1,
+che implicano in particolare le relazioni seguenti:
+: ij = k,
+: jk = i,
+: ki= j,
+: ji =-k,
+: kj = -i,
+: ik = -j.
+I risultati delle moltiplicazioni fra due di questi elementi sono riassunti nella tabella:
+:
+
+La somma ed il prodotto di due quaternioni sono calcolate con gli usuali passaggi algebrici, usando le relazioni di moltiplicazione appena descritte. La somma di due quaternioni è quindi data da:
+: (a_1+b_1i+c_1j+d_1k) + (a_2+b_2i+c_2j+d_2k) = (a_1+a_2) + (b_1+b_2)i + (c_1+c_2)j + (d_1+d_2)k
+mentre il loro prodotto risulta essere il seguente:
+: (a_1+b_1i+c_1j+d_1k)(a_2+b_2i+c_2j+d_2k) =
+:: (a_1a_2 - b_1b_2 - c_1c_2 - d_1d_2) + (a_1b_2 + a_2b_1 +c_1d_2 - d_1c_2)i + (a_1c_2 + c_1a_2 +d_1b_2 - b_1d_2)j + (a_1d_2 + d_1a_2+b_1c_2 - c_1b_2)k.
+
+I quaternioni contengono in modo naturale i numeri reali (i quaternioni del tipo  q = a , con  b=c=d=0 ) ed i numeri complessi (i quaternioni del tipo  q = a +bi , con  c=d=0 ).
+
+Esempio
+Due quaternioni:
+: x = 3+i
+: y = 5i+j-2k
+
+Somma e prodotto sono dati da:
+
+: x+y = 3+6i+j-2k
+: xy = (3+i)(5i+j-2k) = 15i+3j-6k+5i^2+ij-2ik = 15i+3j-6k-5+k+2j =
+:: = -5+15i+5j-5k.
+
+Proprietà basilari
+I quaternioni hanno molte caratteristiche proprie ai numeri complessi: ogni quaternione ha una norma, un coniugato ed un inverso (se diverso da zero). Si differenziano però dai numeri complessi per il fatto che il loro prodotto può non essere commutativo.
+
+Prodotto non commutativo
+Il prodotto di due quaternioni non è in generale commutativo. Ad esempio, come si è già visto,  ij = k  è diverso da  ji = -k .
+
+Coniugato
+Il coniugato di un quaternione  q = a+bi+cj+dk  è il quaternione
+:\bar q = a-bi-cj-dk.
+Il coniugato è a volte indicato anche con q^* . Il coniugato soddisfa le proprietà seguenti:
+: \overline = q,
+: \overline = \overline q + \overline q',
+: \overline = \overline q' \overline q.
+
+Norma
+La norma di  q  è il numero reale non negativo
+:|q|= \sqrt = \sqrt.
+La norma di  q  è sempre positiva, e nulla soltanto se  q = 0 . Valgono le relazioni seguenti:
+:|q|^2 = q\bar q,
+:|qq'| = |q||q'|.\,\!
+
+Inverso
+Un quaternione  q  diverso da zero ha un inverso per la moltiplicazione, dato da
+: q^ = \frac.
+Infatti
+: qq^ = q\frac = \frac = \frac = 1
+e similmente q^q = 1 . Valgono le proprietà seguenti:
+: |q^| = \frac 1,
+: \overline = ^,
+: (qq')^ = ^q^.\,\!
+
+Struttura algebrica
+Con le operazioni di somma e prodotto, l'insieme dei quaternioni, indicato a volte con \mathbb H , forma un anello non commutativo, più precisamente un corpo non commutativo.
+
+Con le operazioni di somma e di moltiplicazione per un numero reale  \lambda , data da
+:\lambda (a+bi+cj+dk) = \lambda a + \lambda bi + \lambda cj + \lambda dk,
+i quaternioni formano anche uno spazio vettoriale reale di dimensione 4: una base per lo spazio è data dagli elementi \ .
+
+Le due strutture di corpo e di spazio vettoriale sono riassunte dal concetto di algebra di divisione. I quaternioni, i numeri complessi e i numeri reali sono le uniche algebre di divisione associative costruite sui numeri reali aventi dimensione finita.
+
+Struttura metrica
+Usando la funzione distanza
+: d(q,q') = |q-q'|,
+i quaternioni formano uno spazio metrico, isometrico allo spazio \R4 dotato della usuale metrica euclidea. Con la norma, i quanternioni formano un'algebra di Banach reale.
+
+Quaternioni unitari
+Gruppo di Lie
+Le coordinate (a,b,c,d)  di un quaternione  q  lo identificano come elemento di \R^4 , e tramite questa identificazione la norma |q|  è semplicemente la norma euclidea.
+
+I quaternioni unitari sono i quaternioni di norma 1. Ad esempio,  1,i,j  e  k  sono unitari. Nell'identificazione con \R^4 , i quaternioni unitari formano una ipersfera quadridimensionale.
+: S^3 = \.
+
+I quaternioni unitari formano un gruppo con la moltiplicazione. Tale gruppo non è abeliano. Con la struttura di varietà differenziabile data da  S^3 , formano un gruppo di Lie.
+
+Gruppo di rotazioni
+Ogni quaternione unitario q_0 definisce una rotazione dello spazio \R^3  nel modo seguente. Si usa la notazione scalare-vettore  q=(a,v) , e si identifica \R^3  con l'insieme dei quaternioni (0,v)  con prima coordinata nulla. La rotazione determinata da q_0  è data dall'operazione di coniugio
+: q\mapsto q_0qq_0^.
+Si verifica infatti facilmente che se  q  ha prima coordinata nulla, anche q_0qq_0^  ha prima coordinata nulla: è quindi definita un'azione del gruppo dei quaternioni unitari su \R^3 . Ogni mappa definita in questo modo è effettivamente una rotazione, poiché preserva la norma:
+: |q_0qq_0^| = |q_0||q||q_0^| = |q_0||q||q_0|^ = |q|.
+I quaternioni unitari sono quindi un utile strumento per descrivere sinteticamente le rotazioni in \R^3. Ogni rotazione è esprimibile in questo modo, e due quaternioni q_0,q_0'  definiscono la stessa rotazione se e solo se q_0 = - q_0' .
+
+Rivestimenti
+Associando ad ogni quaternione unitario una rotazione, si è definito una mappa
+: S^3 \to SO(3)
+dal gruppo dei quaternioni unitari sul gruppo ortogonale speciale delle rotazioni dello spazio tridimensionale. Per quanto appena detto, la mappa è suriettiva, ma non iniettiva: la controimmagine di un punto è data da due punti opposti \ . In particolare, tale mappa è un rivestimento di grado 2.
+
+Poiché  S^3  è semplicemente connesso, questo è il rivestimento universale di  SO(3) , che ha quindi come gruppo fondamentale il gruppo ciclico \mathbb Z/_  con due elementi. Topologicamente,  SO(3)  è omeomorfo allo spazio proiettivo \mathbb P^3(\R) .
+
+Sottogruppo finito
+
+Il sottogruppo generato dagli elementi \  è un gruppo finito: ha ordine 8, e viene spesso indicato con Q_8 . I suoi otto elementi sono
+:\.
+Il gruppo  Q_8  è il più piccolo gruppo non abeliano dopo il gruppo di permutazioni  S_3 , che ha ordine 6.
+
+Notazioni e rappresentazioni alternative
+Notazione scalare/vettore
+Il quaternione  q = a +bi +cj +dk  può essere descritto anche dalla coppia  (a, v) , dove  v = (b,c,d)  è un vettore in \R^3 . Con questa notazione, somma e prodotto possono essere descritti nel modo seguente:
+:\beginq_1 + q_2 &=& (a_1, v_1) + (a_2, v_2) = (a_1+a_2, v_1 + v_2) \\
+q_1 \cdot q_2 &=& (a_1 a_2 - v_1 \cdot v_2, a_1 v_2 + a_2 v_1 + v_1 \wedge v_2)\end
+dove si usano il prodotto scalare ed il prodotto vettoriale fra vettori di \R^3 .
+Le nozioni di coniugato e norma diventano:
+:\bar q = (a,-v)
+:|q|^2 = a^2 + |v|^2\,\!
+usando l'usuale norma di un vettore in \R^3 .
+
+Coppia di numeri complessi
+Grazie alla relazione  k = ij = -ji, ogni quaternione può essere scritto usando soltanto i simboli  i  e  j  nel modo seguente:
+: q = a+bi+cj+dk = a+bi + cj-dji = a+bi + j(c-di)\,\!
+Quindi
+: q = z +jw \,\!
+dove  z = a+bi  e  w=c-di  sono due numeri complessi. Le operazioni di somma e prodotto si svolgono in modo usuale, applicando la relazione
+:ij = -ji. \,\!
+
+Per quanto riguarda coniugato e norma, risulta rispettivamente
+:\bar q = (\bar z,-w)
+:|q|^2 = |z|^2 + |w|^2\,\!
+
+Matrici
+I quaternoni possono essere espressi tramite matrici  2\times 2  di numeri complessi, oppure matrici  4\times 4  di numeri reali.
+
+Matrici  2\times 2  complesse
+Gli elementi  1,i,j,k  sono rappresentati rispettivamente da:
+
+:\left&0\\
+0, &1\\
+\end\right, \quad
+\left&1\\
+-1, &0\\
+\end\right, \quad
+\left&i\\
+i, &0\\
+\end\right, \quad
+\left&0\\
+0, &-i\\
+\end\right.
+
+Il quaternione  a+bi+cj+dk  è quindi rappresentato da
+
+:\begin a+di & b+ci \\ -b+ci & \,\, a-di \end=\begin z & -\overline \\ w & \,\, \overline \end
+
+Questa rappresentazione ha diverse interessanti proprietà:
+
+* Tutti i numeri complessi (i quaternioni con  c=d=0 ) corrispondono a matrici a valori solo reali.
+* Il quadrato della norma di un quaternione è uguale al determinante della matrice corrispondente.
+* Il coniugato di un quaternione corrisponde alla coniugata trasposta della matrice corrispondente.
+* Limitandola ai quaternioni unitari, questa rappresentazione fornisce un isomorfismo di gruppo tra le sfere S^3 ed il gruppo unitario speciale SU(2). Questo gruppo è strettamente collegato alle matrici di Pauli, ed è importante nella meccanica quantistica per rappresentare lo spin.
+
+Matrici  4\times 4  reali antisimmetriche
+Gli elementi  1,i,j,k  sono rappresentati rispettivamente da:
+
+:
+\left\right, \quad
+\left\right, \quad
+\left\right, \quad
+\left\right.
+
+Il quaternione  a+bi+cj+dk  è quindi rappresentato da
+
+:\begin
+a & b & -d & -c \\
+-b & a & -c & d \\
+d & c & a & b \\
+c & -d & -b & a
+\end
+
+In questa rappresentazione, il coniugato di un quaternione corrisponde alla trasposta della matrice.
+
+Equazioni sui quaternioni
+La non commutatività della moltiplicazione porta una conseguenza inaspettata: le soluzioni dei polinomi definiti con i quaternioni possono essere più di quelle definite dal grado del polinomio. L'equazione  q^2+1 = 0  per esempio ha infinite soluzioni nei quaternioni, date da tutti i
+:q = bi+cj+dk
+con b^2+c^2+d^2=1 .
+
+Generalizzazioni
+Se F è un generico campo e a e b sono elementi di F, è possibile definire un'algebra associativa unitaria a quattro dimensioni su F usando due generatori i e j e le relazioni i2 = a, j2 = b e ij = −ji. Queste algebre sono isomorfe all'algebra delle matrici 2×2 su F, e inoltre sono delle algebre di divisione su F. Sono chiamate algebre di quaternioni.
+
+Voci correlate
+* Numeri complessi
+* Ottonione
+* Numero ipercomplesso
+* Algebra di divisione
+* Algebra associativa
+* Teoria dei gruppi
+
+Bibliografia
+* Hime, Henry William Lovett (1894) The outlines of quaternions Longman Greens.
+* Hamilton, William Rowan (1899) Elements of quaternions (t.1) . Longman Greens.
+* Hamilton, William Rowan (1901) Elements of quaternions (t.2) . Longman Greens.
+* Kelland, Philip and Tait, Peter Guthrie (1882) Introduction to quaternions, with numerous examples McMillan & co. Ltd.
+* Hardy, A. S. (1891) Elements of quaternions. Ginn.
+* MacAulay, Alexander (1893) Utility of Quaternions in Physics
+* Hathaway, Arthur S. (1896) A Primer of Quaternions London, Macmillan & co., ltd.
+* Joly, Charles Japser (1905) A Manual Of Quaternions. McMillan & co. Ltd.
+* MacFarlane, Alexander (1906) Vector Analysis and Quaternions New York, J. Wiley & Sons.
+* Kuipers, Jack (2002). Quaternions and Rotation Sequences: A Primer With Applications to Orbits, Aerospace, and Virtual Reality (Reprint edition). Princeton University Press. ISBN 0-691-10298-8
+
+Collegamenti esterni
+
+* Definizione e riferimenti su mathworld.wolfram.com
+* Doing Physics with Quaternions
+* Quaternion Calculator Java
+* The Physical Heritage of Sir W. R. Hamilton (PDF)
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 16:13:52 from:
+  http://it.wikipedia.org/wiki/Quaternione
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,135 @@
+In biologia molecolare, la trascrizione è il processo mediante il quale le informazioni contenute nel DNA vengono trascritte enzimaticamente in una molecola complementare di RNA. Concettualmente, si tratta del trasferimento dell'informazione genetica dal DNA all'RNA. Nel caso in cui il DNA codifichi per una proteina, la trascrizione è l'inizio del processo che porta, attraverso la produzione intermedia di un mRNA, alla sintesi di peptidi o proteine funzionali.
+
+La trascrizione presenta un meccanismo di controllo della fedeltà (o proofreading), ma esso è molto meno efficace di quelli legati alla replicazione del DNA; lo stesso meccanismo di sintesi dell'RNA, nel quale l'enzima RNA polimerasi ha un ruolo centrale, comporta un numero di errori decisamente maggiore.
+
+Come per la replicazione del DNA, la trascrizione procede in direzione 5' → 3'. Più precisamente, il filamento lungo il quale il DNA viene scansito, detto filamento stampo, è percorso dall'enzima in direzione 3' → 5'. Il nuovo filamento di RNA, identico al filamento senso viene sintetizzato a partire dal suo 5'.
+
+Cenni generali
+La trascrizione avviene attraverso particolari enzimi detti genericamente RNA polimerasi. Tali proteine sono spesso denominate RNA polimerasi DNA-dipendenti, dal momento che producono una molecola di RNA a partire da una di DNA. Tali enzimi utilizzano nucleotidi trifosfati (ovvero nucleotidi con tre gruppi fosfato) per formare l'RNA. Durante il processo, dai nucleosidi trifosfati vengono rimossi due gruppi fosfato per formare un legame covalente tra un nucleotide e quello successivo. Si tratta di una reazione di condensazione.
+
+La trascrizione consta essenzialmente di tre fasi: l'iniziazione, l'allungamento e la terminazione.
+
+La RNA polimerasi si lega al DNA solo presso particolari sequenze, dette promotori, che non sono trascritte. Dal promotore iniziano a inserirsi i nucleosidi trifosfato per formare una sequenza di nucleotidi che sarà complementare al filamento di DNA in via di trascrizione. Dopo l'individuazione del promotore, la RNA polimerasi rende il DNA adatto alla trascrizione. Il filamento di RNA inizia quindi ad allungarsi, attraverso l'aggiunta di un nucleotide per volta. Il primo nucleotide del neofilamento di RNA trattiene i tre gruppi fosfato mentre quelli successivi vengono privati di due gruppi fosfato attraverso una reazione esoergonica.
+
+Quando, durante la trascrizione, nel DNA si incontrano particolari sequenze di basi (poste solitamente alla fine di ogni gene), la trascrizione termina.
+
+Trascrizione nei procarioti
+Nei procarioti, la macchina trascrizionale è costituita dall'enzima multimerico Rna Polimerasi, dal fattore σ indispensabile per il riconoscimento del promotore e da eventuali altri fattori di trascrizione. L'assemblaggio di tutto il complesso di trascrizione basale segue delle fasi ben precise: tutto inizia dalla subunita ὰ che contatterà la subunità ὰ2; tale dimero (o più correttamente eterodimero) ha già la capacità di legare il DNA anche se in maniera aspecifica. A questo punto si legano le subunità catalitiche β e β1; esse sono le responsabili del riconoscimento delle singole basi di DNA a cui appaiano le corrette basi complementari secondo lo schema citosina-guanina (C-G), e viceversa e adenina-uracile (A-U); il filamento di RNA infatti utilizza l'uracile al posto della timina.
+
+Assemblaggio dell'oloenzima
+
+Una volta formata, l'RNA Polimerasi non è capace di riconoscere direttamente il promotore; per questo è necessaria la subunità σ (sigma), che per questo motivo prende parte nei più importanti processi di regolazione della trascrizione nei procarioti. Altro fondamentale fattore per l'assemblaggio è una proteina detta Catabolite Activating Protein (abbreviata come CAP o CRP), che legandosi nella sequenza consenso 35 nucleotidi a monte del sito di inizio, fa assumere al promotore la corretta topologia affinché l'RNA Polimerasi possa creare un legame stabile col DNA. La CAP infatti interagisce con l'oloenzima sia a livello di σ sia a livello del dominio carbossi terminale di ὰ.
+
+Dal complesso chiuso al complesso aperto
+
+La CAP è legata alla sequenza consenso posta a -35 e ricca in AT e distorce il DNA. Anche grazie a questa distorsione δ contatta un'ampia regione del promotore in un modo tale da reclutare l'RNA Polimerasi, che a questo punto comincia a fare le necessarie connessioni per la lettura del filamento senso (5'-> 3') e quindi sintetizzare l'ibrido DNA-RNA lungo 9-10 paia di basi. Ma l'evento che dà il via alla reazione deve essere la denaturazione locale del DNA a formare la cosiddetta bolla di trascrizione. In passato si pensava che ciò fosse indotto dalla particolare distorsione generata da tutti i fattori con cui il DNA interagisce, primo fra tutti CAP. In realtà l'apertura del DNA non avviene a -35 come ci si aspetterebbe vista la minore stabilità locale del DNA (ricco in quel punto di AT), ma più a valle a circa -10. Il segnale di apertura (melting del promotore) è indotto da un attivatore esterno capace di fosforilare la subunità ὰ 2 nel dominio carbossiterminale (ὰ-CTD). Tale dominio si comporta come una sorta di pannello di controllo di tutta la trascrizione: il suo stato più o meno fosforilato infatti regola non solo la fase iniziale ma anche quella di allungamento e di terminazione.
+
+Avvio della trascrizione
+
+A questo punto l'RNA Polimerasi può cominciare a leggere il DNA e ad appaiare le corrette basi azotate al fine di sintetizzare il trascritto primario (RNA non ancora processato) questa fase della "messa a registro" è la più critica al punto che l'inizio della sintesi segue diversi inizi abortivi in cui l'RNA Polimerasi non riesce a sintetizzare un filamento di RNA tanto lungo da far cambiare conformazione a tutto il processo.
+È indispensabile infatti che avvenga un cambiamento conformazionale di tutto il complesso, il fattore σ che è servito a far riconoscere il promotore deve staccarsi, i legami che l'Rna Polimerasi faceva col DNA devono diventare aspecifici, così come CAP non è più necessaria.
+Probabilmente il tutto viene indotto dall'allungamento dell'ibrido RNA-DNA che nel momento in cui supera quelle 9-10 paia di basi crea un ingombro sterico tale da indurre il rilascio di tutti gli altri fattori.
+
+Allungamento
+Perché l'allungamento possa verificarsi il fattore σ deve lasciare l' RNA polimerasi, poiché aumentandone l'affinità per il promotore gli impedisce di allontanarsi da questo e di proseguire il suo cammino lungo il DNA da trascrivere. Questo è un momento delicato per tutto il processo e non sono rari inizi abortivi che si riferiscono all'abbandono della catena da parte dell'enzima entro l'aggiunta dei primi nove nucleotidi all'acido nascente. Terminati gli eventi abortivi, l'enzima perde i contatti dal -55 a -35 così l'enzima copre soltanto 50 basi. Quando la catena raggiunge 15-20 nucleotidi l'enzima compie un'altra transizione e forma il complesso di allungamento coprendo 30- 40 basi. Man mano che l'enzima procede nella trascrizione il DNA si deve svolgere più a valle e deve riavvolgersi a monte del sito di trascrizione, si forma così un tratto di circa 12 basi ibrido DNA- RNA. L'allungamento è in direzione 5'→ 3' grazie all'attacco nucleofilo da parte dell'estremità 3' -OH della catena neoformata verso il ribonucleotide trifosfato precursore che deve essere aggiunto, e più precisamente sul P in α liberando pirofosfato.
+
+Terminazione
+
+I segnali di terminazioni sono nella sequenza di DNA, ma espletano la loro funzione solo quando sono trascritti in mRNA. Essi possono indurre l'Rna di nuova sintesi ad assumere una struttura secondaria (generalmente delle forcine di terminazione) tale da destabilizzare e far staccare la Polimerasi, nel caso dei terminatori intragenici. La struttura a forcina si forma grazie all'elevata presenza di guanine e citosine che instaurano tra loro tre legami ad idrogeno. Questa sequenza viene anche stabilizzata da legami ad idrogeno dovuti ad appaiamenti non convenzionali. A valle della zona a forcina che si è formata si trova una sequenza di poliU: questo significa che sul DNA è presente una sequenza di poliA, e poiché l'appaiamento tra A ed U è il più debole che si possa avere, il distacco dell'mRNA del DNA, e la conseguente terminzione della trascrizione viene favorita.
+Se il terminatore non è sufficientemente forte da promuovere da solo la terminazione, e questo può accadere quando non è presente la zona poliU, risulta essere necessaria una sequenza che ha una alta affinità per la proteina RHO, un fattore di terminazione intergenica che stacca letteralmente dal complesso di trascrizione il trascritto primario. RHO si attacca all'mRNA in determinati punti che prendono il nome di RUT, RHO UTilization. Raggiunge la polimerasi e promuove il distacco del DNA quando la polimerasi si sofferma su un terminatore o quando i ribosomi si staccano per la presenza di un codone di terminazione e lasciano lo spazio necessario a RHO per legarsi all'mRNA.
+
+Regolazione nei Procarioti
+
+Livelli e meccanismi di regolazione
+
+Quattro sono i livelli di regolazione nei procarioti:
+Scelta dei promotori da parte della subunità sigma dell’RNA-polimerasi
+Regolazione trascrizionale di primo livello (presenza o meno di impedimenti a monte del promotore = repressori, regolazione negativa)
+Regolazione trascrizionale di secondo livello (presenza o meno di attivatori, regolazione positiva)
+Regolazione co-trascrizionale (attenuazione)
+
+Scelta dei promotori da parte della subunità sigma dell'RNA-polimerasi
+La subunità sigma ha il compito di riconoscere sequenze di nucleotidi chimate “consenso” in una regione di DNA compresa circa tra –70 e +30 rispetto all’inizio vero e proprio della traduzione. Tale regione è detta Promotore.
+σ alternativi vengono di volta in volta sintetizzati ex-novo o attivati attraverso modifiche conformazionali causate da particolari condizioni fisiche come stress metabolico o termico.
+Il primo esempio di geni attivati con questo meccanismo sono quelli che codificano per le proteine da shock termico in questo caso si attiva il σ54 che permette all'RNA Polimerasi di riconoscere il promotore dei geni che codificano per le proteine Hsp.
+Oltre alla subunità sigma, che riconosce due specifiche sequenze consenso a circa –10 (TATAAT, TATAA box) e –35 (TTGACA); per alcuni geni anche le subunità alfa possono interagire con una regione di promotore chiamata elemento UP (Upstream Promoter) ricco di AT presente tra –60 e –40. La velocità e la processività con cui la RNA polimerasi trascriverà il gene successivo al promotore dipende dalla minore o maggiore coincidenza delle sequenze reali con quelle "ottimali" descritte sopra.
+
+Regolazione trascrizionale di primo livello
+Di seguito o nelle vicinanze del promotore possono essere presenti siti a cui si legano repressori proteici, dunque anche se il promotore permettesse l’attacco della RNA-polimerasi, essa non potrà agire finché il repressore non viene rimosso dalla doppia elica a seguito del legame con molecole specifiche. Tale meccanismo è detto Regolazione negativa.
+
+Regolazione trascrizionale di secondo livello
+Spesso, il semplice riconoscimento delle sequenze consenso non è sufficiente affinché l’RNA polimerasi trascriva in modo efficiente e veloce il gene. A questo proposito intervengono altre proteine che interagendo con siti del DNA aumentano l’affinità della regione per la RNA-polimerasi. Il tutto risulta in una regolazione positiva della Trascrizione.
+
+Regolazione co-trascrizionale
+Mentre la trascrizione è già in atto, può crearsi o meno un complesso di terminazione che stacca precocemente la RNA-polimerasi, producendo un RNA non funzionale. Tale meccanismo "attenua" l’efficacia della trascrizione.
+
+Trascrizione negli eucarioti
+
+Dato l'elevato numero di geni presenti in un organismo eucariote, la trascrizione è un meccanismo molto più complesso perché necessita di un sistema di regolazione ben più complesso che agisca su più livelli.
+Una prima notevole differenza sta proprio nelle RNA Polimerasi: esse infatti vengono suddivise in tre categorie in funzione dell'ambito genetico in cui lavorano. L' RNA Polimerasi I presente nel nucleolo è capace di trascrivere soltanto i geni codificanti gli RNA ribosomali grandi ovvero i pre-rRna dai quali matureranno gli rRNA 35s e 47s.
+L'RNA Polimerasi II che si trova nel nucleoplasma (parte di nucleo che non contiene il nucleolo) trascrive gli hn-RNA ovvero RNA nucleari eterogenei, una grande classe cui fanno parte la stragrande magioranza di geni. Ma anche gli sn-RNA ovvero gli RNA nucleari piccoli U1, U2 U,4, U5, facenti parte di ribozimi coinvolti nell'assemblaggio dello spliceosoma per la maturazione dei trascritti primari. Infine l'RNA Polimerasi III che si trova nel nucleoplasma trascrive l'r-RNA 5s e 7s tutti i t-RNA e l'sn-RNA U6.
+Tutto ciò ci da delle significative indicazioni della complessità del genoma eucariocito tale da giustificare la presenza di 3 RNA Polimerasi e di conseguenza come queste tre classi abbiano dei sistemi di regolazione molto eterogenei.
+
+Prima fase: legame con la TBP
+
+Sebbene sia arduo stabilire come si susseguono gli eventi che portano alla trascrizione di un gene, premesso che ci troviamo in una parte del genoma già libero (non complessato) con i nucleosomi, molto probabilmente il primo evento è il riconoscimento del promotore da parte della proteina TBP, tutto ciò vale solo nei geni con l'elemento TATA e solo se non ci sono meccanismi di attivazione a monte di tutto ciò.
+La TBP ha la funzione di produrre due forti piegature al DNA (o kink) a livello della sequenza TATA che inducono in questo punto un angolo di circa 90°. Questo forte angolo non sarà la causa dell’apertura del promotore (o melting) ma ha la funzione di allargare i solchi maggiori al fine di favorire una migliore interazioni delle altre proteine del complesso di attivazione basale.
+
+Seconda fase: assemblaggio del complesso DAB
+
+In realtà la TBP intercetta la sequenza TATA spesso legata ad altri fattori chiamati TAF's, e in questa forma viene chiamata TFIID (“TBP+TAF's” = TFIID)per formare il complesso di inizio preliminare. A questo punto la topologia del DNA è tale da poter reclutare altri fattori di trascrizione ovvero il TFIIA e il TFIIB. Tale complesso trimerico TBP TFIIA TFIIB e chiamato anche DAB.
+Il complesso DAB così assemblato è capace di legare un quarto fattore di trascrizione che porta con se la RNA Polimerasi II che è TFIIF, questo è formato da 3 proteine chiamate RAP 30, RAP 74 e RAP 38 (che fa parte in realtà anche di TFIIS) alcune di esse hanno delle forti omologie con il fattore s procariotico e questo ci fa capire come la funzione di TFIIF è quella di permettere il riconoscimento del promotore alla RNA Polimerasi II anche se in questo caso il quadro è ben più complesso.
+
+Terza fase: superamento dello stallo
+
+Quando TFIIF porta la RNA Polimerasi II sul promotore essa interagisce con delle a- eliche in posizione carbossi terminali alla TBP. Tale interazione richiama sulla TBP altri 2 fattori di trascrizione la TFIIE e TFIIH, la prima ha attività elicasica mentre la seconda attività chinasica sulla RNA Polimerasi II, queste reazioni causano rispettivamente un allargamento della bolla di trascrizione e un cambiamento conformazionale alla RNA Polimerasi II che se opportunamente fosforilata nella regione C-Terminale supera la fase di stallo e inizia a diventare processiva.
+
+Quarta fase: pulizia del promotore e allungamento
+
+Nonostante ciò nelle prime fasi la velocità di trascrizione non può essere elevata a causa delle ancora forti interazioni con tutti gli altri fattori ancora legati alla RNA Polimerasi II. La fase di pulizia del promotore avviene grazie al rilascio del DAB e di TFIIF che avevano inizialmente il solo ruolo di stabilizzare il complesso di inizio. Tale rilascio avviene grazie a opportune fosforilazioni/defosforilazioni della RNA Polimerasi II a livello del dominio C-Terminale che potremmo definire una sorta di pannello di controllo su cui accedono molti altri regolatori della trascrizioni sia in fasi precoci che tardive.
+
+Le reazioni delle RNA polimerasi sono all'equilibrio
+Nell'operazione di allungamento del filamento di RNA, le RNA polimerasi catalizzano la seguente reazione di polimerizzazione
+:(rNTP)n + rNTP ⇄ (rNTP)n+1 + PP
+Trattandosi di una reazione all'equilibrio, le polimerasi possono fare una pausa cinetica, non dovuto ad una vera e propria attività di proofreading ma ad al semplice fatto che esse catalizzano una reazione reversibile, termodinamicamente favorita in ambedue i sensi, quindi con Δg=0. La reazione viene spinta verso destra, mediante l'azione congiunta della pirofosfatasi che degrada il pirofosfato inorganico: attraverso il principio di Le Chatelier (o equilibro mobile), infatti, diminuendo la concentrazione dei prodotti (in questo caso del pirofosfato inorganico), il sistema tenderà a consumare di più i reagenti per trasformarli in prodotti e ripristinare l'equilibrio chimico. Nella fattispecie, la diminuizione del pirofosfato inorganico spinge il sistema a consumare rNTP per liberare di nuovo il pirofosfato spingendo la reazione verso destra. In conclusione la pausa cinetica della RNA polimerasi non è dovutà ad attività di proofreading ma ad una mancata sincronia tra l'azione di polimerizzazione e quella di degradazione della pirofosfatasi.
+
+Quinta fase: terminazione
+
+Il terminale 3’ dell’RNA eucariotico è definito da modifiche post-trascrizionali, in pratica l’RNA trascritto viene accorciato in seguito al taglio a livello di una specifica sequenza che si trova 20-30 nucleotidi a valle del sito di poliadenilazione (AAUAAA); immediatamente dopo il taglio una specifica polimerasi aggiunge al 3’ del nuovo trascritto una coda di poli-A (ca. 200 nucleotidi).
+Funzioni della coda poli-A :
+* esportare l’mRNA maturo dal nucleo;
+* influenzare la stabilità degli mRNA nel citoplasma
+
+Retrotrascrizione
+
+Per retrotrascrizione (o trascrizione inversa) si intende una trascrizione che non segue il dogma centrale della biologia molecolare, secondo il quale l'informazione genetica fluisce dal DNA, all'RNA, alle proteine. La retrotrascrizione è infatti mediata dall'enzima trascrittasi inversa, che catalizza la sintesi di DNA complementare ad un RNA. Tale evento è frequente nei virus a RNA (come l'HIV ed il virus del sarcoma di Rous, il primo ad essere stato scoperto), che sono in grado di replicarsi solo attraverso la conversione del loro genoma da RNA a DNA.
+
+Regolatori della trascrizione
+
+Coattivatori e Mediatori
+
+TAFs
+
+USA
+
+Bibliografia
+*ISBN 8808090353
+
+Voci correlate
+* Dogma centrale della biologia molecolare
+* Maturazione dell'mRNA
+* Splicing
+* Capping
+* Poliadenilazione
+* Sintesi proteica
+* Trascrizione inversa
+
+Collegamenti esterni
+*DNA Translation Tool a cura di Medical Computing.Net
+*Animazione della trascrizione
+*Dal DNA alla proteina
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 20:47:30 from:
+  http://it.wikipedia.org/wiki/Trascrizione_(biologia)
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

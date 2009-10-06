@@ -1,0 +1,149 @@
+La corrente elettrica è un qualsiasi flusso ordinato di carica elettrica, tipicamente attraverso un filo metallico o qualche altro materiale conduttore per un tempo prolungato. La corrente convenzionale venne definita inizialmente, nella storia dell'elettricità, come il flusso di carica positiva, anche se sappiamo, nel caso della conduzione metallica, che la corrente è causata dal flusso di elettroni con carica negativa nella direzione opposta. Nonostante ciò, l'originale definizione di corrente convenzionale resta valida. Il simbolo normalmente usato per la quantità di corrente (la quantità di carica che scorre nell'unità di tempo) è I, e l'unità di misura nel SI per l'intensità di corrente elettrica è l'ampere.
+
+Flusso di corrente
+
+Nei conduttori metallici, come i cavi elettrici, la corrente è causata da un flusso di elettroni (particelle a carica negativa), ma non è così nella maggior parte dei conduttori non metallici. La corrente elettrica negli elettroliti è data dal flusso di atomi e/o molecole elettricamente cariche (ioni), che possono essere sia negativi che positivi. Ad esempio, una cella elettrochimica può essere costruita con acqua salata (una soluzione di cloruro di sodio) su un lato della membrana, ed acqua pura dall'altra parte. La membrana fa passare gli ioni di sodio con carica positiva, ma non quelli di cloro con carica negativa, il risultato netto è una corrente. Le correnti elettriche nel plasma, sono flussi di elettroni, così come di ioni positivi e negativi. Nell'acqua ghiacciata e in alcuni solidi elettrolitici, la corrente è costituita da un flusso di protoni.
+
+Esistono anche casi in cui gli elettroni sono la carica che si muove, ma dove ha più senso pensare alla corrente come ai "buchi" positivi (gli spazi che dovrebbero avere un elettrone per rendere il conduttore neutro e vengono chiamati lacune) come quelli in movimento. Questo è il caso dei semiconduttori tipo-p.
+
+Sia che si tratti di un flusso di elettroni (quindi di cariche negative) o di ioni (cariche negative o positive) per convenzione la corrente è rappresentata come un flusso di cariche positive. Questa convenzione si deve a Benjamin Franklin.
+
+Misurazione
+La corrente elettrica può essere misurata direttamente con un amperometro, ma questo metodo richiede l'interruzione del circuito, che talvolta può essere un inconveniente. La corrente può anche essere misurata senza interrompere il circuito, tramite il rilevamento del campo magnetico da essa generato. Gli strumenti usati per questo comprendono: sensori a effetto Hall, morsetti e spire di Rogowski.
+
+Definizione
+Sappiamo che un conduttore si trova in equilibrio elettrico se il campo elettrico è nullo in ogni punto interno al conduttore, ossia il potenziale elettrico sia costante in ogni punto del conduttore. Chiaramente se vi è una differenza di potenziale fra due punti del conduttore allora vi è anche campo elettrico diverso da zero e quindi corrente elettrica. Questa differenza di potenziale viene chiamata forza elettromotrice ed è alla base del funzionamento dei circuiti elettrici ed elettromagnetici insieme alla Legge di Ohm e alle Leggi di Kirchhoff.
+
+Presa una sezione del conduttore attraverso la quale transita una quantità di carica elettrica \Delta Q nell'intervallo di tempo \Delta t si ha un'intensità di corrente elettrica:
+
+:I = \lim_ \frac = \frac
+
+L'intensità di corrente elettrica, pur avendo una intensità, una direzione e un verso, è una quantità scalare, perché si somma scalarmente, come mostra la legge dei nodi (v. le Leggi di Kirchhoff). Essa è collegata però ad una grandezza vettoriale che si chiama densità di corrente.
+
+Densità di corrente
+
+La densità di corrente è la quantità di carica per unità di tempo che attraversa l'unità di superficie (per una sezione trasversale):
+
+siano allora N il numero dei portatori di carica per m^3 ognuno di essi di carica q che si muovono entro il conduttore con velocità v_d detta velocità di deriva; allora la carica che fluisce nell'unità di tempo attraverso una sezione A del conduttore:
+
+:I = \int_ N q \vec v_d \cdot \vec n dA
+
+dove \vec n è il versore normale alla superficie A. Si chiama allora vettore densità di corrente il vettore:
+
+:\vec J = N q \vec v_d
+
+Questo è un vettore che ha la stessa direzione e lo stesso verso della velocità di deriva dei portatori di carica che a sua volta ha direzione uguale e concorde al campo elettrico se la carica q è positiva e discorde se negativa.
+
+Equazione di continuità
+
+Dalla conservazione della carica deriva una proprietà fondamentale della densità di carica. Utilizzando il teorema della divergenza sappiamo che:
+
+:\int_ \vec J \cdot \vec n dA = \Phi_A (\vec J) = \int_ \vec \nabla \cdot \vec J \, d\tau
+
+dove \tau è il volume del conduttore. La carica che fluisce attraverso la superficie A è la stessa quantità di carica che fluisce attraverso il volume \tau nello stesso tempo:
+
+:I = - \frac \int_ \rho \, d\tau
+
+dove la derivata parziale è necessaria poiché la corrente può variare anche per superficie. \rho è la densità di carica volumetrica. Dal confronto di questa equazione con l'integrale della divergenza abbiamo l'equazione di continuità:
+
+:\int_ \left ( \vec \nabla \cdot \vec J + \frac \right ) \, d\tau = 0
+
+ovvero
+
+:\vec \nabla \cdot \vec J = - \frac
+
+Nel caso stazionario la carica si conserva nel tempo \rho (t) = cost per cui \frac = 0 e questo ci dice:
+
+:\vec \nabla \cdot \vec J = 0
+
+cioè ci si trova in regime stazionario di modo che il campo vettoriale prodotto dal vettore densità di corrente è solenoidale. Ciò ci dice anche che il flusso della densità di corrente è costante e quindi la corrente elettrica attraverso una qualunque sezione del conduttore è sempre la stessa, indipendentemente dalla sezione considerata. Questo fatto va sotto il nome di primo dei Principi di Kirchhoff.
+
+Velocità di deriva
+Nella definizione di densità di corrente ci si trova di fronte ad una velocità dei portatori di carica. Questa velocità non è la velocità propria degli elettroni o dei portatori di carica positiva (ioni o altro). La velocità di agitazione termica delle particelle entro un conduttore o un gas è dovuta all'agitazione termica e ubbidisce alle distribuzioni statistiche e al principio di equipartizione dell'energia ed è dell'ordine di 10^ m/s. In effetti si può facilmente stimare:
+
+:\frac m_e \bar v_^ = \frac k_B T
+
+dove m_e = 9,1 \cdot 10^ \, Kg è la massa di un elettrone, k_B = 1,4 \cdot 10^ \, J/K è la costante di Boltzmann e T = 300 \, K è la temperatura ambiente assoluta. Risulta:
+
+:\bar v_t = \sqrt = 1,18 \cdot 10^ \, m/s.
+
+Oltre a questo moto casuale, perché ci sia un flusso di carica, i portatori di carica devono muoversi di un'uguale velocità di deriva o di trascinamento. Gli elettroni di conduzione sono i portatori di carica nei metalli e seguono percorsi irregolari, saltando da un atomo all'altro, ma muovendosi nel complesso nella direzione del campo elettrico. La loro velocità di deriva è circa dell'ordine di  10^ \, m/s cioè frazioni di millimetro al secondo. Possiamo stimare questa velocità usando l'energia:
+
+: = \frac \cdot  \simeq 10^ \ m/s,
+
+dove  è il tempo medio del cammino libero medio tra gli urti di due elettroni.
+
+La velocità di deriva si può anche calcolare secondo l'equazione:
+
+:I=nAvQ \!\
+dove
+:I \!\  è l'intensità di corrente
+:n \!\  è il numero di portatori di carica per unità di volume
+:A \!\  è l'area della sezione del conduttore
+:v \!\  è la velocità di deriva, e
+:Q \!\  è la carica di ciascun portatore di carica.
+Le correnti elettriche nei solidi tipicamente fluiscono molto lentamente. Per esempio, in un cavo di rame di sezione pari a 0,5 mm², con una corrente di 5 A, la velocità di deriva è nell'ordine del millimetro al secondo. Invece, in un tubo catodico, quasi vuoto, gli elettroni si muovono su linee quasi rette a circa un decimo della velocità della luce.
+
+Questa bassa velocità non impedisce ai segnali elettrici di trasmettersi a velocità dell'ordine della velocità della luce, poiché quello che si propaga non è la carica elettrica, ma il campo elettrico attraverso il conduttore.
+
+Questa ultima considerazione ci permette di vedere che il vettore densità di carica è proporzionale al campo elettrico, infatti:
+
+:\vec J = nq\vec v_ = n \frac \frac = \sigma \cdot \vec E
+
+dove l_m = 10^ \ m è il cammino libero medio degli elettroni e v_ è la velocità di agitazione termica degli elettroni.
+
+In questo modo \vec J = \sigma \vec E dove \sigma è la conduttività elettrica ed è il fattore di proporzionalità.
+
+Pericolosità della corrente
+La soglia di percezione della correnti elettrica nell'uomo è circa di 0,5 mA in c.a. (corrente alternata) a frequenza industriale (f = 50÷60 Hz) e di 2 mA in c.c. (corrente continua), inoltre si deve tenere conto che l'effetto di una determinata corrente elettrica varia non solo per l'intensità, ma anche per la durata della percorrenza.
+
+Si noti che la tensione non è rilevante negli effetti sull'uomo, ma occorre una tensione minima per essere attraversati dalla corrente, quindi sotto i 50 V circa non si corrono rischi, ma al di sopra è ininfluente la tensione, gli effetti dipendono solo dall'intensità.
+Con intensità maggiori a quelle specificate si producono nel corpo umano i seguenti effetti:
+*Tetanizzazione muscolare:
+
+i muscoli sottoposti ad una corrente alternata, subiscono una sequenza di stimoli elettrici; non riuscendo a contrarsi e rilassarsi con la frequenza della corrente, i muscoli restano contratti permanentemente. Tale circostanza è particolarmente grave quando un oggetto in tensione viene impugnato volontariamente, poiché la tetanizzazione paralizza i muscoli impedendone il rilascio; la massima corrente per la quale si riesce a lasciare la presa viene chiamata corrente di rilascio e si aggira sui 10÷30 mA a f.i. (frequenza industriale). La contrazione muscolare smette quando finisce anche il passaggio della corrente.
+*Blocco respiratorio: tetanizzazione dei muscoli respiratori quando il contatto interessa la regione toracico-polmonare. Comporta ipossia quindi danni al cervello dopo pochi minuti.
+*Fibrillazione ventricolare: una corrente alternata sufficientemente elevata (> 50 mA) che interessi la regione toracica può provocare la perdita di coordinamento dei muscoli cardiaci, così il cuore non riesce più a pompare sangue causando ipossia e danni al cervello.
+*Arresto cardiaco.
+*Ustioni: dovuta ad elevati densità di corrente tra cute e conduttore in tensione, per effetto Joule, provoca elevate temperature per brevi periodi capaci di provocare gravi ustioni.
+
+#Limiti di corrente:
+#:Si definisce soglia media di pericolosità:
+#:I_p = I_0 +
+#:dove con I_p  : corrente pericolosa e \Delta t: tempo di permanenza; questa individua il limite al di sotto del quale la corrente è percepibile ma non pericolosa; al di sopra di esso la corrente deve considerarsi potenzialmente pericolosa.
+#:I parametri dell'equazione si possono assumere, a frequenza industriale:
+#:I_0 = 10 \div 30 \, mA \setminus Q = 10 \, mAs.
+#Limiti di tensione:
+#:Il corpo umano presenta prevalentemente un comportamento resistivo: la tensione U_p = R_u \cdot I_p che corrisponde alla corrente pericolosa è di difficile definizione perché la resistenza del corpo Ru può variare in un campo molto ampio, dipendendo da molteplici fattori quali i punti di contatto, l'estensione del contatto, la pressione, lo spessore della pelle e il suo grado di umidità. Si assume R_u > 2000 \Omega , per questo motivo non vengono ritenute pericolose tensioni sinusoidali con valore efficace U  e tensioni continue con U, applicate per un tempo illimitato.
+
+Una persona può venire a contatto con parti in tensione e quindi subire gli effetti del passaggio di corrente mediante contatto diretto oppure contatto indiretto. Quindi per evitare ciò si devo attuare delle contromisure imposte dalla norma vigente (norme CEI).
+
+La protezione contro i contatti diretti si attuano prevenendo i contatti accidentali con le parti in tensione:
+*isolamento delle parti attive con materiale isolante non removibile,
+*involucri o barriere tali da impedire ogni contatto con le parti in tensione,
+*ostacoli o distanziatori,
+*interruttori differenziali ad alta sensibilità, con correnti differenziali di soglia di Is ≤30 mA
+
+La protezione contro i contatti indiretti si realizza nei seguenti modi:
+*Messa a terra delle masse,
+*Interruzione automatica dell'alimentazione tramite interruttori automatici,
+*Doppio isolamento delle apparecchiature
+*Separazione elettrica
+
+Schema riassuntivo degli effetti della corrente (tempi di contatto prolungato):
+
+Voci correlate
+* Campo elettrico
+* Campo magnetico
+* Carica di un condensatore
+* Conduttività elettrica
+* Corrente alternata
+* Corrente continua
+* Legge di Ohm
+* Scarica di un condensatore
+* Generatore di corrente
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 13:54:23 from:
+  http://it.wikipedia.org/wiki/Corrente_elettrica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

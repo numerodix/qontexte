@@ -1,0 +1,274 @@
+L'impronta ecologica è un indice statistico utilizzato per misurare la richiesta umana nei confronti della natura. Essa mette in relazione il consumo umano di risorse naturali con la capacità della Terra di rigenerarle.
+
+Significato
+In parole povere, essa misura l'area biologicamente produttiva di mare e di terra necessaria per rigenerare le risorse consumate da una popolazione umana e per assorbire i rifiuti corrispondenti. Utilizzando l'impronta ecologica, è possibile stimare quanti "pianeta Terra" servirebbero per sostenere l'umanità, qualora tutti vivessero secondo un determinato stile di vita.
+
+Confrontando l'impronta di un individuo (o regione, o stato) con la quantità di terra disponibile pro-capite (cioè il rapporto tra superficie totale e popolazione mondiale) si può capire se il livello di consumi del campione è sostenibile o meno.
+
+Per calcolare l'impronta relativa ad un insieme di consumi si mette in relazione la quantità di ogni bene consumato (es. grano, riso, mais, cereali, carni, frutta, verdura, radici e tuberi, legumi, ecc.) con una costante di rendimento espressa in kg/ha (chilogrammi per ettaro). Il risultato è una superficie.
+
+Per calcolare l'impatto dei consumi di energia, questa viene convertita in tonnellate equivalenti di anidride carbonica, ed il calcolo viene effettuato considerando la quantità di terra forestata necessaria per assorbire le suddette tonnellate di CO2.
+
+Sebbene l'approccio sia ampiamente utilizzato, esso è anche al centro di critiche.
+
+Breve storia
+Il concetto di impronta ecologica è stato introdotto nel 1996 da Mathis Wackernagel e William Rees. A partire dal 1999 il WWF aggiorna periodicamente il calcolo dell'impronta ecologica nel suo Living Planet Report.
+
+Nel 2003 Mathis Wackernagel e altri hanno fondato il Global Footprint Network, che si propone di migliorare la misura dell'impronta ecologica e di conferirle un'importanza analoga a quella del prodotto interno lordo. Il Global Footprint Network collabora attualmente con 22 paesi - tra cui Australia, Brasile, Canada, Cina, Finlandia, Francia, Germania, Italia, Messico, Regno Unito, Russia, Sud Africa, Svizzera - e con agenzie governative, autorità locali, università, istituti di ricerca, società di consulenza, associazioni. In Italia collaborano con il Global Footprint Network il Dipartimento di Scienze e Tecnologie Chimiche e dei Biosistemi dell'Università di Siena, l'Istituto Ricerche Economico Sociali della Regione Piemonte, la società di ricerca e consulenza Ambiente Italia Srl, la Rete Lilliput.
+
+In Italia l'impronta ecologica è stata e viene calcolata non solo per l'intera nazione, ma anche su scala regionale e locale. Il Cras (Centro ricerche applicate per lo sviluppo sostenibile) ha calcolato l'impronta per la Basilicata, la Calabria, la Campania, la Liguria, la Puglia, la Sardegna, la Sicilia e la Toscana; l'Istituto Ricerche Interdisciplinari sulla Sostenibilità , costituito dalle università di Torino e di Brescia, ha calcolato l'impronta ecologica per la province di Ancona, Ascoli Piceno, Cagliari, Forlì-Cesena, Pesaro Urbino, Siena e per il comune di Follonica. Anche la Provincia di Bologna ha pubblicato i calcoli relativi all'impronta del proprio territorio.
+
+Modalità di calcolo
+Si considera l'utilizzo di sei categorie principali di territorio:
+* terreno per l'energia: l'area di foresta necessaria per assorbire l'anidride carbonica prodotta dall'utilizzo di combustibili fossili;
+* terreno agricolo: superficie arabile utilizzata per la produzione di alimenti ed altri beni (iuta, tabacco, ecc.);
+* pascoli: superficie destinata all'allevamento;
+* foreste: superficie destinata alla produzione di legname;
+* superficie edificata: superficie dedicata agli insediamenti abitativi, agli impianti industriali, alle aree per servizi, alle vie di comunicazione;
+* mare: superficie marina dedicata alla crescita di risorse per la pesca.
+
+L'intera superficie delle terre emerse è composta all'incirca da:
+* foreste ed aree boschive (34%)
+* pascoli permanenti (23%)
+* terra arabile (10%)
+* terra costruita (2%)
+* altri suoli: ghiacciai, rocce, deserti, ecc. (32%).
+
+Le diverse superfici vengono ridotte ad una misura comune, attribuendo a ciascuna un peso proporzionale alla sua produttività media mondiale; si individua così l'"area equivalente" necessaria per produrre la quantità di biomassa usata da una data popolazione (mondiale, nazionale, regionale, locale), misurata in "ettari globali" (gha).
+
+L'impronta ecologica F viene calcolata con la formula:
+
+F=\sum_^n E_i=\sum_^n C_i q_i
+
+dove Ei è l'impronta ecologica derivante dal consumo Ci del prodotto i-esimo e qi, espresso in ettari/chilogrammo, è il reciproco della produttività media per il prodotto i-esimo.
+
+L'impronta ecologica pro capite f viene calcolata dividendo per la popolazione N residente nella regione considerata:
+
+f=\sum_^n e_i=\sum_^n \frac
+
+Risultati
+Da alcuni studi effettuati su scala mondiale e su alcuni paesi emerge che l'impronta mondiale è maggiore della capacità bioproduttiva mondiale. Secondo Mathis Wackernagel, nel 1961 l'umanità usava il 70% della capacità globale della biosfera, ma nel 1999 era arrivata al 120%.
+
+Ciò significa che stiamo consumando le risorse rinnovabili più velocemente di quanto potremmo, cioè che stiamo intaccando il capitale naturale e che nel futuro potremo disporre di meno materie prime per i nostri consumi.
+
+Relativamente ad alcuni stati, i dati sono i seguenti. Per ogni paese è riportata l'impronta pro capite. Il dato va raffrontato con la biocapacità media mondiale che è di 1,78 ettari pro capite.
+
+Limiti
+L'impronta ecologica ha parecchi limiti, riconosciuti dagli stessi autori. In primo luogo riduce tutti i valori ad un sola unità di misura, la terra. Ciò distorce la rappresentazione di problemi complessi e multidimensionali.
+
+Relativamente all'energia, vi sono problemi di stima del rendimento; non si fa riferimento all'approvvigionamento da fonti non rinnovabili; non sono considerate altre emissioni oltre a quella di CO2; nel caso dell'energia nucleare le scorie radioattive sono semplicemente ignorate.
+
+Poiché i consumi sono riferiti alle sole risorse rinnovabili, non viene misurata la dipendenza da risorse non rinnovabili (minerali, petrolio). Lo stesso si può dire per la produzione di rifiuti e di materiali non smaltibili.
+
+L'inquinamento non è considerato, ad eccezione delle emissioni di CO2.
+
+Da ciò deriva che:
+# il danno ambientale reale è molto maggiore di quello che mostra l'impronta ecologica, perché non vengono considerati molti fattori degradanti;
+# l'impronta ecologica fornisce utili indicazioni, ma rimane uno strumento non definitivo per le scelte dei governi: anche se si dovesse raggiungere la parità tra consumi e disponibilità questo non ci assicurerebbe la soluzione dei problemi ambientali.
+
+L'impronta ecologica locale
+Un ecosistema è formato da tutti gli esseri viventi e dai fattori non viventi (aria, acqua, suolo) presenti in un certo ambiente: la sua "capacità di carico" indica la massima popolazione di una determinata specie animale o vegetale sopportabile senza che sia compromessa la produttività. Si esprime come numero di individui per ettaro e dipende dal modo in cui la specie in questione usa la capacità dell'ecosistema di produrre cibo, assorbire i rifiuti prodotti, offrire altre risorse come posti per nidificare o mettere le radici.
+
+Nel caso dell'uomo tale concetto perde molta della sua significatività, sia perché i consumi umani non sono determinati esclusivamente dalla biologia, sia perché le forme d'uso delle risorse variano enormemente da luogo a luogo e nel tempo, con lo sviluppo della tecnologia ed il mutare dei bisogni; inoltre con il commercio l'uomo attinge alla produttività di ecosistemi lontani.
+
+Nelle relazioni ambientali possiamo trovare dati da cui si elaborano le statistiche che vengono interpretate e riassunte negli indicatori, che ci danno una fotografia immediata di una porzione di realtà. Più indicatori possono contribuire all'elaborazione di un indice, ad esempio l'HDI (indice di sviluppo umano) utilizzato per paragonare tra loro i diversi paesi per mezzo di tre variabili: speranza di vita, tasso di scolarità e ricchezza (PIL reale). Gli indicatori possono aiutarci a valutare la sostenibilità della vita in uno Stato, una regione o una città; interpretano lo stato dell'ambiente e le pressioni delle attività umane e permettono la rappresentazione sintetica dei problemi indagati, senza perderne il contenuto informativo. Possiedono dunque un valore non solo analitico ma anche sinottico: raccolgono informazioni finalizzate a permettere una valutazione, proprio come la temperatura corporea è un indicatore dello stato di salute dell'organismo umano. Dovrebbero essere semplici, credibili, sintetici. Ogni perturbazione dell'uomo sull'ambiente determina una risposta con cambiamento dello stato iniziale, per questo motivo gli indicatori possono far riferimento a:
+*pressione ambientale che le diverse attività umane esercitano sull'ambiente;
+*qualità dell'ambiente attuale e sue alterazioni;
+*risposta alle misure prese dalla società per migliorare lo stato dell'ambiente.
+L'impronta ecologica è un buon indicatore di pressione ambientale: risponde infatti alla domanda "Quanto pesiamo sull'ambiente?". Il Living Planet Index cerca invece di stimare la qualità dell'ambiente, contando gli ecosistemi non degradati a livello mondiale e risponde al quesito "Quanta natura ci rimane?". La necessità di usare questi indicatori "alternativi" si trova già nell'Agenda 21 e nasce dalla volontà di affiancare le contabilità ambientali a quelle economiche.
+
+Ricordiamo che gli indicatori rappresentano un modello empirico di realtà, non la realtà stessa.
+
+Il concetto di impronta ecologica inverte i termini del problema e valuta la superficie di ecosistemi produttivi necessaria per sostenere i consumi di un individuo o di un gruppo di individui. I consumi umani comportano l'utilizzo di territori che vengono sottratti alla natura: aree edificate per insediamenti umani, impianti ed infrastrutture, territori per l'estrazione di materie prime e la produzione di energia, spazi necessari per lo smaltimento degli scarti generati durante i cicli di produzione e consumo.
+Sommando i territori richiesti da ogni tipo di consumo e di scarto di una popolazione definita, otteniamo una superficie che rappresenta l'impronta ecologica di quella popolazione, indipendentemente da dove tali territori sono situati.
+A fini esplicativi si immagini una città racchiusa da una cupola trasparente che lasci entrare la luce solare, ma che impedisca ogni scambio di materia con l'esterno: la sopravvivenza delle persone che vivono nella cupola dipende da ciò che è contenuto all'interno. Immaginiamo di poter allargare la cupola fino ad avere un territorio sufficiente per mantenere tutti gli abitanti della città sostenendone i consumi ed assorbendone i rifiuti. Quanto dovrà essere grande la cupola?
+La risposta a questa domanda si ha calcolando l'impronta ecologica.
+
+Calcolo
+Il calcolo dell'impronta ecologica può essere effettuato individualmente con misurazioni dirette dei consumi personali o familiari, oppure può essere applicato a comunità ampie di individui (nazioni, regioni, città) ricavando il consumo individuale medio partendo da dati statistici regionali o nazionali aggregati che vanno poi divisi per il numero di abitanti:
+
+:consumo netto = produzione + importazione - esportazione
+
+Il passo successivo consiste nel calcolare la superficie pro-capite necessaria per la produzione di ciascuno dei principali beni di consumo, dividendo il consumo medio annuale pro-capite di quel bene (espresso in kg/pro-capite) per la sua produttività, cioè per la superficie di terreno necessaria a produrre quel bene (espressa in kg/ha):
+
+:superficie necessaria per un certo bene = consumo medio annuale pro-capite / produttività media annuale per ettaro
+
+I dati riflettono non solo le superfici direttamente occupate dai consumi, ma anche il territorio usato per la loro produzione e mantenimento. Le abitazioni, ad esempio, comprendono il terreno su cui la casa è stata costruita (inclusa una percentuale proporzionale di area urbana occupata dalle infrastrutture) il territorio necessario per produrre i materiali da costruzione e i territori per l'energia per il riscaldamento. Poiché parecchi beni di consumo (ad esempio, il vestiario e l'arredamento) incorporano input diversi (es. tessuti, legno), è necessario identificare gli input primari e calcolare la superficie necessaria alla produzione di ciascuno di essi: ad esempio per produrre un chilo di pane sono necessari 24 m² di terreno agricolo per coltivare il grano e 31 m² di terreno "energetico" per i concimi, i pesticidi, i macchinari usati per la coltivazione, la lavorazione ed il trasporto.
+L'impronta ecologica complessiva è la somma di tutte le superfici necessarie per la produzione della totalità dei beni consumati da una persona. L'impronta dell'intera popolazione si ottiene moltiplicando l'impronta ecologica pro-capite per la popolazione totale:
+
+:impronta ecologica totale = impronta ecologica pro-capite x popolazione
+
+Disponendo di una quantità sufficiente di dati, è possibile calcolare con precisione l'impronta di gruppi di consumatori (ad esempio una città, una famiglia, tutte le persone appartenenti ad una specifica classe di reddito) e fare dei confronti da cui partire per discussioni, riflessioni critiche e stimoli al cambiamento del proprio stile di vita.
+Bisogna sottolineare che il risultato ottenuto non è qualcosa di statico, di immutabile, ma è provvisorio e necessariamente approssimato, perché cerca di fotografare una realtà in continuo mutamento.
+Nell'esempio esposto si è fatto un accenno di calcolo approssimato ed esemplificativo dell'impronta ecologica di una generica produzione agricola introducendo implicitamente due categorie strettamente specifiche: la categoria di consumo "alimentare" e la categoria territoriale "agricola". Queste sono solo due delle categorie a cui il modello matematico dell'impronta ecologica può fare riferimento.
+Le "categorie di consumo" normalmente usate per il calcolo dell'impronta ecologica sono le seguenti:
+*Alimenti
+*Abitazioni
+*Trasporti
+*Beni di consumo
+*Servizi (flussi di energia e di materia necessari per istruzione, sanità, ecc).
+Queste classi possono essere ulteriormente scomposte: ad esempio, nella categoria "alimenti" possono essere separati i prodotti di origine vegetale ed animale; i trasporti possono essere suddivisi in trasporti pubblici e privati.
+Le "categorie di territorio" utilizzate nel calcolo dell'impronta ecologica sono cinque, a cui si aggiunge la superficie marina:
+*Terra per l'energia;
+*Terre arabili per l'agricoltura;
+*Pascoli;
+*Foreste;
+*Superficie edificata;
+*Mare.
+
+È necessario specificare, a questo punto, la definizione e l'ambito di alcune delle categorie territoriali appena elencate.
+Per quantificare la "terra per l'energia", è possibile utilizzare due diversi metodi che, comunque, danno lo stesso risultato.
+
+Un primo modo è quello di valutare la parte della biosfera necessaria ad assorbire la CO2 emessa bruciando i combustibili fossili. Questo ragionamento si basa sulla necessità di contrastare l'accumulo di CO2 in atmosfera per scongiurare mutamenti climatici. Con questo metodo si evidenzia il fatto che se si volessero piantate altre foreste per trattenere tutta la CO2 prodotta dalle attività umane, la terra disponibile sul pianeta non sarebbe sufficiente. La creazione di serbatoi di carbonio mediante azioni di riforestazione, proposta portata avanti da molti paesi che non vogliono ridurre le proprie emissioni, non sarebbe quindi una soluzione sufficiente, né in senso retroattivo né in senso preventivo.
+
+Un secondo metodo consiste nel calcolare l'area necessaria per ottenere vegetali (biomasse) da cui ricavare combustibile, in sostituzione di quello fossile. Con questo approccio si vuole soddisfare uno dei principali requisiti della sostenibilità: la sostituzione dei combustibili fossili con una fonte rinnovabile. Anche in questo caso la terra per l'energia non corrisponde a superfici reali ma semmai a "territori fantasma", come sono stati definiti da alcuni studiosi, vale a dire quei territori occupati, milioni di anni fa, da foreste e paludi che hanno dato origine ai combustibili fossili.
+Tutte queste considerazioni valgono per le fonti di energia da combustibili fossili che attualmente sono quelle più utilizzate; per altre fonti energetiche devono essere utilizzati approcci differenti. Per quanto riguarda per esempio l'energia idroelettrica, la terra per l'energia corrisponde al territorio allagato a monte delle dighe ed all'area occupata dagli elettrodotti ad alta tensione.
+
+Le "aree edificate" sono quelle che ospitano gli insediamenti umani e le strade, e si estendono approssimativamente nel mondo per 0,1 ettari pro capite. Poiché la maggior parte degli insediamenti umani sono situati nelle aree più fertili del mondo, i terreni edificati comportano spesso la perdita irrevocabile di quelle che prima erano zone agricole (per questo nel calcolo si utilizza lo stesso fattore di equivalenza delle aree agricole).
+Le "aree marine" ricoprono miliardi di ettari del pianeta, poco più di 6 ettari per persona. La disponibilità pro capite per la produzione ecologica marina è di circa 0,14 ettari globali. Si noti che è ragionevole misurare l'attività ecologica del mare in funzione della sua area e non del suo volume, come si potrebbe invece immaginare: è infatti la superficie che ne determina la produttività, poiché sia l'accumulo di energia solare che gli scambi di gas con l'atmosfera sono ad essa proporzionali.
+
+Ritornando alla procedura di implementazione del calcolo, per poter essere confrontabili tra loro, le impronte ecologiche, provenienti da categorie diverse, vanno trasformate in "unità equivalenti" o "ettari globali" (global hectar), che rappresentano un ettaro di spazio produttivo con produttività pari a quella media mondiale: si tiene conto delle produttività di quel tipo di terreno moltiplicando il valore grezzo dell'impronta per un fattore di equivalenza. Ad esempio, un fattore pari a 1,5 per un determinato tipo di terreno indica che la proporzione tra la produttività locale di quel tipo di terreno e la produttività mondiale è 1,5:1, da cui si deduce che la produttività locale è più alta del 50%: per esempio un terreno per l'energia assorbe il 50% di anidride carbonica in più.
+L'utilizzo delle unità equivalenti, come unità di misura dell'impronta ecologica, è una recente introduzione perché inizialmente i calcoli venivano effettuati semplicemente in ettari: in alcuni testi sull'impronta vengono ancora riportati i dati in ettari.
+
+Impronta ecologica italiana
+Secondo il Living Planet Report 2002, curato dal WWF Internazionale in base ai dati di Redefining Progress sull'impronta ecologica e dell'UNEP World Conservation Monitoring Centre sulla biodiversità, l'italiano medio ha un'impronta ecologica 3,84 unità equivalenti (3,57 unità equivalenti di ecosistemi produttivi terrestri e 0,27 unità equivalenti di ecosistemi produttivi marini).
+Un quadrato di 196 metri di lato, fatto per il 7,03% da mare, per il 7,81% da foreste, per il 21% da terreni agricoli, per il 4,68% da pascoli, per il 1,82% da superfici edificate (città, strade, infrastrutture), e per ben il 57,5% da aree per l'assorbimento dell'anidride carbonica.
+Il nostro paese possiede una capacità biologica di 1,18 unità di superficie a persona ed è quindi pesantemente in deficit di 2,66 unità di superficie: ci vorrebbero 3 Italie per soddisfare i consumi italiani.
+I dati del Living Planet Report 2002 sono diversi da quelli del precedente rapporto, che p.es. assegnava all'Italia un'impronta di 5,51 unità. Questo perché il metodo di calcolo è in continua
+evoluzione e sono stati rivisti, alla luce di recenti pubblicazioni della FAO, i dati sulla produttività media di pascoli e foreste, che è risultata più bassa di quanto supposto in precedenza.
+
+Il primo calcolo dell'impronta dell'Italia risale al 1996, in occasione della pubblicazione del libro di Wackernagel e Rees: risultava di 3,11 ettari, non essendo ancora utilizzato il metodo di conversione in ettari globali.
+Nel corso di questi anni la metodologia di calcolo è stata continuamente aggiornata per affinare sempre di più le capacità del sistema. Per questo molte pubblicazioni non aggiornate possono riportare ancora dati vecchi e, visto il trend nazionale degli ultimi anni, questi dati possono risultare meno deprimenti ed allarmanti di quanto non sia in realtà la situazione attuale del Paese.
+
+Impronta ecologica urbana
+Molte città hanno già provato a calcolare la propria impronta ecologica e a tale proposito in Italia sono stati sperimentati quattro metodi di calcolo:
+# Partire dai dati ufficiali su importazioni ed esportazioni (Città e Provincia di Torino valore in ettari 3,38).
+# Utilizzare dati locali ed il foglio di calcolo in Excel elaborato da M. Wackernagel e W. E. Rees per la stima dell'impatto personale e delle famiglie (Regione Liguria, 3.64 ettari). Con un metodo simile i ricercatori del Cras (centro Ricerche Applicate per lo Sviluppo Sostenibile) hanno recentemente ottenuto per la Provincia di Bologna e per la Provincia di Catanzaro rispettivamente valori pari a 7,45 ed a 4,23 unità di superficie procapite.
+# Partire da dati nazionali e locali; calcolare la proporzione pesata tra impronta nazionale e locale confrontando i dati come nel Comune di Cosenza (3,99 ettari) o come risulta dal "Report Agenda 21 Locale" del Comune di Pavia (4,9 ettari) e nella "Applicazione sperimentale su tre città: Orvieto, Isernia, Legnago" in "Attenzione" n.13, www.wwf.it.
+# Usare diversi metodi di calcolo e confrontare i risultati (Provincia di Trento, Ing. Paola Mattolin del Dipartimento di Ingegneria Ambientale dell'Università di Trento: i risultati variano da 3,39 a 6,39 ettari).
+
+Per il calcolo a livello locale spesso i dati relativi a commercio e consumi non sono facilmente reperibili. Tuttavia le impronte di una popolazione regionale o municipale possono essere estratte dall'impronta nazionale confrontando quanto i modelli di consumo nella regione o nel comune differiscano dalla media nazionale. Questa valutazione indiretta è più semplice e conduce a risultati più precisi che una stima basata su un insieme limitato di dati locali, perché le statistiche nazionali sono più facilmente disponibili e più complete. La maggior parte delle città raccoglie dati sufficienti sull'uso dell'automobile, sulle abitazioni, sul consumo energetico, le entrate o i costi della vita nella propria area, il che permette un confronto tra i modelli di consumo nazionale e locale. A livello comunale è possibile per le aree edificabili disporre direttamente di dati da trasformare in ettari pro capite di terreno. D'altra parte, disponendo di una stima dell'impronta nazionale, non risulta strettamente necessario eseguire un calcolo di tutti i fattori che intervengono nella definizione dell'impronta, ad esempio per i materiali utilizzati per la costruzione di abitazioni si può usare il dato nazionale.
+
+Inoltre la comparazione dei dati disponibili delle realtà urbane sul territorio italiano presentano una sostanziale uniformità delle categorie funzionali al calcolo dell'Impronta Ecologica sulla base del numero di abitanti a prescindere, quindi dalla collocazione geografica (Settentrione, Centro, Meridione), ciò è dovuto al fatto che quasi sempre città con numero di abitanti che va dalle unità hanno caratteristiche di struttura economica e territoriale molto simili: dai dati ISTAT risulta comune, infatti, che due città entrambe di circa 70000 abitanti (ad es.) entrambe capoluogo di provincia abbiano lo stresso apparato terziario e di servizi e paragonabili risultino il volume dei commerci e le produzioni delle realtà agricole e/o industriali insistenti sul territorio comunale.
+Pertanto un esempio di calcolo dell'impronta ecologica locale abbastanza accurato, (sebbene non specifico di una particolare realtà cittadina), può essere condotto considerando un generico centro urbano italiano con una popolazione compresa impostato sui valori di categoria di consumo e territoriali paragonabili, (quando non coincidenti), in tutti i centri urbani con tale caratteristica.
+
+Metodo di calcolo comparativo tra dati nazionali e locali
+Il punto di partenza che si adotta per la misurazione è il calcolo dell'impronta nazionale pubblicato dal Living Planet Report con dati del 1996 ed aggiornamenti disaggregato nelle principali categorie di consumo che sono collegate e contestualizzate nelle diverse categorie territoriali dell'impronta, precedentemente elencate e descritte.
+A partire dai dati nazionali si individuano i fattori di correzione da applicare ai dati statistici per la realtà locale in esame (ndr: città con 60000-100000 abitanti), per i consumi si è fatto riferimento a dati ISTAT regionali e si è calcolato il rapporto fra consumi locali e consumi nazionali. Quando possibile, si effettuata una stima diretta dell'impronta (ad esempio nel caso del consumo di suolo a causa dell'edificazione attraverso gli archivi catastali e GIS regionali o attraverso mappature e studi della Protezione Civile).
+
+Si analizzano quindi le relazioni intercorrenti tra le categorie di consumo e le categorie territoriali.
+
+;Alimenti/Territorio per energia
+Il calcolo dell'impronta dovuta al consumo di alimenti si effettua a partire dal dato medio nazionale dell'impronta aggiornato in funzione dei dati e dei parametri del Living Planet Report del 2000 incrociati, a loro volta, con i dati ISTAT sui "consumi alimentari delle famiglie divisi per categoria di consumo" su base regionale/ nazionale.
+Per avere un dato omogeneo si uniformano le unità di misura trasformando tutto in kcal/procapite/anno. Si calcola, quindi, l'impronta urbana locale a partire dall'impronta italiana in ha/procapite/anno moltiplicata per il rapporto fra le kcal/proc/anno consumate in ambito regionale e kcal totali consumate in Italia.
+
+:Impronta locale = consumi locali (kcal/procap/anno) / consumi Italia (kcal/procap/anno) x impronta Italia'''
+
+Il territorio energetico connesso al consumo di alimenti è comprensivo di tutti gli input energetici materiali, indipendentemente dalla natura vegetale o animale dell'alimento.
+
+;Alimenti/Territorio agricolo
+Il calcolo ha richiesto prima di tutto di stimare il totale di territorio agricolo. Allo scopo si applicata la stessa logica usata per l'energia. Il passo successivo è consistito nello scorporare il dato relativo agli alimenti vegetali ed animali.
+
+;Alimenti/Pascoli
+Il calcolo si effettua valutando, in kcal/procap/anno, il consumo di alimenti animali (in termini nazionali e regionali) ed eseguendo una proporzione rispetto all'impronta nazionale.
+
+;Alimenti/Foreste
+Il calcolo si effettua valutando, in kcal/procap/anno, il consumo di alimenti totali (in termini nazionali e regionali) ed eseguendo una proporzione rispetto all'impronta nazionale (ha/procap/anno).
+
+;Alimenti/Superficie marina
+Il calcolo è stato effettuato valutando, in kcal/procap/anno, il consumo di pesce ed eseguendo una proporzione in funzione della popolazione e del reddito procapite locale rispetto all'impronta nazionale (ha/procap/anno).
+
+;Abitazione e infrastrutture/Territorio per energia
+Si utilizza direttamente il dato medio nazionale che comprende i consumi connessi sia alla costruzione e manutenzione che all'uso delle abitazioni. È difficile di solito riuscire ad effettuare proporzionamenti del dato nazionale al dato locale per via della difficoltà di reperimento dei dati a livello comunale o regionale. Sarà possibile, però, affinare il calcolo con indagini sulle tipologie edilizie ed il patrimonio abitativo.
+
+;Abitazioni e infrastrutture/Foreste
+Si utilizza il dato nazionale in quanto si ipotizza che materiali e tecniche costruttive non presentino differenze significative.
+
+;Abitazioni e infrastrutture/Superficie edificata
+Il dato deriva direttamente dal calcolo della superficie edificata disponibile per il comune (catasto, dati sulla destinazione d'uso del territorio rapporto sullo stato ambientale del comune, osservatorio sull'abusivismo, dati di monitoraggio Protezione Civile, etc.).
+
+;Trasporti/Territorio per energia
+Il calcolo è stato effettuato utilizzando i dati sui consumi delle famiglie e facendo la proporzione fra dato nazionale e dato locale. Una ottimizzazione può essere effettuata considerando le statistiche ISTAT sugli spostamenti delle persone per motivi di studio e lavoro.
+Tali dati, disponibile anche a livello comunale, sono disaggregati per tipologia di mezzo utilizzato e per tempi di spostamento. Da essi è possibile dedurre il chilometraggio medio degli spostamenti con i diversi mezzi e, quindi, i consumi medi di carburante.
+Inoltre, avendo a disposizione una cartografia aggiornata, sarà possibile effettuare una stima diretta della superficie edificata impegnata per i trasporti.
+
+;Beni di consumo/Territori per energia
+Il dato è derivato dalla proporzionalità fra dato locale e nazionale: dati ISTAT sui "consumi alimentari delle famiglie divisi per categoria di servizi e consumi non alimentari" su base regionale/ nazionale. Dai dati estratti si hanno informazioni sui seguenti beni di consumo:
+*vestiario e calzature;
+*mobili;
+*articoli di arredamento;
+*apparecchi, utensileria;
+*trasporti, comunicazioni;
+*servizi per la casa;
+*sanità, istruzione, tempo libero;
+*altri beni (25% della voce altri beni e servizi).
+Si effettua la proporzione rispetto ai consumi nazionali come prima visto per il calcolo dell'indicatore derivante dalla relazione tra la categoria di consumo "alimenti" e la categoria di territorio "territorio per energia".
+
+Metodo di calcolo elaborato da M. Wackernagel e W. E. Rees
+
+Il calcolo si effettua utilizzando l'approccio "per componenti" inserendo i dati locali nel foglio di calcolo elaborato da Wackernagel - Rees nella versione più aggiornata in cui l'impronta ecologica è espressa in unità di superficie/procapite. Il problema più rilevante è che la stima dei consumi cambia significativamente in funzione dell'entità delle comunità a cui il calcolo si riferisce. Per alcune voci che partecipano in maniera rilevante alla formazione dell'impronta è possibile far riferimento a dati complessivi da ripartire in quota pro-capite. Ciò riguarda principalmente i consumi energetici che sono deducibili direttamente dai dati ENEL a livello locale. Diversa è la situazione per gli alimenti e gli altri beni. Per questi consumi difficilmente si dispone di statistiche specifiche a livello comunale. Bisogna quindi operare proporzionamenti e deduzioni che cerchino di ricondurre i dati alle forme necessarie per il calcolo: ad esempio per i consumi alimentari, una delle voci fondamentali per una corretta stima dell'impronta, è necessario riferirsi a quantità in peso. Un primo riferimento è costituito dai dati ISTAT aggiornati sui consumi medi delle famiglie che riportano le spese mensili per regione accorpate in macrocategorie. Per effettuare un calcolo più accurato si può rendere necessaria una disaggregazione di tali dati ipotizzando una distribuzione media, all'interno di ogni categoria, analoga a quella media delle regioni limitrofe per cui sono disponibili dati ISTAT riferiti a categorie più disaggregate. Il calcolo si effettua per ogni categoria facendo la proporzione tra consumi regionali, per esempio per "pane e cereali" si calcola un coefficiente di proporzionalità C:
+
+C = (SPESA in pane e cereali Locale/ SPESA in pane e cereali Regionale) x 100
+
+Si calcolano poi le categorie di dettaglio (Pane, grissini e crackers, Biscotti, Pasta e riso, Pasticceria e dolciumi) moltiplicando il valore regionale per il coefficiente C. Il calcolo viene ripetuto per ognuna delle categorie disponibili. In tal modo è possibile ricavare i valori più dettagliati per le diverse categorie di consumo riferiti alla regione, si ipotizza che i consumi urbani siano simili. Si sono poi riportati i dati riferiti alle famiglie ai valori procapite dividendo per il numero medio di componenti il nucleo familiare desunto dai dati forniti dall'anagrafe. Moltiplicando i valori medi mensili procapite per i 12 mesi dell'anno si sono, infine, ottenuti i valori medi annuali procapite per ogni categoria di consumo. La parte più delicata del calcolo è quella di riportare i dati del consumo mensile medio procapite (disponibili in Euro) a valori quantitativi, in apposite unità di misura (variabili per le diverse categorie), si sono utilizzati i prezzi al consumo per le categorie di beni considerate forniti dal comune, facendo la media dei prezzi dei diversi prodotti rappresentativi per la categoria: il consumo medio in kg/procapite si ricava dividendo il consumo medio procapite in euro per il prezzo medio del paniere considerato (in euro/kg o altra unità di riferimento). Per ottenere il dato relativo all'impronta ecologica di ogni categoria di consumo si utilizzano le ultime matrici di calcolo fornite da Wackernagel dalle quali sono stati estratti i coefficienti moltiplicativi che servono per la valutazione dell'impronta ecologica in tutte le sue componenti, ad esempio, per il calcolo della superficie agricola necessaria per il consumo di pane, grissini, cracker, etc. procedendo in questo modo:
+
+Territorio Agricolo = ki x consumo medio mensile procapite di pane, grissini e crackers
+
+dove ki è il coefficiente di calcolo fornito da Wackernagel e rappresenta, in mq, l'impronta ecologica associabile al consumo di 1 kg di pane, grissini e crackers. Per le categorie non alimentari essendo difficile rapportare il dato economico disponibile al dato quantitativo richiesto dalla matrice fornita da Wackernagel si può utilizzare direttamente parametri "monetari", in dollari, considerando un valore medio del cambio dollaro/euro di riferimento e quindi attualizzare il dato con il calcolo dell'inflazione cumulata negli anno di riferimento ad oggi (ndr: il riferimento temporale del parametro cambio dollaro/euro è utile per generalizzare il calcolo e renderlo reiterabile nel tempo senza apportare cambiamenti nei parametri del modello) . Analogamente si procede per i trasporti, utilizzando i dati alla spesa relativa a trasporti pubblici forniti dalle aziende di trasporto municipalizzate o operanti comunque sul territorio, per l'energia utilizzano i dati elaborati forniti dall'ENEL e da altri affluenti energetici (centrali termoelettriche o altro) presenti sul territorio e connessi alla locale rete di distribuzione. In questo computo possono essere compresi anche le eventuali royalties derivanti da sfruttamenti energetici nel territorio.
+
+Risultati e considerazioni
+Una città di medie dimensioni con una popolazione compresa tra i 60000 e i 100000 abitanti e con un numero medio di famiglie che va dai 30000 ai 50000, presenta una Impronta Ecologica secondo il calcolo effettuato con il primo modello descritto risulta ben 6.0 - 6.5 unità equivalenti per abitante, che salgono in media a 7.0 se consideriamo un contributo del 12% per la tutela della biodiversità (parametro, questo, derivante dal calcolo globale - nazionale dell'Impronta Ecologica e non computabile in modo specifico nel contesto locale del quale però è necessario tener conto, ndr): l'impronta procapite urbana superava quella nazionale, come ci si può rendere conto confrontando i consumi come si evidenzia dalle tabelle ISTAT inserite precedentemente a titolo di esempio.
+Il valore ottenuto con il calcolo applicativo del secondo modello descritto oscilla tra 4.0 e 5.5 unità che salgono a 6.2 con il contributo per la biodiversità: la diminuzione del valore non deve far pensare ad un netto miglioramento, in quanto il nuovo dato va confrontato con quello più recente dell'impronta dell'Italia (3.84 unità).
+La realtà urbana considerata consuma il patrimonio naturale con ritmo decisamente superiore alla disponibilità media dei centri urbani con le stesse caratteristiche che, a livello nazionale, è rappresentato da soli 1.18 ettari globali per abitante ed a livello mondiale da 1.9 ettari globali. Il calcolo effettuato fornisce un valore che, anche se approssimato, è in linea con i risultati ottenuti per altre realtà italiane specifiche, in particolare con quelli della Provincia di Bologna e di realtà urbane quali quella Cosenza e Pavia: in tutti questi i casi i consumi sono maggiori dei consumi nazionali e l'impronta è, di conseguenza, maggiore.
+Se tutte le persone al mondo vivessero con gli stili di vita del cittadino urbano italiano medio, avremmo bisogno di almeno altri 3 pianeti e mezzo.
+Circa metà dell'impronta è da imputare al consumo di terra per l'energia cioè quella superficie che serve per assorbire l'anidride carbonica legata al ciclo di produzione e consumo dei singoli beni: questa parte dell'impronta è notevolmente aumentata con un fattore moltiplicativo di circa 1.7 nel giro di circa sei-sette anni a causa soprattutto dell'inquinamento veicolare e da riscaldamento.
+In questo stesso arco temporale, (anche se il tendenziale è ben più antico), i consumi energetici urbani sono in crescita nonostante le città italiane registrino una diminuzione della popolazione.
+Per quanto riguarda l'elettricità, il consumo globale medio per la tipologia di centri urbani considerati è stato, secondo i dati ENEL, di circa 300000 MWh quota questa sostanzialmente invariato nell'ultimo decennio con una variazione di consumo per abitante è passato da 3500 kWh a 3800 kWh con un tasso di crescita su base quinquennale dello 1.4% circa.
+Nello stesso periodo il consumo di gas metano ha avuto un aumento di circa 1.3 % annuo, con un consumo stimabile intorno a 80 - 82 milioni di sm3; per un disponibilità di circa 40 GJ per abitante.
+Se consideriamo la quantità di carbonio immessa nell'atmosfera da ogni cittadino in conseguenza di questi consumi energetici otteniamo un valore di carbonio equivalente (Ceq) per abitante di 580 - 600 kg all'anno per l'energia elettrica e di 650 - 690 per quella termica, un totale di ben 1.2 - 1.7 tonnellate di carbonio cioè 4.5 - 5.2 tonnellate di anidride carbonica.
+
+Suddivisione dell'impronta urbana
+L'Impronta Ecologica calcolata nello studio esposto e relativo ad una area urbana con caratteristiche medie vicine a quelle della realtà urbana italiana presa in esame ha, come si è dimostrato, un peso sull'ambiente molto alto e di gran lunga superiore a quello medio nazionale e quindi difficilmente sostenibile se non a scapito di un radicale depauperamento di risorse energetiche interne ed esterne al contesto comunale e regionale con conseguente aumento del costo delle risorse immesse che provoca l'inevitabile aumento del costo della vita. È forse questo il più efficace indice di Impronta Ecologica immediatamente ponderabile soprattutto a livello individuale: all'inizio di questo articolo si è messo in relazione il PIL con l'Indice di Sviluppo Umano nella tentativo di dare una definizione della sostenibilità intendendo il fatto che non può essere più considerata la ricchezza come indice proporzionale dello sviluppo della società (come di una città) ma al contrario, ormai da tempo l'apporto energetico, in senso lato, non serve più a migliorarne la qualità di vita ma a mantenerne a stento gli standard consolidati non riuscendo quindi più ad assorbirne e a giustificarne gli effetti collaterali in termini di inquinamento e di degrado del territorio.
+È importante sottolineare, infatti, che la grande fetta dell'impronta legata ai consumi energetici riguarda non solo il consumo di energia "primaria", ma in modo indiretto tutti i beni e servizi: ad esempio per avere un estratto conto bancario è necessaria energia per la carta, per le infrastrutture, per le utenze domestiche. Anche nei consumi alimentari è incorporata una quantità di energia che aumenta se scegliamo prodotti confezionati, con imballaggi spesso molto "energivori".
+
+Terreno per energia	56%
+Terreno agricolo	17%
+Pascolo	 12%
+Foreste	 6%
+Terreno edificato	4%
+Mare	 5%
+
+Una parte del terreno energetico ed edificato serve ai trasporti: questo è uno dei settori chiave per la prevenzione dei cambiamenti climatici. Non solo perché questo terreno assorbe una notevolissima quota dell'energia complessivamente consumata, ma perché la domanda di trasporto e i relativi consumi appaiono ancora in forte crescita. In Italia i consumi energetici nel settore dei trasporti sono cresciuti tra il 1971 e il 2000 al tasso medio annuo del 4.1% contro un tasso medio annuo dei consumi finali (ndr: spesa sostenuta dalle unità istituzionali e famiglie residenti per beni e servizi utilizzati per il diretto soddisfacimento di desideri e bisogni individuali o collettivi dei membri della società), di energia dell'1.07%. Nel 1995 il settore dei trasporti assorbiva già circa il 30% dell'energia consumata negli usi finali e sopravanzava gli usi industriali. Anche in Europa i trasporti sono la principale fonte di emissione di CO2 (26% del totale), secondo i dati della "Commissione Europea sui trasporti e sulle emissioni di CO2 nel 1998 la quantità di anidride carbonica legata ai trasporti è stata di 127.33 milioni di tonnellate. Dal 1990 c'è stato un incremento del 15% dovuto all'aumento dei consumi di gasolio (+12%) e di benzina (+30%). L'ultimo piano italiano per i trasporti prevede un incremento per il 2010 tra il 16 e il 36% per la mobilità privata e tra il 16 e il 30 % per le merci.
+Le auto circolanti in media nel centro urbano italiano considerato nel 1998 erano 60 - 64 ogni 100 abitanti con un consumo di carburanti (benzina e diesel) di 580 - 660 Tep/ab/anno, (ndr sulle fonti: Auto circolanti nel comune (dati ACI/Anfia, ultimo anno disponibile 1998); Consumi elettrici domestici (dati Enel, 1999) su base provinciale; Consumi di carburanti (benzine, diesel) su base provinciale (Bollettino Petrolifero, dati 1998)).
+
+Note
+
+Bibliografia
+* Natale G. Calabretta Art. Pubb. riv. Consulting - La rivista del consulente d'azienda (GEVA Ed.) Anno 5 - num.2 Ma-Ap e num.3 Mag-Gi 2007
+* Mathis Wackernagel, William Rees. Our Ecological Footprint: Reducing Human Impact on the Earth. Gabriola Island, New Society Publishers, ISBN 086571312X. Traduzione italiana: L'impronta ecologica. Come ridurre l'impatto dell'uomo sulla terra. Milano, Edizioni Ambiente, 2004, ISBN 8889014156.
+* Nicky Chambers, Craig Simmons, Mathis Wackernagel. Manuale delle impronte ecologiche. Principi, applicazioni esempi. Edizioni Ambiente, 2002 ISBN 88-86412-88-6.
+* Mathis Wackernagel, Niels B. Schulz, Diana Deumling, Alejandro Callejas Linares, Martin Jenkins, Valerie Kapos, Chad Monfreda, Jonathan Loh, Normal Myers, Richard Norgaard, Jorgen Randers. «Tracking the ecological overshoot of the human economy». Proceedings of the National Academy of Science, vol. 99, n. 14, pp. 9266-9271.
+
+Collegamenti
+*Global Footprint Network Ecological Footprint : Overview
+*Living Planet Report del WWF, un aggiornamento periodico (ora biennale) del calcolo dell'impronta ecologica.
+*Dipartimento di Scienze e Tecnologie Chimiche e dei Biosistemi dell'Università di Siena.
+*Istituto Ricerche Economico Sociali della Regione Piemonte.
+*Ambiente Italia Srl
+*Cras Srl - Centro ricerche applicate per lo sviluppo sostenibile
+*Istituto di Ricerche Interdisciplinari sulla Sostenibilità.
+* sul sito del WWF Italia impronta ecologica.
+* Una animazione per le scuole sulle risorse del pianeta, l'impronta ecologica e il suo calcolo semplificato.
+*Provincia di Bologna.
+
+Voci correlate
+* Ecologia
+* Sviluppo sostenibile
+* Genuine Progress Indicator
+* Felicità Nazionale Lorda
+* Bioregionalismo
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 15:59:29 from:
+  http://it.wikipedia.org/wiki/Impronta_ecologica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

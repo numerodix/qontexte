@@ -1,0 +1,245 @@
+Piramide - Wikipedia
+
+Piramide
+
+Da Wikipedia, l'enciclopedia libera.
+
+Vai a: Navigazione, cerca
+Disambiguazione – Se stai cercando altri significati del termine, vedi Piramide (disambigua).
+
+La piramide è una figura geometrica solida, con una base poligonale e un vertice, che non giace sullo stesso piano della base; sono facce della piramide la sua base e le facce triangolari, che hanno per base uno spigolo della base piramidale e come vertice l'apice piramidale.
+La piramide è stata utilizzata come tipologia in architettura soprattutto nei tempi antichi, in particolare in Egitto e da alcune civiltà precolombiane nell'America centrale.
+
+Indice
+
+1 Etimologia
+2 Geometria
+
+2.1 Piramide tronca
+
+3 Architettura
+
+3.1 Piramidi egizie
+3.2 Piramidi a gradoni
+
+3.2.1 Le piramidi nelle civiltà mesopotamiche
+3.2.2 Piramidi Maya
+
+4 Piramidi come opera idraulica
+5 Altre piramidi
+6 Note
+7 Bibliografia
+8 Voci correlate
+9 Altri progetti
+10 Collegamenti esterni
+
+href="/w/index.php?title=Piramide&action=edit&section=1" title="Modifica la sezione Etimologia">modifica Etimologia
+Il termine piramide deriva dalla lingua greca (πυραμίς ). Alcuni storici ritengono che il termine greco a sua volta provenga dal termine egizio per-em-us che nel Papiro di Rhind è usato per rappresentare l'altezza della piramide (alla lettera "ciò che va su"); i greci, applicando la figura retorica della sineddoche (la parte per il tutto e viceversa), lo avrebbero poi usato per indicare l'intera opera monumentaria.
+Lo stesso termine greco (πυραμίς) è usato da Aristotele per un tipo di focaccia e non è chiara la relazione tra i due significati.
+href="/w/index.php?title=Piramide&action=edit&section=2" title="Modifica la sezione Geometria">modifica Geometria
+
+Geometria della piramide
+S = vertice; SO = altezza
+
+In geometria si definisce piramide un poliedro individuato da una faccia poligonale chiamata base e da un vertice che non giace sul piano della base e che talora viene chiamato apice della piramide. Sono suoi spigoli i lati del poligono di base e i segmenti delimitati dall'apice e da ciascuno dei vertici della base. Sono facce della piramide la sua base e le facce triangolari che hanno come vertice il suo apice (chiamate facce laterali).
+Una piramide avente come base un poligono di n lati (n = 3, 4, ...) si dice piramide n-gonale ed ha n+1 facce, 2n spigoli ed n+1 vertici.
+Una piramide è convessa se e solo se il poligono di base è convesso. Si dice altezza di una piramide il segmento che ha una estremità nell'apice e cade ortogonalmente sul piano contenente la base. Talora viene chiamata piramide obliqua una piramide la cui altezza cade al di fuori del poligono di base (o del su inviluppo convesso). Si dice apotema di una piramide retta con base rettangolare ogni segmento che congiunge il suo apice al punto medio di un suo lato di base, ovvero la loro lunghezza comune. Si dice apotema di base il raggio del cerchio (se c'è) che è inscritto nel poligono di base della piramide.
+Le piramidi possono essere rette: nella base può essere inscritto un cerchio e il piede della piramide risiede nel centro di quel cerchio. Le piramidi più considerate sono quelle che hanno per base un poligono regolare e la cui altezza cade nel centro di tale poligono. Una tale piramide talora viene detta piramide simmetrica(o piramide regolare); essa in effetti ha la simmetria, elevata, del poligono di base. Spesso per piramide si intende, per antonomasia, una piramide simmetrica a base quadrata.
+Le uniche piramidi che sono anche poliedri regolari sono i tetraedri che hano base e facce laterali triangolari e tutte uguali.
+L'area totale si calcola come: Area di base + Area laterale.
+Il volume si calcola come:
+NB: la piramide è 1/3 di un prisma con uguale altezza e base.
+href="/w/index.php?title=Piramide&action=edit&section=3" title="Modifica la sezione Piramide tronca">modifica Piramide tronca
+Tranciando una piramide K con un piano parallelo alla base di K, e conservando la parte compresa tra il piano della base e quello della sezione, si ha la cosiddetta piramide tronca (o tronco di piramide). In questo modo, tra il piano della base e quello della sezione intercorre una corrispondenza biunivoca, detta omotetia.
+href="/w/index.php?title=Piramide&action=edit&section=4" title="Modifica la sezione Architettura">modifica Architettura
+Nell'architettura la piramide è stata utilizzata come tipologia architettonica, con diverse funzioni, soprattutto nei tempi antichi, in particolare dagli Egizi in Egitto, dai Sumeri in Mesopotamia, dai Maya e dagli Aztechi in America centrale; non mancano alcuni esempi anche nell'architettura contemporanea (il più celebre è la piramide del Museo del Louvre di Parigi, progettata da Ieoh Ming Pei).
+href="/w/index.php?title=Piramide&action=edit&section=5" title="Modifica la sezione Piramidi egizie">modifica Piramidi egizie
+
+Per approfondire, vedi la voce Piramidi egizie.
+
+La grande Piramide di Cheope a Giza
+
+Le piramidi egizie sono a base quadrata e hanno quattro facce lisce che congiungono gli spigoli della base al vertice, costituito dal pyramidion.
+Secondo la teoria maggiormente accettata tra gli studiosi, teoria confermata anche da riscontri archeologici, le piramidi egizie furono erette come monumenti funerari al di sopra della tomba del sovrano. Lo sviluppo di tali monumenti ebbe inizio con la III dinastia come evoluzione della tomba a mastaba.
+Dopo una fase di crescita delle dimensioni del monumento, culminata con la Piramide di Cheope unica delle sette meraviglie del mondo antico ad essere pervenuta a noi, l'uso di questo monumento proseguì ancora per secoli, anche se con forme più ridotte, ed influenzò anche culture limitrofe; le ultime piramidi erette furono quelle rinvenute nel regno di Meroe attribuibili al I millennio a.C.
+Nel 1842 Karl Richard Lepsius elaborò una lista di tutte le piramidi presenti sul territorio egiziano.
+href="/w/index.php?title=Piramide&action=edit&section=6" title="Modifica la sezione Piramidi a gradoni">modifica Piramidi a gradoni
+
+La piramide a gradoni del faraone Djoser, progettata dall'architetto Imhotepa Saqqara
+
+Questo tipo di piramidi, solitamente, ha una basa molto ampia su cui sviluppano diversi strati, o gradoni, di pietra.
+Il sistema costruttivo a piramide gradonata è trasversale a molte culture ed ha prodotto anche in contesti storico-geografici indipendenti risultati molto simili. Abbiamo gli esempi più noti di tali costruzioni in Mesopotamia, nell'Antico Egitto e presso le civiltà precolombiane in America.
+Una delle più famose tra quelle antico-egiziane, che risentono dello stretto contatto con le mastabe, è la piramide di Djoser, voluta dall'omonimo faraone e progettata dall'architetto Imhotep.
+
+href="/w/index.php?title=Piramide&action=edit&section=7" title="Modifica la sezione Le piramidi nelle civiltà mesopotamiche">modifica Le piramidi nelle civiltà mesopotamiche
+
+Questa sezione sugli argomenti architettura e storia è solo un abbozzo. Contribuisci a migliorarla secondo le convenzioni di Wikipedia.
+
+Ricostruzione della ziqqurat di Sialk
+
+La piramide a gradoni venne utilizzata anche per le ziqqurat, il tempio caratteristico delle religioni sumera, babilonese e assira. La forma rappresenta la volontà dell’uomo di avvicinarsi sempre di più al cielo, e dotata di una sommità piatta sulla quale i sacerdoti officiavano le cerimonie e dalla quale scrutavano le stelle per trarne auspici.
+href="/w/index.php?title=Piramide&action=edit&section=8" title="Modifica la sezione Piramidi Maya">modifica Piramidi Maya
+
+Questa sezione sugli argomenti architettura e Messico è solo un abbozzo. Contribuisci a migliorarla secondo le convenzioni di Wikipedia.
+
+Chichén Itzá, piramide di Kukulcan (detta anche El Castillo)
+
+Le piramidi Maya sono anch'esse a base quadrata ma si sviluppano secondo una struttura a gradoni, generalmente con una struttura in cima facente funzione di tempio. Sono anche state rinvenute sepolture all'interno di piramidi anche se in maniera sporadica.
+href="/w/index.php?title=Piramide&action=edit&section=9" title="Modifica la sezione Piramidi come opera idraulica">modifica Piramidi come opera idraulica
+Una diversa lettura dei dati ha portato a sviluppare una teoria, ancora di nicchia, sullo sviluppo delle piramidi legata all'ingegneria idraulica 1.
+In tutte le latitudini vi è la presenza di tumuli di varie dimensioni, alcuni abbandonati, altri riattati a funzioni svariate; alcuni invece raggiungono ancora l'originario scopo di prelevare acqua potabile dal sottosuolo. La maggior parte di questi tumuli è dotata di gallerie oblique scavate nella roccia sottostante, profonde anche decine di metri, che terminano con una camera. Inoltre la maggior parte son state costruite in regioni minacciate da periodiche inondazioni. Laddove tali gallerie sono ancora visitabili, si può notare come queste siano costituite da muretti a secco, senza malta, per far passare l'acqua e l'umidità presente nel sottosuolo, e raccoglierla nelle cisterne, più in basso.
+Come accade naturalmente nelle pianure alluvionali, l'acqua filtra tra le rocce e si raccoglie in cisterne dette pozzi artesiani; risale in superficie solo là dove incontri un banco d'argilla (o comunque una sostanza idrofoba), formando le cosiddette risorgive (o fontanili/fontanazzi, a seconda delle varianti locali). L'acqua risulta potabile, depurata, e a una temperatura costante di 10-12 °C.
+Così sono realizzati i pozzi artificiali, più o meno in ogni regione del mondo. La cosa che rende interessanti queste strutture idrauliche a tumulo è la loro ampiezza: la terrazza attorno al pozzo artificiale è l'ovvia evoluzione urbanistica del villaggio, che tende a disporsi attorno all'unica fonte di acqua potabile. Quindi, che sia una collina naturale, che sia artificiale, il tumulo si amplia in relazione al bisogno idrico della popolazione, facendo scendere il livello della falda freatica e, col tempo, portando il deserto in luogo della palude.
+Il problema principale di questo aumento volumetrico è però la diminuita efficacia idraulica della costruzione.
+Questo processo di costruzione in fasi successive è visibile in molte strutture, come le ziqqurat e le mastaba. Per le piramidi egizie, il passaggio da piramide tronca a piramide aguzza è da attribuire a un periodo in cui la costruzione era ormai inutilizzata come opera idraulica. Difatti la copertura esterna è di materiale diverso, e attualmente si può individuare, grazie agli agenti atmosferici, la più solida struttura interna sotto il mantello ormai sbriciolato: vedi Piramide di Cheope, Sfinge, e le altre Piramidi di Giza.
+Altre invece non sopportarono il peso di ulteriori materiali, come accadde alla Piramide di Meidum, che crollò davanti agli ingegneri del Faraone: questo spiega l'esistenza di piramidi classificate come "incompiute".
+
+href="/w/index.php?title=Piramide&action=edit&section=10" title="Modifica la sezione Altre piramidi">modifica Altre piramidi
+
+Piramidi bosniache
+
+href="/w/index.php?title=Piramide&action=edit&section=11" title="Modifica la sezione Note">modifica Note
+
+^ Pietro Laureano Sahara, giardino sconosciuto Giunti Barbera 1989.
+
+href="/w/index.php?title=Piramide&action=edit&section=12" title="Modifica la sezione Bibliografia">modifica Bibliografia
+
+Pietro Laureano, La Piramide Rovesciata, il modello dell'oasi per il pianeta terra, Bollati Boringhieri, Torino, 1995
+Pietro Laureano, Atlante d'acqua, conoscenze tradizionali per la lotta alla desertificazione, Bollati Boringhieri, Torino, 2000
+
+href="/w/index.php?title=Piramide&action=edit&section=13" title="Modifica la sezione Voci correlate">modifica Voci correlate
+
+Bipiramide
+Prisma
+Teorema delle sezioni parallele
+Mastaba
+Ziqqurat
+Piramidi di Guimar
+
+href="/w/index.php?title=Piramide&action=edit&section=14" title="Modifica la sezione Altri progetti">modifica Altri progetti
+
+Commons
+Wikizionario
+
+Wikimedia Commons contiene file multimediali su Piramide
+Wikizionario contiene la voce di dizionario «Piramide»
+
+href="/w/index.php?title=Piramide&action=edit&section=15" title="Modifica la sezione Collegamenti esterni">modifica Collegamenti esterni
+
+(EN) La geometria della piramide in MathWorld
+La piramide a quota più alta del mondo
+
+Portale Architettura
+Portale Ingegneria
+Portale Matematica
+
+Estratto da "http://it.wikipedia.org/wiki/Piramide"
+Categorie: Architetture funerarie | Poliedri | Tipologie architettonicheCategorie nascoste: Stub sezione architettura | Stub sezione storia | Stub Messico | Voci di qualità su ar.wiki
+
+Visite
+
+Voce
+Discussione
+Modifica
+Cronologia
+
+Strumenti personali
+
+Prova Beta
+Entra / Registrati
+
+Navigazione
+
+Pagina principale
+Ultime modifiche
+Una voce a caso
+Vetrina
+Aiuto
+
+comunità
+
+Portale comunità
+Bar
+il Wikipediano
+Fai una donazione
+Contatti
+
+Crea un libro
+
+Aggiungi pagina al libroAiuto sui libri
+
+Ricerca
+
+ 
+
+Strumenti
+
+Puntano qui
+Modifiche correlate
+Pagine speciali
+Versione stampabile				Link permanenteCita questa voceVersione PDF
+
+Altre lingue
+
+العربية
+Български
+Bosanski
+Català
+Česky
+Cymraeg
+Dansk
+Deutsch
+English
+Esperanto
+Español
+فارسی
+Suomi
+Français
+Gaelg
+עברית
+Hrvatski
+Magyar
+Bahasa Indonesia
+Ido
+Íslenska
+日本語
+한국어
+Lietuvių
+മലയാളം
+Bahasa Melayu
+Nedersaksisch
+Nederlands
+‪Norsk (nynorsk)‬
+‪Norsk (bokmål)‬
+Nouormand
+Occitan
+Polski
+Runa Simi
+Română
+Русский
+Simple English
+Slovenščina
+Shqip
+Српски / Srpski
+Svenska
+Kiswahili
+தமிழ்
+తెలుగు
+ไทย
+Tagalog
+Українська
+ייִדיש
+中文
+Bân-lâm-gú
+粵語
+
+Ultima modifica per la pagina: 18:17, 29 set 2009.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli. Wikipedia® è un marchio registrato della Wikimedia Foundation, Inc.
+Politica sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 14:05:06 from:
+  http://it.wikipedia.org/wiki/Piramide#Geometria
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,127 @@
+DoS, scritto con la maiuscola al primo e terzo posto, è la sigla di denial of service, letteralmente negazione del servizio.
+In questo tipo di attacco si cerca di portare il funzionamento di un sistema informatico che fornisce un servizio, ad esempio un sito web, al limite delle prestazioni, lavorando su uno dei parametri d'ingresso, fino a renderlo non più in grado di erogare il servizio.
+
+Gli attacchi vengono abitualmente attuati inviando molti pacchetti di richieste, di solito ad un server Web, FTP o di posta elettronica saturandone le risorse e rendendo tale sistema "instabile", quindi qualsiasi sistema collegato ad Internet e che fornisca servizi di rete basati sul TCP è soggetto al rischio di attacchi DoS.
+
+Inizialmente questo tipo di attacco veniva attuata dai "cracker", come gesto di dissenso etico nei confronti dei siti web commerciali e delle istituzioni.
+
+Oggi gli attacchi DoS hanno la connotazione decisamente più "criminale" di impedire agli utenti della rete l'accesso ai siti web vittime dell'attacco. Per rendere più efficace l'attacco in genere vengono utilizzati molti computer inconsapevoli sui quali precedentemente è stato inoculato un programma appositamente creato per attacchi DoS e che si attiva ad un comando proveniente dal cracker creatore. Se il programma maligno si è diffuso su molti computer, può succedere che migliaia di PC violati da un cracker, producano inconsapevolmente e nello stesso istante un flusso incontenibile di dati che travolgeranno come una valanga anche i link più capienti del sito bersaglio.
+
+Non solo i sistemi server possono essere vittime di un attacco DoS, bensì anche semplici utenti e client, come il caso di attacco DoS ad iPhone.
+
+La probabilità sempre minore di incontrare sistemi veramente vulnerabili ha fatto sì che siano diminuiti gli attacchi DoS più eclatanti, però si è scoperta un'estrema vulnerabilità della rete per l'aumento costante della potenza operativa degli attuali personal computer e dell'accesso ad Internet tramite i sistemi DNS.
+
+L'implementazione del protocollo TCP/IP, che non garantisce particolare sicurezza sull'identificazione dei mittenti di pacchetti ma anzi ne protegge l'anonimato, può venir sfruttato per mascherarne la vera provenienza.
+
+Trattandosi di connessioni apparentemente legittime, è impossibile bloccarle senza interrompere anche il flusso realmente inoffensivo. Però limitando drasticamente il numero di sessioni aperte simultaneamente l'impatto dell'attacco si riduce considerevolmente senza limitare il flusso dei pacchetti regolari.
+
+Anche limitando il discorso al blocco di un sito web, esistono, e sono stati utilizzati, parecchi modi di ottenere questo risultato.
+
+Tassonomia dell'attacco
+Lo scopo di questo attacco è saturare la backlog queue con richieste di attivazione di un servizio (TCP SYN settato) oltre la scadenza dei relativi timeout e non consentendo alla vittima di completare il 3-way handshake, in questo modo non sarà in grado di gestire i SYN leciti a cui verrà negato il servizio.
+
+Tipologie di attacco
+*Attacco diretto: l'attaccante interagisce direttamente con la vittima, in questo caso l'attaccante si dice reale e la vittima si dice di primo livello.
+*Attacco indiretto: l'attaccante sfrutta terze parti per colpire la vittima, in questo caso l'attaccante si dice riflesso, le terze parti si dicono vittime di secondo livello e la vittima finale si dice vittima di primo livello.
+
+Possibili soluzioni
+Soluzioni che rispettano lo standard:
+
+*Dimensionamento dinamico della backlog queue;
+*Diminuire il TTL per le richieste in attesa (half open connection).
+
+Soluzioni che non rispettano lo standard:
+
+*Scartare TCP SYN casualmente;
+*Inserire le richieste solo al completamento del 3-way handshake (alla ricezione dell' ACK finale).
+
+Altri Dispositivi di Protezione da Attacchi DoS e Ddos
+
+;Filtraggio dei Dati in arrivo:
+Implementando i filtri che presiedono all'ingresso, nei propri router e firewall, dei pacchetti contenenti informazioni sulla provenienza dei dati alterate (cioè spoofed), non si otterrà un arresto dell'attacco DoS ma si potrà ricostruire il flusso di traffico qualificato come "malefico" in tempi relativamente brevi, per consentire la reazione difensiva degli Internet Service Provider (anti spoofing).
+
+;Limitazione del Traffico:
+Molti router consentono, attualmente, di limitare la quantità di banda utilizzata per la fornitura di un servizio attraverso il "campionamento" ed analisi dei pacchetti che vi transitano.
+In caso di attacco non resterà attiva una quantità di banda sufficiente a provocare un danno cospicuo o a bloccare il flusso legittimo dei dati.
+Questa limitazione si otterrà ad esempio con l'utilizzazione di una macchina Linux che funga da gateway attraverso un'azione CAR (Commited Access Rate), così si bloccherà un attacco DDoS che usi pacchetti ICMP o TCP, SYN poiché viene considerevolmente limitata la banda utilizzabile da questi.
+
+;Sistemi di riconoscimento delle intrusioni:
+Si tratta di sistemi commerciali in grado di individuare Trinoo e TFN, ad esempio l'FBI fornisce, gratuitamente, un prodotto definito Find DDoS in grado di scoprire i filesystem visti sopra, risultato dell'attacco Distribued Denial of Service.
+Attraverso tali sistemi di verifica (Intrusion Detection System) vengono individuati i malintenzionati che comunicano tramite slave, agent e master, scoprendo se alcune delle macchine, nella propria rete, vengono usate, malignamente, come pedine per sferrare l'attacco.
+In particolare i Network Auditing Tools sono programmi che consentono la verifica e l'analisi della rete aziendale alla ricerca di eventuali agenti in grado di provocare un attacco di tipo DDoS.
+
+Attacchi portati da un singolo host
+Questi tipi di attacco, provenendo da un'unica fonte, sono potenzialmente rintracciabili.
+
+Syn-Flood
+Storicamente il Syn-Flooding rappresenta il capostipite degli attacchi DoS, che trova le sue dirette radici nel Ping of Death.
+Col termine Syn Flooding, letteralmente tradotto con "inondazione di pacchetti di tipo Syn", nasce dal fatto che tutte le volte che un utente fa click su di un link di una pagina web richiede l'apertura di una connessione (di tipo TCP) verso quel sito; questo avviene seguendo una serie di passi, il primo dei quali consiste nell'invio di un pacchetto TCP che richiede l'apertura di una connessione.
+
+Tutte le regole di funzionamento del protocollo TCP esigono che il sistema risponda allocando alcune risorse (in pratica memoria) per la connessione. Se si programma opportunamente un semplice PC, è possibile richiedere l'apertura di diverse migliaia di connessioni al secondo, che "inondando" il server, ne consumano rapidamente tutta la memoria, bloccandolo o mandandolo in crash.
+
+E il problema di questo tipo di attacco è che il computer attaccante deve poter mandare il flusso di pacchetti attraverso la connessione ad Internet fino al server attaccato.
+
+Oppure l'utente malintenzionato deve poter fornire delle "credenziali" di accesso valide per usufruire della vulnerabilità insorta nel sistema operativo e portare a termine, efficacemente, l'attacco al sito bersaglio.
+
+I pacchetti dannosi predisposti con un indirizzo IP, falsificato rispetto all'originale, procureranno al computer "vulnerabile" una situazione, temporanea, di Denial of Service' poiché le connessioni che sono normalmente disponibili, sia per i buoni che per i cattivi, sono lente, questo diventa impossibile.
+
+Un esempio potrebbe essere il seguente: l'attaccante, identificato dal nome STE, invia una serie di richieste alla sua vittima, identificata col nome CRI: la macchina server, sulla quale vengono eseguiti dei servizi, non sarà in grado di gestire tutte le richieste e i servizi stessi andranno in crash, risultando prima molto rallentati e poi, successivamente, inaccessibili.
+In questa maniera, un utente qualunque (identificato dal nome UTENTE) non sarà in grado di accedere ai servizi, ricevendo un errore di richiesta scaduta o timeout.
+
+L'attacco Syn-Flood usa strumenti che rientrano nella categoria Tribe Flood Network (TFN) ed agisce creando delle connessioni che si rivelano aperte a metà.
+
+Il protocollo classico usato nei DoS è il ping, inviandone a milioni si riuscirà a bloccare l'operatività di qualunque sito Internet, ma trattandosi di un modello di attacco "uno a uno", ad un pacchetto in uscita corrisponderà la ricezione di un solo pacchetto al sistema attaccato.
+
+Occorrerà quindi che i cracker possano disporre di un gran numero di PC client, "controllati", ma non è così facile "inoculare" il codice maligno in un numero tanto elevato di macchine grazie all'azione specifica di antivirus, patch di sicurezza e tecnici informatici.
+
+Smurf
+Una modalità di attacco più sofisticata, detta Smurf attack, utilizza un flusso di pacchetti modesto, in grado di passare attraverso una normale connessione via modem, ed una rete esterna, che sia stata mal configurata, che agisce da moltiplicatore di pacchetti, i quali si dirigono infine verso il bersaglio finale lungo linee di comunicazione ad alta velocità.
+
+Tecnicamente, viene mandato uno o più pacchetti di broadcast verso una rete esterna composta da un numero maggiore possibile di host e con l'indirizzo mittente che punta al bersaglio (broadcast storm).
+
+Ad esempio può venir usata una richiesta echo ICMP (Internet Control Message Protocol) precedentemente falsificata da chi attua materialmente l'attacco informatico.
+
+Si noti che questo tipo di attacco è possibile solo in presenza di reti che abbiano grossolani errori di configurazione dei sistemi (nello specifico nella configurazione dei router) che le collegano tra loro e con Internet.
+
+Attacchi da più host
+In questi attacchi il bersaglio viene attaccato contemporaneamente da più fonti, rendendo difficile rintracciare l'attaccante originario.
+DDoS
+Una variante di tale approccio è il DDoS (Distributed Denial of Service) dal funzionamento identico ma realizzato utilizzando numerose macchine attaccanti che insieme costituiscono una botnet.
+
+Gli attaccanti tendono a non esporsi direttamente, dato che per le forze dell'ordine sarebbe relativamente semplice risalire ai computer utilizzati per l'attacco. Gli attaccanti, per evitare di essere individuati e per avere a disposizione un numero sufficiente di computer per l'attacco inizialmente, infettano un numero elevato di computer con dei virus o worm che lasciano aperte delle backdoor a loro riservate. I computer che sono controllati dall'attaccante vengono chiamati zombie.
+
+Tutti i computer infettati entrano a far parte di una botnet, a libera disposizione dell'attaccante: una nota interessante è data dalla distinzione tra quelle che sono le macchine che eseguono un Sistema Operativo Windows (definiti, in gergo, rxbot) e quelle che invece eseguono un sistema Unix, particolarmente adatte all'UDP Flooding (Flooding sul protocollo UDP).
+
+Una particolarità degli zombies Windows è data dalla possibilità, per l'attaccante, di programmare un trojan in grado di diffondersi automaticamente a tutta una serie di contatti presenti sul computer infettato (definita, in gergo, funzione di auto-spreading): contatti contenuti nella rubrica degli indirizzi e nei contatti di programmi di Instant Messaging, come Microsoft Messenger, permettendo così al computer zombie di infettare, in maniera completamente autonoma, altre macchine che, a loro volta, diverranno parte della botnet dell'attaccante.
+
+Quando il numero di zombies è ritenuto adeguato, o quando viene a verificarsi una data condizione, i computer infetti si attivano e sommergono il server bersaglio di richieste di connessione. Con l'avvento della banda larga il fenomeno dei DDOS sta assumendo proporzioni preoccupanti, dato che attualmente esistono milioni di persone dotate di una connessione ad Internet molto veloce e permanente ma con scarse o nulle conoscenze e contromisure riguardanti la sicurezza informatica.
+
+Il danno maggiore dell'attacco di tipo DDoS è dovuto principalmente alla "asimmetria" che si viene a creare tra "la" richiesta e le risposte correlate in una sessione DNS (Domain Name System).
+Il flusso enorme di risposte generato provocheranno nel sistema una tale "inondazione" di traffico rendendo il server inadeguato alla gestione delle abituali funzioni on-line.
+
+Inoltrando, al Sito preso di mira, una risposta di alcuni Kilobyte, per ogni richiesta contenente solo pochi bytes, si ottiene un'amplificazione esponenziale tale da saturare i canali dati più capienti, raggiungendo con il DDoS livelli finora inattuabili con gli altri tipi di attacco DoS.
+
+Le configurazioni predefinite, standard e quelle "consigliate" di Firewall si rivelano utili a contrastare solo gli "attacchi" sferrati dall'esterno, ad esempio di un'azienda, ma poiché il traffico in Rete gestito tramite sistema DNS è vitale, per fronteggiare questo tipo di attacco non si potranno attuare le stesse strategie impiegate nei confronti degli attacchi ai Ping.
+
+Quindi il Network manager dovrà tenere scrupolosamente sotto controllo e monitoraggio i canali di flusso dati e, per escludere l'intervento o contrastare l'azione di un cracker, riconfigurerà il DNS responsabile del sito.
+
+DRDoS
+Una particolare categoria di DDoS è il cosiddetto Distributed Reflection Denial of Service (DRDoS). In questa particolare tipologia di attacco, il computer attaccante produce delle richieste di connessione verso server con connessioni di rete molto veloci utilizzando come indirizzo di provenienza non il proprio bensì quello del bersaglio dell'attacco. In questo modo i server risponderanno affermativamente alla richiesta di connessione non all'attaccante ma al bersaglio dell'attacco. Grazie all'effetto moltiplicatore dato dalle ritrasmissioni dei server contattati, che a fronte della mancanza di risposta da parte del bersaglio dell'attacco (apparentemente l'iniziatore della connessione) provvederanno a ritrasmettere (fino a 3 volte solitamente) il pacchetto immaginandolo disperso, entrando cosi in un circolo vizioso che vede rapidamente esaurirsi le risorse del bersaglio.
+
+Quest'ultimo tipo di attacco è particolarmente subdolo perché, a causa della natura delle risposte, è difficilmente schermabile dall'utente comune: infatti se si filtrassero le risposte dei server verrebbe compromessa la funzionalità stessa della connessione di rete impedendo, di fatto, la ricezione anche delle informazioni desiderate. Le risposte dei server, sollecitate dall'attaccante, sono infatti indistinguibili da quelle generate da una richiesta legittima della vittima. Il problema si sta presentando con maggiore incidenza da quando Microsoft ha deciso di rendere le "Raw Sockets", interfaccia di accesso al TCP/IP, facilmente disponibili. Le RAW sockets permettono appunto di cambiare l'indirizzo di provenienza del pacchetto per sostituirlo con quello della vittima, fatto che è strumentale per questo tipo di attacco.
+
+Un attacco DRDoS subito nel 2002 da GRC è stato dettagliatamente analizzato. È disponibile online un resoconto completo in lingua inglese.
+
+Note
+
+Voci correlate
+* Botnet
+* Fork bomb
+* Sicurezza informatica
+* Netstrike
+* Amplification attack
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 18:40:51 from:
+  http://it.wikipedia.org/wiki/Denial_of_service
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

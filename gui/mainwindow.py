@@ -125,7 +125,8 @@ class MainWindow(QtGui.QMainWindow):
 
     def openLocal(self):
         dialog = QtGui.QFileDialog()
-        path_cur = os.path.dirname(unicode(self.input_url.text()))
+        filepath = os.path.abspath(unicode(self.input_url.text()))
+        path_cur = os.path.dirname(filepath)
         dialog.setFileMode(QtGui.QFileDialog.AnyFile)
         filename = unicode(dialog.getOpenFileName(self, "Open document", path_cur))
         if filename:

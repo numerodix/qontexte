@@ -1,0 +1,181 @@
+Il videogioco è un gioco le cui regole sono gestite automaticamente da un dispositivo elettronico che utilizza un'interfaccia uomo-macchina basata sul display come sistema di output. Come qualsiasi gioco, il videogioco riproduce simbolicamente determinati contesti culturali, astraendoli dal loro ambito di default ed applicandoli a contesti e situazioni che possono andare dalla simulazione più fedele fino alla parodia.
+
+Divenuto ormai un fenomeno culturale di massa, un medium o addirittura un'arte visuale a sé stante, il videogioco può vivere in ragione dell'informatica e dell'elettronica (sia per il software che per la parte hardware). Nato quasi per caso già a partire dagli anni '50 negli ambienti di ricerca scientifica e nelle facoltà universitarie americane, ha avuto il suo sviluppo a partire dalla seconda metà degli anni Settanta.
+
+Età dei videogiocatori
+
+La fascia anagrafica più cospicua di coloro che praticano il videogioco è statisticamente compresa tra i 16 e i 29 anni, sebbene in alcuni paesi l'età media sia più elevata (come nel Regno Unito), arrivando comunque ad un massimo di 49 anni; in Italia l'età media è di 28 anni.
+
+Oggi nel mondo i videogiochi sono praticati da almeno 130-145 milioni di persone di tutte le età (stima della Interactive Digital Software Association). In Italia il numero dei possessori di una console è di 8 milioni.
+
+Internet e "intelligenza connettiva"
+La massiccia diffusione di Internet negli anni 90 ha favorito una diffusione massiccia dei videogiochi. Sul web è possibile infatti giocare allo stesso videogioco anche in gruppi composti da più persone situate in diverse postazioni sparse per il globo.
+
+Questa possibilità di dare vita ad una intelligenza connettiva (data appunto dalla interconnessione di più persone fra loro comunicanti), sembra destinata ad essere presa in considerazione anche dal mondo della scuola. Si starebbe cercando, in altre parole, di dare al videogioco una funzione pedagogica, ovviamente senza destrutturarlo troppo e pur tuttavia sostituendone la componente competitiva con una meramente collaborativa. Un esempio di questo tentativo è rappresentato da Stop Disasters, un videogame on line lanciato dall'Organizzazione delle Nazioni Unite con l'intento di sensibilizzare i più piccoli sugli accorgimenti per costruire città e villaggi più sicuri dal rischio di calamità e disastri ambientali.
+
+Nuovo fenomeno culturale
+L'influenza del videogioco - anche come nuovo fenomeno culturale di massa - viene da molti associata a quella del cinema degli albori o della televisione al momento della sua massima espansione e trasformazione in mezzo di comunicazione di massa vero e proprio. Anzi, il videogioco rischia ora, o quanto meno rischierebbe, di surclassare lo stesso cinematografico, se è vero come è vero che già è stato infranto un ipotetico quanto significativo break even point: statistiche alla mano, le vendite di videogiochi hanno superato, almeno negli Stati Uniti, quelle di biglietti delle sale cinematografiche.
+
+Ma con il cinema, il mondo dei videogiochi sembra aver stretto un (definitivo?) patto d'acciaio: i plot di molti film prodotti oggi sono dichiaratamente mutuati da videogiochi, così come molti videogiochi vengono in tempi assai rapidi trasformati in film, più o meno di successo e dalle qualità artistiche a volte discutibili.
+
+Il riconoscimento dell'importanza culturale dei videogiochi si sta manifestando con l'ingresso della materia nelle Università e con il proliferare di pubblicazioni scientifiche, anche in italiano, sull'argomento.
+
+Intelligenza (non artificiale)
+A parere di molti sociologi e psicologi, il videogioco favorisce una stimolazione del cervello dei giocatori, inducendolo ad agire in maniera differente rispetto all'usuale grazie alla immediatezza del messaggio visivo fornito dalle immagini. Steven Johnson, nel suo libro "Tutto quello che fa male ti fa bene" (Mondadori, 2006) cita recenti studi di neurologia su come viene stimolata l'attivazione dei circuiti dopaminergici durante l'interazione con un gioco elettronico. Citando quello che James Paul Gee chiama "ciclo indaga, ipotizza, reindaga, verifica" Johnson paragona l'attività conoscitiva che un giocatore svolge all'interno di un videogioco al metodo scientifico. Questo aspetto, tuttavia, viene talvolta considerato un ostacolo per un giocatore in età infantile o adolescenziale e quindi in fase di apprendimento: la comunicazione che proviene da un insegnante può risultare non sempre recepibile da un giovane abituato a messaggi prettamente visivi.
+
+Secondo altri studiosi della materia, il videogioco sta contribuendo perciò a introdurre in questo inizio di III millennio - a dispetto del massiccio uso delle immagini che fa - un nuovo tipo di cultura che contrasta le precedenti, ossia quella orale e quella scritta. Questo dato di fatto si tramuta in timore davanti ad un altro genere di considerazione: se cioè l'effetto di questo intrattenimento si limiti semplicemente a rivedere (ridisegnare?) gli stilemi culturali esistenti oppure se possa portare - interessando così una sorta di roboetica - alla creazione di un modello esistenziale di uomo-gioco.
+
+Finzione e realtà
+Il videogioco viene spesso colpevolizzato attraverso i mass media, specie quando si verificano efferati episodi di cronaca nera. Alcuni ritengono infatti che la ripetuta simulazione di sparatorie o atti di violenza, presenti in alcuni videogiochi, possa in qualche modo avere influenzato precedentemente l'autore o gli autori di tali efferate gesta; altre fonti sostengono invece che i bambini siano normalmente capaci di distinguere finzione e realtà e che questi singoli episodi siano da ricondurre a sintomatologie pre-esistenti di tipo psicologico o di altra natura.
+
+Storia del videogioco
+
+Nel 1952 nei laboratori dell'Università di Cambridge A.S. Douglas, come esempio per la sua tesi di dottorato, realizzò OXO, la trasposizione del gioco Tris per computer. Questo non viene usualmente considerato il primo videogioco per computer, dato che non venne sviluppato per intrattenere gli utenti ma per completare la tesi di Douglas.
+
+Nel 1958, il fisico Willy Higinbotham del Brookhaven National Laboratory, notando lo scarso interesse che avevano gli studenti per la materia, realizzò un gioco che aveva il compito di simulare le leggi fisiche che si potevano riscontrare in un vero incontro di tennis: il mezzo utilizzato era un oscilloscopio. Questo viene ricordato come un esperimento universitario più che come un gioco.
+
+Nel 1962, sei giovani ricercatori del MIT (Massachusetts Institute of Technology) riescono a dare movimento a puntini luminosi sullo schermo di un PDP-1: nasceva Spacewar!, il primo videogioco che la storia ricordi. Ma il grande sviluppo dei videogiochi si avrà solamente a partire dalla seconda metà degli anni Settanta.
+
+I primi videogiochi apparvero negli anni '70 ed erano limitati a console con video in bianco e nero allestite nei locali pubblici. I giochi avevano una grafica essenziale (nella memoria resta il classico Pong).
+
+Il gioco sviluppato da Higinbotham era una simulazione di tennis in cui c'era una linea verticale sullo schermo a rappresentare la rete vista dall'alto e un puntino sullo schermo per la pallina. Non c'erano segnalini per le racchette ed agendo sulla manopola di controllo un solo giocatore poteva far "rimbalzare" la palla da un lato all'altro dello schermo: se non si ruotava la manopola prima della fine dello schermo la pallina continuava la sua corsa ed il gioco ricominciava senza assegnare alcun punteggio con una nuova pallina. In effetti era una dimostrazione su come si potesse interagire con un computer più che un gioco o un videogioco.
+Il gioco funzionava grazie ad una serie di computer analogici Donner (enormi scatoloni da 50.000 dollari) a cui Higinbotham collegò dei relay che tramite uno oscilloscopio DuMont Model 804 erano in grado di generare e gestire punti mobili sullo schermo (la pallina).
+
+Il nome di Higinbotham sarebbe oggi del tutto obliato ovvero certamente non accostato ai videogiochi ne non fosse per il fatto che Nintendo lo mise sotto la luce dei riflettori in tribunale alla fine del 1982 chiamando Higinbhotam come testimone in una causa (che Nintendo of Japan perse) intentata nel tentativo di dimostrare che i videogiochi fossero stati inventati prima del deposito dei brevetti detenuti, già a far data dal 1966, dalla Sanders and Associates e per non pagare i diritti a quest'ultima.
+
+Il progetto di Douglas, così come quello di Higinbotham, era sì un gioco ma non certo un videogioco. Si trattava più un esperimento scientifico che una invenzione fruibile dalla gente comune: l'EDSAC o il Donner erano armadi che occupavano interamente una stanza e assorbivano una quantità enorme, industriale di corrente elettrica, oltre ad avere un costo decisamente proibitivo per qualunque famiglia dell'epoca (circa 60.000 dollari per l'EDSAC e 50.000 dollari per un singolo computer Donner).
+
+Lo Space War di Russel invece era un videogioco vero e proprio basato sulla visualizzazione vettoriale (fu il primo tentativo di simulazione dinamica che la storia ricordi). Ma per la complessità del progetto e gli elevati costi di sviluppo sul PDP-1, nonché per la difficoltà poi di adattare tale videogioco su computer dai costi più "abbordabili" si dovette attendere la fine del 1973 quando Space War raggiunse il grande pubblico come gioco da sala (coin-op). Tale gioco ebbe scarsissimo successo e le sue vendite non coprirono neppure un terzo dei costi di produzione.
+
+Il primo uomo che invece concepì l'idea di videogiocare, nel senso che oggi noi conosciamo, con i normali schermi TV da salotto, fu Ralph Baer. Il concetto di un giocatore, un gioco, un televisore, ed una scatola ad essa collegata in cui inserire i videogiochi è suo.
+Negli anni '60 Ralph Baer era uno dei primi ingegneri televisivi al mondo e lavorava alla Sanders and Associates (una società che sviluppava sistemi radar aerei e sottomarini). Nel 1966, durante un viaggio di lavoro, annotò su un block notes alcuni schizzi e disegni tentando di schematizzare alcuni pensieri sul modo in cui si potesse interagire (giocando) con un normale televisore da casa.
+Tali appunti convinsero la Sanders a sviluppare il progetto e a depositare i brevetti di quella idea già nel 1966, inoltre la società incoraggiò Baer a continuarne lo sviluppo, mettendogli a disposizione una stanza debitamente attrezzata su indicazione delle stesso ingegnere. Dopo pochi mesi Baer aveva un puntino luminoso che si poteva muovere a piacimento sullo schermo di un normale televisore. Il generatore di allineamento Heathkit IG-62, da egli stesso realizzato per testare i televisori, rendeva ora possibile muovere il puntino bianco su schermo nero.
+Berchè all'inizio degli anni '80 Atari rese famosi nel mondo i puntini neri su schermo bianco, la tecnologia inventata da Baer fu la prima che venne utilizzata agli inizi degli anni '70 per la creazione della prima console per videogiochi nella storia: il Magnavox Odyssey.
+
+Il prototipo del Magnavox Odyssey (chiamato in Sanders Brown Box oppure solo Odyssey) era già pronto nel 1970 e ne venne iniziata la commercializzazione in serie nel Natale del 1972 con un gioco di ping-pong. Si trattava in buona sostanza di un una pallina (un punto bianco su schermo nero) che veniva ribattuta orizzontalmente sullo schermo della TV da due racchette (due bastoncini bianchi su schermo nero), controllabili dai giocatori (massimo 2) con due controller (attualmente li chiameremmo joypad) con rotelle, che consentivano di muovere le racchette verticalmente.
+Nell'anno di lancio l'Odyssey vendette oltre 165.000 unità, e grazie anche ad una estesa campagna pubblicitaria, l'unica e sola console casalinga per videogiochi, vendette nel secondo anno (siamo alla fine del 1973) ulteriori 200.000 scatole.
+
+Nel 1972 Nolan Bushnell, un giovane ingegnere che lavorava in Ampex (una società che progettava circuiti integrati e nastri magnetici per la videoregistrazione), lasciò il suo impiego e fondò Atari.
+Bushnell con la sua nuova società si prefiggeva in pochi anni di sostituire i flipper dei bar con videogiochi a gettoni (coin-op). Nei primi mesi di produzione (siamo agli inizi del 1973) Atari vendette circa 2000 unità del coin-op "Pong". Un gioco molto simile al ping-pong di Baer per l'Odissey.
+Sta di fatto che il coin-op Atari, nonostante sia stato commercializzato e sia apparso al pubblico dopo il lancio della console Odyssey, è passato alla storia come il primo videogioco.
+Pong di Atari era un gioco destinato ai luoghi pubblici e non alle quattro mura domestiche, così anche chi non conosceva l'esistenza dei videogame (tutte le persone, eccetto 365.000 utenti Odyssey nel 1973) ebbe il primo contatto con essi grazie a Pong.
+Per tale ragione Atari entrò nell'immaginario collettivo come la casa che aveva generato quel nuovo mondo del divertimento elettronico, anche se fu solo nel 1976 che Atari (grazie anche alla collaborazione di Activision) cominciò a commercializzare la sua versione della console casalinga, che, per ragioni di una diversa e migliore capacità pubblicitaria di Atari (più che per una effettiva qualità superiore) soppiantò immediatamente l'Odyssey della Sanders/Magnavox.
+
+Oggi la maggior parte degli appassionati ritengono che la Atari di Nolan Bushnell sia stata la società che ha inventato videogiochi. Ma ad una attenta lettura dei fatti, così come si verificarono, alcuni ritengono che il merito storico andrebbe attribuito a Ralph Baer.
+
+Le diverse tipologie
+Dalla nascita ad oggi, i videogiochi si sono costantemente evoluti formando man mano dei generi completamente diversi tra loro, con meccaniche di gioco differenti e differenti abilità richieste al giocatore. Oltre ad una naturale crescita tecnica dei giochi, l'uscita di un titolo innovativo può essere talmente diverso dal punto di vista concettuale da creare un tipo di videogioco a sé.
+
+I principali gruppi nei quali si possono dividere i videogiochi sono due: simulativo o arcade.
+Un gioco simulativo è un gioco basato sulla simulazione delle regole del mondo reale, chi opta per programmare un gioco orientato su questo genere sa che il giocatore vuole investire anche ore del proprio tempo giocando a qualcosa di inedito e molto difficile.
+Un gioco di guida con la reale rappresentazione della fisica, oppure un gioco di guerra dove con un solo colpo la partita finisce, sono ottimi esempi.
+Il gioco arcade invece ne è l'esatto opposto. Chi sceglie un gioco arcade non ha voglia di cimentarsi nell'apprendimento delle meccaniche di un gioco troppo complicato, ed il suo unico desiderio è avviare il gioco e divertirsi all'istante, evitando se possibile di leggere il manuale.
+
+Segue una lista dei generi più comuni. Tra parentesi il termine inglese con cui sono spesso conosciuti:
+
+* Avventura (Adventure)
+** Avventura testuale (Textual adventure)
+** Avventura grafica (Graphical adventure o Punta e clicca)
+*** Avventura a diapositive (Slide-show adventure o Punta e clicca in prima persona, avventure in stile Myst)
+*** Scappa dalla stanza (Escape the room)
+** Avventura dinamica (Action adventure - simile ai giochi d'azione ma con più enigmi)
+** Alternate reality games
+
+* Azione: (Action)
+** Piattaforme (Platform)
+** Picchiaduro (Beat 'em up)
+*** Picchiaduro a scorrimento
+*** Picchiaduro ad incontri
+** Sparatutto (Shoot 'em up)
+*** Sparatutto in prima persona (First Person Shooter - FPS)
+**** Sparatutto con light gun
+*** Sparatutto in prima persona tattico (First Person Tactical Shooter - FPTS)
+** Splatter
+** Stealth
+
+* Quiz
+
+* Rompicapo (Puzzle)
+** Rompicapo online (Enigma online)
+
+* Videogioco di ruolo, GdR (Computer Role Playing Game - CRPG)
+** Action RPG
+** Videogioco di ruolo alla giapponese (Japanese Role Playing Game - J-RPG)
+** Gioco di ruolo online
+*** MMORPG (Massively Multiplayer Online Role Playing Game)
+*** MUD (Multi-User Dungeon o Multi-User Dimension)
+*** MUSH (Multi-User Shared Hallucination)
+*** MOO (MUD Object Oriented)
+
+* Videogioco di simulazione
+** Simulatore di volo
+** Simulatore di guida
+** Simulatore di vita
+** Simulatore gestionale
+** Altri... (simulatori di treni, sottomarini, ecc.)
+
+* Sportivo
+** Simulatore sportivo
+*** Calcio
+*** Automobilismo
+*** Altri sport...
+** Manageriale
+
+* Strategico
+** Gestionale
+** Strategia in tempo reale (Real Time Strategy - RTS)
+** Tattica in tempo reale (Real Time Tactics - RTT)
+** Strategia a turni (Turn Based Strategy - TBS)
+
+* Musicale
+
+Conseguenze psicologiche
+Una ricercaNicholas L. Carnagey, Craig A. Anderson and Brad J. Bushman, The effect of video game violence on physiological desensitization to real-life violence, Journal of Experimental Social Psychology (in stampa,
+doi:10.1016/j.jesp.2006.05.003). Disponibile nella homepage dell'autore: http://www.wfu.edu/~carnagnl/pubs/06CAB.pdf dell'università dello Iowa, pubblicata sul Journal of Experimental Social Psycology, è giunta alla conclusione che chi gioca con videogame violenti diventa meno sensibile alla violenza presente nel mondo reale. La "desensibilizzazione" viene spiegata come "una riduzione delle emozioni in reazione ad atti violenti reali". Utilizzare i giochi più violenti porterebbe non solo ad essere più violenti ma più aggressivi, intolleranti e meno altruisti.
+
+Nella ricerca sono stati scelti 257 studenti di College (124 uomini e 133 donne) ai quali è stato chiesto di giocare a videogiochi a scelti casualmente: alcuni violenti (Carmageddon, Duke Nukem 3D, Mortal Kombat e Future Cop) e altri non violenti (Glider Pro, 3D Pinball, 3D Munch Man e Tetra Madness). Ai soggetti per tutta la durata dell'esperimento sono stati controllati i battiti cardiaci e la reattività epidermica. Dopo la "prova" ai volontari è stato chiesto di sedersi a guardare un video di 10 minuti contenente scene di violenza reali.
+
+I ricercatori hanno evidenziato che coloro che avevano giocato con videogiochi violenti avevano avuto una reazione fisiologica analoga rispetto a quelli che avevano interagito con giochi non violenti durante la fase di gioco, ma presentavano una reazione assai minore alle immagini di violenza reale mostrate loro successivamente. Raccolti tutti i dati dell'esperimento, lo scenario che gli psicologi propongono è allarmante: sarebbero sufficienti 20 minuti di videogiochi violenti per diventare meno sensibili alle brutalità del mondo reale. Ma gli psicologi si sono spinti oltre nelle loro conclusioni, definendo l'intera società del divertimento multimediale come una «macchina per la desensibilizzazione sistematica dell'individuo».
+Bisogna altresì ricordare che la ricerca potrebbe essere interpretata anche come una desensibilizzazione rispetto ad immagini fittizie di elementi reali: essere più tolleranti verso un filmato o ad una fotografia che mostrano scene violente non è la stessa cosa (sia a livello conscio che inconscio) del trovarvicisi direttamente davanti come spettatori (il lettore può facilmente immaginare come reagirebbe se assistesse ad un omicidio commesso proprio davanti ai suoi occhi e come reagirebbe invece se vedesse le immagini di un omicidio trasmesse ad esempio in un notiziario, difficilmente nel secondo caso si rimarrebbe turbati quanto nel primo). Inoltre la stessa ricerca è una delle innumerevoli che sono state fatte sul mondo e sugli effetti dei videogiochi, le quali hanno portato ai risultati più disparati e contrastanti. Il dibattito è molto animato e ricco di interessamenti da parte di vari studiosi, e sta proseguendo avanti con studi sempre più approfonditi.
+
+Industria dei videogiochi
+Dagli anni novanta in poi l'industria dei videogiochi ha acquisito sempre più importanza, la produzione di videogiochi moderni richiede investimenti per decine di milioni di euro ma può determinare incassi per centinaia di milioni di euro. La sola GameStop ha fatturato nel 2007 5,56 miliardi di dollari. Nello stesso anno, per la prima volta nella storia, l'industria dei videogiochi ha superato come volume d'affari l'industria musicale.
+
+Voci correlate
+
+*Gioco
+*Gameplay
+*Informatica
+*Console
+*Console portatile
+*Storia dei videogiochi
+*Censura nei videogiochi
+*Lista dei produttori di videogiochi
+*Casual game
+*Game Head
+*Videogiochi educativi
+
+Altri progetti
+
+Note
+
+Bibliografia
+* Francesco Alinovi. Mi gioco il Cervello: Nascita e furori dei videogiochi. Liocorno Editore.
+* Ciro Ascione. Videogames - Elogio del tempo sprecato. Minimum Fax.
+* Matteo Bittanti (a cura di) Per una cultura dei videogames : teorie prassi del videogiocare. Unicopli.
+* Domenico Carzo; Marco Centorrino. Tomb Raider, o il destino delle passioni. Per una sociologia del videogioco. Guerini e Associati.
+* Paolo Cupola. L'ottava arte – da PacMan a Lara Croft, breve storia dei videogiochi. Domino/Avallardi.
+* Massimo Maietti. Semiotica dei videogiochi. Unicopli.
+* Roberto Maragliano. Nuovo manuale di didattica multimediale. Laterza.
+* Gianfranco Pecchinenda. I videogiochi e cultura della simulazione. Laterza.
+* Raffaele Simone. La terza fase. Laterza.
+* Italo Tanoni. Videogiocando si impara. Dal divertimento puro all'insegnamento apprendimento. Erickson.
+* Steven Johnson. Tutto quello che ti fa male ti fa bene. Mondadori. (traduzione italiana di Fjodor B. Ardizzoia e Francesca Ioele).
+
+Collegamenti esterni
+*
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 15:43:47 from:
+  http://it.wikipedia.org/wiki/Videogioco
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

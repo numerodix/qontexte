@@ -1,0 +1,179 @@
+Rocce sedimentarie clastiche - Wikipedia
+
+Rocce sedimentarie clastiche
+
+Da Wikipedia, l'enciclopedia libera.
+
+Vai a: Navigazione, cerca
+Le rocce sedimentarie clastiche (dal greco κλαστός clastos: spezzato, rotto, sminuzzato) derivano da sedimenti i cui elementi costituenti a loro volta derivano principalmente dall'accumulo di frammenti litici di altre rocce alterate trasportati in genere da agenti esogeni diversi (corsi fluviali, correnti marine, venti, ecc.).
+
+Indice
+
+1 Classificazione
+2 Conglomerati
+
+2.1 Tipologie di conglomerato
+
+2.1.1 Brecce
+2.1.2 Puddinghe
+
+2.2 Ambienti deposizionali dei conglomerati
+
+2.2.1 Ambiente continentale
+2.2.2 Ambiente marino
+
+3 Arenarie
+
+3.1 Tipologie di arenarie
+3.2 Quarzareniti
+
+3.2.1 Arcose
+3.2.2 Grovacche
+
+3.3 Ambienti deposizionali delle arenarie
+
+3.3.1 Ambiente continentale
+3.3.2 Ambiente marino
+
+4 Argilliti
+
+4.1 Argilla calcarea
+
+5 Note
+6 Voci correlate
+
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=1" title="Modifica la sezione Classificazione">modifica Classificazione
+Generalmente le rocce clastiche vengono classificate in base alle dimensioni dei granuli che le compongono. La suddivisione più usata prevede quattro classi, in ogni classe vi è una nomenclatura doppia da scegliere in funzione che la roccia sia cementata o inconsolidata (ossia sciolta):
+
+conglomerati cementati, ghiaie inconsolidate, con dimensioni dei granuli superiori a 2 mm; in passato erano spesso usati i termini psefiti o ruditi.
+arenarie, sabbie, diametro dei granuli è fra 0,0625 e 2 mm; in passato era spesso usato il termine psammiti.
+siltiti, silt, con particele dal diametro compreso tra 0.0625 e 0.004 mm.
+argilliti, argille, con particelle minori di 0.004 mm.
+
+Siltiti e argilliti e i loro corrispondenti inconsolidati erano incluse nelle lutiti (o anche peliti).
+Secondo l'ambiente di deposizione si presentano all'osservazione con diverse facies (continentale, deltizio, desertica, etc.).
+Le arenarie con matrice detritica tra il 15% e il 75% sono dette grovacche
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=2" title="Modifica la sezione Conglomerati">modifica Conglomerati
+Sinonimo: ruditi;
+
+Conglomerato di portofino - Formazione di Molare (oligocene), che poggia in discordanza sul flysch calcareo marnoso del M. Antola (Punta Chiappe - Ge)
+
+I singoli granuli (clasti), detti comunemente "ciottoli" possono raggiungere diametri superiori a 1 metro. I clasti possono essere di natura terrigena (derivati cioè dallo smantellamento di rocce silicee), o carbonatica (derivati da resti di organismi a scheletro o guscio calcareo oppure dallo smantellamento di rocce calcaree e dolomitiche più antiche). Oltre ai granuli di taglia maggiore (clasti), possono esserci granuli di dimensioni molto minori che riempiono gli interstizi tra i clasti stessi: la matrice. Ad esempio, se i clasti sono ciottoli, la matrice potrà essere sabbia o anche argilla. Infine, dalle soluzioni che circolano nel sedimento possono precipitare sali che vanno a costituire il cemento della roccia. La cementazione può essere parziale (quando parte degli interstizi tra i clasti rimane libera) o totale. Il cemento può essere a sua volta di varia natura: calcite, dolomite, silice (quarzo, calcedonio...etc.), gesso, argilla, ossidi e idrossidi (come l'ematite), fosfati, a seconda dell'ambiente di sedimentazione e della composizione delle acque sotterranee. Se i singoli clasti sono a contatto tra loro il conglomerato viene chiamato anche ortoconglomerato o conglomerato a supporto clastico, mentre se tra essi è interposta abbondante matrice viene chiamato paraconglomerato o conglomerato a supporto di matrice. Con scarsità o assenza di cemento, si parla più propriamente di ghiaia. In quest'ultimo caso si tratta di rocce incoerenti (o "sciolte").
+I conglomerati sono sedimenti clastici che derivano dallo smantellamento di formazioni più antiche da parte degli agenti dell'erosione o agenti esogeni (agenti meteorici, correnti, frane...), sia in ambiente subacqueo che in ambiente subaereo. I meccanismi di messa in posto di questi sedimenti sono soprattutto gravitativi.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=3" title="Modifica la sezione Tipologie di conglomerato">modifica Tipologie di conglomerato
+Nella letteratura geologica i conglomerati si suddividono tradizionalmente in:
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=4" title="Modifica la sezione Brecce">modifica Brecce
+Le Brecce sono ruditi, il loro sedimento, infatti, è formato da ghiaia. Risultano ciottoli a spigoli vivi. Sono caratterizzati da bassa maturità tessiturale in quanto i granuli sono mal classati, possiedono dimensioni diverse tra loro. Questo potrebbe essere dovuto a un "trasporto" non lungo che non ha permesso una buona classazione e un buon arrotondamento come nei conglomerati.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=5" title="Modifica la sezione Puddinghe">modifica Puddinghe
+Conglomerati nei quali i ciottoli (clasti) sono arrotondati (maggiore "maturità tessiturale", indice di un trasporto più lungo).
+Occorre osservare che il termine "puddinga"1 è ormai caduto in disuso nella letteratura geologica più recente, sostituito dal termine generale "conglomerato", ora utilizzato anche per i litotipi a clasti arrotondati.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=6" title="Modifica la sezione Ambienti deposizionali dei conglomerati">modifica Ambienti deposizionali dei conglomerati
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=7" title="Modifica la sezione Ambiente continentale">modifica Ambiente continentale
+Nell'ambiente glaciale e periglaciale si sedimentano depositi morenici, formati tipicamente da elementi di dimensioni e forme molto varie, inglobati in una matrice molto eterometrica (formata da tutte le classi granulometriche, dalle sabbie e argille). Sono depositi derivati dall'azione di trasporto dei ghiacciai, che non consente una selezione del materiale in carico (a differenza delle correnti fluviali).
+In ambiente desertico, le correnti eoliche (il vento) non hanno sufficiente energia per rimuovere ciottoli di dimensioni cospicue, ma ugualmente possono formarsi depositi eolici (dune) microconglomeratici. Inoltre, per erosione eolica del materiale sabbioso e siltoso, possono rimanere "letti" di ciottoli, successivamente ricoperti da sedimenti sabbiosi.
+Possiamo avere depositi conglomeratici in ambiente alluvionale (derivati dall'azione di trasporto delle correnti fluviali). La granulometria dei sedimenti di origine fluviale (ovvero le dimensioni dei granuli che li compongono) tende a diminuire con la distanza dall'area di erosione e in generale con l'energia della corrente. Così potremo avere conglomerati preferibilmente nelle aree più prossimali e in corrispondenza degli assi dei canali fluviali. Corsi d'acqua a regime torrentizio in ambiente montano e pedemontano possono dare origine a conoidi di deiezione: depositi con morfologia a ventaglio che si formano all'uscita di solchi vallivi, i cui sedimenti sono spesso conglomeratici.
+Conglomerati possono infine deporsi in ambiente di delta, cioè dove i canali fluviali sfociano in un bacino (sia lacustre che marino), con modalità simili a quelle dell'ambiente fluviale (in questo caso, però, possiamo avere rielaborazione dei clasti anche da parte del moto ondoso e delle maree).
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=8" title="Modifica la sezione Ambiente marino">modifica Ambiente marino
+Possiamo avere conglomerati principalmente in sedimenti di spiaggia, derivati dall'azione del moto ondoso e delle correnti costiere sui clasti derivati dallo smantellamento di falesie rocciose, o dalla redistribuzione di sedimenti deltizi.
+Esistono anche sedimenti conglomeratici di mare profondo nell'ambito delle cosiddette torbiditi, prodotte da frane sottomarine. Un tipico esempio di questo tipo di sedimenti in lombardia è la Gonfolite.
+Anche dallo smantellamento di piattaforme carbonatiche (un esempio attuale sono le Isole Bahamas) o di barriere coralline possono deporsi sedimenti conglomeratici (in questo caso a clasti carbonatici).
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=9" title="Modifica la sezione Arenarie">modifica Arenarie
+Sono costituite da sabbie cementate di taglia arenitica (dimensione dei clasti compresa tra 1/16mm e 2mm). I granuli sono di quarzo feldspati o frammenti litici (di altra roccia); tenuti insieme da una matrice costituita da granuli più piccoli di altri minerali o da un cemento formatosi dalla precipitazione di minerali in soluzioni sovrassature (silice, calcite).
+Generalmente stratificate, hanno aspetto ruvido e colore variabile a seconda dei costituenti.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=10" title="Modifica la sezione Tipologie di arenarie">modifica Tipologie di arenarie
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=11" title="Modifica la sezione Quarzareniti">modifica Quarzareniti
+È una arenaria composta in gran prevalenza (sino al 90%) da granuli di quarzo arrotondati. Un'arenaria è caratterizzata da altà maturità mineralogica ( dovuta alla presenza del quarzo, minerale molto stabile ) e alta maturità tessiturale.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=12" title="Modifica la sezione Arcose">modifica Arcose
+È una arenaria contenente circa il 25% di granuli feldspatici, oltre a quarzo e miche. È dovuta alla sedimentazione di materiale di origine granitica o gneissica, dopo un breve trasporto.
+presenta taglia arenitica e colore biancastro o rossiccio, è caratterizzata da bassa maturità mineralogica ma alta maturità tessiturale.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=13" title="Modifica la sezione Grovacche">modifica Grovacche
+Sono arenarie più immature per composizione e struttura dove i granuli di quarzo, feldspato e frammenti di altre rocce (frammenti litici), sono immersi in una matrice detritica (oltre il 70%)2.
+Si presentano compatte, di colore grigio scuro, ben stratificate e con intercalazioni argillose. Caratterizzate da bassa maturità mineralogica e bassa maturità tessiturale.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=14" title="Modifica la sezione Ambienti deposizionali delle arenarie">modifica Ambienti deposizionali delle arenarie
+sedimenti arenacei possono essere presenti in tutti gli ambienti deposizionali:
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=15" title="Modifica la sezione Ambiente continentale">modifica Ambiente continentale
+Sabbie e arenarie sono comuni depositi di ambiente desertico, dove danno origine a tipiche strutture sedimentarie ( dune eoliche).
+Depositi arenacei sono frequenti anche in ambiente alluvionale, dove si localizzano principalmente entro i paleo-canali fluviali. In questo contesto formano strutture sedimentarie definite barre fluviali, con vari tipi di laminazioni da corrente.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=16" title="Modifica la sezione Ambiente marino">modifica Ambiente marino
+Le arenarie sono sedimenti estremamente frequenti in ambiente marino marginale (di delta fluviale e di spiaggia).
+In ambiente sottomarino profondo le arenarie sono molto comuni nei depositi torbiditici, estesi accumuli di sedimenti, generalmente a forma di conoide, derivanti da frane sottomarine o da sedimenti fluviali ivi convogliati da canyon sottomarini che incidono la piattaforma continentale. in Italia, un tipico esempio è dato dalla Formazione Marnoso Arenacea (Miocene).
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=17" title="Modifica la sezione Argilliti">modifica Argilliti
+Si tratta di rocce clastiche a grana estremamente fine che presentano spesso sottili stratificazioni. Testimoniano ambienti a ridotta energia idrodinamica in quanto le argille che la compongono sono facilmente trasportate in sospensione anche da leggerissime correnti; alcuni ambienti tipici di formazione sono: laghi, fondali oceanici, lagune.
+Dal punto di vista mineralogico è caratterizzata dalla presenza dei minerali delle argille, quali la caolinite, la montmorillonite e la halloysite (silicati di alluminio).
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=18" title="Modifica la sezione Argilla calcarea">modifica Argilla calcarea
+È una argilla nella quale il carbonato di calcio arriva al 25%.
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=19" title="Modifica la sezione Note">modifica Note
+
+^ Per la sua etimologia si è fatto ricorso ad un'immagine alimentare per la roccia che risulta da una mescolanza di ciotoli arrotondati tenuti assieme da un legante (1753: dal termine inglese pudding-stone, da pudding, tipo di dessert, budino. Cfr.: Ottavio Lurati, Toponymie et géologie, in Quaderni di semantica, anno XXIX, numero 2, dicembre 2008, 441.
+^ Per la sua etimologia occorre riferirsi a un nome creato dai minatori tedeschi del secolo XVIII della regione di Harz; chiamavano Grauwacke, letteralmente 'blocchi di roccia grigia' e si riferivano a rocce formate principalmente da fillosilicato. Cfr.: Ottavio Lurati, Toponymie et géologie, in Quaderni di semantica, anno XXIX, numero 2, dicembre 2008, 441.
+
+href="/w/index.php?title=Rocce_sedimentarie_clastiche&action=edit&section=20" title="Modifica la sezione Voci correlate">modifica Voci correlate
+
+Formazione gessoso-solfifera
+Rocce sedimentarie
+Sedimentologia
+
+Estratto da "http://it.wikipedia.org/wiki/Rocce_sedimentarie_clastiche"
+Categoria: Rocce sedimentarie
+
+Visite
+
+Voce
+Discussione
+Modifica
+Cronologia
+
+Strumenti personali
+
+Prova Beta
+Entra / Registrati
+
+Navigazione
+
+Pagina principale
+Ultime modifiche
+Una voce a caso
+Vetrina
+Aiuto
+
+comunità
+
+Portale comunità
+Bar
+il Wikipediano
+Fai una donazione
+Contatti
+
+Crea un libro
+
+Aggiungi pagina al libroAiuto sui libri
+
+Ricerca
+
+ 
+
+Strumenti
+
+Puntano qui
+Modifiche correlate
+Pagine speciali
+Versione stampabile				Link permanenteCita questa voceVersione PDF
+
+Altre lingue
+
+English
+Eesti
+日本語
+Nederlands
+Polski
+
+Ultima modifica per la pagina: 02:24, 28 set 2009.
+Il testo è disponibile secondo la licenza Creative Commons Attribuzione-Condividi allo stesso modo; possono applicarsi condizioni ulteriori. Vedi le condizioni d'uso per i dettagli. Wikipedia® è un marchio registrato della Wikimedia Foundation, Inc.
+Politica sulla privacy
+Informazioni su Wikipedia
+Avvertenze
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 21:05:50 from:
+  http://it.wikipedia.org/wiki/Rocce_sedimentarie_clastiche#Conglomerati
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,124 @@
+L'elica (o elica propulsiva o propulsore ad elica) è un organo intermediario in grado di trasformare la potenza meccanica di un albero rotante in variazione della quantità di moto di un fluido, allo scopo di generare una propulsione secondo il principio di azione e reazione.
+Il moto impresso al fluido è detto elicoidale e risulta essere la combinazione di un moto assiale e di un moto rotazionale.
+
+L'elica è estesamente utilizzata per la propulsione sia in ambito nautico che in ambito aeronautico.
+
+Caratteristiche generali
+Forma e struttura
+Un'elica è costituita da uno o più elementi fluidodinamici chiamati pale, le quali si comportano come "ali rotanti" che impongono una variazione di quantità di moto nella direzione della velocità di avanzamento, al contrario delle ali convenzionali, la cui variazione di quantità di moto è normale alla direzione di avanzamento. Le pale sono calettate su un mozzo, collegato all'albero rotante.
+
+Le caratteristiche geometriche delle pale determinano poi quali saranno le caratteristiche del propulsore, con particolare riferimento ai campi di velocità di funzionamento, alla potenza propulsiva e alle caratteristiche del fluido per l'ottimale funzionamento.
+Le eliche vengono progettate e costruite con struttura in:
+* legno;
+* metallo (acciaio, bronzo o alluminio);
+* materiali compositi.
+
+Tipologie
+Le eliche possono innanzitutto suddividersi sulla base del tipo di ambiente fluido nel quale agiscono:
+*Eliche aeronautiche: sono eliche studiate per agire in una miscela di vapori e gas che è l'aria. Data la scarsa densità di quest'ultima le eliche aeronautiche sono caratterizzate soprattutto dalle alte velocità di rotazione e dalla sottigliezza delle pale.
+*Eliche marine: al contrario delle precedenti, queste eliche agiscono all'interno di un liquido che è l'acqua e pertanto, date le maggiori densità, queste eliche sono caratterizzate da velocità di rotazione più basse e da pale più espanse.
+
+Le eliche si possono poi suddividere sulla base delle modalità di funzionamento:
+*Eliche traenti: sono eliche poste sulla parte anteriore del mezzo propulso e perciò studiate per fornire la propulsione risucchiando il fluido indisturbato che si trova davanti al mezzo nella direzione di avanzamento e quindi spingendolo sulle parti fluidodinamiche del mezzo. Si preferisce per semplicità schematizzare tale modalità di funzionamento sotto forma di trazione: appartengono a questa tipologia la maggior parte delle eliche aeronautiche utilizzate dagli aeromobili e alcune moderne applicazioni marine utilizzate sulle navi.
+*Eliche spingenti: sono analoghe alle traenti, ma collocate nella zona posteriore del mezzo. Perciò esse incontrano anteriormente un fluido in moto disuniforme che risente del passaggio tra le superfici fluidodinamiche del mezzo. Su tale moto l'elica produce une effetto omogeneizzante e pertanto risulta più semplicemente schematizzabile la sua azione sottoforma di spinta anziché trazione. A questa tipologia appartiene la stragrande maggioranza delle eliche marine utilizzate su tutti i tipi di imbarcazioni e alcune applicazioni aeronautiche (in particolare nei prototipi dell'inizio del XX secolo).
+*Eliche portanti: al contrario delle precedenti, questo tipo di eliche fornisce una spinta sostentatrice, cioè opposta alla forza di gravità. Sono perciò utilizzate sugli elicotteri.
+
+Parametri dell'elica
+
+Le eliche sono caratterizzate da una serie di parametri fisici utili a descriverne le proprietà ed il comportamento.
+
+* Passo - è la grandezza che esprime la distanza percorsa da un'elica in un giro, si esprime come:
+** passo geometrico, che è la distanza teoricamente percorsa trascurando la cedevolezza del fluido e perciò corrispondente alla distanza che l'elica percorrerebbe se si muovesse all'interno di un corpo solido; un'elica è:
+*** a passo uniforme se ogni sezione presenta lo stesso valore del passo (quindi il calettamento geometrico delle sezioni diminuisce all'aumentare della loro distanza dal mozzo),
+*** a passo vario o passo non uniforme se le sezioni presentano diversi valori del passo,
+*** a passo fisso se il valore del passo geometrico non può essere cambiato,
+*** a passo variabile se esso può essere modificato tramite servomeccanismi;
+** passo reale, che è invece l'avanzamento effettivo dell'elica dopo un giro in condizioni normali ed è sempre inferiore al passo geometrico.
+* Regresso - è la differenza tra passo geometrico e passo reale.
+* Corda o corda locale - è il parametro rappresentativo della larghezza del profilo e risulta variabile con la distanza dal mozzo, a causa del fatto che la velocità lineare a cui è soggetta l'elica varia con il raggio; il disassamento laterale del centro della corda rispetto al raggio dà il rovesciamento (o skew) della pala.
+* Velocità di rotazione, la velocità con cui ruota attorno al mozzo una sezione di pala dell'elica, ovverosia:
+::\vec V_t = \vec \omega \times \vec r = \frac r \hat t
+:dove ω è la velocità angolare (in radianti al secondo) r la distanza dal mozzo, n il numero dei giri al minuto ed infine il versore t indica la direzione tangenziale al disco dell'elica.
+* Velocità relativa, la somma della velocità di volo e della velocità di rotazione.
+* Velocità effettiva, la somma della velocità relativa e la velocità indotta.
+* Angolo di calettamento o angolo di calettamento geometrico, ovvero l'angolo che la corda forma con il piano dell'elica, perpendicolare all'asse del mozzo: la variazione dell'angolo di calettamento al variare della distanza dal mozzo è detta svergolamento.
+* Angolo di calettamento aerodinamico, ovvero l'angolo tra l'asse di portanza nulla del profilo dell'elica forma con il piano dell'elica, cioè l'angolo con cui il fluido indisturbato intercetta il profilo fluidodinamico.
+* Angolo d'attacco, angolo di incidenza o angolo di incidenza locale, angolo tra la velocità effettiva e la corda del profilo.
+* Il rapporto di funzionamento, indicato con γ, è il rapporto:
+::\gamma = \frac
+:dove V indica la velocità, n il numero di giri dell'elica e d il diametro dell'elica.
+* Rendimento effettivo, definito come il rapporto tra la potenza utile prodotta dal sistema e la potenza assorbita:
+::\eta_e = \frac = \frac
+:dove T rappresenta il valore della spinta, V la velocità, n il numero di giri al secondo dell'elica e Q la coppia assorbita dell'elica.
+* Rendimento propulsivo, definito come il rapporto tra la potenza utile prodotta dal sistema e la potenza necessaria ad impartire alla massa di fluido agente sul motore, nell'unità di tempo, la variazione di quantità di moto che produce la spinta.
+
+Eliche aeronautiche
+
+L'elica deve avere la stessa portanza lungo tutto il braccio, e quindi la medesima spinta. Premesso che la portanza è direttamente proporzionale all'Angolo d'attacco e l'Angolo d'attacco varia con la velocità; essendo la velocità periferica delle pale crescente dal mozzo verso l'estremità, per mantenere costante la portanza dovrà essere per forza modificato il calettamento. Ed è per questa ragione che l'elica si presenta svergolata, cioè con un calettamento variabile dal mozzo verso l'estremità. Cioè il calettamento diminuisce man mano che aumenta sul profilo dell'elica la velocità periferica allontanandosi dal mozzo.
+
+Passo geometrico trascura la velocità residua dovuta al suo moto nel fluido, che può essere maggiore, uguale o minore di zero. In campo aeronautico, immaginando l'aria densa a tal punto da muovere un aereo talmente leggero da non opporre resistenza, dopo un giro l'elica avrà percorso il suo passo geometrico;
+Con l'aereo fermo prima di dare manetta per partire, i giri che l'elica compiono hanno tutti passo reale uguale a zero. Appena l'aereo si muove l'elica aumenta i suoi passi reali giro dopo giro. Passata una certa velocità il passo reale può essere maggiore del passo geometrico. In questo caso l'elica frena.
+
+Nelle eliche aeronautiche a passo variabile, l'inclinazione delle pale viene modificata tramite dei servomeccanismi, per ottenere il massimo rendimento in un certo intervallo di velocità: infatti se il veicolo aumenta la velocità, diminuirà di conseguenza l'angolo d'incidenza della generica sezione dell'elica e, per mantenerlo costante, bisognerà aumentare il passo.
+
+Le eliche aeronautiche possono avere, in genere, da due a sei pale. Solitamente gli aerei più piccoli e meno potenti hanno due o tre pale. Raramente i monomotori a pistoni hanno quattro pale. I turboelica invece adottano spesso anche quattro o sei pale, come gli ATR. Anche per gli elicotteri il numero di pale varia da due a sei a seconda della potenza.
+
+È fondamentale che le punte delle pale dell'elica non raggiungano la velocità del suono altrimenti il rendimento diminuirebbe. I piccoli motori aeronautici in genere non superano i 3 000 giri al minuto al massimo, e quelli che raggiungono i 5 000-6 000 giri usano un riduttore, che è invece sempre presente nei turboelica, perché le turbine lavorano ad un numero di giri molto più elevato (in un motore a reazione di un aereo di linea il complesso di alta pressione – turbina AP e compressore AP – raggiunge i 50 000 giri al minuto). Per questo motivo, ai motori più potenti, si associano eliche piccole ma con più pale. Se le punte delle pale superassero velocità critiche anche le sollecitazioni sarebbero eccessive. Occorre tenere presente che le punte delle pale dell'elica di un normale aereo monomotore possono essere sottoposte ad un'accelerazione centrifuga di oltre 5 000 g (circa 50 000 m/s2: un grammo posto sulla punta della pala "peserebbe" 5 kg).
+
+Eliche marine
+
+Caratteristiche tecniche
+
+Nel caso di applicazioni marine le eliche devono essere studiate con particolare cura rispetto all'ambiente liquido nel quale andranno ad operare. Inoltre, ad esclusione di particolari applicazioni, per ragioni di sicurezza contro l'impatto di corpi esterni, le eliche marine sono sempre poste nella zona poppiera delle imbarcazioni.
+Le eliche marine (ad esclusione del caso particolare dei sottomarini), operano in prossimità della superficie di separazione tra due fluidi (aria ed acqua), soggetta alla generazione di fenomeni ondosi. Questo induce effetti di alterazione sul moto del fluido lungo la carena dell'imbarcazione e sull'elica. Similmente l'elica deve essere posta ad una sufficiente immersione per non incorrere nell'effetto superficie libera, consistente in una massiccia produzione ondosa nella quale va a scaricarsi il campo di pressione prodotto dall'elica, riducendo la spinta prodotta.
+Inoltre una eccessiva vicinanza tra lo scafo e le pale può provocare colpi di pressione ed indurre vibrazioni sull'intero complesso nave-elica. La sensibile differenza di pressione dell'acqua all'aumentare della profondità fa infine sì che le pale dell'elica, nel corso di una rotazione, si trovino ad operare in zone con caratteristiche differenti e differente campo di pressioni, in ciò inducendo ulteriori disuniformità di spinta e momenti vibratori estesi all'asse rotante.
+
+Cavitazione
+
+Un particolare fenomeno cui possono andare incontro le eliche marine è la cavitazione, cioè la formazione di micro-bolle di gas nelle zone di massima depressione. Tali micro-bolle, migrando rapidamente verso le zone a maggior pressione finiscono poi per impattare e collassare sulla superficie della pala, provocando un vistoso effetto sia erosivo sia corrosivo, per la reattività dei gas disciolti. I danni provocati da tale fenomeno sono facilmente identificabili con una serie di piccoli e profondi fori nella zona interessata da cavitazione. Inoltre, la scia di bolle altera il campo di velocità e pressioni sulla pala stessa, comportandosi come una sorta di cuscino sul quale devia il flusso di corrente, modificando quindi la portanza della pala ed il rendimento dell'elica.
+Per la sua correlazione con la tensione di vapore dell'acqua e dunque alla pressione, la cavitazione risulta legata ai seguenti parametri:
+* Immersione - e dunque al battente idrostatico;
+* Numero di giri - e dunque al campo di pressioni generato dalle pale.
+La cavitazione può dunque essere combattuta aumentando l'immersione dell'elica, riducendone il numero di giri o, in generale, aumentando il rapporto tra spinta ed area espansa, cioè la spinta specifica per unità di superficie (in altre parole utilizzando un'elica con pale più grandi e dunque meno caricate).
+Le eliche marine si dividono quindi tra:
+* Eliche non cavitanti, progettate per operare in assenza di cavitazione;
+* Eliche a limite di cavitazione, progettate per operare normalmente in assenza di cavitazione;
+* Eliche supercavitanti, progettate per operare normalmente in presenza di cavitazione;
+* Eliche supercavitanti di superficie, progettate per operare ad elevatissimi livelli di cavitazione e con periodiche fuoriuscite in superficie.
+
+Parametri delle eliche marine
+
+* Rendimento di elica isolata - rappresenta il rendimento dell'elica in assenza della carena:
+::\eta = \frac
+* Rendimento idrodinamico - rappresenta l'effettivo rendimento dell'elica in accoppiamento con la carena:
+::\eta = \frac
+:Dove VA = V(1-w) rappresenta la velocità di avanzo, cioè la velocità effettivamente percepita dall'elica e ridotta, rispetto alla reale velocità della nave, per effetto della scia (rappresentata dal coefficiente w).
+
+Storia
+
+L'elica iniziò a sostituire la propulsione a ruota attorno alla metà del XIX secolo. Già nel 1775 David Bushnell utilizzò per la prima volta un'elica a propulsione manuale nel suo progetto di sottomarino, il Turtle; attorno al 1827 l'ingegnere ceco Josef Ressel sperimentò la prima applicazione di propulsione con elica navale a vapore nel porto di Trieste. Esperimenti similari vennero condotti nel 1836, da parte di Francis Pettit Smith, e nel 1839, ad opera di John Ericsson, che permise ad una nave di attraversare l'Atlantico in quaranta giorni. Nel 1849 una gara di "tiro alla fune" tra due navi di uguale potenza ma una con ruota ed una con elica dimostrò definitivamente la convenienza dell'elica.
+Le prime applicazioni prevedevano spesso eliche ad una o due pale, spesso molto espanse e quasi sempre in combinazione con la tradizionale ruota, considerata ancora più affidabile. Alla fine dell'Ottocento, comunque, l'elica era già divenuta la soluzione propulsiva principe nelle applicazioni navali.
+Accoppiata a partire dalla II Guerra Mondiale coi nuovi motori a combustione interna, l'elica trova recenti e sempre più diffuse applicazioni combinate diesel-elettriche.
+
+Voci correlate
+*Elica a passo fisso
+*Elica a passo variabile
+*Espansa (elica)
+*Rake (elica)
+*Skew (elica)
+*Eliche non convenzionali (collegamenti a Wikipedia in lingua inglese):
+**Elica azimutale
+**Propulsore di Voith-Schneider anche detto "elica cicloidale"
+**
+
+Collegamenti esterni
+
+*
+*Eliche di Superficie e/o semisommerse
+
+Altri progetti
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 12:32:10 from:
+  http://it.wikipedia.org/wiki/Elica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

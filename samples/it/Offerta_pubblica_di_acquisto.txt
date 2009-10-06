@@ -1,0 +1,222 @@
+Per Offerta Pubblica di Acquisto o OPA, in inglese tender offer, s'intende ogni offerta, invito a
+offrire o messaggio promozionale finalizzato all'acquisto di prodotti finanziari: è quindi una sollecitazione al disinvestimento.
+
+Secondo il Regolamento CONSOB 11971/99, si considera pubblica un'OPA o OPS se rivolta ad un numero di soggetti superiore alle 100 unità e se riguarda un valore complessivo dei titoli oggetto di offerta pari a 2.500.000,00 euro.
+
+Esse sono divisibili in due tipologie:
+
+*volontaria: l'iniziativa proviene esclusivamente dall'offerente e può avere ad oggetto qualsiasi tipo di strumento finanziario
+*obbligatoria: è l'ordinamento a costringere l'offerente se sussistono determinate condizioni e può avere ad oggetto solo azioni ordinarie (con diritto di voto sugli argomenti dell'articolo 105 del Testo Unico della Finanza) di società italiane quotate in mercati regolamentati italiani.
+
+A loro volta, queste possono configurarsi come OPA:
+*consensuale: quando il consiglio di amministrazione della società oggetto di scalata si pronuncia favorevole all'offerta stessa;
+*ostile: quando il consiglio di amministrazione della società oggetto della scalata si pronuncia contrario all'offerta stessa.
+
+L'OPA non è dunque un'operazione d'acquisto sul mercato, bensì un'offerta, in quanto quest'ultimo potrà aderire o meno. L'offerta pubblica d'acquisto non è nemmeno definibile come contratto ma, invece, come procedimento attraverso il quale un soggetto si rivolge al mercato.
+
+Del controllo circa il corretto svolgimento delle OPA si occupano gli organismi di vigilanza della Borsa, la Consob in Italia.
+
+Le OPA nell'ordinamento italiano
+
+Nell'ordinamento italiano le OPA sono attualmente disciplinate dagli artt. 102-112 del Testo Unico della Finanza (T.U.F.) contenuto nel D.Lgs. 58/98, nonché dalle norme di attuazione in materia di emittenti contenute nel regolamento della Consob.
+
+La disciplina si divide in una parte generale, in cui sono contenute le norme di generale applicazione, e una parte speciale, che disciplina le singole tipologie di OPA previste.
+
+La disciplina generale
+Soggetti coinvolti e tutele del legislatore
+
+I soggetti coinvolti sono:
+*l'emittente, società target dell'operazione;
+*l'offerente, chi fa l'offerta (anche soggetti privati);
+*eventuali intermediari.
+
+Le tutele del legislatore sono di tipo:
+*formale, a garanzia della trasparenza per tutelare, sul piano informativo, le parti più deboli (risparmiatori). È dunque una tutela strumentale alla parità di trattamento;
+*sostanziale, a garanzia dei cosiddetti comportamenti corretti durante la negoziazione, intesi come di buona fede, che non siano tali d'alterare le condizioni negoziali del mercato.
+
+Obblighi informativi offerente
+
+L'articolo 102 del T.U.F. disciplina che l'offerente è tenuto ad una preventiva comunicazione alla Consob con documento, destinato alla pubblicazione, contenente le informazioni necessarie per consentire ai destinatari di pervenire ad un fondato giudizio sull'offerta. La Consob poi indica le eventuali informazioni integrative, specifiche modalità di pubblicazione e garanzie da prestare (reali o personali), entro un termine predeterminato. Questo va dai 15 ai 30 giorni a seconda che i prodotti finanziari ad oggetto siano quotati o meno (anche diffusi tra il pubblico). Se entro i 15-30 giorni la Consob non abbia espresso alcun parere vale il silenzio-assenso e il documento potrà essere pubblicato.
+
+Il Nuovo regolamento Consob ha poi specificato che l'offerente è tenuto in primo luogo alla pubblicità della comunicazione e quindi a dare senza indugio alla Consob, l'emittente ed al mercato un comunicato che deve indicare gli elementi essenziali dell'offerta, le finalità, le garanzie offerte e le partecipazioni già detenute dall'offerente.
+
+Contestualmente l'offerente deve consegnare alla Consob altri documenti.
+
+Una bozza del documento d'offerta laddove, nel caso vi siano contenute informazioni in grado di stupire il mercato, l'offerente dovrà fare un comunicato avvertendo il mercato e l'emittente di ciò che sta facendo.
+
+Eventuali richieste d'autorizzazioni dell'autorità competenti si pensi ad esempio ad un'opa sul mercato bancario dove operazioni di questo tipo necessitano della previa autorizzazioni della Banca d'Italia.
+
+Scheda d'adesione
+
+Ulteriore documento per costituire garanzie di esatto adempimento o la dichiarazione dell'impegno a sottoscrivere prima dell'inizio del periodo d'adesione (da questo scaturisce che il procedimento d'offerta può dunque iniziare anche in assenza delle necessarie autorizzazioni delle autortà competenti).
+
+Entro 15 giorni dalla ricezione (30 giorni se trattasi di prodotti non quotati in Borsa), la Consob può richiedere eventuali modifiche o integrazioni, o la richiesta di prestare particolari garanzie, reali o personali.
+
+Obblighi informativi emittente
+
+L'articolo 103 sancisce che l'emittente diffonde un comunicato contenente ogni dato utile per l'apprezzamento dell'offerta e la propria valutazione sull'offerta.
+
+Il comunicato viene effettuato dal CdA ed esprime un giudizio sulla convenienza dell'offerta rivolto agli azionisti target. È in questa sede che si valuta il merito dell'operazione (convenienza economica) ed è quindi in questo momento che subentra la differenza tra OPA ostile (offerta giudicata poco conveniente) e amichevole (CdA suggerisce adesione).
+Il comunicato deve contenere:
+
+*Eventuale convocazione assemblea per autorizzare atti od operazioni che possono contrastare l'offerta;
+
+*Aggiornamento informazioni a disposizione del pubblico circa il possesso di azioni da parte dell'emittente e amministratori, nonché dei patti parasociali;
+
+*Informazioni sui fatti di rilievo non indicati nell'ultimo documento contabile reso pubblico
+
+*Valutazione motivata dell'offerta: gli amministratori sono responsabili verso gli azionisti della ragionevolezza del loro giudizio
+
+La consegna alla Consob deve avvenire entro due giorni dalla prevista data di diffusione del documento d'offerta, se il comunicato non viene allegato al documento d'offerta deve essere pubblicato entro il primo giorno di durata dell'offerta.
+
+Condizioni dell'offerta
+
+Dopo la comunicazione dell'OPA, il prezzo del titolo va generalmente a rialzo per via della forte relazione che lega l'informazione alle variazioni di prezzo, ciò richiede il rispetto di determinate condizioni:
+
+l'offerta è irrevocabile e quindi che ogni clausola contraria è nulla;
+
+la parità di condizioni a tutti i titolari dei prodotti finanziari che formano oggetto dell'OPA escludendo così, che vengano stabilite condizioni d'offerta diverse. È stabilito, in particolare, che se l'offerente lancia un'OPA e poi compra fuori mercato (trattativa privata) ad un prezzo maggiore, il prezzo dell'OPA si adeguerà a questo.
+
+Per quanto riguarda l'OPA volontaria:
+
+*non è previsto un quantitativo minimo anche se per l'applicazione della disciplina v'è una soglia minima di valore che ammonta a 40 mila euro;
+
+*l'offerente indica la quantità di strumenti finanziari che vuole acquistare, se non indicata, essa è uguale al quantitativo massimo;
+
+*l'offerente può comunque riservarsi la possibilità di accettare la totalità degli strumenti finanziari anche se oltre la quantità massima che aveva indicato;
+
+*l'offerente può anche indicare di non essere obbligato all'acquisto se le adesioni non raggiungono una soglia minima da lui indicata;
+
+*l'offerente può comunque riservarsi la facoltà di accettare un quantitativo minore purché coerente con i suoi progetti sulla target (coerenza valutata dalla Consob).
+
+Le OPA volontarie, quindi, possono essere sottoposte a condizioni purché non meramente potestative (sono ammesse le condizioni legali).
+
+È prevista la possibilità di modificare l'offerta aumentando, ad esempio, il corrispettivo (rilancio) REF non può accompagnarsi ad una riduzione del quantitativo REF.
+
+Svolgimento offerta
+
+La durata del periodo è concordata con la società di gestione del mercato, se l'oggetto dell'offerta sono strumenti finanziari quotati, o con la Consob, se non quotati.
+La durata del periodo dura da venti giorni ad un massimo di quaranta se trattasi di OPA volontaria totalitaria o di OPA preventiva lanciata su almeno il 60% dei prodotti finanziari. Per tutti gli altri tipi d'offerta la durata parte da un minimo di quindici giorni arrivando ad un massimo di venticinque.
+
+L'offerente non può ridurre il periodo concordato, ma ha la facoltà di protrarlo comunque non oltre i suddetti limiti. La durata può essere protratta fino ad un massimo di 55 giorni dalla Consob quando giustificata da esigenze di corretto svolgimento dell'offerta e tutela degli investitori.
+È inoltre prevista una proroga automatica di dieci giorni se negli ultimi dieci giorni di pendenza dell'offerta viene convocata l'assemblea dei soci per assunzione di misure difensive.
+
+Offerte concorrenti
+
+Un'offerta concorrente può essere lanciata da un terzo interessato ad acquistare le stesse azioni della target; deve avere un prezzo maggiore della precedente offerta ma può essere lanciata su un quantitativo minore. Può essere lanciata anche quando viene meno una condizione d'efficacia apposta alla prima offerta. Rende revocabile l'adesione dell'oblato all'offerta precedente e deve essere lanciata al massimo cinque giorni prima della scadenza della prima OPA.
+
+Rilancio dell'originario offerente
+
+Deve avere un prezzo maggiore dell'offerta concorrente e quantità ad oggetto almeno uguale a quella originaria. Il rilancio può essere effettuato fino a dieci giorni dall'offerta originaria e la sua durata d'adesione può essere adeguata a quella concorrente.
+L'esigenza è di definire una sorta d'asta con un arco di tempo definito, evitando dunque, l'instabilità del mercato.
+La Consob permette poi, a chi ha aderito alle offerte sconfitte di apportare i loro titoli all'offerta vincente entro cinque giorni dalla pubblicazione dei risultati dell'offerta.
+
+Obblighi successivi
+
+Ulteriori obblighi previsti sono:
+*per la società oggetto dell'OPA: il divieto di compiere atti che possano ostacolare il raggiungimento degli obiettivi dell'OPA senza l'espressa autorizzazione dell'assemblea, la quale deve deliberare, anche in seconda e in terza convocazione, con il voto favorevole dei soci che rappresentino almeno il 30% del capitale sociale
+*per la società stessa (l'emittente), l'offerente, nonché i loro amministratori, sindaci o direttori generali ed in generale tutti i soggetti ad essi legati da rapporti di controllo: il rispetto delle norme di trasparenza e correttezza, volte a rendere di pubblico dominio tutte le informazioni fondamentali circa l'andamento e le caratteristiche delle operazioni.
+
+L'offerta può essere modificata dal proponente fino a 3 giorni dal termine previsto per la chiusura, purché:
+*non venga ridotto il quantitativo di titoli richiesto;
+*il corrispettivo globale risulti superiore di almeno il 2% rispetto a quanto previsto nell'offerta originaria.
+
+La disciplina speciale
+La normativa speciale disciplina:
+*le fattispecie in cui sorge un qualche obbligo di promuovere OPA;
+*le condizioni a cui sono sottoposte le offerte facoltative;
+*le sanzioni per la violazione delle norme stabilite.
+
+L'OPA totalitaria
+È disciplinata dall'art.106 del T.U.F. Essa consiste in pratica nell'obbligo da parte di chi abbia acquisito a titolo oneroso (direttamente o indirettamente), quindi non per successione mortis causa o donazione, una partecipazione societaria superiore al 30% del capitale sociale ordinario di una società per azioni quotata in borsa di lanciare un'OPA sulla totalità delle azioni ordinarie residue.
+
+L'obbligo sussiste anche quando il limite è raggiunto tramite partecipazioni (opa a cascata).
+L'obbligo sussiste anche per chi già detiene il 30% di azioni con diritto di voto e acquisisce nei 12 mesi più del 3% del capitale.
+L'obbligo di un OPA sussiste anche quando si ha il controllo di una società non quotata in borsa.
+
+L'offerta va promossa entro 20 giorni dal superamento di tale soglia a un prezzo non inferiore a quello più elevato pagato dall'offerente e da persone che agiscono in concerto con il medesimo, nei 12 mesi anteriori alla comunicazione della decisione di promuovere un'offerta pubblica di acquisto, per acquisti di titoli della medesima categoria. Qualora non siano stati effettuati acquisti a titolo oneroso di titoli della medesima categoria nel periodo indicato, l'offerta è promossa per tale categoria di titoli ad un prezzo non inferiore a quello medio ponderato di mercato degli ultimi 12 mesi o del minor periodo disponibile.
+
+L'OPA residuale
+L'OPA residuale era disciplinata dall'art.108 del T.U.F. Tale tipologia era stata prevista dal legislatore per la tutela degli azionisti di minoranza in caso di delisting, cioè cancellazione del titolo dalla quotazione di borsa per impossibilità di un regolare andamento delle negoziazioni a seguito della riduzione del volume delle azioni correntemente trattate.
+
+L'OPA residuale era un'OPA obbligatoria che riguardava chiunque venisse a detenere ed intendesse mantenere una quota del capitale sociale ordinario di una società quotata superiore al 90%.
+
+Chiunque si fosse trovato nella condizione di cui sopra, se non avesse voluto lanciare l'OPA sul restante 10%, sarebbe stato tenuto a ripristinare entro 90 giorni un flottante sufficiente a ripristinare il normale andamento delle quotazioni (regolare formazione di prezzo – acq./ven.) e la decisione sarebbe stata comunicata alla Consob non oltre 10 giorni dal superamento della soglia del 90%.
+In difetto sarebbe scattato l'obbligo di acquisto.
+Prezzo pari a quello dell'OPA totalitaria precedente se il 90% fosse stato rappresentato tutto da azioni con diritto di voto.
+Prezzo determinato dalla CONSOB se il 90% fosse stato composto anche con azioni senza diritto di voto.
+L'istituto è stato sostituito dall'obbligo d'acquisto sempre rubricato all'art.108 del TUF.
+Diritto di acquisto
+Qualora chi abbia lanciato un'OPA avente ad oggetto la totalità delle azioni con diritto di voto, venga poi a detenere più del 95% tali azioni, se ha dichiarato nel documento di offerta l'intenzione di avvalersi di tale diritto, può acquistare le restanti azioni. (art. 111 TUF)
+Il diritto ha valore solo se dichiarato nel documento di offerta.
+Prezzo determinato come nell'obbligo di acquisto.
+
+Tale facoltà, comunemente denominata squeeze out, è riconosciuta in molti ordinamenti ai fini di tutela dell'offerente, che può essere agevolato dal possesso della totalità delle azioni.
+
+Esenzioni
+
+In base al D.lgs 58/98 art. 106, II comma e Regolamento CONSOB 11971/99, quando il limite del 30% è superato:
+* in presenza di altro/i soci che dispongono della maggioranza dei diritti di voto tramite aumento di capitale;
+* in presenza di un piano di ristrutturazione del debito di una società quotata in crisi;
+* a seguito trasferimento fra società determinato dall'esercizio di diritti di opzione superato per non più del 3% e l'acquirente si impegni a cedere le azioni in eccedenza e a non esercitare i diritti di voto.
+* conseguente ad operazioni di fusione o scissione;
+* ottenuta a seguito di un'opa totalitaria.
+
+Sospensione del diritto di voto e sanzioni
+
+In base all'art. 110 D.lgs 58/98, in caso di violazione degli obblighi dell'OPA la sanzione è la sospensione dell'intera partecipazione del soggetto e l'obbligo di vendita entro 12 mesi per rientrare al di sotto della soglia del 30%.
+
+In base all'art. 104-bis D.lgs 58/98, cosiddetta regola di neutralizzazione, raggiunto il 75%, nella I assemblea dopo l'OPA sono sospesi i patti parasociali e limitazioni al diritto di voto previste dallo statuto limitatamente alla nomina/revoca degli amministratori e dei componenti il Consiglio di Sorveglianza/Gestione.
+
+Obbligo di indennizzo (fissato dal Giudice) su eventuali danni patrimoniali subiti da coloro ai quali sono stati resi non esercitabili i diritti di voto. La richiesta di indennizzo deve essere presentata all'offerente, pena decadenza, entro 90gg dalla chiusura dell'offerta o entro 90gg dalla data dell'assemblea.
+
+Secondo l'art. 104-ter D.lgs 58/98 (clausola di reciprocità), le regole di neutralizzazione non si applicano per esempio in caso di OPA promossa da una società o ente controllato.
+Se l'assemblea delibera misure idonee a contrastare un'eventuale opa (p.es. conversione di az. di Risparmio in az. Ordinarie con diritto di voto), può esercitarle solo se sono trascorsi 18 mesi prima del lancio di un'opa.
+
+L'OPA di concerto
+
+L'OPA di concerto, o acquisto di concerto, è disciplinata dall'art.109 del T.U.F. La norma stabilisce che, quando tra i soggetti detentori di titoli azionari (indifferentemente persone fisiche o giuridiche) intercorrono le seguenti relazioni, tassativamente indicate:
+*si tratta di aderenti ad un patto, anche nullo, che regolamenta il diritto di voto degli stessi all'interno delle assemblee di società quotate o loro controllanti;
+*si tratta di amministratori o direttori generali di una stessa società, e compresa la società di cui fanno parte;
+*trattasi di soggetti legati da rapporti di controllo, sia un soggetto e le società da esso controllate, sia le società sottoposte a comune controllo;
+
+allora le precedenti soglie del 30% e del 90% vanno conteggiate sommando le azioni possedute da ciascuno dei soggetti. In questo caso l'obbligo di lanciare l'OPA grava solidalmente su ciascuno dei soggetti.
+
+Ai sensi dello stesso articolo, l'obbligo di offerta pubblica sussiste in capo ai soggetti aderenti ad un patto che regolamenta il diritto di voto anche quando gli acquisti siano stati effettuati nei 12 mesi precedenti la stipulazione del patto, ovvero contestualmente alla stessa.
+
+L'OPA a cascata
+L'OPA a cascata è disclipinata dall'art.45 del Regolamento Consob. Consiste nell'obbligo di lanciare un'OPA totalitaria sulle azioni ordinarie delle società quotate di cui si arriva a detenere indirettamente una partecipazione superiore alla soglia del 30% prevista per l'OPA totalitaria.
+
+La norma è finalizzata ad evitare l'elusione della disciplina prevista dall'art.107 T.U.F. attraverso l'acquisizione di controllanti per acquisire il controllo di tutte le controllate.
+
+Affinché ricorrano gli estremi della detenzione indiretta di cui sopra, che fanno scattare l'obbligo dell'OPA a cascata occorre che:
+*il soggetto possieda una certa percentuale delle azioni ordinarie della società "madre":
+**il 30% se la società stessa è quotata,
+**il 50% se non quotata;
+*la somma delle azioni possedute dal soggetto direttamente sommata a quelle possedute attraverso la società madre, di cui risulta quindi titolare quest'ultima, superi la soglia del 30%.
+
+Tuttavia, affinché queste ultime azioni vengano considerate nel computo è necessario che ricorrano le seguenti condizioni:
+*la partecipazione in questione rappresenti più di 1/3 delle attività nello stato patrimoniale della società madre;
+*la partecipazione costituisca l'immobilizzazione più elevata iscritta a bilancio, oppure la componente principale del prezzo di acquisto della società stessa.
+
+Contabilità dell'OPA
+La vendita di azioni è costituita da un incremento della liquidità a fronte di una diminuzione di un'immobilizzazione finanziaria, iscritta a bilancio al costo storico d'acquisto (che è la quotazione di Borsa alla quale è stato pagato il titolo).
+
+La differenza fra prezzo di vendita e quello di acquisto determina una minusvalenza o una plusvalenza, che genera utile ed è oggetto di tassazione.
+
+La diminuzione dell'immobilizzazione finanziaria può riguardare la vendita di azioni proprie, oppure di partecipazioni (azionarie) in collegate e controllate.
+
+Note
+
+Voci correlate
+*Greenmail
+*Cavaliere bianco (finanza)
+*Testo Unico della Finanza
+
+Collegamenti esterni
+*Il Testo Unico della Finanza sul sito della Consob: l'OPA è disciplinata negli artt.102-112;
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 16:01:28 from:
+  http://it.wikipedia.org/wiki/Offerta_pubblica_di_acquisto
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

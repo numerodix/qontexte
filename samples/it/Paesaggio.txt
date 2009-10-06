@@ -1,0 +1,219 @@
+Il paesaggio è la particolare fisionomia di un territorio determinata dalle sue caratteristiche fisiche, antropiche, biologiche ed etniche; ed è imprescindibile dall'osservatore e dal modo in cui viene percepito e vissuto.
+Il termine paesaggio deriva dalla commistione del francese paysage con l'italiano paese. Tradizionalmente, infatti, il suo significato si legava in particolar modo alla pittura e al realismo di certe vedute paesistiche.
+
+Il paesaggio, oltre ad essere oggetto di studio in differenti ambiti di ricerca, è esposto a significati talmente ampi, variegati e molteplici, da rendere arduo qualsiasi tentativo di circoscrizione.
+A seguire, ne sono illustrate le principali accezioni.
+
+L'accezione percettiva e la Convenzione Europea del Paesaggio
+
+Bisogna altresì considerare che la traduzione italiana non ufficiale del testo inglese e francese della Convenzione europea del paesaggio è piuttosto sfortunata, in quanto all'art.1 non coglie il senso di paesaggio contenuto nella Convenzione, ma lo assimila al preconcetto di "paesaggio" come "bellezza naturale" della L.1497/1939 italiana. Il paesaggio non è una "determinata parte di territorio" come si evince dalla traduzione non ufficiale (è sufficiente leggere la versione inglese o francese come fonte, il senso di "determinata parte" non c'è). Anche se nella versione francese il testo dice "une partie de territorie", l'azione di determinazione è effettuata dalla percezione della popolazione, che è un processo successivo. Non esistono "determinate parti" perché in base alla Convenzione tutto è e può essere paesaggio. È comunque il motivo per cui la traduzione italiana rimane "non ufficiale", in attesa di revisione. Pertanto nel frattempo è preferibile una traduzione come la seguente:
+
+Attualmente si riconosce il paesaggio come bene culturale a carattere identitario, frutto della percezione della popolazione. Da questo punto di vista il paesaggio è un prodotto sociale e non rappresenta un bene statico, ma dinamico.
+In base a queste caratteristiche, in quanto determinato dal carattere percettivo (almeno in base a questa accezione di paesaggio), il paesaggio è sempre relazionato all'azione dell'uomo. In particolar modo la percezione del paesaggio è frutto di un'interazione tra
+* la soggettività umana
+* i caratteri oggettivi dell'ambiente (antropico o naturale)
+* i mediatori socio-culturali (legati al senso di identità riconosciuto da una società su un determinato tipo di ambiente. Ad esempio, per rendere più comprensibile: la società occidentale, o almeno parte di essa, si identifica nell'ambiente montano e lo considera come un paesaggio, meritevole di rappresentazione verosimile; così non era nel Medioevo. In parte allo stesso modo per quanto riguarda il mare).
+In questo senso il paesaggio non coincide con la realtà materiale (quindi con il territorio), in quanto l'azione dei mediatori socio-culturali e della soggettività umana determinano un effetto di produzione di senso. In altre parole: il paesaggio comprende sia la realtà, che l'apparenza della realtà.
+Da questo punto di vista il paesaggio è anche un potente linguaggio: non esiste un paesaggio senza rappresentazione di esso, ed è attraverso questo passaggio che la società manifesta le proprie aspirazioni e partecipa al processo di scambio (statico o dinamico) dei mediatori socio-culturali.
+
+Il paesaggio delle "bellezze storiche e naturali"
+
+La concezione di paesaggio percettivo si è modificata nel corso del tempo, fino a giungere alla suesposta definizione del 2000.
+Nell'accezione di inizio secolo (codificata in Italia dalla L. 1497/1939 sulla "protezione delle bellezze naturali"), il paesaggio era legato a caratteri di bellezza e valore, esclusivi di porzioni determinate di territorio, legati a delimitati scorci e vedute panoramici: le cosiddette "bellezze da cartolina". È comunque un'accezione piuttosto sentita ancora oggi, anche se piuttosto parziale e non corrispondente al reale meccanismo di produzione del senso di "paesaggio".
+
+Precedentemente e successivamente il concetto ha avuto molte altre definizioni, legate comunque ad aspetti parziali del senso di "paesaggio percettivo", come ad esempio l'associazione col "pittoresco". Il senso di "paesaggio" è più vicino a quello di "territorio" (che ha un senso ben diverso) o all'accezione "scientifica" del termine (vedi punto seguente), in quanto viene ristretto al discorso della "sintesi del visibile del contesto naturale e delle attività" ed alla pura visione del mondo materiale.
+
+Civiltà paesaggistiche ed evoluzione storica del concetto di paesaggio
+
+Il concetto di paesaggio nella cultura occidentale è piuttosto moderno e non è sempre esistito. La sua evoluzione inoltre è strettamente interrelata con l'evoluzione del senso assegnato alla natura.
+Piuttosto importante la lettura di A. Berque in tal senso, che fa coincidere all'esistenza di civiltà paesaggistiche la nascita di una concezione di paesaggio. Perché una società sia paesaggistica devono essere soddisfatti i seguenti criteri:
+* esistenza ed uso del paesaggio
+* esistenza di una letteratura sui paesaggi e sulla loro bellezza
+* esistenza di rappresentazioni pittoriche dei paesaggi
+* esistenza di giardini
+In base a queste considerazioni la prima società paesaggistica mondiale fu la Cina. Il mondo occidentale difatti almeno fino al '500 non possedeva contemporaneamente questi elementi.
+
+Esistono comunque posizioni diverse sull'introduzione del concetto di paesaggio all'interno della società Occidentale. Una scuola di pensiero vorrebbe far coincidere tale introduzione con un brano del Petrarca, la Lettera in cima al Monte Ventoso, in cui compare una descrizione estetizzante della natura.
+È comunque una posizione criticabile, in quanto la descrizione del Petrarca è simbolica, e non si scosta di per sé dalle modalità di rappresentazioni letterarie della natura tipiche del Medioevo.
+
+Studio del paesaggio e strumenti di analisi
+Lo studio del paesaggio non può essere compartimentato all'interno di una disciplina specifica, ma deve presupporre un approccio olistico. Un approccio di studio al paesaggio deve necessariamente essere di tipo integrato, sia che si perseguano analisi sulla qualità percettiva del paesaggio, sia che si intendano perseguire analisi scientifiche sugli elementi ecologici, considerando tutti gli elementi (fisico-chimici, biologici e socio-culturali) come insiemi aperti e in continuo rapporto dinamico fra loro.
+
+Si dovrà inoltre tenere conto della multidisciplinarietà e della trasversalità dello studio, cercando di superare l'artificiosa compartimentazione fra le diverse discipline. Diversi possono essere gli strumenti adottati per lo studio del paesaggio, fra essi negli ultimi anni sta acquisendo sempre maggiore importanza l'utilizzo di banche dati georiferite basate su tecnologie GIS/SIT. Con tale strumento è possibile acquisire, archiviare ed elaborare dati relativi al paesaggio ricavando informazioni utili alla sua gestione integrata, finalizzata sia alla conservazione (o geoconservazione) che alla valorizzazione.
+
+L'accezione scientifica
+
+Alla precedente definizione percettivo-formale ed estetica di paesaggio, che è la più diffusa, va per completezza affiancata (e non sostituita) la definizione scientifica derivante dalle scienze naturali. Essa studia e valuta il paesaggio in quanto oggetto in sé, e non come percezione di un soggetto esterno.
+
+L'approssimazione scientifica al paesaggio, e la sua conseguente definizione, è assai poco conosciuta e condivisa, poiché viene impiegata nella stretta cerchia dei naturalisti e in particolare dagli ecologi del paesaggio, ma viene poi palesemente chiamata in causa quando dal registro teorico-descrittivo si passa a quello strettamente operativo, laddove, cioè, si richiedono studi e valutazioni facenti capo a discipline che indagano sulle diverse "componenti" del paesaggio medesimo: geologia, botanica, ecologia, storia, urbanistica, ecc.
+
+L'approssimazione scientifica ai problemi del paesaggio ed al paesaggio in quanto problema, nasce dagli studi di Alexander von Humboldt, che chiamò "paesaggi" degli insiemi di elementi naturali e umani comprendenti terre, acque, piante e animali, intuendo la presenza di una "logica" che ne sottendeva l'organizzazione, i legami reciproci ed il perenne divenire. Occorrerà attendere, però, la nascita dell'Ecologia del paesaggio (C.Troll, 1939) ed i successivi studi, per avere delle formulazioni definenti più complete.
+In questa sede se ne propongono alcuni esempi in ordine cronologico (alcune sono abbreviate):
+
+* Brückner, 1898: "Il paesaggio, oltre che una sintesi, è un programma."
+* Enciclopedia Sovietica, 1939: " Il paesaggio è un porzione naturalmente delimitata della superficie terrestre, le cui componenti naturali formano un insieme di interrelazioni e interdipendenze".
+* Szava-Kovats, 1960: " Tutto ciò che v'è sull'involucro terrestre, tutto, nella sua esistenza e interferenza, costituisce il paesaggio".
+* Sestini, 1963: "Il paesaggio è la complessa combinazione di oggetti e fenomeni legati fra loro da mutui rapporti funzionali, sì da costituire una unità organica".
+* Valerio Giacomini, 1967-72: "Il paesaggio è una costellazione di ecosistemi. Esso coincide inoltre con il processo evolutivo della biosfera i cui significati intimi appartengono alle leggi naturali che governano il divenire vitale".
+* Forman e Godron, 1986: "Un paesaggio è una parte eterogenea di una regione, composta da un'aggregazione di ecosistemi interagenti che si ripete in ogni punto con forme simili". (riferita ai paesaggi zonali)
+* Naveh, 1990 "Il paesaggio è un'unità ecologica e culturale, spaziale e temporale e, parafrasando Troll, è la complessiva entità spazio-temporale della sfera vitale dell'uomo".
+* Ingegnoli, 1992: "Il paesaggio è un sistema di ecosistemi".
+* Romani, 1994: "Il paesaggio è l'insieme eterogeneo di tutti gli elementi, i processi e le interrelazioni che costituiscono l'ecosfera, considerato nella sua struttura unitaria e differenziata, ecologico-sistemica e dinamica, che lo identifica con un processo evolutivo nel quale si integrano le attività della natura e quelle dell'uomo, nella loro dimensione storica, materiale, culturale e spirituale, nonché la visione e la percezione che hanno del P. sia il singolo che le collettività".
+
+I più recenti studi di ecologia del paesaggio mettono in evidenza il fatto che la concezione scientifico-oggettiva e quella percettivo/estetica- soggettiva del paesaggio siano strettamente complementari e che la loro integrazione in una concezione unitaria è già iniziata grazie ai contributi di altre discipline coinvolte a pieno titolo nello studio del paesaggio: la teoria dei sistemi, la teoria della forma (Gestaltheorie), la teoria della percezione, la teoria dell'informazione e della comunicazione (Claude Shannon), la cibernetica (Norbert Wiener), la teoria della complessità (Ilya Prigogine et al.).
+È a questo punto importante notare come coloro che con il termine "paesaggio" intendono solo l'immagine, l'aspetto visibile e formale (e anche estetico, beninteso) del territorio, in generale non ammettono che tale termine possa avere significati diversi, seppur in contesti diversi. Al contrario, chi sposa l'accezione scientifica del paesaggio non esclude mai la componente percettivo-estetica, poiché, di fatto, essa è determinante sia ai fini di una conoscenza realmente complessiva, sia in quanto essa è sovente la prima causa di alterazioni e modifiche (positive o negative) del paesaggio stesso, e al medesimo tempo di provvedimenti tutelativi o valorizzativi. La componente percettiva appare quindi pienamente inserita nel processo evolutivo dell'assetto paesaggistico di un territorio.
+
+Il paesaggio e la scala di aggregazione della materia vivente
+Quando nel 1935 l'inglese Tansley definì compiutamente l'ecosistema, ci si chiese se tale entità biologica costituisse il vertice della scala di aggregazione della materia vivente, o se vi fosse un'entità superiore e definitiva. In tale "scala" ogni entità è "maggiore", per struttura e funzioni, della semplice somma degli elementi del livello inferiore che la compongono. Fu appunto Carl Troll che, nel 1939, dall'esame di alcune serie storiche di foro aeree, notò che gli ecosistemi mostravano una tendenza ad aggregarsi in configurazioni unitarie (denominate principalmente Macchie, Isole e Corridoi). Ricordando la dizione di Alexander von Humboldt, Troll chiamò tali formazioni "paesaggi", e comprese che sarebbe occorsa una nuova disciplina per studiarne caratteri e proprietà: l'ecologia del paesaggio. Ma nel frattempo era scoppiata la guerra ed i suoi studi ripresero solo negli anni '50.
+
+La scala di aggregazione della materia vivente poté quindi essere così completata (dall'elemento più semplice al più complesso):
+* (protoplasma)
+* Cellule
+* Tessuti
+* Organi
+* Organismi - Individui
+* Popolazioni
+* Associazioni - Comunità
+* Ecosistemi
+* Paesaggi - suddivisibili in:
+**Paesaggi locali o zonali
+**Paesaggi regionali (nel senso di bio-regione)
+**Paesaggio globale o Ecosfera
+
+Le analisi del paesaggio. Caratteri e contenuti
+Considerato quanto sin qui detto circa la "natura" del paesaggio, il suo studio deve comprendere una fase analitica (disaggregativa) e una fase di sintesi (riaggregativa). Le analisi della prima fase debbono essere necessariamente:
+* Transdisciplinari, e non solo interdisciplinari.
+* Sistemiche. Essendo il paesaggio un sistema, non si può eludere la Teoria dei sistemi viventi per studiarlo. Poiché però le analisi dei sistemi sono assai poco esperite e comunque assai complesse, nella prassi comune ci si può limitare ad analisi relazionali.
+* Dinamiche. Essendo il paesaggio un processo evolutivo e non un'entità costante nel tempo, il suo studio deve partire dal passato e proiettarsi nel più attendibile futuro, almeno quello che le tendenze attuali suggeriscono.
+* Valutative. Appare fondamentale, per qualunque uso si faccia delle analisi stesse, conoscere di un paesaggio almeno due parametri di valutazione:
+**il Valore (rispetto a diversi criteri dipendenti dalle discipline secondo le quali si analizza)
+**la Vulnerabilità (rispetto a possibili interferenze). In assenza di una seppur minima valutazione rispetto a questi due parametri le analisi restano delle semplici "letture" non utilizzabili.
+
+Date le numerose componenti del paesaggio, le precedenti analisi debbono essere condotte in seno alle diverse discipline che indagano le "componenti" stesse. Ciò senza dimenticare l'unitarietà del paesaggio medesimo e le strette interazioni fra componenti. Tali discipline, coinvolte nello studio paesaggistico, sono, in prima approssimazione:
+* Geografia umana
+* Climatologia
+* Idrologia e idrografia
+* Geologia
+* Geomorfologia
+* Pedologia
+* Botanica
+* Zoologia
+* Ecologia
+* Antropologia
+* Storia
+* Sistema insediativo umano
+* Agronomia
+* Urbanistica
+* Ecologia del paesaggio
+* Economia
+* Teoria della percezione
+* Estetica
+* Semiologia
+* Psicologia ambientale
+* Teoria e psicologia della forma
+* Teoria dei sistemi
+* Teoria dell'informazione e della comunicazione
+* Cibernetica
+* Teoria della complessità
+
+Principali testi di riferimento: Farina A. Il paesaggio cognitivo, Angeli, Milano, 2006 - Romani V. Il paesaggio. Percorsi di studio, Angeli, Milano, 2008
+
+Il paesaggio nella geografia umana
+Nell'ambito della lettura paesaggistica, la geografia umana privilegia gli aspetti culturali, simbolici ed emotivi.
+In quest'ottica, il paesaggio risulta percepito, inevitabilmente, attraverso modalità esclusive e personali: all'analisi oggettiva, dunque, è affiancato uno sguardo sul territorio del tutto individuale.
+
+Le ricerche geografiche degli ultimi decenni del XX secolo hanno messo in luce l'impossibilità di definire in modo univoco il paesaggio: esistono più nozioni e tutte meritevoli d'attenzione.
+È opportuno riconoscere la specificità di ogni approccio, per esaltarne la diversità, in quanto ciascuno consente di cogliere una delle tante facce del paesaggio.
+Di fronte alla varietà di definizioni, concetti e teorie maturate in seno a questo tema, diviene imprescindibile porre dei punti fermi: ossia, stabilire una compresenza di elementi oggettivi e soggettivi, affinché la lettura di un paesaggio risulti corretta e completa.
+
+Testo di riferimento: Zerbi M.C., I paesaggi della geografia, Giappichelli, Torino, 1993
+
+Il paesaggio interiore
+
+Il paesaggio interiore è il riflesso dello sguardo sul mondo di ogni singolo individuo: è una visione puramente soggettiva, legata indissolubilmente all'esistenza, ai ricordi e alle emozioni connesse ad un paesaggio.
+Il paesaggio esterno, oggettivo e tangibile che appare ai nostri sensi è sempre mediato da un paesaggio interno, nascosto e mutevole.
+Il nostro vissuto è plasmato dalla presenza costante di quel paesaggio, fatto di persone, di cose, di immaginari, sempre vivo nel dispiegarsi dell'esperienza. Il legame affettivo tra persone è certamente determinante ed irrinunciabile, ma lo è altrettanto quello con le entità significanti del proprio paesaggio: l'orizzonte del mare, l'odore di un quartiere, una strada particolarmente significativa.
+L'indagine sul paesaggio interiore mira ad analizzare quei profondi legami che uniscono intimamente i luoghi alla personalità e al vissuto.
+Il concetto di paesaggio interiore è traducibile col termine anglosassone Inscape, (punto di vista interno), usato per la prima volta dal poeta irlandese Gerard Manley Hopkins, per definire quel complesso di caratteristiche che conferiscono unicità ed esclusività ad un'esperienza individuale, risultando, così, differente da qualsiasi altra.
+
+Testi di riferimento: Barbisio C.G., La rappresentazione del paesaggio, Tirrenia Stampatori, Torino, 1999; Lando F., (a cura di) Fatto e Finzione. Geografia e Letteratura, Etaslibri, Milano, 1993
+
+Bibliografia
+
+Per comprendere la complessità e le sfaccettature proprie del paesaggio, nella selezione che segue sono presenti autori provenienti da diverse esperienze di studio e di riflessione: non solo testi strettamente scientifici, quindi, ma anche filosofici e letterari.
+
+*ARNHEIM R., Il pensiero visivo,Einaudi, Torino, 1974
+*ASSUNTO R., Il paesaggio e l'estetica, Napoli, Giannini, 1973.
+*BACHELARD G., La poetica dello spazio, Dedalo, Bari, 1975
+*BARBISIO C.G., La rappresentazione del paesaggio, Tirrenia Stampatori, Torino, 1999
+*BIANCHI E., Geografie private. I resoconti di viaggio come lettura del territorio,Unicopli, Milano, 1985
+*BIANCHI E., Immagine soggettiva e ambiente, Unicopli, Milano,1987
+*BIASUTTI R., Il paesaggio terrestre, Torino, UTET, 1947 (II ed. 1962).
+*BLUMEMBERGH.H., La leggibilità del mondo, Il Mulimo, Bologna 1979
+*BONESIO L., Oltre il paesaggio. I luoghi tra estetica e geofilosofia, Arianna Editrice, Bologna, 2002
+*BOTTA G., (a cura di), Studi geografici sul paesaggio, Milano, Cisalpino-Goliardica, 1989.
+*Italo Calvino, Le città invisibili, Einaudi, Torino, 1972.
+*Gianni Celati, Verso la foce, Feltrinelli, Milano, 1992
+*CLAVAL P., ''L'analyse des paysages, "Géographie et Cultures", IV, 13, 1995
+*COLLOT M., L'Horizon fabuleux, Corti, Parigi, 1988
+*CORNA-PELLEGRINI G., Dalla percezione alla comprensione del paesaggio geografico, “La nostra Geografia”, II, 1 1997,
+*CORNA-PELLEGRINI G., Pianeta Blu. Paesaggi e atmosfere nel mondo, Unicopli, Milano, 2003
+*CORNA-PELLEGRINI G., Paesaggi geografici nella cinematografia contemporanea, Cuem, Milano, 2003
+*CORNA-PELLEGRINI G., Geografia dei valori culturali, Carocci, Roma, 2004
+*COSGROVE D., Realtà sociali e paesaggio simbolico, Unicopli, Milano, 1984
+*DELAUZE G., Marcel Proust e i segni, Einaudi, Torino, 2001
+*DEMATTEIS G., Le metafore della Terra, Milano, Feltrinelli, 1985
+*FARINELLI F., Storia del concetto geografico di paesaggio, Electa, Milano, 1981
+*HILLMANN J., L'anima dei luoghi, Rizzoli, Milano, 2004
+*DUBBINI R., ''Geografie dello sguardo, Einaudi, Torino, 1994
+*LANDO F., (a cura di)Fatto e finzione. Geografia e Letteratura, Etaslibri, Milano, 1993
+*LANDO F., Paesaggio e geografia culturale: in merito ad alcune recenti pubblicazioni, “Rivista Geografica Italiana”, CII 1995, pp. 495-511
+*Claude Lévi-Strauss, Lo sguardo da lontano, Einaudi, Torino, 1983
+*Claudio Magris, Microcosmi, Garzanti, Milano, 1997
+*Maurice Merleau-Ponty, Il visibile e l'invisibile, Bompiani, Milano, 1969
+*NORBERG SCHULTZ C., Genius Loci, Electa, Milano, 1999
+*PETRUCCIOLI A., Il giardino islamico, Electa, Milano, 1994
+*RINALDI R., La montagna scritta. Piccola storia del paesaggio alpino, Unicopli, Milano, 2000
+*RITTER J., Paesaggio. Uomo e natura in età moderna, Milano, Guerini e Associati, 1994.
+*RIZZO GIULIO G. "Tuscia Romana, paesaggio e territorio. Metodi e modelli di valutazione, vol. 1 e 2, Gangemi editore, Roma, 1990
+*RIZZO GIULIO G. "Leggere i luoghi, Aracne editrice, Roma 2004
+*RIZZO GIULIO G. e VALENTINI ANTONELLA, "Luoghi e paesaggi in Italia, Firenze, Univerity Press 2004
+*ROMANO G., Studi sul paesaggio, Einaudi, Torino, 1978
+*SANTINI P.C., Il paesaggio nella pittura contemporanea, Electa, Milano, 1971
+*SESTINI A., Il paesaggio antropogeografico come forma di equilibrio, “Bollettino della Società Geografica Italiana”, LXXXI 1947, pp. 1-8.
+*SESTINI A., Il paesaggio, Collana conosci l'Italia, Vol VII, Milano, Touting Club Italiano, 1963
+*SOCCO C., Lo spazio come paesaggio, in VS. Quaderni di studi semiotici, n. 73-74, pagg.193-215
+*SOCCO C., Il paesaggio imperfetto. Uno sguardo semiotico sul punto di vista estetico, Tirrenia Stampatori, Torino, 1998
+*TUAN Y., Topophilia: a study of environmental perception, attitudes and values, Prentice-Hall, New York, 1974
+*TURRI E., Antropologia del paesaggio, Comunità, Milano, 1974
+*TURRI E., Semiologia del paesaggio, Longanesi, Milano, 1979
+*TURRI E., Il paesaggio come teatro. Dal territorio vissuto al territorio rappresentato, Marsilio, Venezia, 1988
+*TURRI E. et alii, Il paesaggio italiano nel Novecento. Le grandi trasformazioni del territorio nei cento anni del Touring, Milano, TCI, 1994
+*TURRI E., Il paesaggio e il silenzio, Marsilio, Venezia 2004
+*VALLEGA A., Geografia umana, Milano, Mursia, 1989
+*VALLERANI F., Geografia rurale, tra ricreazione sostenibile e arcadie domestiche, Cuem, Milano,2001
+*ZANNIER I., Paesaggio e fotografia, in: AA.VV. Paesaggio: immagine e realtà, Electa, Milano, 1981
+*Andrea Zanzotto, Dietro il paesaggio, Mondadori (Lo Specchio) Milano, 1951
+*ZERBI M.C., Paesaggi della geografia, Giappichelli, Torino, 1993
+*ZERBI M.C. (a cura di), Il paesaggio tra ricerca e progetto, Torino, Giappichelli, 1994
+
+Voci correlate
+*Archeologia dei paesaggi
+*Ecologia del paesaggio
+*Convenzione europea del paesaggio
+*Urbanistica
+*Paese
+*Paesaggista
+*Paesaggio agrario
+*Fotografia paesaggistica
+*Storia del giardinaggio
+*Parco
+*GIS
+*Geoconservazione
+
+Altri progetti
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 09:06:35 from:
+  http://it.wikipedia.org/wiki/Paesaggio
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

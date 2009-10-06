@@ -1,0 +1,195 @@
+In matematica il termine angolo Latino angulus, dal greco ανκύλος (ankýlos), derivazione dalla radice indoeuropea ank "piegare, curvare" riguarda nozioni di larghissimo uso, innanzi tutto nella geometria e nell'analisi infinitesimale, che conviene considerare a diversi livelli di generalità.
+
+Cominceremo con una definizione di angolo convesso che consente di sviluppare senza eccessivi preliminari le basi della geometria piana euclidea. Ad ogni angolo convesso si associa una ampiezza, una misura che, seguendo abitudini diffuse, esprimiamo in gradi, che ha valori reali compresi tra 0 e 180 e che consente di organizzare le prime nozioni di trigonometria. Alla definizione degli angoli convessi si aggiunge facilmente quella di angoli concavi; per questi si hanno ampiezze ancora solo positive, ma con valori fino a 360 gradi.
+
+In una fase successiva si introducono gli angoli con segno, entità meno intuitive, ma che consentono di definire funzioni trigonometriche con argomenti reali qualsiasi (fatte salve eventuali singolarità). Gli angoli con segno sono da considerare insieme al problema della rettificazione degli archi di circonferenza dotati di verso, alla natura del numero π e alle questioni relative alle aree con segno; tutti questi elementi forniscono contributi essenziali alle possibilità del calcolo infinitesimale e alle applicazioni alla fisica classica e alle conseguenti discipline quantitative.
+
+Angoli convessi e concavi
+
+Il termine angolo convesso riguarda una parte di piano definita da due semirette aventi l'origine in comune; le semirette (che denotiamo con S e T) vengono dette lati dell'angolo e la loro origine (che denotiamo con V) vertice dell'angolo.
+
+Se le semirette sono diverse ma appartengono alla stessa retta R, ciascuno dei due semipiani definiti da R muniti del vertice (che distingue le semirette) si dice angolo piatto.
+
+In caso contrario il piano si tripartisce in tre insiemi: l'insieme dei punti appartenenti alle due semirette, S e T (tra i quali il vertice) che diciamo frontiera dell'angolo, e due insiemi connessi K1 e K2 e separati dai punti della frontiera. Uno solo di questi due insiemi, chiamiamolo K1, è costituito da punti che appartengono a segmenti con un estremo su una semiretta e l'altro sull'altra; in altre parole solo K1 è un insieme convesso. Il terzo insieme, chiamiamolo K2, non è convesso. Definiamo angolo convesso determinato da S e T l'unione di questo insieme convesso e della frontiera, K_1\cup S\cup T. Definiamo poi angolo concavo determinato da S e T l'unione del terzo insieme non convesso e della frontiera, K_2\cup S\cup T.
+I due angoli definiti dalle due semirette si dicono angoli esplementari.
+
+Angoli convessi e concavi sono, quindi, sottoinsiemi infiniti del piano, e quindi insiemi non misurabili attraverso una loro area (che avrebbe valore infinito). Spesso con angolo (convesso) si indica anche la parte di piano delimitata da due segmenti con un estremo (vertice). Va sottolineato che questa definizione non è molto innovativa, in quanto può ricondursi alla precedente utilizzando le due semirette ottenute prolungando i due segmenti dalla parte del loro estremo diverso dal vertice. Questa estensione della definizione comunque rende lecito assegnare ad ogni triangolo tre angoli (convessi) associati biunivocamente ai suoi tre vertici.
+
+Tuttavia, vale la pena precisare che un triangolo ha ovviamente area finita, è una parte del piano chiusa e limitata; infatti esso è un sottoinsieme di ciascuno uno degli angoli corrispondenti ai suoi tre vertici (anzi è l'intersezione di questi tre angoli).
+
+Un angolo piatto si può considerare un elemento di separazione fra angoli convessi e angoli concavi. Si osserva che una definizione equivalente di angolo convesso lo vede come intersezione di due semipiani definiti da due rette che si intersecano in uno e un solo punto.
+
+La misurazione degli angoli convessi e concavi
+
+Considerazioni preliminari
+
+È naturale porsi il problema di "misurare un angolo": gli angoli possono servire per tante costruzioni e se ad essi si associano misure numeriche ci si aspetta che per molte costruzioni possano essere utili calcoli numerici su queste misure.
+
+Il problema della misura di un angolo non può essere risolto attraverso una misura della sua superficie (che non è finita).
+
+Se si hanno due angoli convessi o concavi A e B con lo stesso vertice ed A è sottoinsieme di B (situazione che si determina solo se i lati di B sono sottoinsiemi di A) è ragionevole chiedere che la misura di A sia maggiore della misura di B.
+
+Dato un angolo convesso A si dice semiretta bisettrice di tale angolo la semiretta avente il vertice di A come estremo ed i cui punti sono equidistanti dai lati di A. Essa si può costruire facilmente con un compasso.
+La semiretta bisettrice di un angolo concavo si definisce come la semiretta avente come estremo il vertice dell'angolo allineata con la semiretta bisettrice del suo angolo (convesso) esplementare.
+
+La semiretta bisettrice B di un angolo A convesso o concavo e ciascuno dei suoi due lati determinano due angoli convessi. La riflessione rispetto alla retta contenente la B scambia i due lati di A e trasforma uno dei due angoli nell'altro. È quindi ragionevole attribuire ai due angoli determinati dalla bisettrice una misura che sia la metà della misura di A. È ragionevole anche dire, sbrigativamente, che i due angoli determinati dalla semiretta bisettrice "sono la metà" dell'angolo di partenza.
+
+Un angolo convesso si dice angolo retto se i suoi due lati sono ortogonali; in parole povere un angolo retto è la metà di un angolo piatto.
+
+Un angolo contenuto in un angolo retto avente il suo stesso vertice si dice angolo acuto. Un angolo convesso contenente un angolo retto avente lo stesso vertice si dice angolo ottuso.
+
+Due angoli A e B che hanno in comune solo una semiretta si dicono angoli consecutivi. Se due angoli consecutivi hanno le semirette non in comune opposte (cioè la loro unione è una retta) allora si dicono angoli adiacenti. Se questi sono angoli convessi la loro unione è un angolo che potrebbe essere convesso o concavo: si tratta dell'angolo definito dalle due semirette che sono i lati di uno solo dei due angoli. Ad un tale angolo unione è ragionevole assegnare come misura la somma delle misure degli angoli adiacenti. In parole povere l'angolo unione si dice "somma" dei due angoli A e B.
+
+Il processo di dimezzamento di un angolo può essere portato avanti quanto si vuole.
+
+Le considerazioni precedenti inducono ad attribuire agli angoli misure costituite da numeri reali.
+
+Due angoli trasformabili l'uno nell'altro mediante isometrie si dicono congruenti. Evidentemente una misura degli angoli invariante per le isometrie costituisce uno strumento con molti vantaggi: in particolare consente di individuare le classi di congruenza degli angoli. Quindi si chiede una misura degli angoli a valori reali e invariante per congruenza.
+
+La misurazione dell'angolo
+
+Come giungere a determinare l'ampiezza di un angolo ha certamente chiesto maggiori sforzi all'intelletto umano di quanti ne abbia richiesti la misurazione di lunghezze e superfici. Misurare significa esprimere una grandezza "A" in rapporto ad un'altra grandezza data, ad essa omogenea, che funge da unità di misura, e se tale processo sorge abbastanza spontaneo per le grandezze spaziali, per le quali basta ripetere un segmento, o affiancare un quadrato, U per n volte fino all'esaurimento della lunghezza o della superficie (A=n*U), lo stesso diventa meno intuitivo per le grandezze angolari, dove pure la stessa elaborazione mentale di un'unità di misura adatta richiede un maggior grado di astrazione.
+
+Si prendano in considerazione i 4 angoli di ampiezza α della figura, volendoli quantificare con l'area delimitata dai lati (in verde), avremmo nel caso A, prolungando i lati ad infinito, un'area infinita e nei restanti casi B, C e D, considerando solo le superfici entro le linee tratteggiate, 3 aree determinate e quindi misurabili, ma già a occhio visibilmente diverse fra loro, seppur originate dal medesimo angolo. Si presuma inoltre di dividere α esattamente in due angoli uguali, in modo che sia esprimibile in rapporto a quest’ultimi, come \alpha= 2 \beta; \beta, per quanto detto sopra, può quindi essere considerato un'unità di misura e, se pure ora ne consideriamo l'area, l'uguaglianza sarà soddisfatta soltanto dai casi C e D, ma non da B, dove i due triangoli hanno aree diverse, pur trattandosi di due angoli \beta perfettamente sovrapponibili. Ne discende che l'angolo non può essere misurato idoneamente in termini di area.
+
+Si immagini adesso una semiretta che partendo da una posizione verticale giri attorno al proprio estremo fermandosi orizzontalmente; ha compiuto un angolo α e movendosi ha coperto la stessa superficie di prima, sovrapponendo C e D è possibile però notare che, come in un compasso, allontanandosi dal fulcro, ogni punto traccia sul piano un arco vieppiù maggiore, pur mantenendo immutato il rapporto fra quest’ultimo e il raggio. Inoltre, se la semiretta compisse soltanto l'angolo \beta, gli archi ora prodotti sarebbero invariabilmente sempre la metà dei loro omologhi in \alpha.
+
+Supponendo ora una rotazione completa, ovvero un angolo di massima ampiezza, la semiretta, tornando nella posizione iniziale, copre l'intera superficie del piano tracciando infinite circonferenze; prendendo una a caso di queste e segmentandola in n parti uguali, si possono individuare per ogni arco altrettante porzioni di piano equipollenti, in pratica una generica unità di misura per l'angolo.
+Dunque soltanto capendo che la misurazione dell'angolo non può essere idoneamente compiuta quantificando un'area, si può comprendere che bisogna astrarre il concetto di angolo per non vederlo più solo come una parte di piano data, ma cinematicamente come una porzione di superficie coperta da una semiretta in rotazione sul proprio estremo, per potere misurarlo. Si tratta di processo non semplice, forse perfino controintuitivo, ma non semplice deve anche essere stato per i primi uomini capire "cosa" rimanesse immutato in un angolo, nonostante variassero aree e circonferenze al variare del raggio del compasso.
+
+Sebbene non immediata deve comunque trattarsi di una conquista concettuale antica, se ancora oggi il sistema comunemente più utilizzato per la misurazione degli angoli, il sistema sessagesimale, è giunto sino noi dall'antica Babilonia invariato nei secoli.
+
+Sistemi di misurazione dell'angolo
+
+Nel sistema sessagesimale, analogamente al nostro esempio, l'angolo completo o angolo giro è suddiviso in 360 spicchi, equivalenti all'unità di misura convenzionale denominata grado sessagesimale, indicata col simbolo °. Tale nome deriva dal fatto che le sottounità del grado, il minuto e il secondo, sono divise in sessantesimi; perciò, come nell'orologio, ogni grado è diviso in 60 minuti ('), e ogni minuto è diviso in 60 secondi ("), ulteriori suddivisioni di questo seguono invece il comune sistema decimale. Tale stranezza deriva, appunto, dal fatto che nell'antica babilonia era in auge il complesso sistema numerico su base sessagesimale, giunto sino a noi, quale retaggio storico, nell'orologio e sui goniometri.
+
+Un angolo potrebbe quindi essere espresso in una forma tipo:
+
+57^\circ\;17'\;44.8''.
+
+La ragione della divisione in 360 parti dell'angolo giro è riconducibile all'uso astronomico che i babilonesi facevano di questa misura: dato che il sole compie un giro completo sulla volta celeste nell'arco di un anno (a quel tempo stimato di circa 360 giorni), un grado corrisponde pressapoco allo spostamento del sole sull'eclittica in un giorno.
+
+Nel tempo sono poi stati adottati altri sistemi di misurazione nel tentativo di rendere più agevole la misura dell'angolo; alla fine del ‘700, non sfuggì ai tentativi di razionalizzazione neppure il sistema sessagesimale; venne proposto un sistema centesimale, basato appunto sul grado centesimale, quale centesima parte nell'angolo retto, eletto ad angolo fondamentale per sostituire il 90 col più tondo e comodo 100, anche se trovò utilizzo pratico soltanto attorno il 1850 quando Ignazio Porro lo usò per costruire i suoi primi strumenti a divisione centesimale. Con questo sistema l'angolo giro viene diviso in 400 spicchi uguali con sottomultipli a frazioni decimali. Si tratta ancora di una unita di misura convenzionale non motivata da alcuna ragione matematica.
+
+Lo sviluppo dell'analisi infinitesimale aveva però contemporaneamente partorito un'altra unita di misura che per certi aspetti può risultare più "motivata" o naturale, il radiante, basata sull'osservazione che il rapporto tra un arco di circonferenza e il raggio non dipende dal raggio bensì solo dall'angolo compreso; la misura dell'angolo viene quindi identificata con questo rapporto; in tal modo un angolo giro misura 2*π, cioè il rapporto tra una circonferenza e il suo raggio.
+Riepilogando, per misurare l'angolo i sistemi di misura più attestati sono:
+*il sistema centesimale, con unità di misura il grado centesimale
+*il sistema sessagesimale, con unità di misura il grado sessagesimale
+*il sistema radiante, con unità di misura il radiante.
+*in ambito militare si usa anche il millesimo di radiante
+
+Il primo viene più che altro usato in ambito strettamente topografico, mentre gli ultimi sono quelli maggiormente usati, il secondo per consuetudine il terzo per una maggiore semplicità dei calcoli nelle formule matematiche. La relazione che lega il sistema radiante e il sistema sessagesimale e permette il passaggio da uno all'altro è
+
+\frac = \frac
+
+dove \alpha è la misura dell'angolo espresso in gradi, ed x è la misura espressa in radianti.
+
+Ampiezze di angoli particolari
+
+* Un angolo acuto ha ampiezza inferiore a quella di un angolo retto, ovvero
+0^\circ
+
+* Un angolo retto ha l'ampiezza uguale a un quarto dell'ampiezza di un angolo giro, ovvero
+\alpha = 90^\circ ( \pi /2)
+
+*Un angolo ottuso ha l'ampiezza compresa fra quelle di un angolo retto e di un angolo piatto, ovvero
+90^\circ ( \pi /2)
+
+* Un angolo piatto presenta ampiezza pari a metà di quella di un angolo giro, ovvero
+\alpha = 180^\circ ( \pi )
+
+* Un angolo giro presenta ampiezza uguale a  \alpha = 360^\circ ( 2 \pi )
+:corrisponde a una rotazione completa di una semiretta con centro nel suo estremo.
+
+*Un angolo concavo ha ampiezza maggiore di quella di un angolo piatto, \alpha > 180^\circ
+
+*Un angolo convesso ha ampiezza minore di quella di un angolo piatto, \alpha
+
+Angoli di completamento
+
+Nella nomenclatura degli angoli di ampiezza compresa tra 0 e 360^\circ si è soliti usare aggettivi particolari per gli angoli associati a un angolo dato in quanto suoi "angoli di complemento" rispetto agli angoli fondamentali retto, piatto e giro.
+
+Si dice complementare di un angolo di ampiezza α ogni angolo avente come ampiezza la β "mancante" per ottenere un angolo retto, cioè tale che sia \beta = 90^\circ - \alpha. Da questa definizione segue che due angoli complementari devono essere entrambi acuti e che ha senso attribuire un complementare solo ad un angolo acuto.
+
+Si dice supplementare di un angolo di ampiezza α ogni angolo avente come ampiezza la β "mancante" per ottenere un angolo piatto, cioè tale che sia \beta = 180^\circ - \alpha. Da questa definizione segue che ogni supplementare di un angolo acuto è un angolo ottuso e viceversa, mentre ogni supplementare di un angolo retto è anch'esso un angolo retto.
+Quando due angoli supplementari sono anche consecutivi, cioè hanno in comune solo una semiretta, vengono detti anche angoli adiacenti.
+
+Si dice esplementare di un angolo di ampiezza α ogni angolo avente come ampiezza la β "mancante" per ottenere un angolo giro, cioè tale che sia \beta = 360^\circ - \alpha. Ne segue che ogni esplementare un angolo concavo è un angolo convesso e viceversa, mentre ogni esplementare di un angolo piatto è anch'esso piatto.
+
+Angoli opposti al vertice
+
+Due rette intersecantesi dividono il piano in 4 angoli convessi; rispetto a ciascuno di questi angoli, dei rimanenti due gli sono adiacenti ed il terzo, con il quale condivide solo il vertice, viene detto angolo opposto al vertice. In altre parole, due angoli sono opposti al vertice se i prolungamenti dei lati di uno risultano essere i lati dell'altro.
+
+Sono adiacenti le coppie di angoli (α, β), (β, γ), (γ, δ) e (α, δ).
+
+Sono invece opposte ai vertici le coppie di angoli
+(α, γ) e (β, δ).
+
+.
+
+Angoli formati da rette tagliate da una trasversale
+
+Quando sul piano due rette qualsiasi "r" e "s" vengono tagliate da un trasversale "t", si originano 8 angoli ognuno dei quali è posto in relazione con quelli ad esso non contigui.
+
+Rispetto la trasversale t, così, sono definiti coniugati due angoli (non contigui) disposti sullo stesso semipiano, mentre sono considerati alterni due angoli (non contigui) situati sui due semipiani diversi. Rispetto alle rette r e s, invece sono definiti esterni due angoli (non contigui) avente in comune ai vertici solo uno dei semipiani originati dalla trasversale, mentre sono considerati interni due angoli (non contigui) aventi reciprocamente
+Sono inoltre definiti corrispondenti due angoli coniugati in comune ai vertici i semipiani originati dalle rette ma non reciprocamente; il che significa che solo uno degli angoli sarà contemporaneamente intersezione dei tre semi piani.
+*sono corrispondenti le coppie:
+\alpha\ \alpha' \quad \beta\ \beta' \quad \gamma\ \gamma' \quad \delta\ \delta'\!
+*sono coniugati interni le coppie:
+\beta\ \alpha' \quad \gamma\ \delta' \!
+*sono coniugati esterni le coppie:
+\alpha\ \beta' \quad \delta\ \gamma' \!
+*sono alterni interni le coppie:
+\beta\ \delta' \quad \gamma\ \alpha' \!
+*sono alterni esterni le coppie:
+\alpha\ \gamma'\quad \delta \beta' \!
+
+Nel caso in cui le due rette "r" e "s" siano parallele, si verifica l'interessante fatto che gli angoli corrispondenti e gli angoli alterni (dello stesso tipo) saranno congruenti.
+
+Gli angoli coniugati (anch'essi dello stesso tipo) saranno invece supplementari.
+
+Somma degli angoli interni
+Nella geometria euclidea la somma degli angoli interni di un triangolo è sempre di 180 gradi. Più in generale, data una qualunque figura geometrica convessa di n lati, la somma di tutti i suoi angoli interni è uguale a (n-2)\times 180 gradi. Quindi, per esempio, la somma totale di tutti gli angoli interni di un quadrilatero è uguale a (4-2) \times 180 = 2 \times 180 = 360 gradi. Un caso particolare è dato dal quadrato, che ha quattro angoli retti, la cui somma è infatti 360 gradi. Analogamente, la somma di tutti gli angoli interni di un pentagono, regolare o meno, è uguale a 540 gradi.
+
+In altre geometrie, dette Geometrie non euclidee, la somma degli angoli interni di un triangolo può assumere sia valori maggiori che minori di 180 gradi.
+
+Angoli con segno
+
+Molti problemi portano ad ampliare la nozione di angolo in modo di disporre di una entità alla quale si possa attribuire un'ampiezza data da un numero reale e quindi anche superiore a 360 gradi e negativa. Per questo occorre abbandonare la associazione angolo - sottoinsieme del piano.
+
+Un angolo convesso o concavo può essere descritto cinematicamente come la parte di piano "spazzata" da una semiretta mobile che ruota mantenendo fisso il suo estremo; questo è il vertice dell'angolo e le posizioni iniziale e finale della semiretta sono i lati dell'angolo. Questa descrizione porta a distinguere due versi del movimento rotatorio. Diciamo verso negativo o verso orario il verso della rotazione che, osservata dal di sopra del piano, corrisponde al movimento delle lancette di un orologio tradizionale; diciamo verso positivo o verso antiorario il verso opposto (es. -135^\circ\;=-\frac\pi=225^\circ\;=\frac\pi).
+
+Per sviluppare considerazioni quantitative è opportuno considerare una circonferenza Γ il cui centro ha il ruolo del vertice V per gli angoli che si prendono in considerazione. Il raggio di questa circonferenza può essere scelto ad arbitrio e lo denotiamo con r; talora risulta comodo avere r = 1;
+quando si riferisce il piano ad una coppia di assi cartesiani risulta comodo porre il vertice degli angoli nell'origine, in modo che la circonferenza corrisponda all'equazione x^2+y^2\,=\,r^2.
+
+Ogni angolo di vertice V determina un arco sulla corconferenza. Si consideri ora un movimento di una semiretta con estremo in V in un verso o nell'altro da una posizione iniziale S fino ad una posizione finale T: esso determina sulla Γ un arco orientato che ha come estremo iniziale il punto in cui Γ viene intersecata dalla S e come estremo finale il punto in cui viene intersecato dalla T. Un arco orientato si può pensare "tracciato" dalla penna di un compasso avente l'altro braccio nel punto V. Gli archi orientati con verso positivo si possono chiamare semplicemente archi (di circonferenza) positivi, quelli con verso negativo archi negativi.
+
+La nozione di arco orientato si può estendere pensando che il movimento del compasso possa compiere più di un giro, in verso positivo o negativo.
+
+Gli angoli convessi si possono identificare con gli angoli relativi agli archi positivi interamente contenuti in una semicirconferenza; gli angoli concavi con gli archi positivi che contengono una semicirconferenza e sono contenuti in una circonferenza.
+
+A questo punto si possono definire come angoli con segno di vertice V le entità che generalizzano gli angoli convessi e concavi con vertice in V e sono associate biunivocamente agli archi orientati sulla circonferenza Γ.
+
+Gli angoli con segno possono essere sommati senza le restrizioni degli angoli associati a parti di piano e gli archi relativi risultano essere giustapposti; angolo opposto ad un angolo dato corrisponde all'arco considerato con il verso opposto. A questo punto è semplice attribuire agli angoli con segno una ampiezza fornita da un numero reale tale che alla somma di due angoli con segno corrisponda la somma algebrica delle ampiezze.
+
+A questo punto si è indotti naturalmente ad associare all'ampiezza di un angolo con segno la lunghezza con segno del corrispondente arco. Questo richiede di precisare cosa si intenda per lunghezza di un arco e più in particolare richiede di definire la lunghezza di una circonferenza
+
+Le considerazioni sulla rettificazione di una circonferenza portano alla definizione del numero π e sul piano computazionale, alle valutazioni del suo valore.
+
+Note
+
+Voci correlate
+*Goniometria
+*Trigonometria
+*Angoloide
+Angoli Astrononici:
+*Azimuth
+*Nadir
+*Zenith
+
+Altri progetti
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 17:56:11 from:
+  http://it.wikipedia.org/wiki/Angolo
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

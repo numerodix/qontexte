@@ -1,0 +1,104 @@
+8, chiamato comunemente "video 8", è uno standard di videoregistrazione per i sistemi televisivi PAL, SECAM e NTSC, progettato ed introdotto sul mercato da Sony nel 1985. Allo standard Video 8 originale, si è aggiunta con il tempo la versione migliorata Hi8. Entrambi questi formati sono analogici. In tempi più recenti, è stato introdotta la versione digitale del formato, chiamata Digital8.
+
+Tutti e tre questi formati sono orientati all'utenza domestica e semiprofessionale, benché non manchino importanti esempi di utenza professionale.
+
+Nel 1985, Sony ha introdotto sul mercato la Handycam, una delle prime telecamere Video8. A causa delle dimensioni molto più ridotte rispetto alle telecamere VHS concorrenti, e anche delle Betamax prodotte sempre da Sony, il Video8 è diventato leader nel mercato dei camcorder amatoriali.
+
+Il Video8 durante la sua evoluzione ha attraversato diversi miglioramenti: oltre all'aumento di risoluzione proprio del formato Hi8, vanno ricordate l'audio stereo digitale PCM (per qualche apparecchiatura di classe professionale) e la registrazione video interamente digitale (con il Digital8).
+
+Caratteristiche tecniche
+I tre formati (8, Hi8 e Digital8) sono fisicamente molto simili, usando la stessa larghezza del nastro e un guscio della videocassetta quasi identico. Questo da l'idea della compatibilità all'indietro permessa dal formato in alcuni casi. Esistono differenze relative alla qualità del nastro, ma principalmente le differenze tra i tre formati sono dovute al metodo di registrazione del segnale televisivo.
+
+Il primo formato introdotto, il video 8, è interamente analogico. Ne è poi stata introdotta una versione con risoluzione migliorata, in quanto la componente di luminanza (Y) e la componente di crominanza (C) vengono registrate in modo separato da due sottoportanti, esattamente come avviene nel formato S-VHS, conferiscono una risoluzione a 625 linee e priva di disturbi di intermodulazione dovuti alle catene di transcodifica di crominanza composita (CVBS), questo sistema è chiamato Hi8. Questo formato è ancora analogico, ma le apparecchiature professionali possono anche registrare l'audio stereo digitale PCM modulato sulla stessa traccia video come sottoportante digitale, infatti il sistema video 8 non ha testine fisse, ma solo 2 testine rotanti video ed una di cancellazione integrate sul cilindro testine.
+
+Il formato più recente è il Digital8. Mantiene le stesse caratteristiche fisiche delle cassette Hi8, e può registrarci sopra, ma il video è codificato e registrato in modo interamente digitale, in maniera molto differente rispetto ai formati analogici. Alcuni camcorder Digital8 possono riprodurre i nastri video 8 e Hi8 con audio analogico, ma questo non è obbligatorio nelle specifiche del formato.
+
+In tutti e tre i casi, le cassette contengono del nastro magnetico (largo 8mm) avvolto tra due bobine e contenuto in un guscio rigido. Le dimensioni delle cassette sono simili alle cassette audio, ma le operazioni meccaniche sul nastro sono molto più simili al VHS.
+
+La durata massima delle cassette è di 90 minuti in PAL e 120 minuti in NTSC, poiché la velocità del nastro varia tra i due sistemi.
+
+Come gran parte degli altri videoregistratori, il Video8 usa la tecnica della scansione elicoidale per leggere e scrivere il nastro. Il tamburo portatestine gira a 1500 o 1800 rpm mentre il nastro vi scorre davanti, e poiché il tamburo è inclinato rispetto al nastro, le tracce registrate sono posizionate diagonalmente rispetto al nastro e parallele tra di loro.
+
+Generazioni
+
+Video8
+Il Video8 venne introdotto in un mercato dominato dai formati VHS e Betamax.
+
+In termini di qualità video, il Video8 e il VHS offrono prestazioni simili; entrambi dichiarano 240 linee orizzontali. La circuiteria HQ aggiunta ai videoregistratori VHS non ha prodotto un incremento di qualità apprezzabile. Il Betamax, allo stesso tempo, offre una qualità di immagine lievemente migliore e una fedeltà cromatica maggiore, ma questo sistema non ha mai avuto molto successo nel campo dei camcorder.
+
+In termini di qualità audio, il Video8 invece aveva prestazioni molto superiori ai concorrenti. Nei formati VHS e Beta l'audio è infatti registrato su una stretta traccia longitudinale sul bordo del nastro, zona sensibile ai danneggiamenti. Considerata anche la bassa velocità del nastro, la qualità audio è molto scarsa, al livello di una cassetta audio di bassa qualità.
+
+Per contro, tutte le macchine Video8 usavano la modulazione di frequenza audio (AFM) per registrare il suono insieme alle tracce video. L'audio standard di questo sistema è di qualità molto superiore rispetto ai formati concorrenti.
+
+Benché un sistema audio "Hi-Fi Stereo" fosse già disponibile su alcuni videoregistratori VHS e Betamax all'epoca dell'introduzione del Video8, esso era estremamente raro sui camcorder, e solo sugli apparecchi di costo maggiore. La qualità audio del Video8, in generale e nonostante le limitazioni dei microfoni dei camcorder dell'epoca, era tranquillamente superiore ai VHS/Betamax non Hi-Fi, ed era nativamente stereo.
+
+I tentativi di implementare l'audio stereo sulle tracce longitudinali del VHS e del Betamax peggiorarono ulteriormente il già scadente audio, anche se offrivano il vantaggio di poter essere sovraincise senza modificare il video, una cosa non possibile nei sistemi AFM.
+
+Nello sforzo di competere con i sistemi VHS e Betamax anche sulla durata di registrazione delle videocassette, anche per il Video8 venne sviluppata una modalità LP a velocità ridotta, analogamente agli altri formati. In tutti i casi, questo comportava però un decadimento della qualità d'immagine.
+
+In ogni caso, il Video8 aveva un vantaggio determinante nei confronti dei formati concorrenti, ed era dovuto proprio alle ridotte dimensioni delle videocassette che permetteva ai camcorder di raggiungere dimensioni palmari. Questo era impossibile per i camcorder VHS e Betamax, le cui maggiori dimensioni significavano anche un peso maggiore, e relative difficoltà di brandeggio (anche se non va dimenticato che i camcorder palmari sono molto più sensibili ai movimenti accidentali). Nonostante la breve durata dei nastri, 60 minuti erano comunque abbastanza per molti utilizzi, specie se si considera che di solito la dotazione di un camcorder per una sessione di ripresa lunga include diverse batterie o l'alimentazione a rete, e quindi anche il numero di cassette diventa di scarsa importanza.
+
+Il principale svantaggio del formato Video8/Hi8, invece, è che i nastri non possono essere riprodotti direttamente su apparecchi VHS. Anche se è possibile riversarne i contenuti, questo comporta un decadimento della qualità del segnale analogico.
+
+Il formato rivale VHS-C fu un tentativo di fare tesoro di questa incompatibilità, usando lo stesso nastro magnetico e lo stesso formato di registrazione del VHS, ma in una videocassetta molto più piccola. Un adattatore meccanico era tutto ciò che era richiesto per usare una videocassetta VHS-C in un videoregistratore VHS.
+Tuttavia, i tempi di registrazioni erano accorciati a solo 30 minuti in SP.
+
+In ultima analisi, il VHS-C si è rivelato il maggior concorrente del Video8, ma nessuno dei due è riuscito a conquistarsi una posizione rilevante.
+
+Hi8
+Per controbilanciare l'introduzione del formato Super-VHS, Sony sviluppò il Video Hi8 (contrazione di high-band Video8.) Come il S-VHS, lo Hi8 incrementa il dettaglio dell'immagine usando una circuiteria migliorata e una diversa formulazione del supporto. nastro e testine di migliore qualità permettono a entrambi i sistemi di modulare il segnale di luminanza su una portante di frequenza maggiore, incrementandone così la banda passante. Sia lo Hi8 che il S-VHS venivano ufficialmente dichiarati per una risoluzione (della luminanza) di 400 linee televisive, un grande miglioramento rispetto alle 240 dei formati base. La risoluzione della crominanza invece rimane invariata, ben al di sotto delle 100 linee. Tutte le macchine Hi8 supportavano la registrazione e la riproduzione sia del loro formato che del precedente Video8, mentre le macchine Video8 non possono leggere le registrazioni Hi8.
+
+La quota di mercato del Betamax, all'epoca della presentazione di questi formati, iniziò un serio declino, sia per i camcorder che per i videoregistratori. La successiva generazione di questo formato, nota come ED-Beta ("Extended Definition") non riuscì a diffondersi nonostante la superiorità tecnica.
+
+Il sistema audio analogico restò come in precedenza: il sistema HiFi Stereo era migliore in teoria, se non in pratica, dell'AFM del Video8/Hi8, ma rimase confinato alle macchine di livello più elevato.
+
+Alla fine degli anni 80, l'audio digitale PCM fu introdotto in alcuni dei modelli Hi8 (e S-VHS) più avanzati. L'audio PCM Hi8 usa campioni a 12 bit con una frequenza di campionamento di circa 32 kHz, abbastanza peggiore della qualità CD. I videoregistratori Hi8 e S-VHS in grado di registrare l'audio PCM potevano registrare contemporaneamente la traccia stereo AFM tradizionale.
+
+L'ultimo aggiornamento del formato Video8 fu nel 1998, quando Sony introdusse sul mercato la versione XR (“Extended Resolution”). Il Video8-XR e lo Hi8-XR consentono un modesto incremento del 10% nel dettaglio della luminanza. Le registrazioni XR sono pienamente compatibili con la riproduzione su apparecchi non XR, anche se senza i vantaggi di questa tecnologia.
+
+Digital8
+
+Presentato nei tardi anni 90, il Digital8 è un codec video digitale (miniDV) che usa il supporto Hi8. Dal punto di vista tecnico, Digital8 e miniDV non sono distinguibili al livello di formato logico. Il Digital8 usa le stese videocassette del Video8, ma a parte questo non ha nessuna somiglianza con il sistema di videoregistrazione analogica. Alcuni apparecchi Digital8 possono riprodurre (ma non registrare) registrazioni Hi8/Video8, ma questa non è una funzionalità espressamente prevista dallo standard. Per immagazzinare i segnali audio/video codificati digitalmente, è necessaria una maggiore velocità del nastro, per cui la durata risulta ridotta. Un nastro da Hi8 da 120 minuti (NTSC) o da 90 minuti (PAL) registrerà solo 60 minuti di video Digital8. Unità più recenti offrono un modo 'LP' che incrementa la durata della registrazione a 90 minuti.
+
+Sony ha rilasciato la tecnologia Digital8 in licenza ad almeno un'altra compagnia (Hitachi), che ha commercializzato alcuni modelli per un certo periodo, ma al momento solo Sony commercializza apparecchiature Digital8.
+
+Il concorrente principale del Digital8 è il formato domestico miniDV, che usa videocassette più piccole. Poiché entrambe le tecnologie condividono la stessa codifica audio/video, il Digital8 ha le stesse prestazioni del miniDV. Ma, a tutt'oggi, il Digital8 è stato relegato nel settore entry-level del mercato, dove il fattore prioritario è il prezzo e non le prestazioni. Il miniDV, nel frattempo, è lo standard de facto dei camcorder digitali.
+
+La collocazione nella fascia più bassa del mercato ha lasciato il Digital8 incline alla concorrenza di una nuova generazione di camcorder che usano DVD-R scrivibili come sistema di memorizzazione. Nonostante siano meno che ideali per il lavoro serio, i camcorder DVD-R hanno il vantaggio della compatibilità diretta con una larga base di lettori DVD installati. Questo rispecchia il principale vantaggio del VHS-C rispetto al Video8. oggi però anche questa tecnologia è stata ampiamente superata dalle telecamere dotate di hardisk o di schede di memoria SD come quelle delle macchine fotografiche.
+
+Il Video8 al di fuori del mercato dei camcorder
+Il mercato domestico
+Nonostante gli sforzi compiuti per renderlo un formato domestico di largo uso, il Video8 non è mai riuscito a imporsi in questo mercato. Senza la lunga autonomia dei nastri (superiore alle cinque ore), più costoso e non particolarmente migliore in termini qualitativi, questo formato, semplicemente, non era appetibile per videoregistrazione domestica al posto del VHS e del Betamax. Anche il mercato del videonoleggio non ha mai veramente supportato il Video8, nonostante Sony abbia continuato la produzioni di videoregistratori per buona parte degli anni 90.
+
+Il formato Video8/Hi8 è stato abbastanza popolare presso gli appassionati da far sì che Sony producesse attrezzature per il montaggio e la post-produzione video.
+
+Il mercato professionale
+Esistono apparecchiature di classe semiprofessionale e professionale che usano il formato Video8/Hi8, con relative attrezzature ENG e EFP. Gli apparecchi di questo formato sono contrassegnati da Sony con la sigla EVO.
+
+Il futuro dei formati 8mm
+Alla fine del 2005, i formati analogici 8mm sono quasi alla fine della loro carriera commerciale. Nel mercato dei camcorder nuovi, il Video8 standard è praticamente estinto, mentre lo Hi8 (e il VHS-C) sono ancora usati in alcuni camcorder di basso costo, ma sono stati quasi ovunque rimpiazzati dai formati digitali, come il loro successore Digital8, e dal miniDV.
+
+Il futuro del Digital8 è stato messo in discussione, poiché solo Sony supporta questo formato e solo sui camcorder di fascia bassa.
+
+Aspetti tecnici
+Dropout
+Nel Video8 e nelle sue evoluzioni, il tamburo portatestine e il nastro di dimensioni ridotte rendono le registrazioni più vulnerabili agli effetti dei dropout, cioè alla mancanza di materiale magnetico sulla superficie del nastro. Poiché il segnale registrato ha una densità maggiore, un difetto del nastro ha effetti più marcati rispetto ad altri sistemi(comunque non grave rispetto alla perdita totale di informazioni dovuta al danneggiamento dei supporti ottici). di conseguenza, la compensazione dei dropout nei sistemi Video8 è di regola più sofisticata. In questo senso, le maggiori dimensioni dei tamburi VHS e betamax si sono rivelate vantaggiose.
+
+Durata dei nastri 8mm
+I nastri 8mm dovrebbero essere immagazzinati in posizione verticale, lontani dalla luce solare diretta, in un ambiente fresco, asciutto e non polveroso. Come tutti i nastri video, tenderanno inevitabilmente a deteriorarsi e a perdere la magnetizzazione, con la conseguenza di immagini rumorose e nell'aumento dei dropout. I nastri più vecchi di dieci anni potrebbero iniziare a mostrare segni di degradamento. Oltre a questi problemi, le spire potrebbero incollarsi tra di loro e ostacolare i meccanismi di trascinamento, oppure diventare fragili. Questi problemi richiedono di solito assistenza tecnica professionale.
+
+In ogni caso, il formato 8mm non è più soggetto a questi problemi di quanto non lo siano anche gli altri formati, e la tecnologia a particelle di metallo è più resistente del metallo evaporato usato dal miniDV. I nastri Hi8 possono essere sia di metallo particellato (MP) che evaporato (ME), in entrambi i casi sono più difficili da cancellare dei tipi all'ossido (VHS, S-VHS, Betamax) e meno sensibili ai campi magnetici.
+
+Trasferimento da Video8 a computer
+Dal momento che i formati Video8 e Hi8 sono formati video analogici, il trasferimento verso un computer richiede una fase di digitalizzazione.
+
+Alcuni apparecchi Digital8 permettono di rileggere nastri Video8 e Hi8. In questo caso, sarà anche disponibile una presa FireWire che permetterà il trasferimento del flusso dati al computer. Questo approccio produrrà immagini apprezzabilmente migliori del metodo successivo, e ha anche il vantaggio di permettere di lavorare con il formato standard DV sul computer.
+
+Se non si può usare un dispositivo Digital8, è necessaria una scheda di acquisizione analogica o un convertitore, sistema che è preferibile non utilizzare perché le perdite di segnale sono enormi. una volta sul computer, il materiale acquisito può essere montato e trasferito su DVD ma tutte le operazioni di trasferimento da un formato all'altro sono in perdita perciò è bene limitarne l'uso.
+
+Alcuni camcorder miniDV e DVD hanno un ingresso analogico che permette di usarli per la conversione. Questo sistema si chiama di solito 'conversione passante' perché il materiale entra nel camcorder, viene convertito e quindi inviato alla connessione FireWire.
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 15:28:20 from:
+  http://it.wikipedia.org/wiki/Video8
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

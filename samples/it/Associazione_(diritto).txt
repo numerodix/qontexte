@@ -1,0 +1,78 @@
+Nell'ordinamento giuridico italiano, l'associazione è una delle forme aggregative riconosciute dalla legge, che ne tutela la libertà costitutiva e le forme di attività. Ha base personale anche il comitato mentre la fondazione è caratterizzata esclusivamente dall'elemento patrimoniale. Le associazioni, riconosciute o non riconosciute come persone giuridiche sono gruppi di persone liberamente costituiti, che svolgono la loro attività prevalentemente attraverso prestazioni personali o patrimoniali, volontarie o meno, degli aderenti (associati). L'associazione è quindi la risultante di un contratto tra due o più soggetti con cui le parti si obbligano, attraverso una organizzazione stabile, a perseguire uno scopo comune diverso da quello per cui la legge stabilisce una forma particolare (come ad esempio avviene per le società che perseguono lo scopo lucrativo e le cooperative che perseguono uno scopo mutualistico).
+
+Le formazioni sociali
+L'associazione è la «formazione sociale» più ampia ma non è la sola formazione sociale presente nel nostro ordinamento. Essa si distingue:
+*dalla «riunione» (art. 17 Cost., in cui manca il concetto di stabilità e manca un'organizzazione stabile che indirizzi l'attività degli associati),
+*dalla «famiglia» (definita dall'art. 29 Cost. come società naturale, che pure è un nucleo sociale ma formato da persone unite da vincolo di sangue, e perciò non tutelato autonomamente, bensì attraverso determinati diritti dei componenti del nucleo stesso anche nell'ipotesi del perseguimento di fini superindividuali familiari),
+*dalle «rappresentanze organiche di popolo» (art. 56-57 Cost., che sono espressione della sovranità popolare e non sono formazioni sociali che operano all'interno della comunità, ma sono organi istituzionali).
+*dalla «comunione» (art. 1100 c.c. che non concepisce la comunione quale gruppo di persone dinamicamente teso al raggiungimento di determinati fini superindividuali di qualsiasi natura, ma piuttosto quale istituto tendente alla statica conservazione del godimento dei beni tra più persone, il che rievoca la nozione romanistica di proprietà plurima integrale).
+
+Il fenomeno della spontanea organizzazione di più persone in gruppi o collettività per il raggiungimento di uno scopo comune è un fenomeno antico, quasi primordiale, ed ha conosciuto uno sviluppo in progressione esponenziale.
+Ciò nonostante, nell'attuale ordinamento non vi è una norma definitoria che descriva la nozione di associazione o di persona giuridica: il vigente sistema deriva la sua indifferenza in parte dall'ordinamento francese del secolo XIX, dove i raggruppamenti sociali erano addirittura osteggiati e si affermava la supremazia dell'individuo singolo come titolare di situazioni giuridiche soggettive (al contrario del sistema tedesco, dove erano disciplinate le persone giuridiche riconosciute e anche quelle non riconosciute).
+Solo da pochi decenni si sta rivalutando il ruolo sociale del fenomeno associativo; in particolare, è stata data soluzione al problema della titolarità del patrimonio delle fondazioni non riconosciute, quello del riconoscimento dei partiti politici e delle associazioni sindacali, nonché quello degli acquisti immobiliari dei comitati.
+
+Gli elementi strutturali dell'associazione
+Sono elementi generali, comuni ad ogni tipo di associazione:
+
+#elemento soggettivo, costituito da una collettività di persone fisiche che si uniscono in maniera più o meno duratura per il raggiungimento di un determinato fine. Viene in rilievo il rapporto giuridico che stringe i vari individui tra loro e l'interesse comune che li spinge ad unirsi. Poiché l'art. 18 Cost. riferisce il diritto di associarsi soltanto ai «cittadini», una parte assolutamente minoritaria e risalente della dottrina ha ritenuto che la norma contenesse una limitazione, ravvisando l'inconfigurabilità delle cd. «associazioni di associazioni» (numerosi esempi sono da ricercarsi in campo sindacale) e l'impossibilità di associarsi per gli stranieri e per gli apolidi. La dottrina prevalente e la giurisprudenza ritengono, in virtù del principio di uguaglianza, che le associazioni di associazioni (cd. associazioni di doppio grado) siano ammissibili e siano tutelate dall'art. 18 al pari di qualsiasi collettività formata da persone fisiche, e ciò anche al di fuori del campo sindacale, e che siano fuori dalla tutela costituzionale solo le associazioni straniere composte esclusivamente o prevalentemente da stranieri (mentre sarebbe possibile per lo straniero aderire ad associazioni nazionali).
+#elemento teleologico, dato dall'esistenza dello scopo comune (non lucrativo, cooperativo od altro per cui è prevista dalla legge una forma diversa) cui tendono le attività di tutti i partecipanti. È questo l'elemento fondamentale dell'associazione, costituendo la ragione essenziale del suo sorgere, il legame che unisce le varie attività dei singoli, e la causa dell'estinzione (nel momento del suo raggiungimento) della associazione.
+#elemento oggettivo, dato dal contributo (in natura, in denaro, in prestazione lavorativa, ecc.) che ciascun individuo apporta per il raggiungimento dello scopo comune. Un patrimonio è necessario solo per l'associazone riconosciuta.
+#elemento materiale, rappresentato dall'organizzazione (fissata dagli accordi degli associati), cioè dalla nomina di organi rappresentativi e dalla divisione dei compiti tra gli associati.
+#elemento volontaristico, dato dalla libertà di costituire un'associazione e di aderirvi, e dalla libertà di agire nell'àmbito dell'ordinamento per il raggiungimento dei propri scopi.
+
+L'atto costitutivo dell'associazione
+Il Codice civile del 1942 parla delle associazioni riconosciute e delle fondazioni, dettando un'unica norma espressa: l'art. 14 cod. civ. che impone la formalità solenne dell'atto pubblico (ad es. registrata tramite notaio o pubblico ufficiale) per entrambe le figure, poiché senza l'atto pubblico l'ente non può chiedere il riconoscimento (v. infra).
+Nessuna forma è invece prevista per l'atto costitutivo di una associazione non riconosciuta.
+L'atto costitutivo dell'associazione è un atto negoziale, o meglio un contratto di natura associativa, che nasce dalla volontà di più soggetti virtualmente in confitto tra loro, e le cui prestazioni sono dirette al conseguimento di uno scopo comune (trattasi comunque di prestazioni corrispettive).
+Non è esclusa la formazione progressiva del contratto associativo, che si ha quando alcuni soggetti promotori preparano il programma della futura associazione, al quale aderiscono altri interessati (anche con scrittura privata). Dopo la deliberazione dello statuto da parte dell'assemblea, si redige l'atto costitutivo in forma solenne (se l'associazione intende chiedere il riconoscimento).
+L'atto costitutivo della fondazione può essere un atto pubblico inter vivos o un testamento (atto mortis causa), ed ha sempre natura negoziale. È atto di autonomia privata che importa una disposizione patrimoniale. A differenza dell'associazione, la fondazione può essere dunque costituita anche con atto unilaterale non recettizio, con causa tipica (perché è diretto a fondare un ente) e con oggetto tipico (attribuzione di un patrimonio destinato ad uno scopo collettivo).
+La giurisprudenza tende a distinguere l'«atto di fondazione» dall'«atto di dotazione», anche se contenuti in un unico documento e dunque funzionalmente collegati tra loro. Per la fondazione costituita con testamento (cd. contenuto atipico del testamento), la giurisprudenza ritiene ammissibile che il testatore si limiti ad attribuire un patrimonio ad una fondazione da istituire indicandone solo gli elementi essenziali, e lasciando all'esecutore testamentario o all'erede il compito di completare il resto.
+L'art. 15 c.c. ammette la revoca del negozio di fondazione, che è un diritto potestativo del fondatore da esercitarsi anche con un testamento successivo (il diritto di revoca non si trasmette all'erede). Trattandosi di "negozio di secondo grado", esso deve avere la medesima forma pubblica del negozio revocato. La revoca è esclusa quando vi è stato il riconoscimento della fondazione, in quanto si è già operato il definitivo distacco del patrimonio destinato allo scopo, e quando il fondatore ha dato inizio all'attività della fondazione, poiché in tal caso non è più nella sfera del fondatore ma in quella della generalità dei cittadini.
+
+Lo statuto contiene le regole relative alla vita ed al funzionamento dell'ente (art. 16 c.c.): può anche mancare, quando tali regole sono inserite nel contratto costitutivo (del quale ha la medesima natura giuridica negoziale), sebbene nella pratica si tenda a distinguere gli elementi essenziali (denominazione, scopo, patrimonio, sede, diritti ed obblighi degli associati e criteri di erogazione delle rendite) dagli elementi facoltativi (norme relative all'estinzione dell'ente, alla sua trasformazione, alla devoluzione del patrimonio, ecc.).
+
+Scopi delle associazioni
+
+Le associazioni possono avere caratteristiche e finalità di tipo culturale, assistenziale, ricreativo, sociale, sportivo etc. In generale, si parla di associazione definendo un organismo unitario, formato da almeno 2 o più soggetti, che viene considerato dall'ordinamento soggetto di diritto, dotato di propria capacità e distinto dagli stessi individui che lo compongono.
+In particolare, i circoli culturali tendono alla diffusione della cultura, delle scienze o delle arti, della religione nei suoi vari aspetti, dell'educazione, o di elementi specifici di queste od altre discipline.
+
+L'autonomia patrimoniale dell'associazione
+
+L'elemento caratterizzante e più rilevante (sotto il profilo socio-economico) dell'associazione è dato dall'autonomia patrimoniale perfetta per quelle riconosciute ed imperfetta per quelle non riconosciute.
+Autonomia patrimoniale perfetta significa che il patrimonio dei componenti è separato da quello dell'ente e che delle obbligazioni risponde sempre e soltanto il patrimonio dell'ente e non quello degli associati. Inoltre i creditori degli associati non possono aggredire il patrimonio dell'ente. L'autonomia patrimoniale perfetta esiste per le persone giuridiche, associazioni riconosciute e società di capitali.
+Autonomia patrimoniale imperfetta significa che alcune figure associative prevedono una responsabilità di alcuni o tutti partecipanti per i debiti dell'associazione. L'autonomia patrimoniale imperfetta è attribuita alle associazioni non riconosciute (in cui rispondono oltre al patrimonio dell'ente i soggetti che hanno agito in nome e per conto dell'associazione) ed alle società di persone (in cui rispondono tutti o alcuni dei soci)
+
+Forma giuridica
+La Costituzione italiana, all'articolo 18, riconosce ad ogni singolo individuo il diritto di associarsi in organismi collettivi dalle svariate finalità. "...i cittadini hanno diritto di associarsi liberamente senza autorizzazione per fini che non sono vietati dalla legge".
+
+L'ordinamento italiano identifica nel codice civile due principali categorie nei quali ricondurre le associazioni:
+# associazioni riconosciute come persone giuridiche
+# associazioni non riconosciute come persone giuridiche
+
+Associazioni non riconosciute
+In questa categoria rientrano la maggior parte delle associazioni, considerati gli oneri che comporta il riconoscimento.
+Si tratta di organismi che godono di una capacità giuridica oggi piena (in passato non potevano acquistare per donazione o successione) ma che non hanno autonomia patrimoniale perfetta. Vale a dire che si tratta di enti privi di personalità giuridica, le cui responsabilità in sede civile, amministrative, penale ed economico-finanziarie ricadono su coloro che hanno agito in nome e per conto dell'associazione, anche se non sono iscritti.
+
+Sono comunque soggetti di diritto, autonomi rispetto agli associati, dotati di patrimonio (eventuale) che prende il nome di fondo comune. Gli articoli di riferimento del Codice civile sono il 36, 37, 38 CC nonché le indicazioni previste dalla L.266/91 recante disposizione per le organizzazioni di volontariato, o i disposti del D.Lgs. del 4 dicembre 1997, n.460 che introduce la categoria di Organizzazione non lucrativa di utilità sociale (Onlus). Per ovviare all'esiguità dei disposti normativi in materia, il Legislatore attribuisce agli "accordi degli associati" la definizione dell'ordinamento interno.
+La responsabilità sussidiaria
+
+L'art. 6 comma 2 L. 383/2000 ha stabilito il principio che per le obbligazioni delle associazioni di promozione sociale risponde innanzitutto l'associazione stessa con il suo patrimonio e solo in via sussidiaria il presidente o coloro che hanno agito in nome dell'associazione. Viene, perciò, modificata la regola valida per le altre associazioni di una responsabilità solidale senza il Beneficium excussionis
+
+Associazioni riconosciute
+Sono quelle associazioni con personalità giuridica, vale a dire quegli organismi dotati di autonomia patrimoniale perfetta. L'acquisizione della personalità giuridica implica l'acquisizione della piena autonomia dell'organismo rispetto agli associati sia nei confronti degli associati stessi, che di terzi estranei.
+La domanda di riconoscimento dev'essere presentata all'autorità competente (definite dal DPR 10 febbraio 2000, n.361, "Regolamento recante norme per la semplificazione dei procedimenti di riconoscimento di persone giuridiche private e di approvazione delle modifiche dell'atto costitutivo e dello statuto").
+
+Bibliografia
+*Massimo Eroli, Le associazioni non riconosciute, Jovene, Napoli, 1990, ISBN 8824308694
+
+Voci correlate
+*Persona giuridica
+*Associazioni di promozione sociale
+*Fondazione (ente)
+*Fondazioni bancarie
+*Non profit
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 10:09:28 from:
+  http://it.wikipedia.org/wiki/Associazione_(diritto)
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

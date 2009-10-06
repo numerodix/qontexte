@@ -1,0 +1,240 @@
+Il wargame ("gioco di guerra") è una categoria di gioco strategico, che generalmente ricostruisce eventi militari storici o immaginari. Il wargame è spesso visto come un modo di esplorare gli effetti della guerra senza sperimentare il combattimento reale. Può assumere la forma di un hobby nel quale uno o più giocatori simulano battaglie o intere guerre, di un modello o simulazione al computer di possibili scenari di pianificazione militare (questo viene detto anche simulazione di guerra) o anche la forma di manovre militari come pratica per la guerra. In quest'ultimo caso le due fazioni della battaglia vengono tipicamente chiamate "blu" e "rosso" per evitare di nominare un avversario particolare.
+
+Nella sua forma tradizionale è un gioco da tavolo, giocato su una mappa, con un certo numero di pedine o miniatura rappresentanti le varie forze in campo e dalle regole e tabelle necessarie al combattimento.
+
+Storia dei wargame
+I wargame moderni sono nati dal bisogno militare di studiare l'arte della guerra e di inscenare nuovamente vecchie battaglie per scopi didattici. La stupefacente vittoria prussiana contro la Francia nella Guerra Franco-Prussiana (1870-71) è alle volte parzialmente accreditata all'addestramento degli ufficiali prussiani della Landweher con il Kriegspiel. Il primo regolamento del Kriegspiel risale al 1846 ed è dovuto a Reisewitz. Il primo club di wargame non-militare nacque a Oxford in Inghilterra nel XIX secolo.
+
+Il libro di H.G. Wells Little Wars (Piccole Guerre) fu un tentativo di codificare la regole per combattere battaglie con soldati giocattolo (miniature) e di diffonderlo al pubblico generale.
+Il primo wargame prodotto per il mercato di massa, realizzato con pedine di cartoncino (counters) e mappe esagonali, fu inventato da Charles S. Roberts nel 1952 e chiamato Tactics; il suo successo lo spinse a fondare la casa editrice Avalon Hill e lo rese noto come "Il padre del wargame da tavolo". Ciò che distingueva Tactics dai giochi precedenti era la presenza sul campo di una griglia esagonale, in questo modo si poteva regolare il movimento e la gittata delle armi senza le complicate misurazioni legate al Kriegspiel ed al wargame tridimensionale.
+
+I wargame sono esistiti da secoli — gli scacchi ne sono un esempio antico. Infatti si potrebbe sostenere che tutti i giochi competitivi a somma zero possano essere considerati wargame. Come tutti i giochi, possono variare di complessità: alcuni sono fondamentalmente semplici (i così detti giochi "beer-and-pretzel"), mentre altri (generalmente in un tentativo di aumentare il 'realismo' della situazione) possiedono manuali di regole che comprendono una grande varietà di azioni (i così detti giochi "mostro").
+
+I wargame variano nel livello di complessità delle regole e del numero di dati che devono essere gestiti. I regolamenti dettagliati (alcuni dei quali sono contenuti in manuali di centinaia di pagine, stampati in corpo minuscolo e che richiedono di registrare molti dati) producono generalmente un gioco lento (e, per alcuni, meno godibile). I regolamenti più semplici "beer and pretzel" d'altra parte producono giochi "divertenti" ed incoraggiano il gioco competitivo o di torneo, ma per alcuni non ritraggono accuratamente gli eventi storici che storicamente ebbero luogo in un conflitto.
+
+In questi giochi è appassionante poter fare della what if analisys, ossia poter simulare che cosa sarebbe successo facendo scelte diverse da quelle effettuate storicamente. Naturalmente si tratta di analisi valide solo se il gioco riproduce una realtà storica con buona precisione e non una semplice ambientazione di fantasia.
+
+Wargame tridimensionale
+Il Wargame tridimensionale tipicamente richiede l'uso di miniature (modellini di plastica o metallo) per le unità e modellini degli elementi scenici piazzati su un tavolo o sul pavimento usato come superficie di gioco.
+
+Wargame da tavolo
+Un tipico wargame non computerizzato (Kriegspiel) consiste dei seguenti componenti:
+* Mappa: La mappa mostra il terreno sul quale viene combattuta la battaglia/guerra, di solito a questo è sovraimposta una mappa esagonale per regolare il movimento. Altre varianti includono mappe "punto a punto" dove le aree sono connesse da linee per mostrare i possibili movimenti e l'area della mappa è simile a quella di Risiko
+* Counter: Di solito sono piccoli rettangoli di cartoncino che possono rappresentare eserciti, unità militari o personale militare individuale, così come segnalini per mostrate lo stato in cui si potrebbero elencare le unità.
+* Dadi: Questi sono generalmente usati per aggiungere un elemento di probabilità. Dato che molte azioni militari sono state influenzate o anche decise da strani eventi i giochi di strategie lineari come gli scacchi o il go possono essere considerati troppo astratti per rappresentare la guerra reale.
+
+Wargame al computer
+
+Lo schermo dei wargame al computer mostra le unità e lo scenario sul monitor.
+
+I wargame computerizzati hanno diversi vantaggi sui "wargame" da tavolo o tridimensionali:
+* non occorre continuare a tirare i dadi
+* non occorre gestire tutti i dati (il computer gestisce tutto il lavoro)
+* la possibilità di salvare, fermarsi e ricominciare il gioco in ogni momento (se non ci si deve coordinare con un avversario umano; notate che questo è possibile anche con molti wargame da tavolo, purché animali e bambini non abbiano accesso all'area di gioco)
+* non occorre dipingere le miniature (anche se adesso esistono linee di miniature vendute già dipinte).
+* facilità di reperire avversari mediante Internet
+
+Gli svantaggi sono:
+* i computer possono non essere competenti quanto un avversario umano (questo problema può essere evitato se esiste una modalità multigiocatore)
+* mancanza di interazione umana (ovviamente il computer non rovescerà la mappa se sta perdendo)
+* la gestione automatizzata permette l'uso di regole più complesse che possono essere più difficili da comprendere ed analizzare; specialmente perché queste regole possono essere "nascoste" ai giocatori nel codice del software
+* la capacità di vedere in dettaglio solo una parte del campo di battaglia
+* i giocatori non possono modificare con facilità le regole o adattarle a situazioni similari
+* la mancanza della sensazione tattile di muovere miniature finemente dipinte sul tavolo di gioco
+
+I wargame tradizionali differiscono dai videogiochi detti giochi strategici in tempo reale nel fatto che sono generalmente gestiti a turni (un'ovvia eccezione sono i wargame 'sul campo' delle simulazioni di guerra delle organizzazioni militari).
+I wargame tradizionali si focalizzano sulla capacità di analizzare le situazioni in profondità, di pianificare un obbiettivo, di correggere il piano in base a circostanze mutevoli. I giochi strategici in tempo reale (che potrebbero essere meglio definiti come giochi strategici grandemente accelerati) si focalizzano maggiormente su riflessi, coordinazione e la capacità di prendere decisioni in tempi rapidi basandosi su informazioni limitate.
+Inoltre i giochi strategici in tempo reale richiedono un'intelligenza artificiale meno sofisticata da parte dei giocatori simulati dal computer.
+
+I wargame al computer sono spesso giocati tra avversari umani mediante email (scambiandosi i file di salvataggio del gioco) per fornire interazione umana ed un avversario più interessante di quello simulato dal programma. Lo svantaggio è che è richiesto molto più tempo per finire il gioco, a seconda di quanto spesso i giocatori controllano la loro e-mail. È comunque molto più rapido (e facile) del vecchio metodo di giocare wargame mediante la posta normale. Un'alternativa più rapida (non disponibile con tutti i giochi) è di giocare utilizzando una connessione diretta, o mediante una LAN, mediante modem o attraverso Internet.
+
+Tipi di wargame militare
+Le simulazioni di wargame di solito possono essere distinte secondo il tipo di tecnologia disponibile agli 'eserciti' coinvolti, le branche dell'esercito impegnate, il periodo della storia militare e la dimensione delle unità o scala della mappa..
+
+Ambiente
+* battaglie terrestri
+* battaglie marine
+* battaglie aeree
+* combinazioni di battaglie terrestri, di mare e/o di aria
+* battaglie spaziali
+
+Periodo storico
+Tutti i periodi storici hanno i loro entusiasti. I giochi storici appartengono di solito ad uno di questi periodi:
+
+* Storia antica (Greca, Romana, ecc.)
+* Medioevo (niente polvere da sparo)
+* Il primo periodo della polvere da sparo
+* Era napoleonica
+* Prime guerre moderne (Guerra di secessione americana)
+* Prima guerra mondiale
+* Seconda guerra mondiale
+* Guerra Moderna (Guerra di Corea, Guerra del Vietnam, ecc.)
+
+I wargame possono anche essere usati per simulare situazioni fittizie:
+
+* Ipotetiche (terza guerra mondiale)
+* Storia alternativa (Fantasy o Fantascienza, mondi di storia alternativa, per esempio Steampunk, Orrore Gotico o Fantasy Napoleonico)
+* Guerre Futuristiche / Fantascientifiche (inclusi Space Marine, astronavi e armi a energia ecc.)
+* guerre Fantasy (con Elfi, Nani, Goblin ecc.)
+
+Scala della mappa o delle unità
+Esistono differenti tipologie e scale di gioco. Uno dei criteri più comuni per distinguerle è osservare la dimensione dell'area geografica rappresentata sulla mappa. Naturalmente la scala geografica condiziona anche la «scala dei tempi» e la «scala delle unità». Non sarebbe logico, volendo rappresentare in un gioco tutte le campagne napoleoniche (da Austerlitz a Waterloo), usare unità a livello di battaglione ed una scala dei tempi di un'ora per turno. Invece questi stessi valori sarebbero molto adatti per rappresentare una singola battaglia napoleonica.
+
+Scala operativa
+* Strategica — le unità militari sono tipicamente divisioni, Corpi d'Armata o eserciti e sono valutati in base alla forza grezza. A questo livello di scala la produzione economica e la diplomazia sono significative. La simulazione tipicamente coinvolge tutte le branche dell'esercito e spesso l'intera forza delle nazioni coinvolte (con unità terrestri, navali ed aeree) e copre intere guerre o lunghe campagne militari.
+* Grande Operazionale — le unità vanno tipicamente da reggimenti a brigate e sono valutate in base alla loro forza e debolezza globale. Una scala di simulazione utilizzata in particolare nel wargame storico. La simulazione generalmente si focalizza su più giorni di combattimenti, utilizzando tecniche di wargame che permettono di simulare grandi battaglie all'interno di schemi tradizionali, dove una volta un singolo soldatino rappresentava 33 uomini, ora 8 soldatini possono rappresentare un'intera brigata napoleonica, permettendo di simulare battaglie come Waterloo su tavoli da gioco di relativa ampiezza.
+* Operazionale — le unità vanno tipicamente da battaglioni a divisioni e sono valutate in base alla loro forza e debolezza globale. Il tempo atmosferico e la logistica sono significativi. La simulazione generalmente si focalizza su una branca delle forze militari, mentre le rimanenti sono trattate in modo più astratto. Di solito copre una singola Campagna militare
+* Tattica — le unità vanno da veicoli individuali e  singoli uomini  fino a plotoni o compagnie, e sono valutate in base al tipo e gittata delle armi individuali. La simulazione quasi sempre si focalizza su una singola branca militare, le altre occasionalmente rappresentate in modo astratto. Di solito copre una singola battaglia o parte di una grande battaglia.
+* Schermaglia — le unità rappresentano soldati individuali e potrebbero tener conto delle ferite e munizioni. La simulazione di solito copre un piccolo conflitto a fuoco.
+
+Tipi di pedine
+Le pedine in prevalenza si dividono in 3 categorie:
+*forze terrestri: rappresentano le unità terrestri partecipanti all'evento. Se la scala lo permette, generalmente sono rappresentate separatamente le varie specialità partecipanti all'evento: fanteria, cavalleria, artiglieria, unità corazzate
+*forze marittime: comprendono tutte le navi da combattimento o da trasporto (per esempio nella simulazione di un attacco di sommergibili ad un convoglio)
+*forze aeree: a partire dalla prima guerra mondiale, quando gli aerei hanno fatto la loro comparsa con svariate funzioni nelle guerre.
+
+Dato che in alcuni giochi di simulazione storica possono comparire insieme tutti e tre questi tipi di unità (per esempio, una simulazione della seconda guerra mondiale nel teatro del Pacifico), questa suddivisione non è mai assoluta, ma sempre correlata al gioco ed alla scala in cui si opera.
+
+Scala della mappa
+Tipici esempi di scala della mappa, possono essere:
+*area geografica che rappresenta un piccolo terreno (gruppo di case o campi): per simulazioni di scontri tattici (poche unità di forze opposte come ad es. dei battaglioni), in genere viene simulata la tecnica di combattimento delle unità minori.
+*area geografica che rappresenta il luogo di una battaglia: in questo caso viene simulata una intera battaglia particolare, accaduta in un determinato periodo storico, dove viene enfatizzata sia la parte tattica, sia la parte logistico-strategica, ossia vengono simulate le tecniche di impiego tattico delle unità di base del periodo (divisioni).
+*area geografica rappresentante più nazioni e intervallo temporale che copre un periodo storico (es. periodo napoleonico, prima guerra mondiale, ecc..): in questo caso viene enfatizzata la strategia militare complessiva di una nazione in guerra, a volte anche con risvolti diplomatici. Spesso in questo tipo di giochi sono quindi presenti anche elementi economici e politici che permettono di simulare al meglio l'intero periodo.
+
+Giocatori degni di nota
+* H.G. Wells - Conosciuto come il «Padre del wargame con miniature»
+* Jerome K. Jerome - Umorista, sviluppatore di Piccole guerre (Little wars) con H.G. Wells.
+* Charles S. Roberts - Conosciuto come il «Padre del wargame da tavolo», fondatore dell'Avalon Hill.
+* Don Featherstone
+* Charles Grant
+* George Gush
+
+Giocatori italiani
+
+* Riccardo Affinati - Primo wargamer italiano a pubblicare un regolamento di wargame su una rivista inglese (Wargame Illustrated). Conosciuto come il "fondatore dell'Accademia Wargame in Italia" e del Gruppo Italiano Wargame, creatore dei Giochi di Comitato.
+* Umberto Tosi Primo a pubblicare un libro sul wargame tridimensionale storico totalmente in italiano edito dalla Sansoni: I giochi di guerra, 1979.
+* Alberto Gentili Primo a tradurre i boardgame della Avalon Hill in Italia
+* Roberto Flaibani e Paolo Spetia Primi a commercializzare a Roma esclusivamente i wargame (e ad aver offerto un retrobottega per giocare)
+* Giovanni Ingellis
+* Sergio Masini Primo a pubblicare un libro sui boardgame totalmente in italiano
+* Pio Sacco - Conosciuto come uno dei padri del wargame romano, creatore del boardgame Volpi sul Mare.
+* Angelo Porazzi - Autore e illustratore del wargame fantasy Warangel.
+* Lorenzo Sartori - Editore e direttore responsabile di Dadi&Piombo, prima rivista italiana interamente dedicata ai wargames
+
+Wargame degni di nota
+* Wargame da tavolo (usano una mappa per regolare il movimento).
+** A House Divided
+** Advanced Squad Leader
+** Axis & Allies
+** Bloody April
+** Empire of middle ages
+** Empires in Arms
+** Serie di wargame Europa: Immenso progetto di gioco sulla seconda guerra mondiale mai terminato.
+** Europa Universalis
+** Gunslinger
+** Home before the leaves fall
+** Imperium Romanum II
+** La grande guerre 14-18
+** Magic Realm: Un ibrido fra un gioco di ruolo ed un wargame puro.
+** Middle Earth: Sul mondo di Tolkien.
+** Panzerblitz
+** Paths of Glory
+** Pursuit of Glory
+** Red Shirts, Rules for Garibaldi's guerrilla warfare di Riccardo Affinati apparso su Wargame Illustrated n. 59 agosto 1992 Il primo wargame di un autore italiano pubblicato da una rivista britannica.
+** Rise and Decline of the Third Reich
+** RisiKo!
+** S.P.Q.R.
+** Squad Leader
+** Star Fleet Battles: ambientazione quasi ufficiale del mondo di Star Trek, scontri tattici tra astronavi.
+** Tactics II
+** Terrible Swift Sword
+** The civil war
+** Victory in the Pacific
+** Vietnam
+** Wach am Rhein
+** Warangel: Wargame Fantasy con 100 razze guerriere
+** War between the states
+** War in Europe
+** War in the Pacific
+** Wooden Ships and Iron Men
+** World in Flames
+** Submarine
+** War and Peace
+** Kolin
+** Clash of Armour
+** IDF
+** MBT
+** Bismarck
+** The Devil's Cauldron: copre la sezione nord (Arnhem e Nijmegen) dell'Operazione Market Garden
+* Wargame tridimensionale: Lo scenario viene giocato su un tavolo e il movimento regolato con metri o regoli
+** AT-43: moderno wargame fantascientifico con miniature già montate e prepitturate
+** Ætherverse
+** Alfa Tau: Regolamento aeronavale moderno dell'ammiraglio Giovanni Saladino, (Mursia 1982)
+** BlitzkriegCommander
+** Confrontatìon
+** Contemptible Little Armies
+** Crossfire
+** D3: Regolamento universale di Roberto Di Meglio (apparso in allegato alla rivista Kaos della Nexus Editrice)
+** De Bellis Antiquitatis
+** De Bellis Multitudinis
+** D&D Miniatures
+** Fire and Fury
+** Flames of War
+** Flintloque
+** Heroclix
+** I Ain't Been Shot Mum
+** Impetus: Regolamento storico per il periodo antico-medievale in italiano.
+** Infinity: wargame fantascientifico spagnolo;
+** Mindstalkers: Wargame storico/Fantasy/Fantascientifico italiano in 40mm
+** Mage Knight
+** Posto di combattimento: Regolamento aeronavale della seconda guerra mondiale del professor Alberto Santoni (apparso a puntate sulla rivista Storia Modellismo, poi Qualitygame 1996)
+** Principles of War
+** Star Wars Miniature Battles / Star War Miniatures
+** Sten: Regolamento tattico della seconda guerra mondiale di Gregory Alegi e Giancarlo Coccioli (apparso a puntate sulla rivista Storia Modellismo)
+** Striker
+** The Sword and the Flame
+** Wargames Rules 3000 BC to 1485 AD (Wargames Research Group)
+** Warhammer 40.000
+** Warhammer Ancient Battles
+** Warhammer Fantasy Battle
+** Epic 40.000: un gioco ambientato nell'universo di Warhammer 40K di scala "operazionale".
+** Warmachine
+** Warmaster: un gioco ambientato nell'universo di Warhammer Fantasy di scala "operazionale"
+* Stranezze
+** Ace of Aces: Scontri tra aerei della prima guerra mondiale basato su sistema di gioco che usa coppie di libri da sfogliare.
+** Atlantic Wars: Regolamento umoristico per soldatini Atlantic di Roberto Gigli (Qualitygame 1995)
+** Battletech: scontri tra mecha in un universo futuro (giocato sia su mappa che con miniature).
+** Car Wars: scontri tra automobili armate in un futuro prossimo simile a quello del film Mad Max. (giocato sia su mappa che con miniature)
+** Jutland: privo di mappa, giocato su una qualsiasi superficie piatta, successivamente ripreso da "Bismarck".
+** Up Front: Scontri a livello di squadra nella seconda guerra mondiale (wargame giocato con carte)
+** Sky Galleons of Mars: wargame ambientato su Marte come potevano immaginarlo Verne o Wells, quindi raggiunto alla fine del XIX secolo dalle varie potenze coloniali dell'epoca (anche da Italia e Belgio)
+** Worms : wargame basato sulla lotta tra vermi, con armi fantascientifiche, tipo missili nucleari e bombe sacre
+
+Note
+
+Voci correlate
+* Esercitazione militare
+
+Bibliografia
+* Reisewitz, Decker e Misslesen - Anleitung zur Darstellung militarischer Manöver mit dem Apparat des Kriegsspiels ("Istruzione sulla simulazione di manovre militari con gli strumenti del Kriegspiel") - Seconda edizione - Berlino 1855
+* Sergio Masini - Le guerre di carta Premessa ai giochi di simulazione - Guida Editori (1979)
+* Nicholas Palmer - I giochi di simulazione strategica (The comprehensive Guide to Board Wargaming) traduzione a cura di M. Longoni - Edizioni Mursia (1981)
+
+Collegamenti esterni
+* Accademia Wargame, sito italiano dedicata al wargame storico tridimensionale.
+* BoardGameGeek, risorse, valutazioni, commenti e molto altro ancora su una grande varietà di giochi da tavolo
+* Cartello Ludico Italiano.
+* Dadi&Piombo, rivista italiana dedicata al wargame storico tridimensionale
+* Free Wargames Rules, centinaia di link a regolamenti gratuiti per wargame tridimensionali
+* Mastering Simulation: Online Course
+* Miles Gloriosus Wargame - Roma, sito dell'omonimo Club romano.
+* Modeling Time - Il portale delle miniature nel web
+* The Complete Wargames Handbook on-line, di James F. Dunnigan
+* The Game Manufacturers' Association
+* Tom's Spaceship Miniature/Game List, un tentativo di elencare tutti i giochi e miniature utilizzati in giochi in cui compaiono astronavi
+* Web-Grognards elenca quasi tutti i giochi ed editori.
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 15:46:48 from:
+  http://it.wikipedia.org/wiki/Wargame
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

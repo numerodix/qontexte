@@ -1,0 +1,191 @@
+Domain Name System (spesso indicato con DNS) è un sistema utilizzato per la risoluzione di nomi di host in indirizzi IP e viceversa. Il servizio è realizzato tramite un database distribuito, costituito dai server DNS.
+
+Il nome DNS denota anche il protocollo che regola il funzionamento del servizio, i programmi che lo implementano, i server su cui questi girano, l'insieme di questi server che cooperano per fornire il servizio.
+
+I nomi DNS, o "nomi di dominio", sono una delle caratteristiche più visibili di Internet.
+
+C'è confusione in merito alla definizione dell'acronimo: la S spesso viene interpretata come service, ma la definizione corretta è system.
+
+L'operazione di convertire un nome in un indirizzo è detta risoluzione DNS, convertire un indirizzo IP in nome è detto risoluzione inversa.
+
+Motivazioni ed utilizzi
+
+* La possibilità di attribuire un nome testuale facile da memorizzare a un server (ad esempio un sito world wide web) migliora di molto l'uso del servizio, in quanto gli esseri umani trovano più facile ricordare nomi testuali (mentre gli host e i router sono raggiungibili utilizzando gli indirizzi IP numerici). Per questo, il DNS è fondamentale per l'ampia diffusione di internet anche tra utenti non tecnici, ed è una delle sue caratteristiche più visibili.
+* È possibile attribuire più nomi allo stesso indirizzo IP (o viceversa) per rappresentare diversi servizi o funzioni forniti da uno stesso host (o più host che erogano lo stesso servizio) Questa flessibilità risulta utile in molti casi:
+** Nel caso il server debba sostituire il server che ospita un servizio, o si debba modificare il suo indirizzo IP, è sufficiente modificare il record DNS, senza dover intervenire sui client.
+** Un utilizzo molto popolare di questa possibilità è il cosiddetto virtual hosting basato sui nomi, una tecnica per cui un web server dotato di una singola interfaccia di rete e di singolo indirizzo IP può ospitare più siti web, usando l'indirizzo alfanumerico trasmesso nell'header HTTP per identificare il sito per cui viene fatta la richiesta.
+** Utilizzando nomi diversi per riferirsi ai diversi servizi erogati da un host, è possibile spostare una parte dei servizi su un altro host, e spostare i client su questo nuovo host modificando il suo record nel DNS.
+** Facendo corrispondere più indirizzi IP a un nome, il carico dei client viene distribuito su diversi server, ottenendo un aumento delle prestazioni complessive del servizio e una tolleranza ai guasti (ma è necessario assicurarsi che i diversi server siano sempre allineati, ovvero offrano esattamente lo stesso servizio ai client).
+* La risoluzione inversa è utile per identificare l'identità di un host, o per leggere il risultato di un traceroute.
+* Il DNS viene usato da numerose tecnologie in modo poco visibile agli utenti, per organizzare le informazioni necessarie al funzionamento del servizio.
+
+Storia
+Il DNS fu ideato il 23 giugno 1983 da Paul Mockapetris, Jon Postel e Craig Partrige; le specifiche originali sono descritte nello standard RFC 882. Nel 1987 vennero pubblicati commenti allo standard RFC del DNS, con i nomi RFC 1034 e RFC 1035 rendendo obsolete le specifiche precedenti.
+
+Nomi DNS
+Un nome a dominio è costituito da una serie di stringhe separate da punti, ad esempio it.wikipedia.org. A differenza degli indirizzi IP, dove la parte più importante del numero è la prima partendo da sinistra, in un nome DNS la parte più importante è la prima partendo da destra. Questa è detta dominio di primo livello (o TLD, Top Level Domain), per esempio .org o .it.
+
+Un dominio di secondo livello consiste in due parti, per esempio wikipedia.org, e così via. Ogni ulteriore elemento specifica un'ulteriore suddivisione. Quando un dominio di secondo livello viene registrato all'assegnatario, questo è autorizzato a usare i nomi di dominio relativi ai successivi livelli come it.wikipedia.org (dominio di terzo livello) e altri come some.other.stuff.wikipedia.org (dominio di quinto livello) e così via.
+
+Record DNS
+
+Tipologie di record
+
+Ad un nome DNS possono corrispondere diversi tipi di informazioni. Per questo motivo, esistono diversi tipi di record DNS. Ogni voce del database DNS deve essere caratterizzata da un tipo. I principali tipi sono:
+
+* Record A - Indica la corrispondenza tra un nome ed uno (o più) indirizzi IP (per la precisione indirizzi IPv4, ovvero la versione attualmente in uso).
+* Record MX - (Mail eXchange) indica a quali server debba essere inviata la posta elettronica per un certo dominio.
+* Record CNAME - Sono usati per creare un alias, ovvero per fare in modo che lo stesso calcolatore sia noto con più nomi. Uno degli utilizzi di questo tipo di record consiste nell'attribuire ad un host che offre più servizi un nome per ciascun servizio. In questo modo, i servizi possono poi essere spostati su altri host senza dover riconfigurare i client, ma modificando solo il DNS.
+* Record PTR - Il DNS viene utilizzato anche per realizzare la risoluzione inversa, ovvero per far corrispondere ad un indirizzo IP il corrispondente nome a dominio. Per questo si usano i record di tipo "PTR" (e una apposita zona dello spazio dei nomi in-addr.arpa).
+* Record AAAA - Restituisce un indirizzo IPv6.
+* Record SRV - Identificano il server per un determinato servizio all'interno di un dominio. Possono essere considerati una generalizzazione dei record MX.
+* Record TXT - Associano campi di testo arbitrari ad un dominio. Questi campi possono contenere una descrizione informativa oppure essere utilizzati per realizzare servizi.
+
+Vi sono anche tipi di record "di servizio", necessari al funzionamento del database distribuito:
+* Record NS - Utilizzato per indicare quali siano i server DNS autorevoli per un certo dominio, ovvero per delegarne la gestione.
+* Record SOA - (Start of Authority) usato per la gestione delle zone DNS.
+
+Nel DNS possono essere immessi altri tipi di record, alcuni folcloristici, come "LOC", usato (poco) per riportare le coordinate geografiche di un sito, altri aggiungono funzioni di sicurezza per evitare manomissioni. Per avere riferimenti su tutti questi record vedi ''Tipi di record DNS.
+
+Record multipli
+Ad uno stesso nome di dominio, possono essere associati contemporaneamente record di tipo diverso, o più record dello stesso tipo. Questo generalmente viene fatto per suddividere il carico di un server molto frequentato su più computer che offrono lo stesso servizio.
+
+Time to live
+
+I record associati ad un nome di dominio possono cambiare nel tempo, permettendo ad esempio di assegnare un nuovo indirizzo IP ad un server, facendo in modo che questo continui a rispondere al nome già noto agli utenti.
+
+A ciascun record DNS è associato un parametro detto "time to live" o TTL (tempo di vita), che indica per quanto tempo questo record può venire memorizzato in un sistema di cache DNS prima che venga considerato scaduto.
+Quando un server risponde ad una richiesta con un record preso dalla propria cache, assegna alla risposta il time to live residuo del record. Quindi se il record originalmente ha un TTL di 12 ore, e un server risponde ad una richiesta con un dato che ha ottenuto due ore prima, nella risposta metterà un TTL di 10 ore.
+
+Utilizzo dei nomi DNS
+Un nome di dominio, come per esempio it.wikipedia.org, può essere parte di un URL, come http://it.wikipedia.org/wiki/Treno, o di un indirizzo e-mail, come per esempio apache@it.wikipedia.org.
+
+Questi sono gli strumenti più utilizzati per identificare una risorsa su Internet, il che spiega la pervasività dei nomi di dominio.
+
+Molti nomi di dominio utilizzati per server web hanno nella parte sinistra la stringa di caratteri "www", ma non è sempre necessario averla. In molti casi, ma non sempre, il nome privato del prefisso "www." porta comunque alla stessa pagina, come per esempio "ns.nl" e "www.ns.nl".
+
+Realizzazione
+I DNS implementano uno spazio dei nomi gerarchico, per permettere che parti di uno spazio dei nomi, conosciute come "zone", possano essere delegate da un name server ad un altro name server che si trova più in basso nella gerarchia.
+
+I nomi di dominio sono soggetti a determinate restrizioni: per esempio ogni parte del nome (quella cioè limitata dai punti nel nome) non può superare i 63 caratteri e il nome complessivo non può superare i 255 caratteri.
+
+I nomi di dominio sono anche limitati ad un sottoinsieme di caratteri ASCII; in questo modo si impedisce di scrivere nomi e parole con caratteri che non tutti hanno sulla propria tastiera. Per superare questa limitazione, il sistema di IDNA e basato sul modello Punycode, rileva stringhe Unicode in un insieme di caratteri DNS validi, venne approvato dall'ICANN e adottato da alcuni registri.
+
+Zone, deleghe e repliche
+
+Una zona DNS è una parte dello spazio dei nomi, costituita da un dominio e i suoi sottodomini che non sono a loro volta delegati, che è sotto una stessa gestione amministrativa e quindi è gestita da uno o più server.
+
+La gestione di una zona è delegata dalla zona superiore tramite dei record di tipo NS. Ad esempio, nella zona.org ci sarà una delega per la zona wikipedia.org ai server DNS che la gestiscono. Per ragioni di ridondanza, ciascuna zona è replicata su più server, e di conseguenza la delega è costituita da più record NS, che indicano che ciascuno dei server indicati contiene le informazioni per quella zona (ovvero è autorevole per la zona). All'interno di una zona possono essere delegate delle zone di livello inferiore, ad esempio in wikipedia.org potrebbero esistere deleghe per devel.wikipedia.org o per accounting.admin.wikipedia.org.
+
+I diversi server che sono delegati per una zona dovrebbero contenere le stesse informazioni, in modo che uno qualsiasi di questi possa rispondere ad una query per un record della zona.
+
+Lo schema di replica tipicamente prevede che ci sia un server master (primario), che è quello sul quale vengono aggiornate le informazioni, e uno o più server slave (secondari), che copiano le informazioni dal master quando necessario. Per tener traccia delle diverse "versioni" di una zona che possono esserci in circolazione, ed in particolare per permettere ad un secondario di decidere se deve trasferire la zona dal primario, ogni zona ha un numero di serie, che deve essere aumentato ogni volta che vengono fatte modifiche sul primario. Per ottenere il numero di serie di una zona presente su un server, si effettua una interrogazione di tipo SOA.
+Il secondario confronta il proprio numero di serie con quello del primario, e se quello del primario è superiore trasferisce la zona.
+
+L'operazione di copia di tutti i record di una zona dal master ad uno slave è detta zone transfer, e può essere completo (tutto il contenuto della zona viene copiato) o incrementale (vengono copiati solo i record modificati rispetto alla versione già presente.
+
+Alcune implementazioni di DNS permettono di modificare le zone da qualsiasi server autorevole, propagando le modifiche sugli altri server.
+
+La radice (root) dell'albero dei nomi DNS è la zona. (punto), che è gestita da un insieme di server chiamati appunto root servers.
+
+Ricorsione
+In generale, per ottenere la risoluzione di un nome è necessario partire dalla radice, interrogare uno dei root server nel dominio di primo livello, ottenere il server che lo gestisce, interrogarlo nel dominio di secondo livello, fino a raggiungere il server autorevole per il nome desiderato. Questa tecnica è detta "ricorsione".
+
+Caching
+Alcuni server si prestano ad effettuare query ricorsive per conto di alcuni client. Una volta che hanno ottenuto una risposta, memorizzano in una cache tutte le informazioni che hanno imparato, fino alla loro scadenza.
+Alcune implementazioni del servizio DNS permettono di realizzare i cosiddetti servers caching only, ovvero privi di database proprio, ma utili per reindirizzare ad un server autorevole le query di risoluzione. Tale caratteristica è utile soprattutto quando la risoluzione deve essere effettuata attraverso collegamenti lenti (con velocità inferiore a 500 kbps) o firewall.
+
+Funzioni dei server
+Un server DNS può essere configurato per assolvere ad una o più delle seguenti funzioni:
+
+* server autorevole per una o più zone, ovvero il server su cui sono configurati i dati di una zona, e che è delegato a gestirla tramite record NS inseriti nella zona superiore. Normalmente sono presenti più server autorevoli per una zona. Molte implementazioni permettono di modificare i dati di una zona solo su un server:
+** primario - server autorevole su cui vengono modificati i dati di una zona
+** secondario - server autorevole che copia i dati di zona da un primario
+* server ricorsivo - il server che viene configurato in una popolazione di client, che si occupa di risolvere le query che riceve interrogando i server originali, e mantenendo una cache delle risposte ricevute
+** query forwarder - un server che viene configurato in una popolazione di client, che risolve le loro query non direttamente ma interrogando un server ricorsivo
+
+Origine dei dati
+I dati contenuti in una zona possono essere configurati da uno o più operatori, oppure possono essere alimentati da meccanismi automatici:
+* nelle implementazioni più semplici, i dati di zona sono memorizzati in uno o più file sul server primario
+* implementazioni più raffinate immagazzinano i dati in un database. In alcuni casi, questo è accessibile non solo agli operatori del servizio ma anche direttamente ai clienti (è il caso dei servizi DNS commerciali)
+
+DNS dinamico
+Il termine DNS dinamico, o DDNS, indica un insieme di tecnologie che permettono di inserire automaticamente in una zona DNS gli indirizzi di calcolatori che ottengono un indirizzo non predefinito, tipicamente attraverso il protocollo DHCP o PPP. A questo scopo, sono definite query DNS di "UPDATE".
+
+In una rete locale, questa funzionalità può essere utilizzata direttamente dai client, è presente nei servizi Active Directory di windows, o può essere configurata usando BIND e il server DHCP di Internet Systems Consortium (ISC).
+
+Il DDNS viene inoltre utilizzato da servizi commerciali per permettere agli utenti dial-up (modem, ADSL) di registrare un nome corrispondente all'indirizzo che viene loro assegnato di volta in volta dal loro provider. In questo modo, un host con indirizzo IP dinamico è sempre raggiungibile. Esistono client DDNS sia sotto forma di applicazioni che all'interno di router destinati al mercato domestico.
+
+Utilizzo
+Per utilizzare il servizio, è necessario configurare su ciascun client uno o più server DNS di riferimento. Questi sono predisposti a effettuare query ricorsive e che effettuano servizi di caching.
+
+Quando un sistema ha la necessità di comunicare con un altro sistema, chiede al server DNS di riferimento di effettuare il processo detto di "risoluzione" del nome in un indirizzo IP.
+Il server effettua una ricerca all'interno del suo database per ottenere l'indirizzo IP corrispondente al sistema ricercato.
+
+Se il server interrogato possiede l'informazione richiesta, il processo di ricerca termina con l'invio dell'indirizzo IP al richiedente. Se la ricerca ha esito negativo il server effettua una richiesta "ricorsiva".
+
+Implementazione
+Il protocollo DNS è implementato da diversi software. Di seguito alcuni dei più diffusi:
+
+* BIND (Berkeley Internet Name Domain), il nome del più comune demone DNS usato sui sistemi Unix.
+* DJBDNS (Dan J Bernstein's DNS implementation)
+* Unbound, un server DNS progettato modularmente e con un riguardo particolare verso DNSSEC.
+* MaraDNS
+* NSD (Name Server Daemon)
+* PowerDNS
+* DDNS (Dynamic Domain Name System) Il servizio DNS alla base dei servizi di directory Microsoft incluso nelle versioni server da Windows 2000 in poi.
+
+Il DNS utilizza il protocollo di trasporto UDP e la porta 53 per soddisfare le richieste di risoluzione provenienti dagli host.
+
+I server DNS effettuano gli zone transfer usando il protocollo di trasporto TCP e la porta 53. Questa porta viene usata anche quando una query ha una risposta molto lunga.
+
+Il lato client del servizio DNS è normalmente implementato tramite librerie di sistema, che spesso lo integrano con altri servizi di risoluzione, come ad esempio WINS, NIS, o con la consultazione di file locali, in modo che un utente possa utilizzare un nome simbolico in un'applicazione ed ottenere la sua risoluzione in un indirizzo IP senza preoccuparsi di quale strumento è stato utilizzato per ottenere la risoluzione.
+
+Il sistema DNS in Internet
+Qualsiasi rete IP può usare il DNS per implementare un suo sistema di nomi privato. Tuttavia, il termine "nome di dominio" è più comunemente utilizzato quando esso si riferisce al sistema pubblico dei DNS su Internet. Questo è basato su 13 "root server" universali, i cui indirizzi IP sono distribuiti indipendentemente dal DNS tramite un file detto "root hints" (letteralmente: indizi per la radice). Da questi server principali, il DNS viene poi delegato ad altri server DNS che si occupano dei nomi all'interno di parti specifiche dello spazio dei nomi DNS.
+
+Dieci dei tredici root server sono, almeno nominalmente, situati negli USA. Tuttavia, dato l'accesso a molti di essi è realizzato tramite indirizzamento anycast, che permette di assegnare a più computer lo stesso indirizzo IP per fornire un servizio uniforme su vaste aree geografiche, la maggior parte dei server sono in effetti localizzati al di fuori degli Stati Uniti.
+
+Il proprietario di un nome di dominio è rintracciabile in un database chiamato Whois: per molti domini di primo livello un Whois base è gestito dalla IANA, con il Whois dettagliato mantenuto dall'autorità di registrazione che controlla quel dominio. Per i più di 240 domini nazionali l'autorità di registrazione gestisce in esclusiva il Whois per il dominio di competenza.
+
+Politica
+Allocazione delle zone di primo livello
+L'attuale modalità di controllo del sistema DNS offre spesso alcune criticità.
+
+Manipolazione delle risposte
+Quando un client inoltra una query DNS ad un server ricorsivo, si aspetta di ottenere la risposta "corretta", ovvero il valore del record DNS richiesto oppure un messaggio di errore "NXDOMAIN" se il nome richiesto non esiste.
+
+Alcuni gestori di server ricorsivi tuttavia manipolano le risposte fornite ai propri clienti, eliminando selettivamente alcune risposte, oppure restituendo un indirizzo IP diverso da quello corretto.
+
+Questa tecnica può essere usata con diversi scopi:
+* protezione da abusi: il server DNS può filtrare le query relative a siti pericolosi per gli utenti, ad esempio a causa della distribuzione di malware, o perché usati per operazioni di phishing
+* censura: vengono filtrate le query relative a siti che si vogliono rendere inaccessibili per decisione politica (del gestore della rete o di una autorità pubblica). In caso la visita o il tentativo di visita a siti "proibiti" venga qualificata come indizio di reato, la redirezione del traffico su un server diverso da quello richiesto dall'utente può permettere la raccolta degli indirizzi IP dei client, o anche in alcuni casi il furto di credenziali http://www.lastknight.com/2008/08/17/thepiratebay-password-a-rischio/.
+* man-in-the-middle: le query vengono modificate in modo da reindirizzare tutto o parte del traffico verso un server che agisce da proxy trasparente, intercettando il traffico degli utenti. Questo permette il monitoraggio del traffico degli utenti, e quindi anche il furto di informazioni sensibili e/o credenziali.
+* redirezione degli errori: alle query per nomi inesistenti viene risposto con l'indirizzo IP di un server, che tipicamente ospita un motore di ricerca e tenta di aiutare gli utenti a trovare il sito cercato.
+
+Queste tecniche possono essere adottate anche dai gestori di rete, redirigendo le query DNS dirette verso l'esterno su propri server mediante meccanismi di destination NAT.
+
+Voci correlate
+* Risoluzione DNS inversa
+* Record DNS
+* Dynamic DNS
+* DNSSEC
+* ICANN
+* Nslookup
+* Cybersquatting
+* Nome di dominio internazionalizzato
+
+Collegamenti esterni
+* DNS Security Extensions (DNSSEC)
+* Ricerca domini liberi in tempo reali usando ajax
+* root-servers.org
+* RFC 882
+* RFC 883
+* RFC 1034
+* RFC 1035
+* Accesso alle funzioni DNS in.NET
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 16:40:53 from:
+  http://it.wikipedia.org/wiki/Domain_Name_System
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,312 @@
+iPhone è un telefono multimediale quad-band UMTS HSDPA (non nella versione originale) GSM EDGE sviluppato da Apple Inc.. L'iPhone include una fotocamera digitale, un dispositivo Assisted GPS e un lettore multimediale (le funzioni di UMTS e AGPS sono state inserite solo nelle versioni 3G e 3GS). Il dispositivo, oltre ai normali servizi di telefonia quali chiamate SMS ed MMS, permette di utilizzare servizi come e-mail, navigazione web, Visual Voicemail e può gestire una connessione Wi-Fi. Viene controllato dall'utente tramite uno schermo multi-touch, un sensore di movimento del dispositivo (accelerometro), una tastiera virtuale, un pulsante per tornare al menu principale, due piccoli tasti per la regolazione del volume, uno per passare dallo stato di suoneria allo stato di vibrazione ed uno per lo standby/spegnimento. L'interazione con l'utente è coadiuvata da un sensore di prossimità e un sensore di luce ambientale.
+
+Apple ha depositato più di 300 brevetti legati al dispositivo.
+
+Presentazione
+Il prodotto è stato presentato da Steve Jobs, amministratore delegato della società durante la conferenza di apertura del Macworld del gennaio 2007. Il dispositivo è comparso nei negozi Apple e quelli Cingular/AT&T negli USA dal 29 giugno dello stesso anno.
+
+Il 9 giugno 2008 la Apple Inc. ha annunciato l'uscita dell'iPhone 3G per l'11 luglio 2008 in 70 paesi tra cui l'Italia.
+
+L'8 giugno 2009 la Apple Inc. ha presentato una nuova versione dell'iPhone 3G chiamata iPhone 3GS; questo modello è stato lanciato il 19 giugno 2009.
+
+Il dispositivo è un ibrido che incorpora le funzioni di tre dispositivi che hanno iniziato ad essere integrati tra loro con l'avvento degli smartphone:
+
+# un iPod con capacità di riproduzione audio, foto e video
+# un telefono cellulare quad-band (GSM + UMTS HSDPA + EDGE) con connettività Wi-Fi e Bluetooth 2.0 + EDR e dotato di fotocamera da 2.0 megapixel(iPhone 2G e 3G), da 3.0 megapixel sul 3GS.
+# un palmare di nuova concezione con sistema operativo derivato da Mac OS X con funzioni integrate di navigazione in internet (tramite il browser Safari), multimedialità e visione di video (tramite l'applicazione YouTube) e servizio GPS (tramite l'applicazione Google Maps).
+
+iPod
+Le funzionalità relative alla riproduzione audio e video e alla visualizzazione di fotografie sono simili a quelle disponibili sulle più recenti versioni di iPod, con la differenza della disponibilità di uno schermo più ampio e della gestione di un'interfaccia molto simile ad iTunes ma legata alle potenzialità del touchscreen e dell'accelerometro, con i quali è possibile, ad esempio, attivare la modalità Cover Flow posizionando semplicemente il dispositivo in orizzontale e sfogliare le copertine degli album facendo scorrere il dito sullo schermo.
+Tramite un aggiornamento rilasciato nel settembre del 2007, è possibile accedere direttamente all'iTunes Wi-Fi Music Store: il negozio on-line di Apple, iTunes Store, dove poter scaricare la musica in pochi secondi.
+
+Telefono cellulare
+
+Il telefono cellulare integrato nell'iPhone è quad-band e utilizza tecnologie GSM EDGE, ma è dotato anche di connettività Wi-Fi e bluetooth. Il modello UMTS/HSDPA è disponibile in Italia con gli operatori TIM e Vodafone dall'11 luglio 2008 e con H3g dal 17 luglio 2009.
+
+Negli Stati Uniti è commercializzato in associazione esclusiva con un abbonamento biennale ai servizi Wi-Fi di AT&T, un operatore telefonico statunitense, mentre in Europa è commercializzato dal 9 novembre 2007 in Inghilterra con l'operatore O2, in Germania con T-Mobile e in Francia con Orange.
+
+Le funzionalità relative alla telefonia sono quelle classiche di uno smartphone, e comprendono anche la possibilità di effettuare un'audioconferenza unendo più telefonate (durante la presentazione del prodotto, Steve Jobs ha utilizzato una conferenza a tre, ma il telefono supporta fino a 5 partecipanti, lasciando comunque disponibile una seconda linea per le chiamate in entrata).
+
+Gli SMS vengono gestiti con un sistema molto simile all'interfaccia grafica utilizzata da iChat, che permette di visualizzare la cronologia dei messaggi SMS scambiati organizzandoli in discussioni, in modo simile a quello che avviene nei forum su internet.
+
+Il telefono può utilizzare delle suonerie personalizzate acquistabili tramite iTunes dallo store integrato nel programma, oppure, attraverso metodi diversi spiegati in rete, può riprodurre suonerie a partire da qualsiasi file audio (precedentemente trasformato in formato AAC con iTunes Per poter utilizzare una canzone come suoneria l'utente deve possedere la canzone e quindi il costo di una suoneria è di 1,98$, 0,99$ per acquistare la canzone e 0,99$ per poterla utilizzare come suoneria. ,In alternativa si può usare GarageBand (solo su Mac) per creare suonerie gratuitamente. Volendo esistono anche alcuni siti dove è possibile creare e scaricare suonerie fatte da utenti di tutto il mondo.
+
+Palmare
+
+Le funzioni di palmare comprendono il multitasking (anche se limitato ai soli processi di sistema – le applicazioni di terze parti lo potranno simulare con un prossimo aggiornamento tramite un sistema centralizzato di notifiche), animazioni e multimedialità, schermo tattile evoluto (denominato dalla stessa Apple Inc. Multi-touch), ampia connettività, navigazione Web mediante browser Safari, sincronizzazione con il computer (sia sistemi Windows che Mac, tramite iTunes con il connettore dock utilizzato dagli iPod), lettura dei file di testo, documenti in formato PDF, RTF, Microsoft Office, iWork, immagini e filmati allegati alle e-mail o collegati a una pagina web.
+
+Grazie al modulo A-GPS integrato, consente il Geotagging delle foto, ovvero la possibilità di salvare informazioni quali latitudine e longitudine, del luogo in cui è stata scattata la foto.
+
+Dispone di un'applicazione che permette la visualizzazione di filmati provenienti da YouTube. I filmati sono inviati nel formato H.264.
+Non essendo questo il formato nativo utilizzato dal sito durante la presentazione del telefono sono stati messi a disposizione circa 10.000 filmati convertiti, ma nel giro di qualche mese il sito prevede di convertire la totalità dei filmati memorizzati nello standard H.264.
+
+Ciò è reso possibile grazie all'implementazione di OS X, una versione leggera del sistema operativo Mac OS X che permette l'utilizzo, mediante touchscreen, di un'interfaccia molto simile alla Dashboard utilizzata a partire da Mac OS X 10.4 che utilizza delle widget per accedere alle varie funzionalità del dispositivo.
+
+Tra le widget presenti, oltre quelle necessarie alla riproduzione audio/video e alle funzionalità telefoniche, ci sono naturalmente quelle che permettono di accedere alle funzionalità di agenda, calendario, calcolatrice, blocco note, fotocamera e impostazioni, più un client di posta elettronica che utilizza protocolli IMAP e POP3 mediante il quale si gestisce anche un servizio di segreteria telefonica via e-mail (chiamato Visualvoicemail), una widget che permette di sfogliare come un album fotografico le foto presenti sul dispositivo, il browser (derivato da Safari) per la navigazione web, un widget che permette di accedere rapidamente a Google Maps (con cui si possono ricercare servizi presenti sul territorio, chiamando direttamente con un click il numero telefonico associato), oltre a due widget che permettono di avere in tempo reale le quotazioni della borsa e le previsioni meteo.
+
+Interfaccia grafica, sistema operativo, sensori
+Interfaccia
+L'interfaccia dell'iPhone prevede un tasto, necessario per tornare alla Home-Page del Telefono e un bottoncino posto in alto a destra per commutare il telefono tra la modalità standby (blocco tasti e disattivazione display), e la modalità acceso. Le altre funzioni del dispositivo sono accessibili mediate un innovativo schermo tattile, chiamato multi-touch, che occupa tutto il lato frontale del dispositivo e non necessita di pennino ma si utilizza direttamente con le dita e permette di gestire il tocco di più dita contemporaneamente. Questa caratteristica permette di implementare le cosiddette gesture, ovvero combinazioni di gesti, movimenti di più dita, che permettono di controllare l'interfaccia del dispositivo.
+
+Le gestures sono state utilizzate, per esempio, per zoomare su foto o pagine web semplicemente poggiando due dita sullo schermo e allontanandole (zoom in) o avvicinandole (zoom out).
+Un'altra caratteristica dell'interfaccia legata allo schermo tattile è la possibilità di scrollare rapidamente pagine ed elenchi, in particolare con uno scorrimento e sollevamento veloce del dito che può somigliare a un lancio, e che produce sull'interfaccia un effetto di rotazione verticale veloce simile a quella degli elementi di una slot machine (o effetto rullo).
+
+Per tutte le applicazioni che necessitano della stesura di testi, il dispositivo visualizza una tastiera virtuale (accessibile sempre tramite schermo tattile) di tipo QWERTY, e prevede inoltre un controllo ortografico di tipo predittivo, simile al T9. Il controllo predittivo quando suggerisce le parole tiene conto delle lettere inserite dall'utente e del fatto che l'utente può commettere alcuni errori di digitazione premendo un tasto prossimo a quello che effettivamente l'utente desiderava premere.
+
+Il motore grafico dell'interfaccia è basato sulle stesse tecnologie del sistema operativo Mac OS X utilizzato sui computer Apple, e sfrutta anche Core Animation, una tecnologia per le animazioni grafiche di futura adozione sulla prossima relase del sistema operativo per computer.
+
+Sistema operativo
+Il dispositivo (insieme ad iPod touch) utilizza iPhone OS, una versione ottimizzata del sistema operativo Mac OS X (privato delle componenti non necessarie). Le differenze tra il sistema operativo utilizzato dai computer e quello utilizzato dal cellulare non sono note, ma è possibile dire che è basato su una variante dello stesso kernel Mach e include il componente "Core animation" che supporta le animazioni dell'interfaccia.
+
+Il processore dell'iPhone appartiene alla famiglia di processori ARM, difatti il sistema operativo è compilato per questa tipologia di processori a differenza del sistema operativo per computer che è compilato per processori PowerPC e X86. Non è possibile quindi copiare semplicemente le applicazioni Mac OS X, ma queste devono essere riscritte e ricompilate per funzionare sul dispositivo.
+Il sistema operativo occupa circa 700 MB di spazio nella memoria flash.
+
+Apple ha fornito il telefono di un programma di aggiornamento sulla falsariga di quello utilizzato con il sistema operativo per computer in modo da poter correggere eventuali problemi del telefono.
+
+Il telefono include dei widget, miniprogrammi già implementati nella versione del sistema operativo per computer. Il telefono include la tecnologia software Core Animation, questa viene utilizzata per realizzare gli effetti visivi utilizzati dai programmi inclusi nel telefono. Questa tecnologia è inclusa nel sistema operativo Mac OS X 10.5.
+
+I primi modelli montavano il sistema operativo "OS X 1.0 (1A543a)", come visibile dal log dovuto al crash del programma MobileMail. Sembra che tutti i programmi siano eseguiti in modalità superuser.
+
+Il 1º agosto 2007 Apple ha reso disponibile il primo aggiornamento di sicurezza per il dispositivo. L'aggiornamento ha risolto alcuni problemi di stabilità e alcuni problemi di sicurezza individuati dopo la commercializzazione del prodotto. L'aggiornamento elimina anche qualsiasi modifica o hack del telefono.
+
+Fino al mese di marzo 2008 sono stati rilasciati gli aggiornamenti del firmware dalla versione 1.02 alla versione 1.1.4.
+
+Il firmware 2.0 è stato rilasciato l'11 luglio 2008, data nella quale l'iPhone 3G è stato reso disponibile in 22 paesi, questo ha portato l'App Store un negozio on-line tramite il quale gli utenti possono scaricare programmi per il dispositivo.
+
+Il 5 agosto 2008 è stato rilasciato il FW 2.0.1 che ha corretto alcuni bug, poi dopo 13 giorni (esattamente il 18 agosto 2008) è stata rilasciata la versione 2.0.2.
+
+Il 12 settembre 2008 è stato rilasciato il nuovo firmware 2.1.
+Come per l'iPod Touch, il 21 novembre 2008 è stato rilasciato l'aggiornamento firmware 2.2, messo a disposizione per il download gratuito tramite iTunes.
+
+Il FW ha raggiunto la versione 2.2.1 che è servita essenzialmente per complicare lo sblocco del telefono, ossia la possibilità di istallare programmi non autorizzati da Apple.
+
+Il 17 giugno 2009 è stato rilasciato il firmware 3.0.
+
+Il 31 Luglio 2009 viene rilasciato da Apple il firmware 3.0.1, che corregge un BUG di sicurezza degli SMS
+
+il 9 settembre 2009 viene rilasciato il firmware 3.1, che apporta correzioni ai bug riscontrati sul 3.0
+
+Sensori
+L'iPhone è inoltre dotato di una gamma di sensori che automatizzano alcune funzionalità:
+* un sensore di prossimità a infrarossi, che permette di spegnere il display e disattivare i controlli dello schermo quando si avvicina il dispositivo all'orecchio, risparmiando così energia e ignorando i tocchi involontari. (Nella versione 3G sembra siano stati inseriti due sensori di prossimità per aumentare la precisione di funzionamento di questo.)
+* un accelerometro capacitivo, in grado di dedurre i cambi di orientamento del dispositivo e adattare automaticamente l'orientamento dell'immagine nel display, permettendo così di passare semplicemente da un orientamento verticale e una visualizzazione normale, a un orientamento orizzontale e una visualizzazione widescreen, utile durante la navigazione web, durante la riproduzione di video, la visualizzazione di foto e per l'attivazione della funzione Cover Flow. Questa funzione sarà ampiamente utilizzata in molte applicazioni di terze parti ma specialmente nei giochi che saranno venduti tramite l'App Store.
+* un sensore di luminosità, che permette al dispositivo di adattare automaticamente la luminosità del display a quella dell'ambiente.
+* un quarto sensore, o rilevatore, non elettronico, indica se l'iPhone è stato sommerso in acqua e blocca, di fatto, l'eventuale richiesta di assistenza in garanzia se il dispositivo ha smesso di funzionare dopo essere entrato in contatto con l'acqua, o altro liquido, per un uso incauto.
+* una bussola digitale permette di rilevare la direzione in cui è orientato il telefono, questo sensore accoppiato al gps apre la porta ai primi usi di realtà aumentata.
+
+Prezzo e disponibilità
+
+iPhone (chiamato anche iPhone 2G o iPhone EDGE)
+La commercializzazione del prodotto venne annunciata da Jobs per il 29 giugno 2007 alle ore 18:00, ora locale, in tutti gli Apple Store e i centri AT&T negli Stati Uniti. Jobs annunciò che il prodotto sarebbe stato distribuito in Europa nel 2007 e in Asia nel 2008.
+
+Apple ricevette l'approvazione dalla Federal Communications Commission (FCC) statunitense per l'iPhone il 17 maggio 2007.
+
+Il prodotto venne inizialmente messo in vendita in due configurazioni: un modello da 4 GB a 499 dollari e un modello da 8 GB a 599 dollari. Il 5 settembre 2007 il modello da 4 GB venne dismesso mentre il modello da 8 GB subì una riduzione di prezzo arrivando a costare 399 dollari. Nel gennaio 2008 viene introdotto un modello da 16 GB a 499 dollari.
+
+Indipendentemente dal modello acquistato va aggiunta anche la spesa per il contratto biennale con la AT&T.
+
+La campagna mediatica promossa da Apple per promuovere il telefono produsse forte attesa da parte dei consumatori, l'attesa culminò con lunghe file davanti ai principali punti vendita poche ore prima della vendita del dispositivo. Alcune persone per poter acquistare i primi modelli disponibili si misero in fila il 24 giugno, cinque giorni prima della effettiva vendita del dispositivo.
+
+Un giorno prima della messa in vendita del terminale, il CEO Apple fece una comunicazione ai dipendenti. In questa comunicazione oltre a delineare le strategie future della società si complimentò con i dipendenti per il lavoro svolto e promise a questi un terminale di 8 GB da consegnare verso la fine di luglio, dopo aver esaurito le richieste del lancio iniziale.
+
+Il 18 settembre 2007 il prodotto fu presentato in Inghilterra. L'iPhone è commercializzato insieme ed esclusivamente con la compagnia telefonica O2 dal 9 novembre 2007 ad un prezzo di 269 sterline, circa 390 €. Il 19 settembre Apple tramite un comunicato stampa rese noto anche l'arrivo dell'iPhone in Germania con l'operatore T-Mobile. Anche in Germania è commercializzato dal 9 novembre, al costo di 399 € (nella versione 8GB). Il dispositivo venne invece commercializzato in Francia dal 29 novembre 2007 sempre a 399 € in esclusiva con l'operatore Orange SA. A causa di una legge francese, che ne impedisce la vendita legata ad un servizio esclusivo, l'iPhone è anche venduto a 749 € sciolto da qualsiasi vincolo. Lo sblocco consiste in un'aggiunta di 100 € al prezzo di listino di 649 € dell'iPhone venduto senza contratto, ma con una ricaricabile Orange. Dopo 6 mesi dall'acquisto lo sblocco non costa nulla.
+Una situazione simile si verificò anche per circa una settimana in Germania, quando Vodafone fece ricorso al tribunale di Amburgo che ordinò a T-Mobile di vendere anche una versione senza operatore, prezzata a 999 €. Tuttavia, il ricorso fu vinto da T-Mobile che attualmente vende l'iPhone in esclusiva con un contratto a 399 €.
+
+Stime di analisti collocano il costo dei componenti utilizzati per l'iPhone sui 200 dollari per il modello da 4 GB e sui 220 dollari per il modello da 8 GB. Questa stima non tiene conto del costo di assemblaggio, di spedizione, di marketing e di ricerca e sviluppo. Si ritiene che all'inizio Apple avesse un margine del 50% sul costo del dispositivo.
+
+Il 5 febbraio 2008 è stata rilasciata la versione del prodotto con memoria da 16 GB.
+
+iPhone 3G
+L'11 luglio 2008 è entrato in vendita in 22 paesi (tra cui l'Italia) l'iPhone 3G.
+Nel corso dell'anno il mercato si allargherà a oltre 70 nazioni.
+In USA il modello 3G sarà venduto a un prezzo massimo di 199$ per l'8 GB e 299$ per il 16 GB sottoscrivendo un contratto biennale con AT&T, ma sarà addirittura gratuito per chi sceglierà i piani mensili più onerosi.
+
+In Italia l'iPhone 3G è commercializzato inizialmente da Tim e Vodafone.
+Questi due gestori hanno realizzato delle tariffe e dei contratti ad hoc per l'iPhone al fine di ottenere un prezzo più contenuto. Sempre in Italia è possibile acquistare un iPhone 3G senza sottoscrivere alcun contratto al costo di 499 € (8 GB) e 569 € (16 GB) abbinando al "melafonino" il piano tariffario che già si possiede o che si preferisce. L'offerta con carta ricaricabile è disponibile sia con TIM che con Vodafone.
+
+iPhone 3GS
+L'8 giugno 2009 durante il WWDC è stata presentata ufficialmente da Apple la nuova versione dell'iPhone, l'iPhone 3GS (la S, come dichiarato da Phil Schiller alla presentazione del dispositivo, sta per speed, cioè velocità). Questo nuovo dispositivo si presenta con forma e dimensioni uguali all'iPhone 3G, le novità sostanziali sono una nuova memoria da 32 GB, una fotocamera da 3.2 megapixel(paragonabile anche a fotocamere di 8 mpx) con autofocus e la possibilità di poter effettuare video. Lo schermo tattile è ora oleorepellente, trattato per risultare immune a macchie, impronte e ditate. A livello di software, grazie al firmware 3.0 questo nuovo dispositivo dispone inoltre di una bussola digitale e di voicecall, cioè la possibilità di poter chiamare un numero in rubrica oppure scegliere una canzone sull'iPod semplicemente pronunciando il nome del contatto oppure la canzone. Supporta gli OpenGL|ES 2.0 e l'HSDPA a 7,2 Mbps, l'autonomia della batteria è aumentata e gestisce le operazioni di taglia, copia, incolla, annulla. Ha una vasta gamma di applicazioni, più di 50.000.
+
+Apple l'ha messo vendita a partire dal 19 giugno 2009 in due colorazioni, bianco e nero. Negli USA il modello 3GS è in venduta a un prezzo massimo di 199$ per il 16 GB e 299$ per il 32 GB sottoscrivendo un contratto biennale con AT&T. Dopo la sua commercializzazione l'iPhone 3G sussisterà solamente nel modello da 8 GB venduto da AT&T a 99$ con contratto biennale.
+
+In Italia è commercializzato da tre gestori e da Apple stessa. TIM e Vodafone praticano i prezzi di 619€ per il 16GB e 719€ per la versione 32GB. A questi due gestori si è aggiunta 3 Italia che, dopo avere annunciato il 19 giugno di aver siglato un accordo con Apple, ha iniziato a distribuire iPhone 3GS (oltre a iPhone 3G) da luglio 2009 a 599€ (16GB), 699€ (32GB), oppure in abbinamento ad un abbonamento a partire da 199€, o con piano ricaricabile a partire da 299€
+Con il rilascio di iPhone 3GS è possibile acquistare iPhone 3G e 3GS anche online sullo store ufficiale di Apple e i prezzi sono di 499€ per iPhone 3G 8GB, 599€ per iPhone 3GS 16GB e di 699€ per iPhone 3GS 32GB.
+
+Successo commerciale
+
+Nel giorno di lancio di iPhone (29 giugno 2007), secondo il Los Angeles Times i negozi Apple e AT&T avrebbero venduto in un giorno più di 525 000 unità.
+La AT&T tramite alcuni comunicati stampa evidenziò di aver finito le scorte di iPhone in molti dei 1800 punti vendita già la mattina del 30 giugno.
+Apple sembra che tramite una migliore gestione del magazzino invece abbia mostrato una maggior disponibilità di terminali nei suoi negozi.
+L'elevato numero di vendite iniziali sembra che abbiano messo in crisi i sistemi dell'AT&T di attivazione impedendo a molti clienti di attivare il dispositivo, comunque con lo scorrere delle ore il problema venne risolto dalla società.
+Le vendite del dispositivo sembrano superiori alle attese, anche i negozi Apple che dispongono di un canale preferenziale per il dispositivo e di una migliore gestione del magazzino stanno avendo problemi di approvvigionamento. Nella notte tra il quattro e il cinque luglio Apple ha comunicato che 162 dei suoi 164 negozi avevano terminato le scorte.
+Si stima che il 95% degli acquirenti preferiscano il modello da 8 GB.
+Durante la relazione finanziaria del 25 luglio Apple ha comunicato di aver venduto 270 000 telefoni in 30 ore.
+Secondo le stime degli analisti di iPhone nel mese di luglio del 2007 il dispositivo è stato il più acquistato smartphone degli Stati Uniti e nel mercato complessivo dei telefoni cellulari ha conquistato l'1.8% delle vendite.
+
+Il 5 settembre 2007 durante la presentazioni di nuovi prodotti i dirigenti Apple hanno comunicato che entro il mese di settembre verrà venduto il milionesimo esemplare.
+Il 10 settembre Apple ha annunciato di aver venduto il milionesimo esemplare.
+Il 22 ottobre 2007 durante la presentazione dei risultati finanziari del quadrimestre Apple ha annunciato di aver venduto 1190 000 telefoni al 30 settembre 2007.
+
+Secondo una ricerca di mercato di Npd Group il dispositivo ha conquistato il 27% del mercato degli smartphone negli Stati Uniti d'America. Complessivamente il dispositivo rappresenterebbe il 3% del mercato dei telefoni cellulari negli USA. Secondo un'analisi effettuata dal sito Market Share nel mese di novembre i sistemi iPhone hanno rappresentato lo 0.09% dei sistemi di navigazione web superando la totalità dei sistemi basati su Windows Mobile che rappresentano lo 0.06% dei navigatori. Il Time Magazine ha eletto l'iPhone di Cupertino Gadget dell'anno 2007.
+Il 15 gennaio 2008 Apple ha comunicato che a 200 giorni dalla sua commercializzazione il dispositivo ha venduto quattro milioni di pezzi conquistando il 19% del mercato degli smartphone negli Stati Uniti d'America.
+
+Ma l'apice del successo commerciale dell'iPhone arriva con l'introduzione del nuovo modello, la versione 3G. Nei primi tre giorni di lancio del nuovo prodotto si può vedere la Apple raggiungere la soglia di un milione di iPhone 3G venduti. Il merito di questo grande risultato è certamente la vasta distribuzione del prodotto che viene infatti commercializzato l'11 luglio in 22 paesi (Australia, Austria, Belgio, Canada, Danimarca, Finlandia, Germania, Hong Kong, Irlanda, Italia, Giappone, Messico, Paesi Bassi, Nuova Zelanda, Norvegia, Portogallo, Spagna, Svezia, Svizzera, Regno Unito e Stati Uniti). Lo stesso Steve Jobs, CEO della Apple si stupisce del risultato che ha superato le stime più ottimistiche.
+
+Il 26 luglio è stato comunicato che la versione 3G in sette settimane ha venduto sei milioni di esemplari superando le vendite che il modello 2G aveva totalizzato in più di 250 giorni.
+
+A dicembre 2008 il telefono ha totalizzato 17 milioni di esemplari venduti (contando entrambi le versioni).
+
+Il 22 giugno 2009 Apple attraverso un comunicato stampa ha annunciato di aver venduto più di un milione di iPhone 3GS nel primo week-end di vendite.
+
+Applicativi di terze parti
+Il dispositivo inizialmente poteva utilizzare solamente applicazioni di terze parti che si interfacciavano via web. I programmi di terze parti quindi dovevano utilizzare le tecniche messe a disposizione dal paradigma Web 2.0 e AJAX. Apple aveva deciso di non permettere l'installazione di applicazioni non web per evitare problemi di sicurezza. Se molti dispositivi dovessero eseguire applicazioni corrotte o con virus potrebbero generare un elevato traffico che potrebbe mettere in crisi il gestore telefonico. L'utilizzo di applicazioni web non elimina il problema ma essendo queste eseguite all'interno di una sandbox protetta ne riduce la pericolosità.
+
+Nonostante ciò, sono nati alcuni modi, non legali, di installare applicativi di terze parti sull'iPhone. Tra tutti il più utilizzato, fino al vecchio firmware versione 1.1.4, era "Installer.app". Il software si presenta come un'icona sull'interfaccia dell'iPhone e permette tramite una connessione a dei repositories, di scaricare e installare software di terze parti scritti per Mac OS X. Le repositories (o sources) più importanti, sicure e fornite sono le Community Sources, di cui fanno parte: iSpazio, ModMyiFone, BigBoss, Ste Packaging e il RiP Dev
+
+Il 17 ottobre 2007 Apple ha reso noto che da febbraio 2008 avrebbe permesso di caricare programmi di terze parti nel dispositivo. La società ha speso molto tempo per poter approntare un kit di sviluppo per il dispositivo.
+
+Il 6 marzo 2008 Steve Jobs ha annunciato che il kit di sviluppo di applicazioni era disponibile in versione beta agli sviluppatori gratuitamente.
+
+Le applicazioni di terze parti devono però essere certificate preventivamente da Apple, per evitare che il telefono sia preda di spyware e malware, e sono quindi dotate di un certificato digitale.
+
+Con l'arrivo dell'iPhone 3G è uscito il firmware 2.0. Questo firmware introduce delle grandi novità nella gestione delle applicazioni. Introduce infatti l'App store, una icona sulla home del telefono che permette di accedere al negozio di applicazioni gestito da Apple. Lo store è composto sia da applicazioni gratuite, sia da applicazioni a pagamento.
+
+Al momento del lancio erano presenti piu di 500 applicazioni, sviluppate da molteplici case produttrici di software.
+Ora alla data 8 febbraio 2009 ha raggiunto quota 20000 applicazioni è sono sempre in continuo aumento.
+
+Il firmware 2.0, inizialmente non consentiva l'installazione del vecchio Installer.app, limitando lo scaricamento delle applicazioni solo a quelle volute, certificate e accettate da Apple. Il RiP Dev (i creatori di Installer), hanno creato comunque una nuova versione, funzionante anche per il nuovo firmware 2.0, che deve però essere per forza pwnato.
+
+Analisi di mercato mostrano che gli utenti iPhone hanno una notevole propensione all'acquisto di applicazione di terze parti. Una ricerca ha stimato che il 17% degli utenti ha speso nel 2008 una cifra analoga o superiore al costo del telefono.
+
+Lo sblocco dell'iPhone
+
+L'arrivo in Italia
+Già con il software 1.1.2 molti utenti di livello avanzato riscontrarono, all'interno del file del telefono che memorizza i parametri di connessione EDGE, la presenza dei parametri del gestore italiano TIM, oltre che del gestore inglese O2, di quello francese Orange, e di quello tedesco T-Mobile (carrier che hanno l'iPhone in esclusiva).
+
+Il 6 maggio 2008 viene annunciato che saranno due le compagnie telefoniche a distribuire in Italia l'iPhone: oltre a TIM, c'è anche Vodafone, la quale distribuirà l'apparecchio anche in altri Paesi (Australia, Repubblica Ceca, Egitto, Grecia, India, Portogallo, Nuova Zelanda, Sudafrica e Turchia).
+
+L'annuncio che l'iPhone sarebbe arrivato in Italia nella versione 3G l'11 luglio 2008, con gli operatori TIM e Vodafone, avviene al WWDC del 9 giugno 2008.
+
+Dal 19 giugno 2009 in italia è disponibile con TIM e Vodafone il nuovo iPhone 3GS, dal 17 luglio questo terminale è commercializzato anche da 3 Italia.
+
+Critiche e perplessità
+
+Appena poche ore dopo la presentazione del prodotto, definito dallo stesso Jobs come rivoluzionario e con un software avanti di cinque anni rispetto alla concorrenza, erano già innumerevoli gli articoli e servizi dedicati all'ultimo nato in casa Apple. Ma sul prodotto sono state espresse anche diverse critiche. Le principali sono:
+*L'iPhone utilizza una tastiera virtuale per inserire i testi. Le tastiere virtuali non permettono di avere un ritorno tattile dei tasti premuti e quindi generalmente producono più errori di digitazione rispetto a una tastiera "fisica" di analoghe dimensioni. Il giornalista David Pogue del New York Times e Walt Mossberg del Wall Street Journal hanno esaminato il dispositivo per due settimane: entrambi inizialmente hanno avuto difficoltà a usare questa tastiera, ma dopo un periodo di apprendimento entrambi sono riusciti a utilizzare il dispositivo in modo soddisfacente. Inoltre hanno affermato che la chiave del successo del sistema è il sistema di predizione del testo integrato del telefono. Da iPhone os 3.0 è disponibile la versione orizzontale della tastiera virtuale
+*Quando non si è in presenza di una rete Wi-Fi a cui si ha accesso, il telefono utilizza la rete telefonica con il protocollo EDGE per comunicare. Questo protocollo fornisce una velocità inferiore a una connessione UMTS. Il cronista del New York Times ha definito "frustrante" la navigazione con la rete EDGE: il caricamento della home page di Yahoo può richiedere anche più di 100 secondi e la rete non andava oltre i 40 kb/s, ovvero quanto un modem telefonico su una linea rumorosa. Negli Stati Uniti, appena prima del lancio del telefono si è notato un incremento della velocità delle rete EDGE di AT&T che è arrivata anche a 200 kb/s. Si ritiene che questo sia stato svolto da AT&T per fornire agli utenti iPhone una migliore velocità di navigazione. La versione 3G uscita nel 2008 supera questa limitazione arrivando a 3.6 Mb/s la quale nella versione 3GS è passata a 7.2 Mb/s in condizioni ottimali di HSDPA.
+*La batteria non è direttamente estraibile dall'utente, è di tipo non sostituibile se non tramite l'assistenza Apple (come tutti i dispositivi iPod).
+*Il dispositivo non è dotato di nessun tipo di firewall, quindi potrebbe essere soggetto a rischi di attacchi telematici. Apple non ha confermato la mancanza di un firewall e alcuni esperti hanno fatto notare che non ci sono ragioni tecniche che impedirebbero l'utilizzo del firewall integrato nell'iPhone OS. Comunque anche la stessa necessità di un firewall in un dispositivo come l'iPhone è controversa.
+*Negli Stati Uniti il dispositivo è utilizzabile solo con un contratto AT&T biennale. Come anche la maggior parte degli altri terminali telefonici venduti in questo paese. In italia invece questo problema non si pone.
+*Il web browser Safari non gestisce né Adobe Flash né il linguaggio Java. Questo limita l'accesso a molti siti che utilizzano queste tecnologie . Tuttavia per i filmati flash di You Tube e similari il telefono presenta un'applicazione nativa che ne riproduce i contenuti.
+*Il telefono manca di alcune caratteristiche integrate che sono comuni in dispositivi di analogo prezzo come la registrazione vocale dei messaggi, la messaggistica istantanea, lo slot per le memory card (A far fronte però c'è l'alta capacità di memoria interna che arriva fino a 32 GB), la gestione degli MMS (ora possibile grazie all'aggiornamento iPhone OS 3.0) del trasferimento file tramite Bluetooth (ora possibile lo scambio di foto tra 2 iphone con un'applicazione il cui nome è photo share), il copia e incolla dei testi (adesso reso possibile) e l'utilizzo di MP3 come suonerie. Molte di queste limitazioni sono state superate dalla 3a versione di iPhone OS (MMS, copia, taglia, incolla ecc), altre dal nuovo dispositivo iPhone 3GS (videocamera) Alcune di queste funzioni sono disponibili tramite software di terze parti scaricabili dall'App Store. Altre invece da Cydia o Installer effettuando il jailbreak.
+*Qualcuno potrebbe lamentarsi che lo schermo multi-touch non funziona con i guanti, rendendo così difficile l'utilizzo del telefono d'inverno.
+*L'iPhone non può usufruire delle tariffe affari AT&T né dei relativi sconti che la compagnia americana applica per i clienti affari.
+*L'applicazione per la gestione degli SMS presenta alcune lacune: non viene mostrato il numero di caratteri immessi durante la scrittura degli SMS, non è possibile ruotare la schermata per avere la tastiera in modalità landscape, non si possono cancellare i singoli messaggi ma solamente le intere conversazioni e sono assenti funzioni come l'inoltro ed il reinvio di un messaggio. Tali mancanze, a parte il problema dei caratteri immessi, vengono risolte effettuando l'aggiornamento al firmware 3.0 o nella nuova versione dell'iPhone, l'iPhone 3GS.
+
+Disputa sul nome
+Nelle ore successive alla presentazione del prodotto da parte di Apple, Cisco Systems rivendicò la proprietà del marchio iPhone negli USA. Cisco utilizzava il marchio per una linea di prodotti wireless dedicati al Voice over IP prodotti da Linksys, società acquisita da Cisco Systems nel 2003.
+
+Apple sostenne che, data la diversa natura dei due prodotti, non vi fosse conflitto sull'utilizzo dello stesso marchio.
+
+Dopo un'iniziale fase in cui le società annunciarono offensive legali, le società decisero di trovare un compromesso. Cisco e Apple utilizzeranno il nome iPhone per i loro prodotti a seguito di un accordo tra le società, i dettagli dell'accordo non sono noti.
+
+A fine giugno Apple ha acquisito da Michael Kovatch il dominio iphone.com. Kovatch aveva registrato il domino nel 1997 come sito di riferimento dello sua società la The Internet Phone Company. Apple ha cercato diverse volte da gennaio 2007 di acquisire il dominio ma Kovatch si è rifiutato di vendere il dominio fino a quando Apple non ha acconsentito a pagare un milione di dollari per esso.
+
+Principali differenze fra la versioni 2G, 3G e 3GS
+
+Le principali differenze tra la versione iniziale 2G e la nuova 3G sono essenzialmente di carattere costruttivo. Infatti la prima versione presentava un case alluminico ad incastro, con pulsanti di plastica e un jack audio apposito per alcuni tipi di auricolari. Attualmente la versione 3G presenta un case in lega ceramica (zirconio e ittrio, nei colori nero o bianco rivelatasi molto resistente) e con bottoni mettallici ed un jack (Denominato Flash durante la presentazione) per il funzionamento della maggior parte degli auricolari in commercio.
+
+Ulteriori note di differenza riguardano gli altoparlanti che nel nuovo modello vengono riprogettati per una maggiore qualità del suono.
+
+All'interno si può notare che il nuovo modello presenta una batteria ad appoggio rispetto alla precedente saldata sulla piastra madre, nel modello 3G la batteria presenta maggiori capacità a livello hardware e con i vari aggiornamenti viene aiutata anche dal software.
+
+Ovviamente varia il modulo telefonico\scambio dati che passa da una connessione EDGE (2G) ad UMTS\HSDPA (3G). Viene anche aggiornato il modulo bluetooth da specifiche 2.0 a 2.1.
+
+Infine il modello 3G integra un modulo A-GPS per la geolocalizzazione satellitare.
+
+L'iPhone 3GS si differenzia dagli altri due modelli per le seguenti caratteristiche :
+
+*Nuova bussola digitale (Integrata nella funzione Mappe)
+*Velocità HSDPA raddoppiata
+*Nuovo processore fino a due volte più veloce, come cita la frase di lancio "The fastest and most powerful Iphone yet"
+*Raddoppio della RAM (da 128 MB a 256 MB)
+*Schermo oleorepellente (anti-ditate).
+*Videocamera 3.2 Megapixel, che permette di fare e modificare filmati direttamente sul dispositivo.
+*Voice Over che oltre ad allargare il mercato ai disabili, rende possibili molte automazioni.
+
+Specifiche
+Specifiche generali
+
+* Processore ARM1179JF-S (3G S: ARM Cortex A8) a 667 MHz con supporto per il linguaggio Java, l'accelerazione hardware video/audio, la decodifica di filmati, la gestione di periferiche di input/output e la gestione di una sandbox sicura per applicazioni critiche.
+* Sistema operativo iPhone OS (versione leggera del Mac OS X)
+* Browser web Safari
+* Schermo panoramico (3,5" 320 × 480 pixel @ 160 dpi) in vetro (definito ottico), diversamente della tradizionale plastica del prototipo dell'iPhone stesso e di tutti gli smartphone attualmente in vendita
+* Interfaccia Multi-touch (touchscreen avanzato)
+* Connettività Wi-Fi (802.11 b/g)
+* Connettività Bluetooth 2.0 + EDR (2.1 per la versione 3G e 3G S, inoltre la connessione bluetooth è utilizzabile solo per dispositivi audio, come ad esempio gli auricolari o i vivavoce. Non è infatti possibile lo scambio file, né l'utilizzo di cuffie stereo).
+* Connettività via cavo USB 2.0
+* Funzionalità iPod audio (formati AAC, MP3, Audible, e Apple Lossless Encoding) e video (formati H.264 e MPEG-4)
+* Interfaccia Cover Flow per la sezione iPod ed effetti per quasi l'intero sistema
+
+Il telefono è anche dotato di un connettore identico a quello disponibile sugli iPod.
+Il dispositivo può utilizzare quindi gli accessori progettati per l'iPod ma dato che l'iPhone emette radiazioni elettromagnetiche queste potrebbero produrre rumori e fruscii in alcuni accessori.
+Al fine di evitare il problema il telefono riconosce i dispositivi non testati per il telefono e per quegli accessori permette di attivare una modalità senza emissione elettromagnetiche (disattivando il telefono ed entrando in modalità aereo) che non crea fruscii.
+L'utente comunque può decidere di non avvalersi della modalità aereo.
+
+Versione 2G
+* Connettività quad-band GSM e EDGE (850/900/1800/1900 MHz)
+* Capacità di memorizzazione: 4 (primo modello, ritirato dopo qualche mese), 8 o 16 GB (cui vanno sottratti i circa 700 MB utilizzati dal sistema operativo) su memoria flash NAND
+* Batteria integrata con capacità di 8 ore in conversazione, 6 di navigazione web, 16 ore riproduzione audio, 7 riproduzione video e 250 ore (10 giorni) nella modalità standby
+* Fotocamera da 2 megapixel
+* Dimensioni iPhone: 115 × 61 × 11,6 mm
+* Peso: 135 g
+
+Versione 3G
+* Processore a 412Mhz
+* Connettività quad-band GSM e EDGE (850/900/1800/1900 MHz) UMTS e HSDPA (850/1900/2100 MHz)
+* Colore: nero (versioni 8 e 16 GB) o bianco (versione 16 GB). (La versione bianca e la versione nera da 16 GB, dopo l'uscita del 3GS, non sono più prodotte da Apple).
+* Un ricevitore GPS
+* Capacità di memorizzazione: 8 o 16 GB (cui vanno sottratti i circa 700 MB utilizzati dal sistema operativo) su memoria flash NAND
+* Batteria integrata con capacità di 5 ore in conversazione 3G e 10 in 2G, 5 ore di navigazione web in 3G e 6 in Wi-Fi, 24 ore riproduzione audio, 7 riproduzione video e 300 ore (quasi 13 giorni) nella modalità standby
+* Fotocamera da 2 megapixel
+* Dimensioni iPhone: 115.5 × 62.1 × 12,3 mm
+* Peso: 133 g
+
+Versione 3GS
+* Processore a 667Mhz che può arrivare anche agli 833Mhz tranquillamente che garantisce fino al doppio della velocità rispetto alla versione 3G.
+* Connettività quad-band GSM e EDGE (850/900/1800/1900 MHz) UMTS e HSDPA (850/1900/2100 MHz)
+* Colore: nero o bianco (versioni 16 e 32 GB).
+* Fotocamera da 3.2 megapixel con autofocus, macro, bilanciamento bianco automatico
+* Registrazione Video, con funzione di editing
+* Controlli vocali
+* Bussola digitale
+* Un ricevitore GPS
+* Schermo oleorepellente
+* Capacità di memorizzazione: 16 o 32 GB (cui vanno sottratti i circa 700 MB utilizzati dal sistema operativo) su memoria flash NAND
+* Batteria integrata con capacità di 5 ore in conversazione 3G e 12 in 2G, 9 ore di navigazione web in Wi-Fi, 30 ore riproduzione audio, 10 riproduzione video
+* Dimensioni iPhone: 115.5 × 62.1 × 12,3 mm
+* Peso: 135 g
+
+Note
+
+Voci correlate
+
+*iPod
+*App Store
+*Multi-touch
+*smartphone
+*Touchmail
+*iPhone Dev Team
+
+Altri progetti
+
+Collegamenti esterni
+
+* Sito ufficiale italiano
+* Sito ufficiale inglese
+*
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 15:34:47 from:
+  http://it.wikipedia.org/wiki/IPhone
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

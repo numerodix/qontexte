@@ -1,0 +1,254 @@
+In matematica, i numeri reali possono essere descritti in maniera non formale come numeri ai quali è possibile attribuire uno sviluppo decimale finito o infinito, come π = 3,141592... I numeri reali possono essere positivi, negativi o nulli e comprendono, come casi particolari, i numeri interi (come 42), i numeri razionali (come -22/7) ed i numeri irrazionali algebrici (come la radice quadrata di 2) e trascendenti (come π ed e). Un numero reale razionale presenta uno sviluppo decimale finito o periodico. Ad esempio, 1/3=0,333333... è razionale.
+L'insieme dei numeri reali viene generalmente indicato con la lettera R o  \Bbb .
+
+I numeri reali possono essere messi in corrispondenza biunivoca con i punti di una retta, detta retta numerica o retta reale.
+
+La definizione formale dei numeri reali ha rappresentato uno degli sviluppi più significativi del XIX secolo. Tra le definizioni maggiormente adottate oggi figurano le classi di equivalenza di successioni di Cauchy di numeri razionali, le partizioni di Dedekind, una ridefinizione del termine "rappresentazione decimale" ed una definizione assiomatica come unico campo archimedeo completo ordinato.
+
+I termini reale ed immaginario sono stati introdotti ne La Géometrie di René Descartes (1637), relativamente allo studio delle radici delle equazioni.
+Per estensione diversi autori hanno cominciato a parlare di numeri reali e numeri immaginari.
+Nel 1874 appare un articolo fondamentale di Georg Cantor nel quale l'autore prende in considerazione l'insieme dei numeri reali dimostrando che tale insieme non è numerabile.
+
+Rappresentazione ed uso dei numeri reali
+I numeri reali possono rappresentare qualsiasi grandezza fisica, come il prezzo di un prodotto, la distanza temporale fra due eventi, l'altitudine (positiva o negativa) di un sito geografico, la massa di un atomo o la distanza fra galassie. Gran parte dei numeri reali è usata quotidianamente, ad esempio in economia, informatica, matematica, fisica o ingegneria.
+
+Di fatto, la maggior parte del tempo sono usati solo alcuni sottoinsiemi:
+* i numeri naturali,
+* i numeri interi,
+* i numeri razionali, che si possono esprimere in forma di frazione,
+* i numeri algebrici, che comprendono tutti i numeri esprimibili con operazioni algebriche elementari e radici.
+* alcuni numeri molto particolari, che non sono contenuti negli insiemi precedenti, come e e π.
+
+Questi insiemi, benché infiniti, hanno tutti cardinalità numerabile e sono quindi un'infima parte dell'insieme dei numeri reali.
+
+Rappresentazione decimale
+Ogni numero reale può essere identificato dalla sua numerazione decimale,
+ovvero mediante l'elenco delle cifre decimali della sua parte intera e, separate da una virgola, l'elenco delle cifre della parte frazionaria.
+In generale il numero di cifre decimali della parte frazionaria possono essere infinite. Per questo in pratica il numero reale viene espresso presentando solo le prime cifre decimali come ad esempio nella scrittura 324,823211247... dove i tre punti esprimono il fatto che ci sono altre, infinite, cifre. Con questo procedimento di approssimazione è possibile presentare un numero razionale arbitrariamente vicino al numero reale in questione. Più sono le cifre decimali, più il numero razionale è vicino al numero reale che si vuole rappresentare, e maggiore quindi è la precisione dell'approssimazione. Ad esempio, pi greco può essere approssimato come
+
+:3,14159 26535 89793 23846 26433 83279 50288 41971 69399 37510 58209 74944 59230 78164 06286 20899 86280 34825 34211 70679...
+
+La rappresentazione decimale, molto utile nelle scienze applicate, presenta molti difetti dal punto di vista matematico, ad esempio:
+
+alcuni numeri razionali hanno due espansioni decimali diverse, ad esempio
+:0,\bar 9 = 0,999... = \sum_^\infty \frac = 9\left(\sum_^\infty\frac-1\right) =
+9\left(\frac-1\right)=1.
+Si può dimostrare che l'espansione decimale di un reale è unica a meno che il numero non sia della forma q / 10m con q ed m naturali;
+la somma e la moltiplicazione fra numeri reali non si effettuano "cifra per cifra" nel modo solito, perché dovremmo "partire da destra",
+la rappresentazione è ancorata alla scelta della base 10, e quindi non è "canonica".
+
+Per questo motivo i matematici preferiscono definire e trattare i numeri reali con altre notazioni più astratte.
+
+Operazioni sui numeri reali
+
+Sui numeri reali è possibile fare tutte le operazioni definite per i razionali, quali somma, differenza, prodotto, divisione per un numero diverso da zero ed elevamento a potenza con base positiva. Tali operazioni possono essere definite tramite il calcolo infinitesimale oppure è possibile estendere ai numeri reali, mediante approssimazione, le definizioni delle medesime operazioni date sui numeri razionali.
+
+I numeri reali nella scienza
+Dal punto di vista fisico, ogni esperimento è soggetto in modo intrinseco ad un errore e quindi questo tipo di rappresentazione approssimata dei numeri reali non causa ulteriori problemi.
+
+In informatica, i computer possono solo approssimare i numeri reali con numeri razionali: queste approssimazioni sono realizzate ad esempio in modo efficiente tramite la scrittura in virgola mobile. Alcuni programmi riescono a trattare alcuni numeri non razionali in modo esatto: ad esempio alcuni numeri algebrici possono essere descritti utilizzando la loro descrizione algebrica (come per esempio "sqrt(2)") piuttosto che la loro approssimazione decimale.
+
+Più in generale, l'informatica può trattare in modo preciso solo i numeri calcolabili: un numero reale è calcolabile se esiste un algoritmo che produce le sue cifre. Poiché esiste un'infinità numerabile di algoritmi ma un'infinità non numerabile di numeri reali, "quasi tutti" i numeri reali non sono calcolabili.
+
+In matematica, i numeri reali giocano un ruolo fondamentale, e vengono continuamente manipolati, nonostante gran parte di questi non siano calcolabili. Il costruttivismo è una corrente matematica che accetta l'esistenza solo dei reali calcolabili.
+
+Storia
+Frazioni
+La necessità di dare un nome ad alcune grandezze misurabili data dell'antichità. La prima risposta, realizzata dai Sumeri e nell'antico Egitto, fu quella di costruire le frazioni (a⁄b). Questo strumento permise da subito la misura di qualsiasi grandezza positiva con precisione arbitraria.
+
+Numeri come lunghezze
+
+La prima formalizzazione matematica nota è quella di Euclide nel III secolo a.C. Negli Elementi di Euclide, la geometria è formalizzata con assiomi, teoremi e dimostrazioni. Qui i numeri sono messi in corrispondenza con le lunghezze dei segmenti.
+
+L'approccio di Euclide mette in evidenza che i numeri dell'epoca (le frazioni, cioè i numeri razionali) non potevano svolgere direttamente il ruolo di rappresentare le lunghezze di segmenti.
+
+Un caso particolare del teorema di Pitagora mostra infatti che la lunghezza  l  dell'ipotenusa di un triangolo rettangolo i cui cateti hanno lunghezza 1, è tale che
+: l^2 = 2.
+D'altra parte, è facile mostrare che una tale  l  non è esprimibile come frazione: un risultato che risale alla scuola pitagorica ed era ben noto ad Euclide. Una dimostrazione del risultato pitagorico, citata da Paul Erdös come una delle più belle di tutta la matematica, è mostrata a destra.
+
+Per risolvere l'apparente contraddizione Euclide, nel V libro degli Elementi, sviluppa una raffinata teoria dei rapporti tra grandezze (anche tra loro incommensurabili). Occorreva per questo innanzitutto avere un criterio per giudicare l'eventuale uguaglianza di due rapporti tra incommensurabili. Euclide fornisce un tale criterio nelle definizioni 4-9 del V libro, che riportiamo in una forma leggermente modernizzata nelle notazioni:
+
+Date quattro grandezze, a, b, c, d, si dice che a:b = c:d se e solo se per ogni coppia di naturali, m, n, si verifica sempre una delle seguenti tre possibilità:
+* na  mb e, contemporaneamente, nc > md.
+
+Grazie alla definizione precedente di uguaglianza tra rapporti anche i rapporti tra incommensurabili divennero un legittimo oggetto di studio della matematica e la loro eventuale uguaglianza era decisa semplicemente confrontando multipli interi delle grandezze considerate. In altre parole ogni rapporto tra incommensurabili era caratterizzato dal suo comportamento rispetto a tutte le coppie di naturali.
+
+Altri sviluppi della matematica ellenistica che anticiparono in parte la moderna teoria dei reali furono quelli presenti nel metodo che fu poi detto di esaustione; ricordiamo che anche il primo calcolo di somme di serie risale ad Archimede (che sommò la serie geometrica di ragione 1/4).
+
+Sviluppo decimale illimitato non periodico
+
+Con l'ausilio delle frazioni i greci potevano esprimere con precisione arbitraria qualsiasi numero reale. L'assenza di un sistema di numerazione adeguato rendeva però difficili le operazioni elementari fra queste quantità, quali ad esempio la somma o la divisione.
+
+Si deve attendere fino al V secolo per vedere finalmente riconosciuto lo zero come numero dalla scuola indiana, e per lo sviluppo del sistema di numerazione decimale.
+
+Con il sistema di numerazione decimale compare un nuovo problema. Con questo sistema, ogni frazione possiede uno sviluppo decimale periodico ovvero la successione di decimali reitera all'infinito la stessa sequenza di numeri. Che significato dare ad un oggetto avente uno sviluppo non periodico? Un esempio è il seguente
+
+:0,1010010001... dove il numero di zeri tra due "1" consecutivi cresce ad ogni passo.
+
+Successioni e serie
+Nella seconda metà del XVII secolo, si assiste ad un interessamento straordinario da parte dei matematici al calcolo delle serie e successioni. Tra questi, Nicolaus Mercator, i Bernoulli, James Gregory, Gottfried Leibniz lavorano su delle serie che sembrano convergere ad un limite non razionale, come ad esempio:
+* la serie di Mercator : \sum_^\infty = 1 - \frac 12+\frac 13- \frac 14 + \cdots che converge a \ln (2)
+* la serie di Grégory : \sum_^\infty = 1 - \frac 13+\frac 15- \frac 17 + \cdots che converge a \pi/4
+Inoltre Joseph Liouville mostra nel 1844 l'esistenza di numeri trascendenti, cioè di numeri che non sono radici di nessun polinomio a coefficienti interi. Non è quindi sufficiente aggiungere i numeri algebrici ai razionali per ottenere "tutti i numeri".
+
+Calcolo infinitesimale
+
+Durante la seconda parte del XVII secolo, Isaac Newton e Gottfried Leibniz inventano una nuova branca della matematica, chiamata adesso analisi matematica, e conosciuta all'epoca come calcolo infinitesimale. Questa raggiunge subito la massima notorietà perché alla base di una nuova teoria fisica universale: la meccanica classica e la gravità.
+
+Il calcolo infinitesimale necessita di un insieme di numeri più grande dei razionali, che "comprenda tutti i buchi", in modo da stare tutti su una retta, detta retta reale.
+
+Nel linguaggio moderno, la proprietà necessaria al calcolo è la completezza, e può essere espressa nel modo seguente:
+
+:ogni successione di Cauchy è convergente.
+
+Tale nozione, introdotta successivamente proprio da Cauchy, è estremamente importante in tutti i settori della matematica, e sarà anche all'origine della topologia all'inizio del XX secolo.
+
+Costruzione dei numeri reali
+
+Il calcolo infinitesimale permette un'intuizione sempre più precisa sulla topologia dei numeri. Sarà necessario un ulteriore secolo per formalizzare in modo preciso l'insieme dei numeri reali, cioè per "tappare i buchi" lasciati dai razionali.
+
+Come spesso accade in matematica, quando il problema è maturo, la soluzione arriva contemporaneamente da due ricercatori.
+
+Il primo ad affrontare con successo la costruzione dei numeri reali è Augustin Louis Cauchy. Il suo approccio resta il più fruttuoso, perché si applica anche ad altri casi. La sua idea è la seguente: una successione dovrebbe convergere se gli elementi sono (dopo un certo punto) arbitrariamente vicini fra loro: una tale successione è oggi detta successione di Cauchy.
+
+Questa idea si traduce in una definizione rigorosa dei numeri reali solo verso la fine del XIX secolo, grazie ai lavori di Cantor e Dedekind nel 1872. Quest'ultimo propone in Was sind und was sollen die Zahlen (cosa sono e cosa devono essere i numeri) un metodo che sfrutta la relazione d'ordine fra le frazioni. La sua idea consiste nell'introdurre i reali non razionali tramite sottoinsiemi di razionali, i cosiddetti tagli di Dedekind: ad esempio, la radice di 2 è rappresentata dall'insieme di tutti i numeri razionali il cui quadrato è minore di 2. Vi è un evidente rapporto tra la definizione di Dedekind e l'antica definizione di Euclide, ma anche una profonda differenza: mentre per Euclide e per gli altri matematici greci l'oggetto privilegiato di studio erano le grandezze e solo considerando i loro rapporti si trovavano di fronte a qualcosa di parzialmente analogo ai nostri numeri reali, all'epoca di Dedekind le grandezze numeriche avevano assunto da tempo un ruolo di protagonisti autonomi.
+
+Definizione
+Approccio assiomatico
+
+Sia R l'insieme di tutti i numeri reali. Allora:
+* L'insieme R, con somma e moltiplicazione usuali, è un campo, essendo valide le proprietà associativa, commutativa, distributiva e di esistenza degli elementi neutri e inversi rispetto a entrambe le operazioni.
+* Il campo R è ordinato, cioè esiste un ordinamento totale, il ≤ usuale, tale che, per tutti i numeri reali x, y e z:
+** per ogni coppia x,y \in \R si ha x \leq y  oppure y \leq x (dicotomia)
+**  x \leq x per ogni  x \in \R (riflessiva)
+** se x \leq y e y \leq x allora  x = y \! (antisimmetrica)
+** da  x \leq y  e  y \leq z  segue che  x \leq z  (transitiva)
+
+* Assioma di Dedekind: L'ordinamento è completo, cioè ogni sottoinsieme non vuoto S di R che ammette un maggiorante in R ha un estremo superiore in R. L'estremo superiore di un insieme S si denota con  \sup S .
+
+L'ultima proprietà è quella che differenzia i reali dai razionali.
+Per esempio, l'insieme dei numeri razionali il cui quadrato è minore di 2 ha un maggiorante razionale (per esempio 1,5) ma l'estremo superiore, che è il minore dei maggioranti, non è razionale in quanto la radice quadrata di 2 non è razionale.
+
+I numeri reali son definiti in modo univoco dalle proprietà precedenti.
+Detto in modo più preciso, dati due campi ordinati completi R1 e R2, esiste un unico isomorfismo da R1 a R2. Questa proprietà permette di pensare ad essi come ad un unico oggetto matematico.
+
+Insieme reale esteso
+L'insieme reale esteso si ottiene aggiungendo ai numeri reali due elementi aggiuntivi, indicati con -\infty e +\infty:
+:\R^* := \R \cup \.
+La relazione d'ordine si estende a questi nuovi punti ponendo:
+:- \infty , x  per ogni x reale.
+
+Alcune delle normali operazioni di somma e prodotto possono essere estese all'insieme reale esteso, ma non tutte. In particolare tale insieme non è più un campo: anzi, non è neppure un gruppo.
+
+L'insieme reale esteso è però dotato di una topologia che estende quella dei numeri reali: un intorno di +\infty (risp. -\infty) è una semiretta destra (risp. sinistra). Questo insieme è quindi spesso usato per definire in modo più uniforme il concetto di limite (vedi Limite di una funzione#Retta estesa e definizione generale), e considerare alla stessa stregua le successioni che convergono ad un numero reale o all'infinito.
+
+Proprietà
+Completezza
+La ragione principale che ha portato all'introduzione dei reali è che essi costituiscono uno spazio "senza buchi". Più precisamente, i reali sono uno spazio metrico completo. La completezza può essere espressa in vari modi, tutti equivalenti all'assioma di Dedekind descritto sopra.
+
+Successioni di Cauchy
+Nei numeri reali, vale il fatto seguente:
+:ogni successione di Cauchy ha un limite.
+
+Ricordiamo che:
+* Una successione (xn) di numeri reali è di Cauchy se per ogni ε > 0 esiste un intero M tale che
+::  |x_n-x_m| M.
+: In altre parole, una successione è una successione di Cauchy se i suoi elementi xn ad un certo punto diventano arbitrariamente vicini.
+* Una successione (xn) ha un limite x se per ogni ε > 0 esiste un intero N tale che
+::  |x_n-x| M.
+:In altre parole, una successione ha limite x se i suoi elementi ad un certo punto diventano arbitrariamente vicini a x.
+
+In uno spazio metrico qualsiasi, ogni successione convergente è una successione di Cauchy. Quando è vero anche l'opposto (come nei numeri reali), lo spazio si dice completo.
+
+L'insieme dei razionali non è completo.
+Per esempio, la successione delle prime n cifre della radice quadrata di 2, ossia
+: 1; 1,4; 1,41; 1,414; 1,4142; 1,41421;...
+è di Cauchy ma non converge ad un numero razionale.
+
+Elemento separante
+
+La completezza dei numeri reali può essere espressa nel modo seguente: dati due sottoinsiemi X,Y non vuoti di R tali che
+:  x \leq y \ \forall x \in X, y \in Y
+esiste un numero reale  z  tale che
+: x \leq z \leq y \ \forall x \in X, y \in Y.
+
+Assioma di Eudosso e Archimede
+Per i numeri reali vale l' assioma di Eudosso e Archimede: dati due numeri  x,y  reali positivi, esiste un numero naturale n tale che
+: nx \geq y.
+Un campo ordinato in cui vale questo assioma è detto archimedeo. David Hilbert definisce il campo dei numeri reali come il "campo completo archimedeo": con questa frase, Hilbert sottolinea il fatto che i numeri reali formano il più grande campo archimedeo, nel senso che ogni altro campo archimedeo è contenuto in R. In questo senso, R è "completo" secondo Hilbert.
+
+Questo significato di completezza è il più vicino alla costruzione dei numeri reali a partire dai numeri surreali, poiché la costruzione comincia con una classe che contiene ogni campo ordinato (i surreali) e seleziona da essa il più grande sottocampo archimedeo.
+
+Cardinalità
+A differenza dei numeri razionali, i reali non formano un insieme numerabile, cioè l'insieme dei numeri reali è strettamente più grande di quello dei numeri naturali (pur considerando che entrambi sono infiniti). Formalmente, questo equivale a dire che non esiste una corrispondenza biunivoca fra i numeri reali e i numeri naturali.
+
+Questo fatto distingue i numeri reali dagli altri insiemi numerici normalmente utilizzati. Infatti gli insiemi dei numeri naturali, razionali, algebrici hanno tutti la stessa cardinalità (ovvero possono essere messi in corrispondenza biunivoca), mentre l'insieme dei reali ha una cardinalità superiore: esiste una funzione iniettiva dai numeri razionali ai reali, ma non viceversa.
+
+In altre parole, nel tappare tutti i buchi lasciati dai numeri razionali si deve aggiungere una "tale quantità" di numeri nuovi da farne crescere la cardinalità. Questo fatto può essere dimostrato con il procedimento diagonale di Cantor.
+
+Effettivamente, l'insieme R ha cardinalità 2ℵ0, la stessa dell'insieme delle parti di un insieme numerabile: ovvero, la stessa cardinalità dell'insieme di tutti i sottoinsiemi dei numeri naturali.
+
+Poiché anche i numeri algebrici hanno cardinalità numerabile, "quasi tutti" i numeri reali sono trascendenti.
+
+L'ipotesi del continuo sostiene la non esistenza di una cardinalità intermedia fra quella degli interi e quella dei reali. Nell'ambito della teoria degli insiemi di Zermelo - Fraenkel, che è quella comunemente usata, questa ipotesi non può essere né dimostrata né confutata, cioè è indipendente dai suoi assiomi.
+
+Metrica e topologia
+I numeri reali formano uno spazio metrico: la distanza tra x e y è definita come il valore assoluto |x - y|. Come accennato sopra, R risulta essere uno spazio metrico completo.
+
+La metrica appena definita induce su R una struttura di spazio topologico. Un sottoinsieme X di R è aperto se e solo se è unione di intervalli aperti (a, b), dove a e b possono essere anche - \infty  o +\infty.
+
+Lo spazio R è connesso ma non compatto. Lo spazio
+è comunque localmente compatto, ed è una varietà differenziale di dimensione 1. Risulta essere omeomorfo ad un qualsiasi intervallo aperto (a, b).
+
+Lo spazio R è contraibile, e quindi semplicemente connesso, con tutti i gruppi di omotopia banali.
+
+Struttura lineare
+I numeri reali sono il prototipo di spazio vettoriale reale di dimensione uno: la moltiplicazione per uno scalare non è altro che la moltiplicazione usuale. La struttura lineare è compatibile con la topologia sopra descritta, dunque R è uno spazio vettoriale topologico.
+
+R può anche essere pensato come uno spazio vettoriale sul campo Q dei numeri razionali; in questo caso risulta avere una dimensione infinita (così come il campo dei numeri algebrici).
+
+Inoltre, la moltiplicazione funge anche da prodotto scalare, rendendo R uno spazio di Hilbert e quindi uno spazio normato, in cui la norma non è altro che la funzione valore assoluto.
+
+Misura
+
+I numeri reali sono dotati di una misura canonica, la misura di Lebesgue. La misura dell'intervallo (a, b) si definisce come b - a. Qualsiasi sottoinsieme numerabile (come ad esempio quello dei numeri razionali), ha misura nulla. Esistono anche sottoinsiemi di misura nulla non numerabili, come l'insieme di Cantor.
+
+Ci sono in R anche insiemi non misurabili, ma la loro costruzione necessita dell'assioma della scelta: un esempio è l'insieme di Vitali.
+
+La misura di Lebesgue è la misura di Haar della struttura di R come gruppo topologico, normalizzata in modo che l'intervallo 0,1 abbia misura 1.
+
+Algebra
+Ogni numero reale non negativo ha la sua radice quadrata in R, i reali negativi no.
+Questo mostra che l'ordinamento in R è determinato dalla sua struttura algebrica.
+
+Ogni polinomio di grado dispari ha almeno una radice. Esistono comunque polinomi senza radici reali, e questo fa di R un campo non algebricamente chiuso.
+
+La chiusura algebrica di R (ovvero il più piccolo campo algebricamente chiuso che lo contiene) è il campo dei numeri complessi.
+
+Logica
+L'assioma di Dedekind si riferisce a sottoinsiemi di reali e quindi è un predicato della logica del secondo ordine. In generale, non è possibile caratterizzare i reali usando solo la logica del primo ordine.
+
+Per il teorema di Löwenheim-Skolem (debole), esiste un insieme denso numerabile di numeri reali che soddisfa gli stessi predicati nella logica del prim'ordine dei numeri reali.
+
+L'insieme dei numeri iperreali è più grande di R ma soddisfa gli stessi predicati della logica del prim'ordine di R. I campi ordinati che soddisfano gli stessi predicati della logica del prim'ordine di R sono chiamati modelli non standard di R. Questo è ciò che permette all'analisi non standard di funzionare; dimostrando un predicato del prim'ordine in qualche modello non standard (che può essere più semplice che dimostrarlo in R), se ne deduce che lo stesso predicato è vero anche per R.
+
+Generalizzazioni ed estensioni
+
+I numeri reali possono essere generalizzati ed estesi in numerose direzioni.
+Forse l'estensione più naturale è quella dei numeri complessi. I numeri complessi formano un campo algebricamente chiuso, che perde (rispetto ai reali) la struttura di ordinamento (i numeri complessi non sono un campo ordinato).
+
+Esempi di campi ordinati che estendono i reali sono i numeri iperreali e i numeri surreali; entrambi contengono numeri infinitesimali ed infinitamente grandi, ma non soddisfano l'assioma di Archimede descritto sopra.
+
+Occasionalmente, come scritto sopra, gli elementi formali +∞ e -∞ sono aggiunti ai reali per formare la retta numerica estesa, con una naturale topologia compatta. Questo insieme non è un campo ma mantiene molte delle proprietà dei numeri reali.
+
+Le forme hermitiane su uno spazio di Hilbert (per esempio, le matrici quadrate complesse autoaggiunte) generalizzano i reali in molti aspetti: possono essere ordinate (non totalmente), sono completi, i loro autovalori sono reali e formano un'algebra associativa reale. Gli operatori definiti positivi corrispondono ai numeri reali positivi e gli operatori normali corrispondono ai numeri complessi.
+
+Voci correlate
+* Costruzione dei numeri reali
+* Ordinamento tra numeri reali
+* Operazioni aritmetiche sui numeri reali
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 11:33:43 from:
+  http://it.wikipedia.org/wiki/Numero_reale
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

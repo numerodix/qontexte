@@ -1,0 +1,86 @@
+L'artiglieria controcarri, fu una branca dell'artiglieria, destinata esclusivamente alla lotta contro i mezzi corazzati che ebbe il suo massimo sviluppo nel corso della seconda guerra mondiale, perdendo poi gradualmente importanza nel corso della guerra fredda. Questa componente di artiglieria ora (2008) è completamente sostituita dal MBT e dal missile controcarro, tanto che sono almeno 50 anni che non si progettano più cannoni destinati principalmente a questa specialità.
+
+Origine
+Lo sviluppo di un'arma nuova provoca, come reazione naturale, lo studio di un'arma destinata a contrastarla. Il carro armato non fece eccezione, appena compreso che quest'arma avrebbe avuto grandi possibilità sui campi di battaglia, gli stati maggiori cominciarono a cercare i mezzi per contrastarla. I primi carri armati erano lenti ed avevano una sagoma prominente sul campo di battaglia, quindi per contrastarli non erano necessari cannoni destinati specificamente a questo uso, ma erano sufficienti le bocche da fuoco che erano già nelle prime linee. In particolare si rivelò utile per questo uso il cannone a tiro rapido francese (75 mm Modèle 1897) che, pur non avendo una velocità iniziale elevatissima (529 m/s), riusciva a impegnare i carri a causa del suo calibro relativamente elevato ed alla alta cadenza di tiro (12 colpi/min).
+
+Lo sviluppo fra le due guerre mondiali
+
+Tuttavia si vide ben presto che era opportuno utilizzare armi che fossero progettate specificamente per tale uso, inoltre fu chiaro che queste armi non dovevano essere organiche all'artiglieria, ma che dovevano operare in stretta congiunzione con i reggimenti dell'arma base (fanteria o mezzi corazzati) per poter fornire la protezione nel momento in cui era effettivamente necessaria. Inoltre, per contrastare dei carri che erano in movimento sul campo di battaglia, non potevano essere usate artiglierie a tiro indiretto, ma artiglierie a tiro diretto, cioè cannoni.
+
+I primi cannoni (che rimasero in servizio fino all'inizio della seconda guerra mondiale) avevano un calibro standardizzato sui 37 mm o sui 40 mm e un'elevata velocità iniziale. Il rappresentante tipi dei primi era il 3.7 cm PaK 35/36 (PaK = Panzerabwehrkanone, cannone controcarri), prodotto dalla Rheinmetall GMBH, che con un peso di soli 440 kg poteva essere spostato anche a mano, ed aveva una velocità iniziale di 760 m/s. Il rappresentante dei 40 mm era il 2 libbre, prodotto dalla Vickers Armstrong, su affusto a crociera. Con un peso di 836 kg non poteva essere mosso (anche perché per essere spostato doveva essere riposizionato sulle ruote) ed aveva una velocità iniziale di 792 m/s. In Italia venne utilizzato un pezzo di calibro più elevato, il Cannone 47/32 omologato nel 1935 e successivamente aggiornato nel 1939. Questo cannone fu progettato dalla ditta austriaca Böhler e successivamente prodotto in Italia su licenza. Il peso del pezzo era di soli 277 kg (in batteria) ed il proiettile aveva una velocità iniziale di tutto rispetto (630 m/s), considerando anche il calibro relativamente elevato del proiettile.
+
+Nel frattempo si sviluppavano gli studi su un principio che, negli anni seguenti e fino ad oggi, avrebbe profondamente modificato la lotta contro la corazza, cioè la carica cava, che fornendo una penetrazione per i colpi indipendente dall'energia cinetica del proiettile, quindi meno legata al calibro, permetteva una lotta al carro armato anche con armi di peso e di calibro minori.
+
+L'artiglieria controcarri nella seconda guerra mondiale
+Fin dai primi scontri della seconda guerra mondiale fu chiaro che le artiglierie controcarri disponibili, pur potendo operare contro i carri leggeri, non avevano nessuna possibilità di perforare le corazze dei carri medi o pesanti (carri di fanteria inglesi e PzKpfw III e IV tedeschi). Quindi si svilupparono subito nuovi cannoni destinati alla lotta contro i mezzi corazzati, mentre i tedeschi usavano il loro 8,8 cm FlaK come pezzo controcarro per contrastare i carri di fanteria britannici. Parallelamente alle bocche da fuco si sviluppavano, particolarmente da parte dei tedeschi, dei semoventi destinati specificamente all'uso controcarri (Jagdpanzer e Panzerjäger).
+
+I cannoni trainati
+La principale difesa delle artiglierie controcarri era nella loro capacità di occultamento, cioè nella capacità di non essere visibili ai carri armati nemici fino alla distanza a cui possono impegnare il bersaglio con buone probabilità di danneggiarlo. Per questo motivo la soluzione di utilizzare i cannoni antiaerei come armi anticarro non ebbe successo a parte il già citato 8,8 cm FlaK.
+
+Germania
+I tedeschi nel corso della guerra svilupparono due cannoni anticarro di ottima qualità, il 5 cm PaK 38 ed il 7,5 cm PaK 40, entrambi largamente usati in tutti i teatri di guerra. Il primo a 1000 m era in grado di perforare 61 mm di corazza verticale, mentre il secondo alla stessa distanza poteva perforare 121 mm di corazza verticale. Minore fortuna ebbe l'evoluzione dell'88 come cannone anticarro (8,8 cm PaK), dato che, nell'uso come pezzo trainato, il suo peso di 5 t in ordine di marcia lo rendeva estremamente poco mobile, ebbe invece successo come Jagdpanzer (Nashorn, Elefant e Jagdpanther).
+
+Una categoria di cannoni anticarro sviluppata unicamente dai progettisti tedeschi furono i cannoni decalibrati. Partendo dalla constatazione banale che, diminuendo la sezione del proiettile, si otteneva la stessa pressione sul fondo durante l'espansione dei gas nella canna, furono realizzate canne coniche e proiettili costruiti con due flange che si schiacciavano sull'anima del proiettile, riducendone quindi la sezione. In questo modo i progettisti tedeschi riuscirono ad ottenere velocità iniziali di 1400 m/s su armi di calibro limitato. Furono progettati solo due pezzi di questo tipo (dati i costi notevoli per le lavorazioni meccaniche sia sulla canna sia sul proiettile), uno di calibro 2.8/2 cm (2.8 cm S PzB 41) ed uno di calibro 4/2.9 cm (4.2 cm PaK 41), entrambi costruiti in un numero molto limitato.
+
+Per quanto riguarda i lanciarazzi i tedeschi svilupparono due modelli diversi fra loro, entrambi utilizzabili da un singolo fante. Il primo era un lanciarazzi a perdere, il Panzerfaust, in cui il razzo era inserito su una canna metallica e, una volta lanciato, il complesso poteva essere abbandonato, invece il secondo Panzerschreck era chiaramente ispirato al bazooka statunitense.
+
+Oltre ai cannoni di produzione propria i tedeschi utilizzarono un gran numero di cannoni ottenuti come preda bellica, in particolare il cannone sovietico ZIS 3 76,2 mm Mod 1936 (7,62 cm FK 296(r) nella denominazione tedesca) ed il cannone cecoslovacco PUV vz 36 (4,7 cm PaK 36(t) nella denominazione tedesca). Entrambe queste bocche da fuoco furono utilizzate principalmente come cacciacarri, il 76,2 mm nei Marder II e Marder III ed il 47 mm nel Panzerjäger I.
+
+Gran Bretagna
+In Gran Bretagna, constatate le limitazioni del 2 libbre fu sviluppato un pezzo di 57 mm di calibro, il 6 pdr QF (6 libbre a tiro rapido), pesante 1112 kg in ordine di marcia e con velocità iniziale di 900 m/s e capace di perforare 69 mm di corazza a 915 m (1000 iarde). Questo pezzo, entrato in servizio nel 1942, si dimostrò molto valido, ed addirittura fu accreditato della distruzione di carri PzKpfw VI Tiger nella campagna di Tunisia. Dopo il 6 libbre fu ulteriormente aumentato il calibro producendo un pezzo da 76.2 mm (3 in), il 17 pdr QF, che si dimostrò estremamente poco maneggevole, considerando il peso di 2923 kg in ordine di combattimento, tuttavia aveva una grande potenza, con il suoi 950 m/s di velocità iniziale e la capacità di perforare 130 mm di corazza a 915 m. Un pezzo ancora maggiore (il 32 lb, 94 mm di calibro) non diede risultati soddisfacenti e non superò lo stadio di prototipo. Un pezzo avente compiti diversi, ma che dimostrò la sua validità anche in funzione controcarri, fu il cannone-obice 25 pdr QF (25 libbre, 87.6 mm di calibro), che diede risultati più che validi (penetrazione di 54 mm a 1000 m), nonostante fosse stato necessario produrre un munizionamento particolare, con una carica di lancio potenziata.
+
+L'unica arma individuale controcarri prodotta in Gran Bretagna fu il PIAT (Projector Infantry Antitank), che utilizzava l'energia elastica di una molla a spirale per attivare la carica di lancio del proiettile. La carica di lancio, agendo sulla barra che l'attivava, ricaricava a sua volta il mollone. Dato che, per armare il mollone, era necessario diverso tempo e l'impegno di due uomini, un colpo a vuoto (cioè se si scaricava il mollone senza che la carica di lancio esplodesse) rendeva l'arma inutilizzabile, essendo impensabile ricaricarla in presenza del nemico.
+
+Stati Uniti
+Gli Stati Uniti produssero poche armi destinate esclusivamente all'uso controcarri. In particolare produssero il M3 Antitank Gun 37 mm (cannone controcarri da 37 mm) ed il M1 Antitank Gun 57 mm. Il primo aveva la stessa bocca da fuoco del tedesco 3.7 cm PaK 35, montata su un affusto diverso, mentre il secondo era semplicemnete il 6 pdr britannico costruito su licenza, con l'unica modifica dell'eliminazione del parafiamma alla volata. L'unico pezzo di costruzione originale fu l'M5 Antitank Gun 3 in (di calibro 76.2 mm), costruito sulla bocca da fuoco del M3 Antiaircraft Gun 3 in su un affusto a code divaricabili. Con un peso di 2632 kg in ordine di marcia poteva essere spostato solo con difficoltà, ma con una velocità iniziale di circa 800 m/s riusciva a perforare una corazza da 84 mm a 1830 m (2000 iarde).
+
+Invece nel campo delle armi controcarro da fanteria fu prodotto l'ottimo bazooka, che, con un costo estremamente basso, fu prodotto in quasi 500.000 esemplari nel corso della guerra. Il bazooka praticamente rimase l'arma controcarri da fanteria più diffusa fino all'avvento del missili controcarri.
+
+Unione Sovietica
+Il pezzo più utilizzato in funzione controcarri dai sovietici fu il cannone-obice M36 76.2 mm, molto apprezzato anche dai tedeschi, che utilizzarono una grande quantità di pezzi catturati come Pak 36(r) 7,62 cm. Nel corso della guerra furono prodotte versioni rimodernate di questo cannone. Oltre a rimodernare questo pezzo furono prodotti pezzi da 85 mm e da 100 mm, utilizzati principalmente su scafo semovente.
+
+I mezzi semoventi (Cacciacarri)
+Da quanto detto per i cannoni trainati è chiaro che, nel corso della guerra, i calibri delle armi controcarri aumentarono notevolmente, e con i calibri aumentarono sia i pesi sia le dimensioni, quindi negli ultimi anni di guerra fu evidente la necessità di montare le artiglierie controcarri non più su affusti trainati, ma su affusti semoventi. Dato l'impiego di questi mezzi, che dovevano operare direttamente sulla linea del fronte, i mezzi dovevano essere forniti di una corazzatura tale da poter sostenere certamente il fuoco di armi leggere, ma spesso confrontabile con quella dei carri che dovevano contrastare.
+
+Foto di semoventi controcarri della seconda guerra mondiale
+
+Image:SdKfz142-1.jpg|Sturmgeschütz III Ausf. G seconda serie (Deutsches Panzermuseum Munster)
+Image:SdKfz162.jpg|Jagdpanzer IV (la colorazione non è originale) (Deutsches Panzermuseum Munster)
+Image:Jagdpanzer V Jagdpanther 1.jpg| Jagdpanzer V (Jagdpanther) (Deutsches Panzer Museum Munster)
+
+Il declino della specialità
+
+Dopo la seconda guerra mondiale apparve chiaro che la soluzione di usare artiglierie di grosso calibro per fermare i carri armati non era più quella ottimale, dato che, negli ultimi anni di guerra, il bazooka ed il Panzerfaust si erano dimostrati letali per i carri, tutto questo con un costo ed un ingombro che non erano neppure confrontabili con quelli di un cannone dello stesso calibro. D'altra parte il cacciacarri era stato reso obsoleto dal MBT (Main Battle Tank) che aveva tra le sue caratteristiche operative specifiche la capacità di contrastare mezzi similari. Comunque alcuni cacciacarri furono costruiti fino agli anni '80, due per l'Armata Rossa ed uno per la Bundeswehr (l'esercito della Repubblica Federale Tedesca).
+
+Nella Repubblica Federale Tedesca, appena ricostituite le forze armate dopo la guerra, si iniziò lo studio di una nuovo veicolo per contrasto ai carri armati, questo veicolo fu denominato JPZ 4-5, armato con un cannone da 90 mm derivato dall'armamento principale dei carri M47 ed M48 Patton (poteva usare il munizionamento di quei carri) fu costruito in 750 esemplari fra il 1965 ed il 1967. La linea di produzione fu riaperta in Belgio pochi anni dopo per la costruzione su licenza di altri 80 esemplari. Altri 370 scafi furono utilizzati per la costruzione del cacciacarri Jaguar 1, armato di missili HOT.
+
+In Unione Sovietica sono stati costruiti due cacciacarri, uno verso la fine degli anni '50 e presentato solo nel 1962, l'ASU 85, aviotrasportabile, derivato dal carro PT-76, armato con un cannone da 85 mm. Nonostante il suo peso limtato, non conservava le caratteristiche anfibie del PT-76, quindi poteva guadare corsi d'acqua non più profondi di 1 m. Precedente è l'ASU 57, presentato nel 1957, anche questo aviotrasportabile, con lo scafo in alluminio, armato con un cannone da 57 mm ad alta velocità alla bocca. Cannoni anticarro trainati sono ancora presenti negli organici delle divisioni russe, perlopiù in calibro 100 mm, in via di sostituzione con un 125 mm.
+
+La fine definitiva dell'artiglieria controcarri si ebbe con la guerra del Kippur, in cui l'impiego di missili controcarro da posizioni coperte inflisse severe perdite ai carri della IDF (Israel Defense Forces), che, in quel momento, era una delle forze carriste più addestrate del pianeta.
+
+Ad oggi (2006) la difesa dal carro armato non si basa più sui cannoni, ma sul missile anticarro sia come arma "individuale", sia come arma su veicoli con blindatura leggera. L'impegno dei carri con cannoni avviene solo da parte dei MBT, mentre la funzione tattica del cacciacarri, cioè la difesa ravvicinata della fanteria dai veicoli corazzati nemici, è assegnata agli elicotteri corazzati ed armati con razzi o missili controcarri.
+
+Bibliografia
+
+Le informazioni sull'artiglieria controcarri generalmente sono disperse entro opere più generaliste, in cui vengono trattate le artglierie di una certa epoca, ed è presente un capitolo sulle artiglierie anticarro. Di seguito sono date alcune indicazioni di massima.
+* Peter Chamberlain, Chris Ellis. Panzerjäger German self propelled anti-tank equipment and tank hunters, 1939-45. Londra, Almark Publications, febbraio 1971.
+* Cesare Falessi, Benedetto Pafi. Veicoli da combattimento dell'Esercito Italiano dal 1939 al 1945, parte III Descrizione tecnica dei semoventi. Intyrama books 1976. Per approfondire argomenti particolari.
+* Ian V. Hogg. The Guns 1939-45 (traduzione italiana di N. Pignato), I cannoni 1939-45, capitolo La lotta contro il carro armato. Ermanno Albertelli Editore, 1970
+* Ian V. Hogg. I mezzi corazzati capitolo Cacciacarri)
+* Alberto Pirella. Proiettili, cannoni, semoventi controcarro e trattori dell'esercito tedesco 1936-45. Intergest, 1976
+* Horst Scheibert. Sturmgeschütz 40 (L/43 & L/48). West Chester, Schiffer Military History, 1991.
+* Horst Scheibert. Hetzer (Jagdpanzer 38(t) and G-13). West Chester, Schiffer Military History, 1990.
+
+Note
+
+Voci correlate
+* Carro armato
+* Artiglieria
+* Missile controcarro
+* Armi da fuoco
+* Fucile anticarro
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 15:51:44 from:
+  http://it.wikipedia.org/wiki/Artiglieria_controcarri
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

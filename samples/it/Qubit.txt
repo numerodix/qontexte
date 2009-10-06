@@ -1,0 +1,233 @@
+Qubit, contrazione di quantum bit, è il termine coniato da Benjamin Schumacher per indicare il bit quantistico ovvero l'unità di informazione quantistica.
+
+L'unità di informazione codificata
+Per definire il qubit è indispensabile introdurre innanzi tutto un concetto nuovo ovvero il quanto di informazione. Con quanto di informazione si intende la più piccola porzione in cui una qualsiasi informazione codificata può essere scomposta ed è quindi l'unità di misura dell'informazione codificata.
+
+Così come il bit è il quanto di informazione della computazione classica, la computazione quantistica si basa su un concetto analogo: il quantum bit.
+
+Al pari del bit, il qubit è un oggetto matematico con determinate specifiche proprietà. Il vantaggio nel trattare i qubit come entità astratte risiede nella libertà di costruire una teoria generale della computazione quantistica che non dipende dagli specifici sistemi utilizzati per la sua realizzazione.
+
+I postulati della meccanica quantistica
+Per comprendere la computazione quantistica e, in particolare, il concetto di qubit non è necessario studiare la meccanica quantistica. Basta soltanto assimilare i suoi postulati dai quali è possibile determinare il modello computazionale.
+Ricordiamo che gli elementi forniti dalla fisica quantistica sono la sovrapponibilità degli stati, l'interferenza, l'intreccio e l'indeterminazione.
+
+Di seguito riportiamo i quattro postulati nella versione utile alla comprensione dell'articolo.
+
+Per una versione dettagliata e per approfondimenti vedi: Postulati della meccanica quantistica.
+
+Primo postulato
+Il primo postulato definisce l'ambito in cui si colloca la meccanica quantistica:
+
+1)	ad ogni sistema quanto-meccanico isolato è associato uno spazio vettoriale complesso munito di prodotto interno, cioè uno spazio di Hilbert, noto come spazio degli stati del sistema. Il sistema è completamente descritto dal suo vettore di stato che è un vettore unitario appartenente allo spazio degli stati.
+
+Secondo postulato
+Il secondo postulato definisce come lo stato di un sistema quanto-meccanico cambia nel tempo:
+
+2)	''L'evoluzione di un sistema quanto-meccanico isolato è descritto da una trasformazione unitaria. In altri termini lo stato
+\left| \psi \right\rangle
+del sistema all'istante
+t_1
+è collegato allo stato
+\left| \right\rangle
+all'istante
+t_2
+da un operatore unitario
+U\left( \right)
+ovvero dalla relazione:
+\left| \right\rangle = U\left| \psi \right\rangle
+.''
+
+Questo postulato richiede che il sistema descritto sia isolato. Ciò significa che non deve interagire in alcun modo con altri sistemi. Nella realtà ciò non accade mai perché ogni sistema (escludendo, ovviamente, l'intero universo) interagisce anche se in minima parte con altri sistemi.
+
+Comunque ci sono un buon numero di sistemi che possono essere descritti con buona approssimazione da un sistema isolato, la cui evoluzione può, pertanto, essere descritta da operatori unitari con approssimazione altrettanto buona.
+
+Ricordiamo che una trasformazione U è detta unitaria se U^\dagger U = I.
+
+Terzo postulato
+Il terzo postulato ci dice come effettuare delle misurazioni sul sistema e in quale stato il sistema si troverà dopo tali misurazioni:
+
+3) Le misurazioni di un sistema quanto-meccanico relative ad un fissato esperimento sono descritte da una collezione \left\ di operatori di proiezione agenti sullo spazio degli stati del sistema oggetto di misurazione. L'indice m fa riferimento ai valori da misurare risultanti dall'esperimento. Se lo stato del sistema quanto-meccanico è \left | \psi \right\rangle immediatamente prima della misurazione allora la probabilità che m sia il valore risultante è data da
+:p\left ( m \right) = \left\langle \psi \right |M_m^\dagger M_m \left | \psi \right\rangle
+e lo stato del sistema dopo la misurazione è
+:\frac.
+L'operatore di misurazione deve soddisfare l'equazione di completezza \sum_m = I che esprime la condizione che la somma delle probabilità sia pari a 1 indipendentemente dallo stato del sistema cioè
+:\sum_m = 1\forall \left | \psi \right\rangle.
+
+Quarto postulato
+Il quarto ed ultimo postulato ci dice come costruire lo spazio degli stati di un sistema composto a partire dallo spazio degli stati che lo compongono:
+
+4)	''Lo spazio degli stati di un sistema quanto-meccanico composto è il prodotto tensoriale degli spazi degli stati dei sistemi componenti. Inoltre, se
+\left| \right\rangle rappresenta lo stato dell'i-esimo sistema componente, lo stato del sistema composto sarà dato da \left | \right\rangle \otimes \left| \right\rangle \otimes \cdots \otimes \left| \right\rangle.''
+
+Proprietà del qubit
+Le proprietà di un qubit discendono dai postulati della meccanica quantistica.
+
+Di seguito ne elenchiamo le principali. Per una trattazione più dettagliata si faccia riferimento alla bibliografia.
+
+Il qubit è un vettore
+In accordo col primo postulato, un qubit è rappresentato da un vettore unitario di uno spazio di Hilbert.
+
+Così come il bit classico ammette due stati, cioè lo stato (0) e lo stato  (1) , altrettanto accade al qubit. Per analogia con il caso classico chiameremo questi due stati \left | 0 \right\rangle e \left | 1 \right\rangle. Ma grazie al principio di sovrapposizione, che emerge dal primo postulato, è anche possibile combinare linearmente i due stati \left | 0 \right\rangle e \left | 1 \right\rangle per ottenere lo stato di sovrapposizione:
+:\left | \psi \right\rangle = a\left | 0 \right\rangle + b\left | 1 \right\rangle
+in cui a e b sono due numeri complessi tali per cui
+\left | a \right|^2 + \left | b \right|^2 = 1.
+
+Detto in altri termini, lo stato di un qubit è un vettore unitario dello spazio degli stati hilbertiano di dimensione 2 in cui gli stati speciali \left | 0 \right\rangle e \left | 1 \right\rangle formano una base ortonormale detta base computazionale.
+
+Nel caso classico è sempre possibile esaminare un bit per determinare se esso sia nello stato  (0)  o nello stato  (1) . Di converso, nel caso quantistico, non è possibile esaminare un qubit per determinarne il suo stato, cioè per determinare i due coefficienti a e b.
+
+Il terzo postulato ci dice che è possibile acquisire una quantità più limitata di informazioni relative allo stato quantistico. Quando misuriamo lo stato di un qubit possiamo ottenere il risultato
+\left | 0 \right\rangle
+con una probabilità
+\left | a \right|^2
+o il risultato
+\left | 1 \right\rangle
+con probabilità
+\left | b \right|^2
+.
+
+Proviamo ad applicare le regole dettate dal terzo postulato in questo semplice ma significativo caso. Abbiamo già visto che la misurazione può avere soltanto due esiti definiti dai due operatori di misurazione
+M_0 = \left | 0 \right\rangle \left\langle 0 \right|,M_1 = \left | 1 \right\rangle \left\langle 1 \right|
+.
+
+Notiamo che ogni operatore di misurazione è hermitiano (M^\dagger = M) e che
+M_0^2 = M_0,M_1^2 = M_1
+e ciò ci garantisce che la condizione di completezza è soddisfatta.
+
+Supponiamo che lo stato oggetto di misurazione sia
+\left | \psi \right\rangle = a\left | 0 \right\rangle + b\left | 1 \right\rangle
+. Allora la probabilità di ottenere
+\left | 0 \right\rangle
+come risultato della misurazione è data da
+: p\left( 0 \right) = \left\langle \psi \right|M_0^\dagger M_0 \left | \psi \right\rangle = \left\langle \psi \right|M_0 \left | \psi \right\rangle = \left | a \right|^2 .
+Analogamente la probabilità di ottenere \left | 1 \right\rangle  è data da
+: p\left( 1 \right) = \left | b \right|^2 .
+
+Lo stato del sistema dopo la misurazione sarà, nel primo caso
+: \frac = \frac \left | 0 \right\rangle
+mentre nel secondo avremo
+: \frac = \frac \left | 1 \right\rangle
+dove i coefficienti  \frac
+
+e
+\frac
+
+sono fattori di fase che non incidono sullo stato del sistema e che possono essere, quindi, trascurati consentendoci di arrivare ai risultati attesi.
+
+Per vedere meglio quanto affermato facciamo uso di vettori e matrici per rappresentare in maniera tradizionale gli stati e gli operatori in gioco.
+Se definiamo
+: \left | 0 \right\rangle = \left \right
+e  \left | 1 \right\rangle = \left \right , allora  \left | \psi \right\rangle = \left \right
+.
+In questo modo i due operatori di proiezione diventano:
+:M_0 = \left | 0 \right\rangle \left\langle 0 \right| = \left \right\left \right = \left \right
+
+e
+: M_1 = \left | 1 \right\rangle \left\langle 1 \right| = \left \right\left \right = \left \right
+.
+La probabilità di ottenere
+\left | 0 \right\rangle
+sarà dunque
+: p\left( 0 \right) = \left\langle \psi \right|M_0 \left | \psi \right\rangle = \left \right\left \right\left \right = \left | a \right|^2
+
+che è quanto ci aspettavamo. Infine, lo stato del qubit dopo la misurazione sarà proprio
+: \frac
+= \frac
+\left \right\left \right = \frac
+\left \right = \frac
+\left | 0 \right\rangle
+.
+
+Quante informazioni possono essere rappresentate da un qubit?
+Paradossalmente ci sono un numero infinito di combinazioni lineari della base ortonormale così da permettere, almeno in linea di principio, la rappresentazione in un unico qubit di tutto lo scibile umano.
+
+Ma questa conclusione risulta erronea in virtù del comportamento del qubit in fase di misurazione. Va tenuto presente, infatti, che l'esito della misurazione dello stato di un qubit può essere soltanto
+\left | 0 \right\rangle
+oppure
+\left | 1 \right\rangle
+.
+Di più, la misurazione del qubit ne cambia inesorabilmente lo stato riducendo la sovrapposizione in uno dei due specifici stati rappresentati dai vettori della base computazionale così come prescritto dal terzo postulato.
+
+Quindi, dalla misurazione di un qubit, è possibile ottenere la stessa quantità di informazione rappresentabile con un bit classico. Questo risultato è stato dimostrato rigorosamente dal Teorema di Holevo.
+
+Sovrapposizione e entanglement contro il buon senso
+La capacità di un qubit di essere in uno stato di sovrapposizione che non possiamo nemmeno misurare va contro il nostro buon senso: il bit classico è come una moneta che, una volta lanciata, cadrà a terra mostrando inesorabilmente una delle due facce mentre il qubit può essere immaginato come una moneta che, una volta lanciata, cadrà a terra continuando a ruotare su sé stessa senza arrestarsi fino a che qualcuno non la schiacci con una mano bloccandone la rotazione e obbligandola finalmente a mostrare una delle sue facce.
+
+Tuttavia la natura continua dello stato del qubit (che permette l'esistenza degli stati di sovrapposizione) non è l'unica caratteristica distintiva del qubit rispetto al cugino classico.
+
+Nel pieno rispetto delle leggi della meccanica quantistica, una combinazione di più qubit è soggetta ad una caratteristica chiamata entanglement.
+
+Il termine inglese letteralmente significa "ingarbugliamento", "intreccio".
+
+Ma una buona interpretazione potrebbe essere "legatura" infatti, in condizione di entanglement, due qubit perdono la loro natura individuale per assumerne una unica di coppia. In tale condizione lo stato di un qubit influenza lo stato dell'altro e viceversa.
+
+Rappresentazione geometrica del qubit
+L'unico modo sinora individuato per fornire una efficace rappresentazione geometrica di un qubit, consiste nella cosiddetta Sfera di Bloch.
+Formalmente il qubit, in quanto punto di uno spazio vettoriale bidimensionale a coefficienti complessi, avrebbe quattro gradi di libertà ma la condizione di completezza da un lato e l'impossibilità di osservare il fattore di fase dall'altro riducono a 2 i suoi gradi di libertà.
+
+Dunque un qubit può essere rappresentato come punto sulla superficie di una sfera di raggio unitario.
+
+Ulteriori informazioni
+Gli "isotopi" del qubit
+Analogamente, nel contesto della terminologia dell'informatica quantistica, un sistema a 3-stati è chiamato qutrit e un sistema a d-stati, qudit. Gli stati sono convenzionalmente rappresentati con i simboli |0 \rangle , |1 \rangle , \dots e |d-1 \rangle . Nella spintronica, si usa il phit, bit di fase.
+
+Applicazioni pratiche
+
+*2001 - IBM all'Almaden Research Center crea un elaboratore quantistico a 7qubit (Composto da una sola molecola con 7 spin nucleari)
+*2005 - Fisici dell'University of Arizona sono riusciti a misurare direttamente le variazioni subite dalla lunghezza d'onda di un atomo a contatto con una superficie
+*Febbraio 2005 - Correlazione quantistica fra atomi artificiali
+*Nel dicembre del 2005 viene creato dagli scienziati dell'istituto di ottica quantistica e informatica quantistica dell'Università di Innsbruck in Austria il primo qubyte (8 qubit)
+* I ricercatori dell'Università di Harvard e il Georgia Institute of Technology riescono a trasferire informazione quantistica tra memorie quantistiche, da atomi a fotoni e viceversa.
+*Nel 2006 Peter Zoller, dell'Università di Innsbruck scopre un metodo per usare molecole polari criogeniche per rendere stabili le memorie quantistiche.
+*Ricercatori giapponesi sviluppano un metodo per contare singoli elettroni http://www.newscientisttech.com/article.ns?id=dn9343&print=true
+*Il 13 febbraio 2007 D-Wave Systems mostra pubblicamente quello che ritiene il primo computer quantistico adiabatico a 16 qubit.
+
+Note
+
+Voci correlate
+* Postulati della meccanica quantistica
+* Computazione quantistica
+* Algoritmi quantistici
+* Qutrit
+
+Bibliografia
+Computazione quantistica
+*Barenco, Adriano - Quantum Computation: an introduction (Introduction to quantum computation and information pag. 143)
+*Barenco, Adriano / Bennett, Charles H. / Di Vincenzo, David P. / Shor, Peter et al. - Elementary gates for quantum computation (Physical Rev. A vol. 52 n. 5 11/1995 pag. 3457)
+*Braunstein, Samuel - Quantum computation tutorial (http://www.sees.bangor.ac.uk/~schmuel/home.html)
+*Di Vincenzo, David - Quantum computation (Science vol. 270 10/1995 pag. 255)
+*Ekert, Artur - Basic concepts in quantum computation (http://xxx.sissa.it/pdf/quant-ph/0011013)
+*Ekert, Artur / Jozsa, Richard - Quantum computation and Shor's factoring algorithm (Rev. of Modern Physics vol. 68 n. 3 06/1996 pag. 733)
+*Lloyd, Seth - Calcolatori quantistici (Le Scienze Quaderni n. 112 02/2000 pag.80)
+*Nielsen, Michael A. / Chuang, Isaac L. - Quantum computation and quantum information
+*Rasetti, Mario - Dal bit al qubit: per sfidare la complessità (Le Scienze n. 385 09/2000 pag. 82)
+*Steane, Andrew - Quantum computing (http://xxx.sissa.it/pdf/quant-ph/9708022)
+
+Meccanica quantistica
+*Dirac, P. A. M. - Lectures on Quantum Mechanics
+*Ghirardi, Gian Carlo - Un'occhiata alle carte di Dio
+*Pauli, Wolfgang - Ottica e Teoria degli Elettroni
+*Spolskij, E. V. - Fisica atomica
+
+Computazione classica
+*Aho, Alfred V. / Ullman, Jeffrey D. - Fondamenti di informatica
+*Garey Michael R. / Johnson David S. - Computers and intractability
+*Lewis, Harry L. / Papadimitriou Christos H. - Elements of the theory of computation
+
+Matematica
+*Paul Halmos - Finite dimensional vector space
+*Halmos, Paul R. - Measure theory
+*Andrej Nikolaevič Kolmogorov - Foundations of the theory of probability
+*Kolmogorov, A. N. / Fomin, S. V. - Elementi di teoria delle funzioni e di analisi funzionale
+*Najmark, M. A. / Stern A. I. - Teoria delle rappresentazioni dei gruppi
+*Walters R. F. C. - Number theory: an introduction
+
+Collegamenti esterni
+* NMR Quantum Computation Project
+* archivio articoli della SISSA
+* Benjamin Schumacher Homepage
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 22:03:46 from:
+  http://it.wikipedia.org/wiki/Qubit
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

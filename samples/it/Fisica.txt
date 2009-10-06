@@ -1,0 +1,337 @@
+La fisica (dal neutro plurale latino physica, a sua volta derivante dal greco physikà, ovvero "le cose naturali", da physis, "natura") è la scienza della Natura nel senso più ampio. Scopo della fisica è lo studio dei fenomeni naturali, ossia di tutti gli eventi che possano essere descritti tramite grandezze fisiche, al fine di stabilire le leggi che regolano le interazioni tra le grandezze stesse e rendano conto delle loro reciproche variazioni. Quest'obiettivo è talvolta raggiunto attraverso la fornitura di uno schema semplificato, o modello, del fenomeno descritto.
+
+Originariamente una branca della filosofia, la Fisica è stata chiamata almeno fino al XVIII secolo filosofia naturale, solo in seguito alla codifica del metodo scientifico di Galileo Galilei, negli ultimi trecento anni si è talmente evoluta e sviluppata ed ha conseguito risultati di tale importanza da conquistarsi piena autonomia e autorevolezza.
+
+L'indagine fisica viene condotta seguendo il metodo scientifico, anche noto come metodo sperimentale: all'osservazione dei fenomeni segue la formulazione di ipotesi, la cui validità viene messa alla prova tramite degli esperimenti. Le ipotesi consistono nella spiegazione del fenomeno attraverso l'assunzione di principi fondamentali, in modo analogo a quanto viene fatto in matematica con assiomi e postulati. L'osservazione produce come conseguenza diretta le leggi empiriche.
+Se la sperimentazione conferma un'ipotesi, la relazione che la descrive viene detta legge fisica. Il ciclo conoscitivo prosegue con il miglioramento della descrizione del fenomeno conosciuto attraverso nuove ipotesi e nuovi esperimenti. Un insieme di leggi possono essere unificate in una teoria che faccia uso di principi che permettano di spiegare il maggior numero possibile di fenomeni, questo processo permette anche di prevedere nuove fenomeni che possono essere scoperti sperimentalmente.
+Le leggi e le teorie fisiche, come tutte le leggi scientifiche, sono sempre provvisorie, nel senso che sono considerate vere solo finché non vengono confutate, ossia se viene osservato il verificarsi di un fenomeno che esse predicono non possa mai accadere, o se le loro predizioni sui fenomeni si dimostrano errate. Infine, ogni teoria può essere sostituita da una nuova che permetta di predire gli stessi fenomeni, ma con una accuratezza superiore o in un contesto di validità più ampio.
+
+Cardine della fisica sono i concetti di grandezza fisica e misura: le grandezze fisiche sono ciò che è misurabile secondo criteri concordati (è stabilito per ciascuna grandezza un metodo di misura ed un'unità di misura). Le misure sono il risultato degli esperimenti. Le leggi fisiche sono quindi generalmente espresse come relazioni matematiche fra grandezze, verificate attraverso misure. I fisici studiano quindi in generale il comportamento e le interazioni della materia attraverso lo spazio e il tempo.
+
+Storia della fisica
+
+Concetti fondamentali di fisica
+
+Il metodo scientifico
+
+Il metodo scientifico è la modalità tipica con cui la scienza procede per raggiungere una conoscenza della realtà oggettiva, affidabile, verificabile e condivisibile. Esso consiste, da una parte, nella raccolta di evidenza empirica e misurabile attraverso l'osservazione e l'esperimento; dall'altra, nella formulazione di ipotesi e teorie da sottoporre nuovamente al vaglio dell'esperimento.
+
+Esso è stato applicato e codificato da Galileo Galilei nella prima metà del XVII secolo.
+Precedentemente l'indagine della natura consisteva nell'adozione di teorie che spiegassero i fenomeni naturali senza che fosse necessaria una verifica sperimentale delle teorie stesse che venivano considerate vere in base al principio di autorità.
+
+Il metodo sperimentale moderno richiede, invece, che le teorie fisiche debbano fondarsi sull'osservazione dei fenomeni naturali, debbano essere formulate come relazioni matematiche e che debbano essere messe alla prova tramite esperimenti:
+
+Il percorso seguito per arrivare alla stesura di una legge scientifica (e in particolare di una legge fisica) a partire dall'osservazione di un fenomeno si articola nei seguenti passi, ripetuti ciclicamente:
+
+# Osservazione di un fenomeno fisico. Un fenomeno fisico è un qualsiasi evento in cui siano coinvolte delle grandezze fisiche, ossia delle proprietà di un corpo che siano misurabili.
+# Elaborazione di un'ipotesi esplicativa e formulazione di una previsione da verificare che segua l'ipotesi elaborata. L'ipotesi viene solitamente formulata semplificando la situazione reale in modo tale da individuare delle relazioni tra le grandezze semplici da verificare, queste sono di solito indicate con l'espressione condizioni ideali (un esempio, nel caso dell'esperimento del piano inclinato è l'assunzione che la forza di attrito sia trascurabile).
+# Esecuzione di un esperimento. L'esperimento consiste nella ripetizioni in condizioni controllate di osservazioni di un fenomeno fisico e nell'esecuzione di misure delle grandezze coinvolte nel fenomeno stesso.
+# Analisi e interpretazione dei risultati (conferma o smentita dell'ipotesi iniziale)
+
+Dato che le condizioni in cui viene svolto l'esperimento non sono mai ideali, al contrario di quanto supposto dalle ipotesi, è spesso necessario svolgere un elevato numero di misure e analizzare i risultati con metodi statistici.
+
+Nel caso in cui l'ipotesi sia confermata la relazione che essa descrive diviene una legge fisica, essa è ulteriormente sviluppabile attraverso:
+
+* Elaborazione di un modello matematico
+* Unificazione di leggi simile in una teoria di validità generale
+* Previsione di nuovi fenomeni naturali
+
+Ogni osservazione di un fenomeno costituisce un caso a sé stante, una particolare istanza del fenomeno osservato. Ripetere le osservazioni vuol dire moltiplicare le istanze e raccogliere altri fatti, cioè altre "misure". Le diverse istanze saranno certamente diverse l’una dall’altra nei dettagli (ad esempio a causa di errori sperimentali), anche se nelle loro linee generali ci indicano che il fenomeno, a parità di condizioni, tende a ripetersi sempre allo stesso modo.
+
+Per ottenere un risultato di carattere generale, occorre sfrondare le varie istanze dalle loro particolarità e trattenere solo quello che è rilevante e comune ad ognuna di esse, fino a giungere al cosiddetto modello fisico.
+
+Se l'ipotesi è smentita allora essa viene rigettata ed è necessario formulare una nuova ipotesi e ripercorrere il percorso precedente.
+
+Il ciclo conoscitivo proprio del metodo scientifico è di tipo induttivo: un procedimento che partendo da singoli casi particolari cerca di stabilire una legge universale.
+Nella prima metà del XX secolo, il filosofo e logico inglese Bertrand Russell e il filosofo austriaco Karl Popper sollevarono delle obiezioni riguardo al metodo dell'induzione. L'induzione non ha consistenza logica perché non si può formulare una legge universale sulla base di singoli casi; ad esempio, l'osservazione di uno o più cigni dal colore bianco non autorizza a dire che tutti i cigni sono bianchi; esistono infatti anche dei cigni di colore nero. Popper osservò che nella scienza non basta "osservare": bisogna saper anche cosa osservare. L'osservazione non è mai neutra ma è sempre intrisa di teoria, di quella teoria che, appunto, si vorrebbe mettere alla prova. Secondo Popper, la teoria precede sempre l'osservazione: anche in ogni approccio presunto "empirico", la mente umana tende inconsciamente a sovrapporre i propri schemi mentali, con le proprie categorizzazioni, alla realtà osservata.
+
+Il metodo sperimentale non garantisce quindi che una legge fisica possa essere verificata in modo definitivo, ma si può limitare solamente a fornire la prova della falsità di un'ipotesi.
+
+Misure
+
+La misura è il processo che permette di conoscere una qualità di un determinato oggetto (ad esempio la lunghezza o la massa) dal punto di vista quantitativo, tramite un'unità di misura, cioè una grandezza standard che, presa N volte, associ un valore univoco alla qualità da misurare. La branca della fisica che si occupa della misurazione delle grandezze fisiche è chiamata metrologia. Il suo scopo è quello di definire alcune grandezze fisiche indipendenti, dette fondamentali, dalle quali è possibile ricavare tutte le altre (che sono dette derivate), di definire i corretti metodi di misurazione e di costruire i campioni delle unità di misura adottate, in modo da avere un valore standard a cui fare riferimento in qualsiasi momento.
+
+Il sistema di unità di misura universalmente accettato dai fisici è il Sistema Internazionale (SI): esso è basato su sette grandezze fondamentali, dalle quali derivano tutte le altre, ovvero:
+
+* il metro (m), per le misure di lunghezza;
+* il secondo (s), per gli intervalli di tempo;
+* il chilogrammo (kg), per le misure della massa;
+* l'ampere (A), per le intensità di corrente;
+* il kelvin (K), per le misure di temperatura;
+* la mole (mol), per la quantità di sostanza;
+* la candela (cd), per l'intensità luminosa.
+
+Questo sistema di misurazione deriva direttamente dal sistema MKS, il quale ha come grandezze fondamentali solamente il metro, il secondo e il chilogrammo ed è stato sostituito con il sistema attuale poiché non sono considerati anche i fenomeni termodinamici, elettromagnetici e fotometrici
+
+Altri sistemi usati in passato sono stati il sistema CGS, in cui le unità fondamentali sono il centimetro, il grammo e il secondo e il Sistema imperiale britannico (o anglosassone). Inoltre negli USA si utilizza attualmente il Sistema consuetudinario statunitense, derivato dal Sistema imperiale britannico.
+
+Gli errori sperimentali
+
+In ogni procedimento di misura di una grandezza fisica, la misura è inevitabilmente accompagnata da un'incertezza o errore sul valore misurato. Una caratteristica fondamentale degli errori che influenzano le misure di grandezze fisiche è la sua ineliminabilità, ossia una misura può essere ripetuta molte volte o eseguita con procedimenti o strumenti migliori, ma in ogni caso l'errore sarà sempre presente. L'incertezza fa parte della natura stessa dei procedimenti di misura. In un esperimento, infatti, non è mai possibile eliminare un gran numero di fenomeni fisici che possono causare dei disturbi alla misura, cambiando le condizioni nelle quali si svolge l'esperimento.
+Una misura può quindi fornire solamente una stima del valore vero di una grandezza coinvolta in un fenomeno fisico.
+
+Le incertezze che influenzano una misura sono solitamente suddivise a seconda delle loro caratteristiche in:
+
+* incertezze casuali. Quando la loro influenza sulla misura è completamente imprevedibile e indipendente dalle condizioni in cui si svolge la misura stessa. Queste incertezze influenzano la misura in modo casuali, ossia conducono alcune volte ad una sovrastima del valore della grandezza misurata, altre volte ad una sottostima. Misure affette solo da errori casuali possono essere trattate con metodi statistici in quanto si distribuiscono intorno al valore vero secondo la distribuzione gaussiana (o distribuzione normale).
+* incertezze sistematiche. Le incertezze sistematiche influenzano una misura sempre in uno stesso senso, ossia conducono sempre a una sovrastima o ad una sottostima del valore vero. Sorgenti comuni di errori sistematici possono essere: errori di taratura di uno strumento o errori nel procedimento di misura. Contrariamente agli errori casuali, le incertezze sistematiche possono essere eliminate anche se la loro individuazione è difficile, infatti è possibile osservare l'effetto di incertezze sistematiche solo conoscendo a priori il valore vero della grandezza che si intende misurare o confrontando i risultati di misure svolte con strumenti e procedimenti diversi.
+
+Nell'immagine a lato è rappresentato l'effetto delle incertezze su di una misura per analogia con il gioco delle freccette. Il valore vero della grandezza è il centro del bersaglio, ogni tiro (puntini blu) rappresenta una misura.
+
+Quando si fa una misura, quindi, si deve procedere alla stima dell'incertezza ad essa associata, o, in altre parole, alla stima dell'errore sulla misura. Ogni misura deve essere quindi presentata accompagnata dalla propria incertezza segnalata dal segno di ± e dalla relativa unità di misura:
+G = (l \pm \sigma) u.m.
+In cui G è il simbolo relativo alla grandezza misurate, l è la stima del valore della misura, \sigma è l'incertezza e u.m. è l'unità di misuraAd esempio, per presentare la misura della lunghezza del lato di un tavolo si può scrivere:
+L = (0,24 \pm 0,02) m .
+
+Quando una misura viene ripetuta molte volte è possibile valutare le incertezze casuali calcolando la deviazione standard delle misure (di solito indicata con la lettera greca, \sigma), la stima del valore vero di ottiene invece calcolando la media aritmetica dei valori delle misure. Se le misure sono ripetute poche volte si utilizza come incertezza la risoluzione dello strumento. L'incertezza deve fornire un intervallo di valori in cui, secondo la misura condotta dallo sperimentatore, cade il valore vero della misura secondo un certo livello di confidenza.
+
+Ci si può servire dell'incertezza assoluta per quantificare la precisione della misura, il valore dell'incertezza con la relativa unità di misura è detto incertezza assoluta, l'incertezza relativa si calcola come il rapporto fra la grandezza e la sua incertezza assoluta. L'incertezza relativa è un numero adimensionale (ossia senza unità di misura). È possibile esprimere l'incertezza relativa anche con una percentuale.
+
+Le incertezze si propagano quando i dati afflitti da incertezze vengono utilizzati per effettuare successivi calcoli (come ad esempio il calcolo dell'area di un tavolo a partire dalla lunghezza dei suoi lati), secondo delle precise regole dette della propagazione delle incertezze.
+
+Infine, bisogna notare che in Fisica classica in linea di principio gli errori possono essere sempre ridotti (idealmente fino ad un valore piccolo a piacere), mentre in meccanica quantistica questo non è possibile a causa del principio di indeterminazione di Heisenberg.
+
+Modello
+
+Il modello fisico è una versione approssimata del sistema effettivamente osservato. Il suo impiego indiscriminato presenta dei rischi, ma ha il vantaggio di una maggiore generalità e quindi dell’applicabilità a tutti i sistemi simili al sistema in studio.
+
+La costruzione del modello fisico è la fase meno formalizzata del processo conoscitivo, che porta alla formulazione di leggi quantitative e di teorie. Il modello fisico ha la funzione fondamentale di ridurre il sistema reale, e la sua evoluzione, ad un livello astratto ma traducibile in forma matematica, utilizzando definizioni delle grandezze in gioco e relazioni matematiche che li leghino. Tale traduzione può essere portata a termine anche attraverso l'uso del calcolatore, con programmi detti di simulazione, con i quali si studiano i fenomeni più disparati.
+
+Il modello matematico, che ovviamente si colloca ad un livello di astrazione ancora superiore a quello del modello fisico, ovvero al massimo livello di astrazione nel processo conoscitivo, è costituito normalmente da equazioni differenziali che, quando non siano risolvibili in maniera esatta, devono essere semplificate opportunamente o risolte, più o meno approssimativamente, con metodi numerici (al calcolatore). Si ottengono in questo modo delle relazioni analitiche o grafiche fra le grandezze in gioco, che costituiscono la descrizione dell’osservazione iniziale.
+
+Tali relazioni, oltre a descrivere l’osservazione, possono condurre a nuove previsioni. In ogni caso esse sono il prodotto di un processo che comprende diverse approssimazioni:
+
+# nella costruzione del modello fisico
+# nelle relazioni utilizzate per costruire il modello matematico
+# nella soluzione del modello matematico.
+
+La soluzione del modello matematico va quindi interpretata tenendo conto delle varie approssimazioni che sono state introdotte nello studio del fenomeno reale, per vedere con quale approssimazione riesce a rendere conto dei risultati dell’osservazione iniziale e se le eventuali previsioni si verificano effettivamente e con quale precisione. Questo può venire confermato solo dall’esperienza, creando una sorta di schema in retroazione, che è il ciclo conoscitivo.
+
+Spazio e Tempo
+
+Il tempo e lo spazio sono delle grandezze fondamentali della fisica, assieme a massa, temperatura, quantità di sostanza, intensità di corrente, e intensità luminosa: tutte le grandezze della fisica sono riconducibili a queste ultime.
+
+L'unità di misura del tempo è il secondo, che è definito come la durata di 9 192 631 770 periodi della radiazione corrispondente alla transizione tra due livelli iperfini, da (F=4, MF=0) a (F=3, MF=0), dello stato fondamentale dell'atomo di cesio-133, mentre il metro è l'unità fondamentale dello spazio ed è definito come la distanza percorsa dalla luce nel vuoto in un intervallo di tempo pari a 1/299 792 458 di secondo.
+
+Prima del '900 i concetti di spazio e di tempo erano considerati assoluti e indipendenti: si pensava che lo scorrere del tempo e le estensioni spaziali dei corpi fossero indipendenti dallo stato di moto dell'osservatore che le misurava, ovvero dal sistema di riferimento scelto. Dopo l'avvento della teoria della relatività di Einstein i fisici dovettero cambiare opinione: le lunghezze e gli intervalli temporali misurati da due osservatori in moto relativo l'uno rispetto all'altro, possono risultare più o meno dilatati o contratti, mentre esiste un'entità, l'intervallo di Minkowski, che è invariante e se misurata da entrambi gli osservatori fornisce il medesimo risultato; quest'entità è costituita dalle 3 coordinate spaziali più una quarta, quella temporale, che rendono questo oggetto appartenente ad uno spazio a 4 dimensioni. Così facendo, lo spazio e il tempo non sono più due quantità fisse e indipendenti tra loro, ma sono correlate tra loro e formano un'unica e nuova base su cui operare, lo spazio-tempo.
+
+Con la relatività generale, poi, lo spazio-tempo viene deformato dalla presenza di oggetti dotati di massa.
+
+Massa
+
+La massa è una grandezza fisica fondamentale. Essa ha come unità di misura nel Sistema internazionale il chilogrammo e viene definita nella meccanica newtoniana come la misura dell'inerzia offerta dai corpi al cambiamento del proprio stato di moto. Nella teoria della gravitazione universale di Newton svolge inoltre il ruolo di carica della forza gravitazionale. Questa doppia definizione della massa viene unita nella teoria della relatività di Einstein, tramite il principio di equivalenza, ed inoltre essa viene legata all'energia di un corpo tramite la formula E = mc².
+
+Forza e Campo
+
+Nell'ambito della fisica, la forza viene definita come la variazione della quantità di moto nel tempo. Nel caso in cui la massa del corpo sia costante, la forza esercitata su un corpo è pari al prodotto della massa stessa per l'accelerazione del corpo.
+
+In formule:
+
+: \vec F= \frac=m\vec a
+
+La forza esprime quantitativamente l'interazione di due corpi. L'interazione tra i corpi può avvenire attraverso una cosiddetta "area di contatto" (spesso assimilabile ad un punto) oppure può manifestarsi a distanza, attraverso quello che viene definito campo di forze.
+Il concetto di campo di forze può essere chiarito se si pensa alla natura vettoriale della forza: la forza infatti viene descritta dal punto di vista matematico da un vettore, per cui un campo di forze è descritto in matematica come un campo vettoriale, cioè il campo di forze indica punto per punto la direzione, il verso e il modulo (o intensità) della forza che viene esplicata tra due corpi. Il campo di forze può essere visualizzato tramite le sue linee di campo o le linee di flusso.
+
+Alcuni esempi di campi di forze sono: il campo magnetico, il campo elettrico e il campo gravitazionale.
+
+Teorie della fisica
+
+La fisica si compone di più branche che sono specializzate nello studio di diversi fenomeni oppure che sono caratterizzate dall'utilizzo estensivo delle stesse leggi di base. In base a quest'ultima classificazione si può distinguere le fisica classica da quella moderna, poiché quest'ultima fa uso continuamente delle teorie relativistiche e della meccanica quantistica, che non sono invece parte delle teorie cosiddette classiche.
+
+Fisica classica
+
+La fisica classica studia tutti i fenomeni che possono essere spiegati senza ricorrere alla relatività generale e alla meccanica quantistica. Le teorie principali che la compongono sono la meccanica classica (in cui si ricomprende l'acustica), la termodinamica, l'elettromagnetismo (in cui si ricomprende l'ottica) e la teoria newtoniana della gravità. Sostanzialmente tutte le teorie che sono state prodotte prima dell'inizio del XX secolo fanno parte della fisica classica. Le leggi della fisica classica, nonostante non siano in grado di spiegare alcuni fenomeni, come la precessione del perielio di Mercurio, o l'effetto fotoelettrico, tuttavia sono in grado di spiegare gran parte dei fenomeni che si possono osservare sulla terra. Le teorie, invece, falliscono quando è necessario spingersi oltre i limiti di validità delle stesse, ovvero nelle scale atomiche e subatomiche, o in quello dei corpi molto veloci, per cui è necessario fare ricorso alle leggi della fisica moderna.
+
+La fisica classica utilizza un numero relativamente ridotto di leggi fondamentali che a loro volta si basano su una serie di principi assunti alla base della teoria. Fra questi quelli più importanti sono i concetti di spazio assoluto e tempo assoluto che sono poi alla base della relatività galileiana. Molto importanti sono anche i principi di conservazione.
+
+Fisica moderna
+
+La fisica moderna studia tutti quei fenomeni che avvengono a scala atomica e subatomica o dove le velocità sono prossime a quelle della luce; le teorie principali che la costituiscono sono la meccanica quantistica e la relatività generale. Fanno parte di questa categoria tutte le teorie che sono state prodotte prodotte a partire dal XX secolo, per cercare di spiegare alcuni fenomeni che le teorie classiche non riescono a dimostrare.
+
+Queste nuove teorie hanno completamente rivisto le idee e i concetti che l'uomo ha sempre avuto fin dai tempi più antichi: infatti lo spazio e il tempo non sono più considerati assoluti, ma sono relativi al sistema di riferimento che si sceglie, e non sono separati, ma formano un'unica entità chiamata spazio-tempo. Anche il concetto di misura viene completamente rivisto, in quanto con il principio di indeterminazione si stabilisce che non è possibile misurare, con precisione arbitraria, simultaneamente due grandezze.
+
+Branche della fisica
+
+Fisica dello stato solido
+
+La fisica dello stato solido è la più ampia branca della fisica della materia condensata e riguarda lo studio delle proprietà dei solidi, sia elettroniche, che meccaniche, ottiche e magnetiche.
+
+Il grosso della ricerca teorica e sperimentale della fisica dello stato solido è focalizzato sui cristalli, sia a causa della loro caratteristica struttura atomica periodica, che ne facilita la modellizzazione matematica, che per il loro ampio utilizzo tecnologico.
+
+Con il termine stato solido in elettronica ci si riferisce in generale a tutti i dispositivi a semiconduttore. A differenza dei dispositivi elettromeccanici, quali ad esempio i relè, i dispositivi a stato solido non hanno parti meccaniche in movimento. Il termine viene utilizzato anche per differenziare i dispositivi a semiconduttore dai primi dispositivi elettronici: le valvole ed i diodi termoionici.
+
+Il punto di partenza di gran parte della teoria nell'ambito della fisica dello stato solido è la formulazione di Schrödinger della meccanica quantistica non relativistica. La teoria si colloca generalmente all'interno dell'approssimazione di Born - Oppenheimer e dalla struttura periodica del reticolo cristallino si ricavano le condizioni periodiche di Born-von Karman ed il Teorema di Bloch, che caratterizza la funzione d'onda nel cristallo. Le deviazioni dalla periodicità sono trattate ampiamente tramite approcci perturbativi o con altri metodi più innovativi, quali la rinormalizzazione degli stati elettronici.
+
+Fisica nucleare
+
+La fisica nucleare è la branca della fisica che studia il nucleo atomico nei suoi costituenti protoni e neutroni e le loro interazioni.
+
+La fisica nucleare si distingue dalla fisica atomica che invece studia l'atomo, sistema composto dal nucleo atomico e dagli elettroni.
+
+La fisica nucleare si distingue a sua volta dalla fisica delle particelle o fisica subnucleare che invece ha come oggetto lo studio delle particelle più piccole del nucleo atomico. La fisica delle particelle o subnucleare è stata per molto tempo considerata una branca della fisica nucleare. Il termine fisica subnucleare sta cadendo in disuso poiché si riferiva allo studio di particelle interne al nucleo, mentre oggi la maggior parte delle particelle note non sono costituenti nucleari.
+
+L'energia nucleare è la più comune applicazione della fisica nucleare, ma il campo di ricerca è anche alla base di molte altre importanti applicazioni, come in medicina (medicina nucleare, risonanza magnetica nucleare), in scienza dei materiali (implantazioni ioniche) o archeologia (radiodatazione al carbonio).
+
+Fisica delle particelle elementari
+
+La fisica delle particelle è la branca della fisica che studia i costituenti fondamentali e le interazioni fondamentali della materia. Talvolta viene anche usata l'espressione fisica delle alte energie, quando si vuole far riferimento allo studio delle interazioni tra particelle elementari che si verificano ad altissima energia e che permettono di creare particelle non presenti in natura in condizioni ordinarie, come avviene con gli acceleratori di particelle.
+
+In senso stretto, il termine particella non è del tutto corretto. Gli oggetti studiati dalla Fisica delle particelle, obbediscono ai principi della meccanica quantistica. Come tali, mostrano una dualità onda-corpuscolo, in base alla quale manifestano comportamenti da particella sotto determinate condizioni sperimentali e comportamenti da onda in altri. Teoricamente, non sono descritte né come onde né come particelle, ma come vettori di stato in un'astrazione chiamata spazio di Hilbert.
+
+Astrofisica
+
+L'astrofisica è una scienza che applica la teoria e i metodi delle altre branche della fisica per studiare gli oggetti di cui è composto l'universo, quali ad esempio le stelle, i pianeti, le galassie e i buchi neri.
+
+L'astrofisica si differenzia dall'astronomia in quanto l'astronomia si pone come obiettivo la comprensione dei movimenti degli oggetti celesti, mentre l'astrofisica tenta di spiegare l'origine, l'evoluzione e il comportamento degli oggetti celesti stessi. Un'altra disciplina con cui l'astrofisica è intimamente correlata è la cosmologia, che ha come oggetto di studio l'origine dell'universo.
+
+I telescopi spaziali (tra cui va ricordato il telescopio spaziale Hubble) sono strumenti indispensabili alle indagini dell'astrofisica: grazie ad essi gli astrofisici hanno trovato conferma di molte teorie sull'universo.
+
+Fisica sanitaria
+
+La fisica sanitaria è un'attività che riguarda, in generale, tutti i settori della fisica applicata alla medicina e alla radioprotezione. Più in particolare, le strutture di fisica sanitaria ospedaliere si occupano, in prevalenza, dell'impiego delle radiazioni ionizzanti e non ionizzanti (diagnostica per immagini, radioterapia, medicina nucleare, ...), ma anche di informatica, di modellistica, ecc.
+
+Fisica matematica
+
+La fisica matematica è quella disciplina scientifica che si occupa delle applicazioni della matematica ai problemi della fisica e dello sviluppo di metodi matematici adatti alla formulazione di teorie fisiche ed alle relative applicazioni.
+
+In tempi recenti l'attività dei fisici matematici si è concentrata principalmente sulle seguenti aree:
+* teoria quantistica dei campi: con particolare riferimento alla costruzione di modelli;
+* meccanica statistica: in particolare la teoria delle transizioni di fase;
+* meccanica quantistica (operatore di Schrödinger): con i collegamenti a quell'insieme di discipline che spesso vengono indicate come fisica dello stato solido;
+* teoria dei sistemi dinamici non lineari: in particolare i sistemi caotici e i sistemi hamiltoniani completamente integrabili (e le perturbazioni di questi ultimi), anche infinito-dimensionali (equazioni solitoniche);
+* teorie relativistiche del campo gravitazionale: incluse le applicazioni alla cosmologia e i tentativi di costruire una teoria quantistica della gravità.
+
+Geofisica
+
+La geofisica (anche detta fisica terrestre) è in generale l'applicazione di misure e metodi fisici allo studio delle proprietà fisiche del pianeta Terra.
+
+La geofisica è una scienza di tipo preminentemente sperimentale, che condivide il campo di applicazione sia con la fisica che con la geologia e comprende al suo interno diverse branche, quali ad esempio:
+*meteorologia
+*climatologia
+*oceanografia
+*geomagnetismo
+*fisica dell'atmosfera
+*sismologia.
+
+La geofisica applicata studia la parte solida più superficiale della Terra e rivolge il suo campo di ricerche all'individuazione di strutture idonee per l'accumulo di idrocarburi, nonché alla risoluzione di problemi nel campo dell'ingegneria civile, ingegneria idraulica, ingegneria mineraria ed per l'individuazione di fonti di energia geotermica.
+Le prospezioni geofisiche (prospezioni sismiche, elettriche, elettromagnetiche, radiometriche, gravimetriche) rappresentano alcuni metodi fisici utilizzati nel campo dell'esplorazione geologica.
+
+I rapporti con le altre discipline scientifiche e umanistiche
+
+Informatica
+
+I computer vengono utilizzati in più fasi del processo conoscitivo: durante la fase di osservazione possono essere utilizzati ad esempio per effettuare un campionamento delle misurazioni, ovvero il valore della grandezza da misurare viene letto ad intervalli determinati, in modo da avere più misure in un ristretto lasso di tempo. Il calcolatore può svolgere anche la funzione di strumento registratore: i dati relativi all'osservazione vengono ad essere archiviati per lo svolgimento di operazioni successive di valutazione e/o confronto con altri dati. L'intero sistema per la misurazione, il trattamento e la registrazione dei dati, costituito dal calcolatore e da strumentazioni specifiche ad esso interfacciate, viene denominato sistema di acquisizione dati (o DAQ).
+
+Gli strumenti informatici possono quindi fungere da "strumento" durante le diverse fasi dell'esperienza, ma possono anche andare oltre, costituendo un vero e proprio sistema virtuale, che sostituisce e "imita" il sistema fisico reale; si parla in questo caso di simulazione del processo in esame. Il sistema simulato presenta il vantaggio rispetto al sistema reale di avere un controllo su tutti gli elementi di disturbo che influenzano il fenomeno studiato; d'altra parte è necessaria una precedente conoscenza del modello matematico associato al modello fisico per la creazione del modello simulato. La simulazione quindi affianca in primis l'osservazione diretta durante il processo conoscitivo, con lo scopo di convalidare il modello matematico ipotizzato, e una volta che la corrispondenza tra modello fisico e modello simulato è stata accertata, è possibile utilizzare la simulazione per effettuare delle stime in condizioni contemplate dal modello matematico, ma che sono differenti da quelle in cui è avvenuta la precedente osservazione diretta.
+
+Statistica
+
+Gli strumenti della statistica sono utilizzati durante la fase di rilevamento dei dati a partire dal modello fisico e nella fase successiva di trattamento dei dati.
+
+Particolarmente utile nella prima fase di rilevamento dei dati è la metodica del campionamento statistico (in inglese sampling), che consiste nel selezionare una particolare serie di dati all'interno dell'intervallo di condizioni studiate.
+
+Una volta ottenuti i dati, viene effettuata la cosiddetta analisi di regressione, che permette di ottenere dall'insieme di dati più o meno sparsi (in quanto affetti da errori di varia natura) una relazione matematica precisa. Nel caso più semplice in cui la relazione matematica tra i dati venga rappresentata da una retta, si parla di regressione lineare.
+
+Filosofia
+
+Prima dell'avvento del metodo scientifico, l'interpretazione dei fenomeni naturali era riservato alla filosofia, per cui per lungo tempo la fisica fu denominata "filosofia naturale".
+
+Tra i primi tentativi di descrivere la materia in ambito filosofico, si ricorda Talete.
+Successivamente Democrito tentò di descrivere la materia attraverso i concetti di vuoto e atomo.
+
+Matematica
+
+Nel testo Il Saggiatore del 1623, Galileo Galilei afferma:
+
+In generale, gli elementi che caratterizzano il modello matematico di un sistema fisico sono due: lo spazio degli stati e la dinamica. Il primo è un insieme che contiene tutti i possibili stati in cui il sistema si può trovare, dove per stato si intende una collezione di grandezze fisiche che, se conosciute in un certo istante, sono sufficienti per predire come evolverà il sistema, cioè quali stati saranno occupati negli istanti futuri; ad esempio, per un sistema meccanico di n particelle libere di muoversi nello spazio, uno stato è un insieme di 6n numeri reali, 3n per le posizioni (3 coordinate per ogni particella), e i restanti 3n per le velocità (3 componenti per ogni particella). Lo spazio degli stati può essere molto complicato, sia geometricamente (ad esempio nella meccanica dei sistemi vincolati e nella teoria della relatività generale, dove in genere è una varietà differenziale, i.e. uno spazio "curvo") che analiticamente (ad esempio in meccanica quantistica, dove è uno spazio di Hilbert proiettivizzato, i.e. l'insieme delle rette passanti per l'origine in uno spazio di Hilbert). La dinamica, invece, è la legge che, dato uno stato iniziale, descrive l'evoluzione del sistema. Solitamente, è data in forma differenziale, cioè collega lo stato in un certo istante a quello in un istante successivo "infinitamente vicino" nel tempo.
+
+Le più grandi rivoluzioni della fisica moderna (la teoria della relatività generale, la meccanica quantistica e la teoria quantistica dei campi) si possono ricondurre alla inadeguatezza degli spazi degli stati che si incontrano nella fisica classica a descrivere i nuovi fenomeni sperimentali riscontrati verso la fine del 1800 e l'inizio del 1900 ( l'esperimento di Michelson-Morley e i vari esperimenti in cui si presentano fenomeni quantistici, tra cui, l'esperimento della doppia fenditura, il corpo nero, l'effetto fotoelettrico e l'effetto Compton).
+
+Le maggiori aree della matematica che forniscono strumenti utili allo studio sia della forma dello spazio degli stati che della dinamica sono:
+
+* topologia, topologia algebrica e differenziale: giocano un ruolo in quasi tutte le branche della fisica, dalla meccanica classica, alla teoria quantistica dei campi e le teorie delle stringhe;
+* geometria differenziale: ha forti applicazioni nella modellazione dei sistemi meccanici classici, nella teoria della relatività generale e nelle moderne teorie delle stringhe;
+* analisi funzionale: permette di formalizzare la meccanica quantistica, sta alla base dei tentativi di formalizzazione della teoria quantistica dei campi (assieme, recentemente, alla geometria non commutativa), ed è il principale mezzo di studio delle equazioni differenziali alle derivate parziali che si incontrano un po' ovunque in fisica (equazione di Hamilton-Jacobi, equazione di Poisson, equazione delle onde, equazione del calore e molte altre ancora);
+* algebra: la teoria dei gruppi entra in gran parte della fisica (ogni volta che ci sono delle simmetrie nel sistema in studio), ma gioca un ruolo particolarmente rilevante nella meccanica quantistica. Il prodotto tensoriale degli spazi tangenti e dei loro duali sono usati per definire dei particolari fibrati vettoriali che svolgono un ruolo importante in geometria differenziale e quindi in tutte le branche della fisica ad essa legate. Ci sono poi le algebre di Clifford e la teoria dei spinori, usate nello studio degli operatori ellittici e di Dirac e quindi nella teoria quantistica dei campi e nelle teorie delle stringhe;
+* teoria della misura, teoria della probabilità e teoria ergodica: nella meccanica statistica.
+
+Chimica
+
+La fisica è strettamente connessa alla chimica (la scienza delle molecole) con cui si è sviluppata di pari passo nel corso degli ultimi due secoli. La chimica prende molti concetti dalla fisica, soprattutto nei campi di termodinamica, elettromagnetismo, e meccanica quantistica. Tuttavia i fenomeni chimici sono talmente complessi e vari da costituire una branca del sapere distinta.
+
+Nella chimica, come nella fisica, esiste il concetto di forza come "interazione tra i corpi". Nel caso della chimica "i corpi" hanno dimensioni dell'ordine dell'Angstrom, e sono appunto le molecole, gli atomi, gli ioni, i complessi attivati, e altre particelle di dimensioni ad essi confrontabili. Le forze di interazione tra questi corpi sono i legami chimici (legami intramolecolari) e altre forze di interazione più blande (ad esempio le forze di Van der Waals, il legame a idrogeno e le forze di London).
+
+Economia
+
+L'approccio metodologico utilizzato nel campo della fisica è applicato a problematiche di tipo economico nell'ambito della disciplina denominata econofisica.
+
+Ad esempio vengono studiate le fluttuazioni dei mercati finanziari e i crash del mercato azionario a partire da modelli normalmente utilizzati per studiare fenomeni di tipo fisico, quali: modelli di percolazione, modelli derivati dalla geometria frattale, modelli di arresto cardiaco, criticalità auto-organizzata e previsione dei terremoti.
+
+Note
+
+Bibliografia
+
+*
+
+Voci correlate
+
+; Persone
+* Lista di fisici
+* Fisici celebri in ordine cronologico
+* Premio Nobel per la fisica
+
+; Tabelle
+* Costanti fondamentali
+* Sistema internazionale di unità di misura
+* Lista delle particelle
+
+; Campi
+* Fisica sperimentale
+* Fisica teorica
+* Fisica atomica, Fisica molecolare e Fisica ottica
+* Fisica della materia condensata e Fisica dello stato solido
+* Fisica dei materiali
+* Fisica nucleare
+* Fisica subnucleare e Fisica delle particelle
+* Cosmologia
+* Astrofisica
+* Fisica statistica e Fisica dei sistemi complessi
+* Fisica della materia soffice
+* Biofisica
+* Geofisica
+* Fisica medica
+* Fisica applicata
+* Meccanica classica
+* Termodinamica e Meccanica statistica
+* Elettromagnetismo
+* Meccanica relativistica
+* Meccanica quantistica
+* Meccanica classica
+** Statica
+** Cinematica
+** Dinamica
+** Meccanica del continuo (meccanica dei solidi e meccanica dei fluidi)
+** Gravità
+* Termodinamica e meccanica statistica
+** Termologia
+** Calorimetria
+* Elettromagnetismo
+** Elettrostatica
+** Elettrodinamica
+** Magnetismo
+** Ottica
+* Meccanica relativistica
+** Relatività ristretta
+** Relatività generale
+* Meccanica Quantistica
+** Teoria quantistica dei campi
+** Elettrodinamica quantistica
+** Cromodinamica quantistica
+
+Altri progetti
+
+Collegamenti esterni
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 19:35:45 from:
+  http://it.wikipedia.org/wiki/Fisica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

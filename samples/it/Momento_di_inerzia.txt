@@ -1,0 +1,192 @@
+Il momento di inerzia è una grandezza fisica utile per descrivere il comportamento dinamico dei corpi in rotazione attorno ad un asse. Tale grandezza tiene conto di come è distribuita la massa del corpo attorno all'asse di rotazione e dà una misura dell'inerzia del corpo rispetto alle variazioni del suo stato di moto rotatorio.
+
+Il momento d'inerzia ha due forme, una forma scalare I (usata quando si conosce l'asse di rotazione \mathbf) e una forma, più generale tensoriale \mathbf che non necessita della conoscenza dell'asse di rotazione. La forma scalare I può essere calcolata per ogni asse dalla forma tensoriale \mathbf usando il doppio prodotto scalare
+
+:
+I = \mathbf \cdot \mathbf \cdot \mathbf =
+\sum_^ \sum_^ n_ I_ n_
+
+dove la sommatoria è sui tre assi delle coordinate cartesiane. Il momento d'inerzia scalare I è spesso chiamato semplicemente come momento di inerzia.
+
+Introduzione
+Il momento d'inerzia di un corpo rispetto a un asse dato descrive quanto è difficile cambiare il suo moto angolare attorno al proprio asse. Per esempio, si considerino due dischi (A e B) della stessa massa. Il disco A ha un raggio più grande del disco B. Assumendo che abbiano spessore e massa distribuita uniformemente, è più difficile accelerare il disco A (cambiare la sua velocità angolare) poiché la sua massa è distribuita in maniera più distante del suo asse di rotazione: la massa che è più distante dall'asse deve avere, fissata la velocità angolare, più velocità, e quindi più energia rispetto alla massa che è più vicina al centro di rotazione. In questo caso il disco A ha un momento d'inerzia maggiore del disco B.
+
+Il momento di inerzia di un corpo è funzione della sua geometria, in particolare di come è distribuita la massa al suo interno. Il momento d'inerzia ha due forme, scalare I (usata quando è noto l'asse di rotazione) e una più generale tensoriale che non richiede la conoscenza dell'asse di rotazione. Il momento d'inerzia scalare è utile per risolvere numerosi problemi, per esempio spiega perché oggetti diversi che rotolano (sfere, cilindri, anelli, ...) su un piano con attrito lo fanno con velocità diverse. Per esempio un anello rotolerà più lentamente di un disco della stessa massa e raggio, perché la sua massa è disposta lontano dal centro di rotazione, e quindi si muove con velocità tangenziale maggiore. Tuttavia, per problemi più complicati in cui l'asse di rotazione cambia, il trattamento scalare è inadeguato, per esempio nei giroscopi, satelliti e tutti gli oggetti il cui allineamento cambia.
+
+Il momento d'inerzia è anche chiamato momento d'inerzia di massa (specialmente dagli ingegneri meccanici) per distinguerlo dal secondo momento dell'area, che è chiamato anch'esso momento d'inerzia ed è indicato con lo stesso simbolo I.
+
+Nei moti rotatori, il momento d'inerzia gioca il ruolo che ha la massa nei moti lineari.
+
+Momento d'inerzia scalare
+Sistema di punti materiali
+Sia z l'asse di rotazione fisso di un sistema di n punti materiali. Indichiamo con ri (i = 1,2,....n) le distanze di tali punti dall'asse di rotazione e con mi le loro masse. In questo caso il momento di inerzia rispetto all'asse z è definito come
+
+:I_z = \sum_^n m_i r_i^2;
+
+Possiamo notare che i punti materiali che si trovano più lontani dall'asse di rotazione danno un maggiore contributo.
+Utilizzando il momento di inerzia è possibile esprimere in modo semplice il momento angolare di un sistema di n particelle che si comporta come un corpo rigido (in cui cioè le distanze reciproche tra i punti materiali non variano). Indicando con vi le velocità tangenziali delle particelle e con ω la loro velocità angolare (uguale per tutti i punti se il corpo è rigido)
+
+:L_z = \sum_^n m_i r_i v_i = \sum_^n m_i r_i^2 \omega = \left ( \sum_^n m_i r_i^2 \right ) \omega = I_z \omega.
+
+In modo analogo l'energia cinetica del corpo rotante è
+
+:E_k = \frac\sum_^n m_i v_i^2 = \frac \sum_^n m_i r_i^2 \omega^2 =\frac \left (\sum_^n m_i r_i^2 \right )\omega^2 =\frac I_z \omega^2
+
+Corpo rigido
+
+È possibile estendere la definizione di momento di inerzia di massa anche ad un corpo rigido di volume V, se si considera tale corpo come un sistema di punti materiali, ciascuno caratterizzato da un volume Δ V ed una massa Δ m = ρ Δ V (dove ρ è la densità); in tale caso il contributo di momento di tale elemento di volume al momento di inerzia è dato da ΔIz= ρ Δ V r2 (essendo r la distanza dell'elemento dall'asse di rotazione). Il momento di inerzia si ottiene allora sommando tutti i contribuiti e passando al continuo, cioè per Δ V → 0:
+
+:I_z = \int_V \rho r^2 dV \
+
+Se il corpo è omogeneo (la sua densità è quindi una funzione costante) ed è caratterizzato da particolari simmetrie, allora il calcolo dell'integrale risulta particolarmente semplice.
+Consideriamo ad esempio un cilindro omogeneo di massa M, raggio R e altezza H (per cui M = ρ π R2 H). La misura del generico elemento di volume è data da H r dr d φ (vedi figura a destra) e il momento di inerzia rispetto all'asse del cilindro è dato da
+
+:I_z = \int_0^R \rho r^2 H 2 \pi r dr = 2 \pi \rho H \int_0^R r^3 dr = \frac =\frac M R^2
+
+Calcolo del momento di inerzia di alcuni solidi omogenei
+Rispetto all'asse di simmetria passante per il centro di massa
+Momento d'inerzia del cono
+
+Per calcolarlo consideriamo il momento finale come la somma dei momenti di inerzia dei dischi con altezza infinitesima dz (fissando l'origine del sistema di riferimento alla punta del cono orientato verso il basso). Il raggio del singolo disco varia linearmente al variare di z secondo il rapporto R diviso h (R raggio di base, h altezza cono). L'elemento infinitesimo di massa lo si calcola utilizzando ρ (densità volumetrica) moltiplicato per il volume del cilindro di altezza dz. Integrando il momento di inerzia del disco da 0 a h otteniamo il risultato finale.
+
+:dI = \frac \qquad dm = \rho \pi r^2 dz \qquad r = \frac z
+:I = \frac \int^h_0 \frac z^4 dz = \frac \frac = \frac \frac \frac = \frac M R^2
+
+Momento di inerzia della sfera
+
+Il momento finale sarà ottenuto sommando i momenti di inerzia dei dischi di spessore infinitesimo dx (fissando l'origine del sistema di riferimento al centro della sfera orientato verso l'alto) . Il raggio del singolo disco varia secondo la funzione che descrive un arco di circonferenza nel primo quadrante, da un minimo di 0 (con x = R, raggio della sfera) ad un massimo di R stesso. L'elemento infinitesimo di massa è ottenuto utilizzando ρ (densità volumetrica) moltiplicato per il volume del cilindro di altezza dx. Integrando il momento di inerzia del disco da − R a R otteniamo il risultato finale.
+
+dI = \frac \qquad dm = \rho \pi r^2 dx \qquad r = \sqrt \qquad \rho = \frac
+I = \int^R_ \frac (R^2 - x^2)^2 dx = \frac \int^R_ (R^4 - 2R^2x^2 + x^4) dx =
+
+= \frac \bigg[ \biggR^4x\bigg^R_ - \bigg\frac\bigg^R_ + \bigg\bigg = \frac \frac \bigg 2R^5 - \fracR^5 + \fracR^5 \bigg =
+
+= \frac \bigg \frac \bigg = \frac \frac = \frac M R^2
+
+Momento di inerzia del parallelepipedo
+Calcolato rispetto all'asse z passante per il baricentro del parallelepipedo.
+Si è tenuto conto solamente della definizione del momento di inerzia e della densità di massa:
+
+I=\int_V\rho r^2dV=\rho\int_^\int_^\int_^(x^2+y^2)dx dy dz=
+
+=c \rho\int_^\leftx^2y+\frac\right_^dx=c \rho\int_^(x^2b+\frac)dx=
+
+=c \rho \left\fracb+x\frac\right_^=abc\rho(\frac+\frac)=
+
+=M(\frac+\frac)
+
+Rispetto ad un asse parallelo all'asse di simmetria
+Il momento rispetto ad un asse a, parallelo ad un altro c passante per il centro di massa, si ottiene sommando al momento di inerzia rispetto a c il prodotto tra la massa del corpo e la distanza al quadrato tra gli assi c ed a.
+
+I_z = I_ + M d^\,.
+
+Momento di inerzia per figure geometriche piane
+
+Il momento di inerzia delle figure piane rispetto a un asse è utilizzato frequentemente nell’ingegneria civile e nell'ingegneria meccanica. Infatti esso è direttamente correlato alla resistenza della sezione di un elemento soggetto a flessione rispetto ai carichi ortogonali all’asse di riferimento.
+In pratica il momento d'inerzia è una grandezza che indica l'attitudine di una figura piana a ruotare rispetto ad un asse di riferimento, maggiore è il momento d'inerzia,minore è l'attitudine a ruotare che mostrerà la sezione.
+
+Il caso tipico è quello della trave.
+Se le forze sulla trave hanno direzione y, si calcola il momento di inerzia della sezione secondo l’asse x (ortogonale a y) passante per il baricentro della sezione della trave.
+
+In pratica, a parità di materiale, quanto più è elevato il momento di inerzia tanto più risulta resistente la trave. Inoltre, quanto più il materiale è lontano dall’asse passante per il suo baricentro, tanto più aumenta il momento di inerzia. Per accorgersene è sufficiente constatare che nelle formule seguenti per il calcolo del momento di inerzia l’altezza h delle diverse figure è con esponente 3.
+
+Le travi in acciaio presentano spesso una sezione a I (profilati IPE, o NP), oppure ad H (profilati HE), proprio per sfruttare il più possibile il materiale ponendolo lontano dal baricentro della sezione.
+
+Alcuni momenti di inerzia
+
+Variazione della giacitura e delle dimensioni di una figura geometrica piana
+
+Vogliamo presentare alcuni esempi per far capire meglio come entrano in gioco nel calcolo del momento di inerzia la giacitura delle figure geometriche e le loro dimensioni.
+
+Prendiamo come esempio una delle figure geometriche più semplici, il rettangolo, con un’area di 8 centimetri quadrati, un lato di 2 cm e l’altro di 4 cm. Lo disponiamo prima con il lato di 4 cm secondo la direzione dell’asse per il quale vogliamo calcolare il momento di inerzia e poi con tale lato ortogonale allo stesso asse.
+
+Nel primo caso avremo b = 4 e h = 2, per cui J_x=\frac=\frac=2,67
+
+Nel secondo caso avremo b = 2 e h = 4, per cui J_x=\frac=\frac=10,67, cioè un valore 4 volte maggiore rispetto al primo caso.
+
+Seconda osservazione. Manteniamo l’area del rettangolo sempre uguale a 8 centimetri quadrati e il lato più lungo ortogonale all’asse, ma questa volta b = 1 e h = 8, in pratica abbiamo stirato il rettangolo.
+
+J_x=\frac=\frac=42,67, cioè un valore 4 volte maggiore del secondo caso e 16 volte maggiore del primo, sempre con un rettangolo di uguale area.
+
+Quanto appena detto si estende ovviamente anche ai corpi solidi.
+
+Momento di inerzia tensoriale (tensore d'inerzia)
+Per un corpo in rotazione, la sua energia cinetica risulta essere una forma quadratica omogenea delle componenti del vettore velocità angolare. In generale si potrà allora scrivere
+:T = \fracI_\omega^i\omega^j
+in cui si intende la sommatoria rispetto agli indici ripetuti. Per mostrare che Iij sia un tensore
+covariante del secondo ordine è necessario mostrare che esso si trasforma come un vettore del suo genere. Tale verifica è però banale, in quanto
+l'energia cinetica è uno scalare, ed è pertanto invariante per un cambio di coordinate
+:\fracI_\omega^i\omega^j = \frac\overline I_\overline\omega^k\overline\omega^l
+Per le leggi di trasformazione del vettore ω la precedente diventa
+:I_\omega^i\omega^j = \overline I_\frac\omega^i\frac\omega^j
+Da questa è ora facile far discendere che
+:\overline I_ = I_\frac\frac
+ovvero che Iij è un tensore covariante del secondo ordine.
+
+Uno stesso oggetto può avere differenti momenti di inerzia a seconda dell'asse di rotazione. Per esempio, tre momenti di inerzia associati ai tre assi cartesiani (x,y,z) non sono necessariamente uguali a causa della non simmetria dell'oggetto.
+:I_ = \; momento di inerzia lungo la linea attraverso il centro di massa e parallela all'asse x
+:I_ = \; momento di inerzia lungo la linea attraverso il centro di massa e parallela all'asse y
+:I_ = \; momento di inerzia lungo la linea attraverso il centro di massa e parallela all'asse z
+
+Per esempio, a densità costante, una sfera avrà momenti uguali qualsiasi asse di rotazione passante per il centro della sfera sia considerato. Per un cubo Ixx=Iyy=Izz se è allineato con gli assi.
+
+Le quantità Ixx, Iyy, Izz fanno parte del tensore momento di inerzia I le cui componenti sono definite come
+:I_ = \sum_lm_l(\delta_(x_l)_k(x_l)^k - (x_l)_i(x_l)_j)
+dove l'indice l è riferito denota la componente l-esima della distribuzione di masse. In termini matriciali è anche
+:
+\mathbf = \sum_^ m_
+\begin
+(y_^+z_^) & -x_ y_ & -x_ z_ \\
+-x_ y_ & (x_^+z_^) & -y_ z_ \\
+-x_ z_ & -y_ z_ & (x_^+y_^)
+\end
+
+per un sistema di n punti con massa m_ individuati dalle coordinate cartesiane (x_,y_i,z_i). Poiché questo tensore è una matrice reale simmetrica, per il teorema spettrale è possibile trovare un sistema di coordinate cartesiane o(una base ortonormale) rispetto al quale la matrice è diagonale:
+
+:
+\mathbf = \begin
+I_ & 0 & 0 \\
+0 & I_ & 0 \\
+0 & 0 & I_
+\end
+
+dove gli assi (gli autovettori della matrice) sono chiamati assi principali e le costanti I_1, I_ e I_ (gli autovalori) sono chiamati momenti principali di inerzia e sono usualmente ordinati in ordine crescente
+
+:
+I_ \leq I_ \leq I_
+
+I vettori unitari lungo gli assi principali sono usualmente denotati con (\mathbf_, \mathbf_, \mathbf_).
+
+Il momento d'inerzia rispetto ad un qualunque asse passante per il centro di massa si può anche esprimere come la distanza dal centro alla quale tale asse interseca la superficie di un ellissoide i cui semiassi, orientati lungo gli assi principali, sono lunghi I_, I_, I_. Tale ellissoide è detto ellissoide d'inerzia.
+
+Quantità meccaniche espresse usando i tensori
+
+Usando il tensore \mathbf, l'energia cinetica (rispetto ad un polo O fermo) può essere scritta come un doppio prodotto scalare
+:
+T = \frac \boldsymbol\omega \cdot \mathbf \cdot \boldsymbol\omega =
+\frac I_ \omega_^ + \frac I_ \omega_^ + \frac I_ \omega_^
+
+e il momento angolare può essere scritto come prodotto scalare
+
+:
+\mathbf = \mathbf \cdot \boldsymbol\omega =
+\omega_ I_ \mathbf_ + \omega_ I_ \mathbf_ + \omega_ I_ \mathbf_
+
+Mettendole insieme, si può esprimere l'energia cinetica in termini del momento angolare (L_, L_, L_) nel sistema degli assi principali
+
+:
+T =
+\frac + \frac + \frac
+
+dove L_ \equiv I_ \omega_ con k=1,2,3.
+
+Voci correlate
+* Inerzia
+* Massa
+* Principi della dinamica
+* Sistema di riferimento
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 12:34:29 from:
+  http://it.wikipedia.org/wiki/Momento_di_inerzia
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

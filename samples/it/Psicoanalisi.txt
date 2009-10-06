@@ -1,0 +1,272 @@
+La psicoanalisi (da psico-, psiche, anima, più comunemente "mente", e -analisi: analisi della mente) è la teoria dell'inconscio su cui si fondano una prassi e una disciplina psicoterapeutiche, e che ha preso l'avvio dal lavoro di Sigmund Freud.
+
+Innanzitutto essa è una teoria dell'inconscio. Nell'indagine dell'attività mentale umana essa si rivolge soprattutto a quei fenomeni psichici che risiedono al di fuori della coscienza. Viene perciò implementato il concetto di inconscio, introdotto nella riflessione teoretica già da Cartesio, Locke e Leibniz, e che Freud rielaborò da un punto di vista descrittivo e topico sulla base delle sue esperienze con Jean-Martin Charcot.
+
+In secondo luogo la psicoanalisi è una prassi terapeutica. Nello specifico come cura dei disturbi mentali e, all'origine, come cura dell'isteria e successivamente dei fenomeni psicopatologici chiamati nevrosi. In seguito, il suo uso è stato esteso allo studio e trattamento di altri tipi di psicopatologie.
+
+In seguito, a livello culturale più generale, l'influenza della psicoanalisi ha in qualche misura finito per interessare anche la filosofia.
+
+Introduzione
+
+La psicoanalisi nasce per curare determinati disturbi mentali indagando le dinamiche inconsce dell'individuo. Fino alla fine dell'800, tali disturbi venivano trattati da psichiatri e neurologi tramite ospedalizzazioni a scopo rieducativo o con l'utilizzo dell'ipnosi. Il medico viennese Sigmund Freud, neurologo e anch'egli utilizzatore dell'ipnosi, ipotizzò che alla base dei disturbi mentali fosse riscontrabile un conflitto tra richieste psichiche contrarie. Nel corso delle sue successive formulazioni teoriche, Freud formulò tre ipotesi, una successiva all'altra, riguardo la possibile genesi del conflitto:
+
+# Il conflitto tra principio di piacere e principio di realtà, cioè tra la necessità di soddisfare il "piacere" interno e il necessario confronto con il mondo reale;
+# Il conflitto tra pulsione sessuale e pulsione di autoconservazione (o dell'Io);
+# Il conflitto tra pulsione di vita e pulsione di morte.
+
+Come prassi terapeutica, quindi, la psicoanalisi pone tra gli obiettivi principali la risoluzione di tale conflitto, possibile attraverso l'indagine dell'inconscio del paziente. Principali metodi per affrontare tale indagine sarebbero l'analisi delle associazioni libere, degli atti mancati e dei sogni. Attraverso essa sarebbe possibile accedere ai "contenuti rimossi dalla coscienza" che si suppone generino il conflitto. Successivamente furono elaborati altri concetti chiave come quello di transfert, controtransfert, resistenza (e in generale meccanismo di difesa), tutti considerati fondamentali per un corretto processo terapeutico.
+
+Infine, la psicoanalisi si è posta anche l'obiettivo di teorizzare lo sviluppo normale dell'individuo. Nasce così la denominazione di metapsicologia, le cui formulazioni ambiscono a descrivere l'apparato psichico da 3 punti di vista: "topico come un'entità spaziale in cui collocare i fenomeni psichici, dinamico in cui sono "descritte" le forze che si oppongono o meno al passaggio da un sistema all'altro, economico dove si considera la quantità di energia impiegata nei processi psichici".
+
+Con l'avanzare delle conoscenze nel campo e in campi limitrofi (psicologia, neuroscienze, psichiatria, infant research, teoria dell'attaccamento, social cognition...) la teoria classica è andata incontro a rimaneggiamenti e ampliamenti. Da essa si sono staccate diverse costole che hanno dato vita a nuove scuole di pensiero riconducibili al filone psicoanalitico. Tra queste ricordiamo la psicologia analitica di Carl Gustav Jung e la psicologia individuale di Alfred Adler, entrambi eminenti allievi di Freud. In più è doveroso ricordare le tre grandi scuole di psicologia derivate direttamente dalla teoria classica: la psicologia dell'Io, guidata in particolar modo dalle teorie di Anna Freud, figlia di Sigmund; la psicologia delle relazioni oggettuali, con a capo le teorie di Melanie Klein e Wilfred Bion, da cui poi si staccò il gruppo della cosiddetta "scuola indipendente"; e la psicologia del Sé, concepita da Heinz Kohut, che si focalizzano maggiormente su differenti aspetti della vita psichica intra- ed inter-soggettiva. La concezione originale di Freud, comunque, per quanto sottoposta anch'essa a revisioni e ampliamenti (si pensi alle teorie di Heinz Hartmann o Edith Jacobson), è tutt'ora seguita e utilizzata da numerosi psicoanalisti.
+
+La psicoanalisi è da sempre duramente criticata da scienziati e filosofi per la difficoltà con cui molti dei suoi concetti possano essere sottoposti a verifica sperimentale o a ricerche empiriche, che raramente accompagnano le sue teorizzazioni. Tuttavia sono numerose anche le conferme arrivate da altre branche della psicologia e delle neuroscienze che, se da un lato hanno screditato alcuni presupposti psicoanalitici, dall'altro hanno fornito una soddisfacente base sperimentale/empirica ad altri. Attualmente sono in corso tentativi di studio ed integrazione tra le modellizzazioni della psicoanalisi e molte nuove acquisizioni della psicologia, dell'etologia, della psicopatologia e nelle neuroscienze, in un'ottica che sta portando allo sviluppo di una miriade di modelli "integrati", ritenuti epistemologicamente più validi.
+
+Etimologia
+Il termine psicoanalisi fu coniato nel XX secolo unendo le parole psiche e analisi (sul modello tedesco di Psychoanalyse). Psiche è un termine greco che significa "anima", divenuto nel corso dei secoli sinonimo di spirito (vitale) dell'uomo (e successivamente, "mente"). Analisi è formato dalla preposizione greca ana-, che significa "in parti uguali", e -lisi, che significa "sciogliere". Dunque psicoanalisi letteralmente significa "indagine delle singole parti costitutive di quel che anima l'uomo".
+
+I precursori della psicoanalisi
+
+L'inconscio prima della psicoanalisi
+
+Nata alla fine del XIX secolo, la psicoanalisi è debitrice di numerose teorie e pensieri scientifici e filosofici. Diversi autori tracciano una linea che parte fin dal XVII secolo. Sebbene indagini fin troppo minuziose potrebbero andare anche più indietro nel tempo, in questo periodo troviamo autori come Blaise Pascal, Baruch Spinoza e Gottfried Wilhelm Leibniz che introducono temi quali il trionfo dell'autocoscienza, l'essenza del soggetto con la razionalità, le dimensioni imponderabili e inaccessibili dell'uomo e l'esistenza di percezioni continuamente al di fuori della coscienza. Tali concetti vennero ripresi dalla psicoanalisi per dar luce alla propria elaborazione del concetto di inconscio, elemento chiave della teoria freudiana. "L'aspetto dominante della concezione dell'inconscio prima di Freud è la ricerca di ciò che sta oltre la razionalità, ben rappresentata nell'opposizione tra illuminismo e romanticismo". Ecco che anche autori illuministi (Jean-Jacques Rousseau, Immanuel Kant...) e romantici (Johann Goethe, Friedrich Schiller...) diedero il loro contributo alla formulazione del concetto di inconscio. A partire dalla seconda metà dell'Ottocento la letteratura in proposito fu di vastissima portata, fino ad arrivare a Johann Friedrich Herbart, che oltre a definire una volta per tutte la necessità di un approccio scientifico allo studio della psiche riprese il concetto leibniziano di "piccole percezioni", sostenendo che solo stimoli di una certa forza arrivano alla coscienza mentre gli altri rimangono inconsci; a Gustav Fechner, che riprese il concetto di soglia; e ad Hermann von Helmholtz, che parlò dell'importanza dell'"inferenza inconscia" nella guida dell'esperienza e delle percezioni. Anche in Schopenhauer c'è qualcosa di inconscio che è la volonta di vivere, cosi pure in Bergson, poiche lo slancio vitale è "incausato".
+
+L'ipnosi
+
+Essendo stata ideata da Freud, nella sua versione originale la psicoanalisi fu inevitabilmente influenzata dalle sue esperienze mediche (e non). Sebbene sia più opportuno rimandare alla voce su Freud per quanto riguarda un approfondimento dei suoi studi sull'ipnosi, una breve panoramica sull'argomento aiuta a capire alcuni passi da cui prese le mosse la teorizzazione psicoanalitica.
+
+Nella seconda metà dell'Ottocento, in Europa, ci fu una rivalutazione dell'ipnosi e in particolare due scuole francesi si dedicarono all'argomento. A Parigi Jean-Martin Charcot (presso cui Freud compì un tirocinio di alcuni mesi nel 1885), fondò la Scuola di neuropsichiatria della Salpètriere, e si dedicò dal 1878 allo studio sistematico dell'ipnosi, che applicò soprattutto alla cura dei casi di isteria. Fondamentale per la psicoanalisi fu senz'altro il concetto di "lesione funzionale", una lesione priva di un riscontro organico alla base di fenomeni come paralisi, anestesie e contratture, le cui cause, secondo l'autore, erano da ricercare in qualità affettive.
+
+Allievo di Charcot fu Pierre Janet che, benché Freud non citi il suo contributo in nessuna sua opera ed anzi entrò in polemica con la sua teorizzazione dell'isteria, definì quest'ultima "una patologia di natura psichica, diversamente da molti contemporanei che l'attribuivano a disfunzioni fisiologiche".
+L'altra scuola, la scuola di Nancy, fu fondata da Hippolyte Bernheim (il cui corso Freud seguì nel 1889). Egli rivisitò l'ipnosi con il concetto di suggestione, mettendo definitivamente in crisi il concetto di nevrosi come malattia del sistema nervoso. Infatti tramite la suggestione ipnotica fu possibile creare nei soggetti sani delle condizioni simili a quelle di individui nevrotici: risulta allora chiaro come la nevrosi non potesse più essere considerata una malattia necessariamente organica.
+
+Inizialmente Freud, docente di neuropatologia, sottopose a terapia una paziente attraverso una tecnica che aveva messo a punto dopo i suoi studi a Parigi, nel 1885 presso la scuola di neurologia di Charcot alla Salpetriere e nel 1889 presso la scuola di neurologia di Hippolyte Bernheim a Nancy: l'ipnosi. La possibilità di utilizzare questa forma di diagnosi e terapia era data dall'idea iniziale di Freud che le nevrosi riscontrate nelle persone adulte fossero prodotte a partire da uno e uno solo, trauma infantile di natura sessuale subito dall'individuo. Tale trauma era stato rimosso, e dunque dimenticato a livello cosciente, dall'individuo stesso a protezione del suo equilibrio mentale ma a costo di una grave sintomatologia fisica. Si immaginava, dunque, che la semplice abreazione, cioè la presa di coscienza del ricordo, potesse essere terapeutica. A poco a poco Freud stesso si rese conto che la tecnica ipnotica aveva dei limiti: dopo un certo periodo di tempo più o meno lungo, infatti, il paziente così trattato tornava ad essere nuovamente sintomatico, potendo ripresentare sia lo stesso sintomo iniziale che un nuovo sintomo.
+
+Il modello affetto-trauma
+
+Sigmund Freud, nel suo iniziale lavoro con Joseph Breuer su pazienti isteriche, adottò nel trattamento ipnotico il metodo catartico. Insieme al collega, Freud dimostrò che i sintomi dell'isteria avevano un significato psicologico: fino ad allora si supponeva fossero dati da una degenerazione del sistema nervoso. Freud e Breuer sostennero che ricordi di grande impatto emotivo venivano dimenticati perché considerati inaccettabili alla mente cosciente. Tali emozioni, però, spingevano per esprimersi e il sintomo isterico era proprio il risultato di tale espressione.
+
+Il trauma poteva essere anche un evento recente, ma Freud sosteneva che nella maggior parte dei casi esso era collegato ad esperienze infantili o della prima adolescenza. La terapia per curare le pazienti (l'isteria al tempo era considerato un disturbo esclusivamente femminile) era basata sull'abreazione, cioè la presa di coscienza del ricordo che portava alla liberazione dell'emozione repressa (catarsi). La psicoanalisi fu sviluppata da Freud proprio per cercare di affrontare i problemi di alcune pazienti con cui falliva la tecnica catartica.
+
+Ipotesi fondamentali
+
+L'inconscio
+
+L'inconscio è senza dubbio la nozione cardine della psicoanalisi. Freud ne riformulò il concetto da due punti di vista: da un punto di vista descrittivo l'inconscio sono tutti quei prodotti della psiche che non raggiungono la coscienza, mentre da un punto di vista topico è un "luogo" dell'apparato psichico dove vengono deposti i contenuti della coscienza fatti oggetto di rimozione.
+
+Il concetto di determinismo psichico dà legittimità alla nozione di inconscio. Nessun evento psichico, dice Freud, è determinato dal caso: ogni processo mentale ha una causa ben specifica, spesso identificabile solo attraverso l'indagine dell'inconscio. In questo senso, un pensiero improvviso, una canzone che inizia a ronzarci in testa, il ricordo di un evento nel momento in cui guardiamo una fotografia, il sentimento causato da un quadro sono tutti dovuti a cause ben specifiche, che l'analisi dei contenuti inconsci, consci e preconsci potrà rivelare.
+
+Il concetto di energia psichica e di libido
+
+La denominazione di "energia psichica" prende in prestito il concetto di energia dalla fisica al fine di spiegare i fenomeni mentali. L'energia è un'"attitudine di un corpo o di un sistema di corpi a compiere un lavoro" e quella psichica si differenzia poco da tale concezione, sennonché potremmo dire che il corpo è in questo caso la mente e il lavoro è una qualsiasi produzione mentale: desideri, intenzioni, idee, motivazioni, interessi, rappresentazioni, aspettative... Energia e forza sono dunque, in psicologia, dei termini figurati, o metaforici.
+
+Freud fece riferimento al concetto di energia psichica per coniare la nuova definizione di libido (in latino "desiderio"), che corrisponde a "l'espressione dinamica nella vita psichica della pulsione sessuale", stato di eccitazione prodotto dallo stimolo. La risposta che un uomo può dare ad uno stimolo può avvenire per istinto o per pulsione. Il primo considerato come la necessità di reagire agli stimoli mediante un comportamento innato, stereotipato e costante, secondo cui ad ogni stimolo corrisponde una prefissata risposta motoria. La seconda, invece, è descritta come la capacità umana di reagire agli stimoli senza che sia inclusa necessariamente una risposta motoria.
+
+Il conflitto psichico
+Successivamente al rifiuto dell'idea che disturbi isterici nascessero dal blocco dell'energia affettiva causato da avvenimenti dolorosi, Freud elaborò il concetto di conflitto psichico. Egli ipotizzò che l'energia sessuale potesse entrare in contrapposizione con altri tipi di energia sfociando in un vero e proprio conflitto, la mancata risoluzione del quale avrebbe portato al sorgere di un sintomo psichico (come potrebbe essere una fobia) o fisico (come una paralisi isterica). Inizialmente parlò di conflitti generati dalla contrapposizione tra libido e pulsione dell'Io, mentre più avanti la contrapposizione venne posta tra pulsioni di morte e pulsioni di vita (in cui si poneva la libido).
+
+Sogni, atti mancati e associazioni libere
+"L'interpretazione dei sogni" (1899) è considerato il "testo d'inizio" della psicoanalisi (benché il concetto venga espresso per la prima volta nel 1896). Il sogno rimarrà per Freud la "via regia" per accedere ai contenuti inconsci, qui in grado di manifestarsi con un minor controllo da parte della coscienza (vedi di seguito in questa voce: "La pratica psicoanalitica").
+
+Freud pensava al sogno come ad un custode del sonno che preservava il desiderio di dormire, e anche come "una forma particolare del nostro pensiero resa possibile dalle condizioni dello stato di sonno", il cui scopo è l'appagamento di un desiderio inconscio.
+Il sogno è caratterizzato dall'avere un contenuto manifesto, ciò che effettivamente si ricorda al risveglio, e un contenuto latente, composto da elementi rimossi alterati. Il passaggio dal contenuto latente a quello manifesto è operato da meccanismi di censura che (tramite una rappresentazione metaforico-simbolica) mascherano dei contenuti altrimenti intollerabili alla coscienza. La censura che si verifica nel lavoro onirico è sostanzialmente strutturata in due processi: lo spostamento e la condensazione. Lo spostamento comporta la deviazione dell'elemento rimosso verso oggetti differenti, mentre la condensazione comporta l'unione di più elementi rimossi in un unico 'blocco audiovisivo'. Compito dell'analista è proprio quello di interpretare il sogno, al fine di ottenere il contenuto latente a partire da quello manifesto, facendo associare il paziente sulle rappresentazioni audiovisive e simboliche che l'inconscio lascia filtrare, facilitando quindi il ritorno del rimosso che si presenta sotto forma di materiale onirico.
+
+Ma il sogno non è l'unico modo indicato dalla teoria classica per accedere ai contenuti inconsci. "Psicopatologia della vita quotidiana" introdusse il concetto di "atto mancato", manifestazioni dell'inconscio come lapsus, dimenticanze, sbadataggini, errori di lettura/scrittura, smarrimento di oggetti. L'atto mancato rivela un conflitto inconscio tra un'intenzione cosciente, che viene perturbata, e un'intenzione perturbante, che agisce sotto il livello della coscienza.
+
+Infine, tra le tecniche di accesso ai contenuti inconsci troviamo quella delle associazioni libere, che fa parte delle regole fondamentali del trattamento psicoanalitico (teorizzata prima degli scritti sui sogni e sugli atti mancati, dopo i lavori con Breuer). "Si chiede al paziente di rinunciare volontariamente, per quanto gli riesce, alla censura cosciente e di esprimere liberamente i suoi pensieri, sentimenti, speranze, sensazioni, idee, senza badare se gli sembrano sgradevoli, insensati, non pertinenti o non rilevanti". L'ipotesi alla base di questo processo è che il paziente, trovandosi in uno stato di relativa comodità fisica (da qui l'introduzione del lettino in analisi) e lasciando vagare la mente, riduce la pressione delle difese che non permettono ai contenuti inconsci di venire alla luce.
+
+Pulsione di vita e pulsione di morte
+
+"Al di là del principio di piacere", del 1920, segnerà una svolta nella teoria psicoanalitica. Il conflitto verrà concepito come prodotto dallo scontro, nell'individuo, tra pulsione di vita (o Eros, espressione degli impulsi libidici) e pulsione di morte (o Thanatos, tendenza all'autodistruttività propria, secondo la teorizzazione freudiana, di ogni essere vivente). "Se Eros tende a creare organizzazioni della realtà sempre più complesse o armonizzate, Thanatos tende a far tornare il vivente a una forma d'esistenza inorganica".
+Freud precisa:
+
+Le due topiche
+
+Il modello topografico: inconscio, preconscio e coscienza
+
+La teoria dei sogni portò Freud a distinguere tre stati o sistemi della mente.
+
+Lo stato più profondo, l'inconscio, era considerato sede di desideri e impulsi di natura sessuale e, a volte, distruttiva. Secondo questa iniziale teorizzazione l'inconscio "spinge" per la realizzazione di tali desideri/impulsi (direttamente inaccessibili alla coscienza), secondo quello che è detto "principio di piacere" (un principio di azione e ideazione basato sul soddisfacimento, anche tramite forme indirette, del desiderio sessuale). Inoltre, la logica che determina l'inconscio è detta "processo primario", cioè un pensiero "impulsivo, disorganizzato, incomprensibile al pensiero razionale, dominato da immagini visive bizzarre e noncurante del tempo, dell'ordine o della coerenza logica".
+
+Il preconscio era lo stato di mezzo, costituito dal censore dei desideri e impulsi dell'inconscio, a cui permette un accesso distorto alla coscienza. I contenuti preconsci sarebbero quindi non-immediatamente accessibili alla coscienza, ma neanche del tutto inaccessibili come quelli inconsci.
+
+L'ultimo stato della mente, il più elevato, è la coscienza (o sistema conscio), i cui contenuti sono immediatamente accessibili. Essa si basa sul "principio di realtà" (le cui azioni e ideazioni sono date confronto con la realtà esterna e con i suoi principi e valori) e segue le logiche del "processo secondario", che tramite processi logici e razionali permette un corretto adattamento alla realtà esterna.
+
+Il modello strutturale: Es, Io e Super-Io
+
+Con "L'Io e l'Es", del 1923, Freud presentò la terza fase della sua formulazione teorica, proponendo il cosiddetto modello strutturale della mente. Quest'ultima venne divisa in tre parti con funzionalità diverse: l'Es, l'Io e il Super-Io.
+
+L'Es è una struttura totalmente inconscia, sede delle pulsioni sessuali e aggressive, e grossomodo prende il posto dell'inconscio nel modello topografico. Il suo scopo principale è quello di soddisfare i bisogni sessuali e aggressivi innati, cioè le pulsioni.
+
+Il Super-Io è una struttura quasi del tutto inconscia, rappresentante psichica delle figure genitoriali. Tale rappresentazione non corrisponde al genitore reale, ma ad una sua immagine interiorizzata più severa ed autoritaria. Il Super-Io avrà quindi il compito di impedire che l'Es soddisfi liberamente le proprie pulsioni, utilizzando allo scopo il senso di colpa, un meccanismo generante angoscia.
+
+L'Io, in larga parte inconscio, è ciò che più si avvicina alla concezione di Sé. È la struttura organizzatrice della personalità e il suo compito principale è quello di fare da mediatore tra le richieste dell'Es e le esigenze della realtà. Inizialmente dovrà quindi trovare un compromesso tra la necessità di scarica delle pulsioni e le restrizioni della realtà e della società; successivamente, con lo sviluppo del Super-Io, la mediazione avverrà tra le pulsioni e le ingiunzioni di quest'ultimo. Per assolvere a questi compiti l'Io ha a disposizione dei meccanismi di difesa e la capacità di gestire la realtà attraverso funzioni quali percezione, attenzione, memoria, problem solving e, naturalmente, la coscienza. Le basi dell'Io vengono a crearsi tramite processi di identificazione con gli oggetti del desiderio dell'Es: quando tale desiderio viene frustrato, l'assimilazione dell'oggetto (per mezzo dell'identificazione) andrà a costituire la base l'Io.
+
+Con il modello strutturale la psicopatologia è concepita come il risultato di impulsi inaccettabili che minacciano di sopraffare l'Io e le difese contro di essi messe in atto dall'Io stesso.
+
+Freud chiarì che si trattava di meri concetti metaforici e sebbene alcuni autori tentarono di trovare un corrispettivo anatomico, non ebbero mai successo; tuttavia Fonagy e Target (2005) parlano di studi psicometrici che indicano che "la differenziazione fra le strutture mentali tracciata intuitivamente da Freud può essere dimostrata empiricamente".
+
+La pratica psicoanalitica
+
+Il metodo psicoanalitico originario si basava sull'idea che le nevrosi scaturiscano dall'incapacità dell'Io di impadronirsi delle idee rimosse: in altre parole, per Freud l'elaborazione del motivo patologico è già di per sé cura del disagio stesso. Tuttavia gli elementi rimossi non sono noti a priori, e quindi è impossibile cercare in una direzione precisa. Per questo motivo Freud basa la tecnica terapeutica sul concetto di associazione libera, ovvero sul lasciare il paziente completamente libero di produrre associazioni semantiche, rappresentazionali e mnestiche durante le sedute.
+
+Il soggetto viene quindi invitato a parlare liberamente di ciò che vuole, senza censurare nulla di quello che pensa ed a cambiare argomento ogni qualvolta lo desideri. La 'speranza' dell'analista è che, in seguito a processi associativi inconsci, il paziente rievochi elementi (o parti di essi) rimossi e permetta quindi all'analista di aiutarlo nella ricostruzione dei fatti, attraverso diverse procedure tra cui la "celebre" 'interpretazione'.
+
+Particolare importanza hanno per Freud i sogni, egli infatti parte dal presupposto che durante il sonno REM la vigilanza del Super-Io sia ridotta, facilitando quindi il ritorno del rimosso all'Io sotto forma di materiale onirico, che si può ricordare al risveglio. In pratica il sogno è la strada maestra per addentrarsi nelle rappresentazioni simboliche e stratificate dell'inconscio.
+
+I meccanismi di difesa
+
+Sigmund Freud ed i suoi allievi, tra cui sua figlia Anna Freud, indagarono su fenomeni psichici apparentemente contraddittori, quali ad esempio le risposte a conflitti tra motivazioni opposte, gli auto-inganni o i falsi moralismi, interpretandoli come meccanismi di difesa. Ad esempio, l'uomo che nega a se stesso certe rappresentazioni mentali disturbanti lo farebbe per ottenere il vantaggio di non provare angoscia. Oppure, l'emergere di certi atteggiamenti moralistici può in alcuni casi essere interpretato come la conseguenza funzionale di un senso di colpa per azioni ritenute "riprovevoli", o della trasformazione di pulsioni sessuali represse o deviate dal loro oggetto naturale.
+
+Transfert e controtransfert
+
+Nell’esplorare la vita psichica dei pazienti e nel condurre la terapia Freud si accorse che i pazienti sviluppavano nei suoi confronti reazioni emotive, positive o negative, come amore o odio. Ne concluse, in accordo con la sua ipotesi dell’origine infantile delle nevrosi, che si trattava di un trasferimento verso la sua persona di atteggiamenti affettivi, che i soggetti stessi avevano provato nell’infanzia verso i propri genitori.
+
+Questo trasferimento di sentimenti, convenzionalmente venne chiamato transfert. Trasfert positivo nel caso di sentimenti positivi come l'amore verso l'analista e tranfert negativo nel caso di sentimenti negativi come l'odio verso l'analista.
+Naturalmente anche l'analista può provare dei sentimenti verso il paziente e questo si chiama convenzionalmente controtransfert. Anche il controtransfert può essere positivo o negativo, ma è compito dell'analista monitorarlo e strumentalizzarlo a fine terapeutico.
+
+Analisi personale
+
+L'insegnamento della psicoanalisi iniziò attraverso regole che Freud codificò ben presto che comportano un particolare percorso di addestramento del candidato psicoanalista. Questi doveva sottoporsi allo stesso trattamento analitico, per acquisire lo strumento con il quale poi lavorerà con i suoi futuri pazienti.
+Tale relazione rendeva possibile una formazione esperienziale diretta, fondamentale per poter in primo luogo risolvere le possibili problematiche personali del futuro analista, ed in secondo luogo per permettergli di esperire direttamente i vissuti ed i processi propri della dinamica analitica. Questa fu chiamata analisi didattica e differiva dall'analisi personale solo per il fatto che le sedute didattiche venivano omologate in uno speciale registro. Inizialmente l'analisi didattica durava un mese.
+
+Sviluppi della psicoanalisi
+L'Associazione Psicoanalitica Internazionale
+
+La psicoanalisi ebbe ben presto dei seguaci, riuscendo Freud a farla accettare come tecnica terapeutica per un certo tipo di malattie psichiatriche come le nevrosi, che non avevano ancora trovato terapie efficaci. Così intorno a Freud, nella città di Vienna, si andò formando il primo gruppo di allievi; questo permise a Freud di fondare nel 1910 l'Associazione Psicoanalitica Internazionale (International Psychoanalytical Association), definendo così i criteri di formazione dei futuri analisti basati sull'analisi personale, le supervisioni, i corsi clinico-teorici. In quel periodo si vennero formando le prime società psicoanalitiche nazionali che aderiranno in seguito all'International Psychoanalitical Association.
+
+I successori di Freud
+
+I principali nomi da ricordare fra i primi analisti con il loro contributo sono: Sandor Ferenczi (pioniere dei pionieri), Hans Sachs (l'inconscio creativo), Otto Rank (il mito della nascita dell'eroe), Karl Abraham (il primo psicoanalista tedesco), Max Eitingon (l'organizzazione dell'analisi didattica), Ernest Jones (la biografia di Freud). In seguito Paul Federn (la teoria della psicosi), Ella Sharpe (la ricerca sull'empatia), Helen Deutsch (la maturazione della donna), George Groddeck (l'analista indomito), Melanie Klein (la psicoanalisi dei bambini), Wilhelm Reich (l'analisi del carattere), Otto Fenichel (l'enciclopedia della psicoanalisi) e Anna Freud (l'Io e i meccanismi di difesa), Heinz Hartmann (Psicologia dell'Io), Edward Glover (La teoria della tecnica).
+
+Un posto particolare spetta alla variante della Psicologia analitica, di Carl Gustav Jung, psichiatra svizzero, il cui interesse si incentrò sullo studio dei modelli (o schemi mentali) impersonali e collettivi, che presumeva operassero anch’essi nell'inconscio, modelli che chiamerà archetipi. Qui Jung credette di trovare la chiave per un'interpretazione collettiva di particolari fenomeni psicologici, o di fenomeni culturali, religiosi ed artistici che Jung vede come espressioni di modelli archetipici, presenti in un particolare "repertorio simbolico universale" chiamato “inconscio collettivo”.
+
+Psicoanalisi e cultura
+
+La psicoanalisi ebbe un enorme impatto culturale ed influenzò molti scrittori, filosofi e scienziati sociali del 1900 come Italo Svevo, James Joyce, Bertrand Russell ed Herbert Marcuse; molti intellettuali si sottoposero ad analisi, come Oscar Pfister (psicoanalisi e fede), Geza Roheim (Psicoanalsi e antropologia), Felix Deutsch (Psicoanalisi e medicina interna), August Aichorn (l'amico della gioventù traviata), Maria Bonaparte (il problema della sessualità femminile), Siegfried Bernfled (i limiti dell'educazione), Karen Horney (l'enfasi della cultura), Kate Friendlander (Prevenzione della delinquenza giovanile), contribuendo a diffonderla.
+
+La psicoanalisi in Italia
+
+La psicoanalisi entrerà in Italia passando da Trieste dove Edoardo Weiss, analizzato da Paul Federn, allievo di Freud, diede impulso decisivo alla Società Psicoanalitica Italiana che era stata fondata a Teramo nel 1925 da Marco Levi Bianchini, libero docente presso l'Università di Napoli, Direttore dell'Ospedale Psichiatrico di Teramo.
+
+Nel 1932 la S.P.I. fu trasferita a Roma e riorganizzata da Weiss che, nello stesso anno fondava la Rivista di Psicoanalisi, tuttora organo ufficiale della Società. In quel periodo spiccavano le figure di Cesare Musatti, Nicola Perrotti, Emilio Servadio e Alessandra Tomasi di Palma che contribuiranno, anche in seguito, alla divulgazione e al progresso clinico-teorico della psicoanalisi in Italia e all'estero.
+
+Tra gli altri, importanti contributi allo sviluppo della psicoanalisi italiana vennero dati dallo psicoanalista cileno naturalizzato italiano Ignatio Matte Blanco che, affiancando la psicoanalisi alla teoria matematica degli insiemi, illustrò il concetto di "inconscio come insiemi infiniti". Da notare l'influenza sulla psichiatria psicoanalitica anche dello psicoanalista ebreo-italiano Silvano Arieti, emigrato negli Stati Uniti durante l'epoca fascista.
+
+La psicoanalisi neo-freudiana
+
+Nel corso del secolo, soprattutto nel secondo dopoguerra ed anche per influenza dello sviluppo delle scienze umane, come la psicologia sociale, la psicoanalisi dei successori (“neofreudiana”) si è progressivamente distaccata dagli originari approcci "pulsionalisti", ovvero legati alle dinamiche intrapsichiche delle pulsioni e della libido. Si sono sviluppate invece versioni "relazionali", orientate alla comprensione delle dinamiche dei cosiddetti "investimenti oggettuali" e della loro articolazione nelle relazioni interpersonali.
+
+Il luogo ultimo di origine di tali investimenti e quindi delle motivazioni umane rimane comunque l’"inconscio", concetto centrale per la comprensione dell'ottica psicoanalitica (o psicodinamica). I diversi orientamenti di stampo più relazionale nati dalla iniziale psicoanalisi pulsionalista, hanno in parte riformulato i pilastri teorico-tecnici della libido, del determinismo psichico, dei processi transferali, e soprattutto dell’inconscio.
+
+Tra gli anni ottanta e gli anni novanta si sono ridotti gli studi che si proponevano di controllare gli esiti della psicoanalisi come metodo clinico. Tale tendenza si è però modificata negli ultimi anni, con la ripresa di ampi studi e meta-analisi sull'efficacia degli approcci psicodinamici (ovvero, derivati dalla psicoanalisi) nell'ambito della psicoterapia. Interessanti appaiono a questo proposito gli attenti lavori di ricerca supportati, a livello internazionale, dalla SPR, Society for Psychotherapy Research.
+
+Critiche alla psicoanalisi
+
+La psicoanalisi, con i suoi oltre cento anni di storia, ha subito innumerevoli rivisitazioni, sia da parte dello stesso Freud che dai suoi colleghi. Il progredire delle scienze e della filosofia ha inoltre permesso di rivisitare i suoi concetti, a volte falsificandoli e a volte verificandoli. Quelle che verranno riportate di seguito sono solo alcune delle critiche mosse alla psicoanalisi e per completezza dovrebbero essere riportati anche tutti quei risultati (non da ultimi quelli recenti in ambito neurologico) che invece supportano questa teoria.
+Quale che sia la posizione presa in merito è bene ricordare il rischio, sottolineato da Muscetta (1995), che si corre nell'avvicinarsi all'opera di Freud: «alternativamente quello di fargli dire più di quanto non abbia realmente detto o di criticare le sue posizioni teoriche senza tenere in adeguata considerazione il contesto storico e scientifico in cui vennero elaborate».
+
+Freud considerava la psicoanalisi una scienza: «Ho sempre considerato una grande ingiustizia il fatto che non si sia voluto trattare la psicoanalisi come qualunque altra scienza naturale». D'altro parere erano molti suoi contemporanei e successori, psicologi e non. Il logico e filosofo Ludwig Wittgenstein (1889-1951), ad esempio, sostenne che la psicoanalisi fosse: "una mitologia che ha molto potere", criticando nello speficico il procedimento della libera associazione delle idee, considerato oscuro, "perché Freud non chiarisce mai come possiamo sapere dove fermarci, dove la soluzione sia giusta". Anche Karl R. Popper criticò aspramente e a più riprese la scientificità della psicoanalisi. Essa, secondo il suo modello filosofico, non è scientifica per il fatto che non è falsificabile. E "quanto all'epica freudiana dell'Io, del Super-io e dell'Es non si può avanzare nessuna pretesa ad uno stato scientifico, più fondatamente di quanto lo si possa fare per l'insieme delle favole omeriche dell'Olimpo. Queste teorie descrivono alcuni fatti, ma alla maniera dei miti. Esse contengono delle suggestioni psicologiche assai interessanti, ma in forma non suscettibile di controllo. Ciò Dosi Matteo in contrasto con la maggior parte delle teorie fisiche le quali "sono del tutto... altamente falsificabili sin dall'inizio".
+
+Il filosofo contemporaneo Adolf Grünbaum
+
+(a cura di. M. Pera) criticò le posizioni di Popper, ma individuò comunque dei problemi epistemologici nella psicoanalisi, in particolare dovuti alla non sufficiente attendibilità scientifica dei casi clinici, eccessivamente contaminati dal punto di vista dell'analista. A questo proposito, studiosi come Ellenberger, Cioffi e Sulloway, partendo da una minuziosa indagine storiografica, hanno fornito nuove ricostruzioni del lavoro scientifico di Freud, appoggiandosi su prove documentali: sono state così sottolineate alcune discrepanze fra le descrizioni di casi clinici negli articoli pubblicati di Freud e i resoconti degli stessi casi nella sua corrispondenza privata. Il noto critico della psicoanalisi Jacques Bénesteau (autore di Mensonges freudiens: Histoire d'une désinformation séculaire) ha sostenuto che Freud avrebbe mentito su tutti i casi da lui trattati nei suoi scritti: "... abbiamo appreso, di pubblicazione in pubblicazione, e rivelazione dopo rivelazione, che Freud aveva manipolato i fatti, inventato dei malati, con i loro sintomi e una eziologia, fabbricato degli effetti terapeutici inesistenti e delle false prove, il tutto dissimulando le sue costruzioni sotto la protezione di una retorica straordinaria e dietro "fantasmi" supposti inconfutabili, quali il complesso d'Edipo, questa fantastica barriera disinformativa. La disinformazione e la sottrazione dei documenti dovevano fare il resto del lavoro.". L'epistemologo Frank Cioffi ha tratto dalle critiche sulla veridicità degli scritti di Freud delle sue personali conseguenze riguardo alla validità della teoria psicoanalitica: "Allora, perché Freud è uno pseudoscienziato? La ragione principale è la seguente: ha dichiarato di aver testato - e dunque di aver fornito delle prove suscettibili di legittimare in modo convincente - delle teorie che erano inconfutabili o, quando erano confutabili, non erano state testate."
+
+Tuttavia, anche se queste testimonianze dovessero essere fondate, la psicoanalisi non può essere circoscritta al solo contributo freudiano: vorrebbe dire escludere tutti gli studiosi e le ricerche fatte dopo (e durante) la vita di Freud. La psicoanalisi ha infatti conosciuto enormi sviluppi, sia metateorici che di teoria della tecnica (e di modalità di verifica empirica dei suoi risultati), negli oltre 80 anni trascorsi dal suo periodo "classico", cui si riferiscono molte di queste critiche.
+
+Il dibattito sull'efficacia terapeutica
+
+Anche per quanto riguarda l'efficacia terapeutica della psicoanalisi il dibattito è stato molto forte ed ha visto posizioni spesso contrapposte.
+
+In Francia, l'Institut national de la santé et de la recherche médicale (l'organismo pubblico francese dedicato alla salute e alla ricerca medica) ha pubblicato nel 2004 l'expertise collettiva "Psychothérapie: Trois approches évaluées", una rassegna critica di studi clinici e di meta-analisi precedenti, in cui veniva valutata l'efficacia di tre diversi approcci psicoterapeutici, fra cui quello di ispirazione psicoanalitica.
+Gli otto esperti che hanno realizzato tale rapporto provenivano da indirizzi diversi di psicologia clinica, sei di loro erano stati psicoanalizzati e uno era uno psicoanalista lacaniano. Lo psichiatra e psicoterapeuta Jean Cottraux, uno di questi otto autori, riassume le caratteristiche e i risultati dell'expertise nel modo seguente: "... il rapporto INSERM non si occupava della psicoanalisi nel senso stretto del termine, esso valutava l'efficacia delle terapie psicoanalitiche brevi, della terapia familiare vari indirizzi e delle terapie cognitivo-comportamentali. Le sue conclusioni erano particolarmente misurate. Erano stati studiati sedici disturbi. Le terapie cognitivo-comportamentali hanno dimostrato un effetto positivo in quindici disturbi su sedici, le terapie familiari in cinque disturbi su sedici, le terapie d'ispirazione psicoanalitica in un solo disturbo su sedici. Si trattava di disturbi della personalità in cui anche le TCC (sigla che sta per "terapie cognitivo-comportamentali") hanno dimostrato la loro efficacia. Erano proposte indicazioni precise per ciascun disturbo, il che permetteva alle diverse correnti di dividersi il terreno in funzione dei loro poli di eccellenza. Il rapporto consentiva così ai pazienti di compiere una scelta informata. Le terapie psicoanalitiche brevi venivano considerate una buona indicazione in almeno il 30% delle domande di psicoterapia che provenivano da pazienti affetti da un disturbo di personalità isolato o associato alla depressione, o da un disturbo ansioso.".
+
+Altri autori non condividono assolutamente queste posizioni, ritenute ideologiche ed in netto contrasto con i dati empirici delle ricerche cliniche svolte; vi è anzi, sottolineano questi ultimi, una solida e ricca produzione scientifico-clinica sugli esiti positivi degli interventi psicoterapeutici psicodinamicamente orientati, produzione che nel corso degli anni si è progressivamente irrobustita ed ulteriormente articolata: si veda ad esempio l'ampia meta-analisi sull'efficacia della psicoterapia psicodinamica breve in numerosi disturbi psicologici di F.Leichsenring, S.Rabung, E.Leibing, nei prestigiosi Archives of General Psychiatry, 61, 2004, reperibile di seguito assieme ad altri studi clinici controllati sull'argomento Archivi.
+In ogni caso, come fanno notare nello stesso studio Leichsenring et al., diversamente da quanto avviene per la psicoterapia psicodinamica a breve termine, "per la psicoterapia psicoanalitica a lungo termine e la psicoanalisi, c'è un urgente bisogno di ricerca convincente sui risultati."Leichsenring et al. The Efficacy of Short-term Psychodynamic
+Psychotherapy in Specific Psychiatric Disorders. Archives of General Psychiatry. 2004;61: 1208 Tuttavia,nel 2004 Svartberg e collaboratori, nello studiare gli effetti della psicoterapia psicodinamica a lungo termine, hanno testato l'efficacia di tale trattamento su 50 pazienti con disturbo di personalità del gruppo C, i quali furono sottoposti a 40 sedute di psicoterapia psicodinamica o cognitivo comportamentale. Alla fine dello studio, miglioramenti erano emersi nei pazienti assegnati a ciascuna delle due terapie, tuttavia i soggetti inviati ad un trattamento cognitivo non riferivano miglioramenti nel disagio legato ai sintomi dopo il trattamento, a differenza di quelli trattati con la terapia psicodinamica. Allo stesso modo, un esperimento di Bateman e Fonagy (2001) ha rilevato che i pazienti borderline seguiti con terapia psicodinamica hanno mostrato significativi miglioramenti rispetto a quelli trattati con farmaci, continuando a migliorare anche alla fine della terapia, come rilevato in un follow up dopo 2 anni.
+
+A proposito dell'efficacia della psicoanalisi è poi interessante il parere aneddotico di Eric Kandel, uno dei più famosi neuroscienziati riduzionisti del mondo, che ha recentemente ricordato come anni fa si sottopose ad un'analisi personale, che gli produsse notevoli effetti benefici. Tuttavia, lo storico della psicologia Allen Esterson, criticando Mark Solms, ha fatto notare come Kandel non ritenga che lo stato attuale delle conoscenze neuroscientifiche confermi la teoria psicoanalitica: secondo quanto Eric Kandel ha scritto nel 1999, "la base neurale di un insieme di processi mentali inconsci" delineata dalle scoperte attuali in neuroscienza "non mostra alcuna somiglianza con l'inconscio di Freud. ... inconscio non è collegato a pulsioni istintive o a conflitti sessuali, e l'informazione non entra mai nella coscienza. Questi insiemi di scoperte rappresentano la prima sfida a una scienza neurale orientata psicoanaliticamente."
+
+Note
+
+Bibliografia
+Opere di Freud
+
+*Sigmund Freud (1915-1932). Introduzione alla Psicoanalisi (Trad. It. M. Tonin Dogana ed E. Sagittario) Torino, Bollati Boringhieri, 1978. ISBN 8833900266.
+*Sigmund Freud (1920). Al di là del principio di piacere, Torino, Bollati Boringhieri, 1975.
+*Sigmund Freud* (1896). Nuove osservazioni sulle neuropsicosi da difesa. In Opere vol. II.
+*Sigmund Freud* (1899). L'interpretazione dei sogni. In Opere vol. III.
+*Sigmund Freud* (1901). Psicopatologia della vita quotidiana. In Opere vol. IV.
+*Sigmund Freud* (1915). Metapsicologia. In Opere vol. VIII.
+*Sigmund Freud* (1922). Due voci di enciclopedia: "Psicoanalisi" e "Teoria della libido". In Opere vol. IX.
+*Sigmund Freud* (1923). L'Io e l'Es. In Opere vol. IX.
+(*) Salvo diversa indicazione, per la traduzione italiana degli scritti di Sigmund Freud si fa riferimento alle "Opere", edite da Boringhieri, Torino 1976-1980, in 12 volumi.
+
+Testi sulla psicoanalisi
+* ISBN 9788809750036.
+*Henri Ellenberger. La scoperta dell'inconscio. Torino, Bollati Boringhieri, 1970.
+*Ralph Greenson, Tecnica e pratica psicoanalitica, Milano, Feltrinelli, 1974 - ISBN 9788807600326.
+*Jean Laplanche, Jean-Baptiste Pontalis, Enciclopedia della psicanalisi, 2 voll., Bari, Laterza, 1974.
+* ISBN 9788804275688.
+
+Testi su temi specifici
+* ISBN 9788833956855.
+* ISBN 9788833956442.
+* Domenico Chianese, Brevi note sulla Psicoanalisi e sulla Società Psicoanalitica Italiana
+* ISBN 9788883580819.
+*Nino Dazzi, Alessandra De Coro. Psicologia dinamica. Le teorie cliniche. Roma, Laterza, 2001
+*Nino Dazzi, Vittorio Lingiardi, Antonello Colli (a cura di). La ricerca in psicoterapia. Milano, Raffaello Cortina, 2006.
+*Peter Fonagy, Mary Target. Psicopatologia evolutiva. Le teorie psicoanalitiche. Milano, Raffaello Cortina, 2005.
+* ISBN 9788833954141.
+*Jean Laplanche, Vita e morte nella psicanalisi, Bari, Laterza 1972.
+*Eugenia Pelanda (a cura di). Modelli di sviluppo in psicoanalisi. Milano, Raffaello Cortina, 1995.
+* ISBN 883112434X
+*
+*Glen O.Gabbard,Introduzione alla psicoterapia psicodinamica; Milano. Raffaello Cortina Editore 2005.
+
+Testi di argomento generale che trattano di psicoanalisi
+*Gian Vittorio Caprara, Accursio Gennaro. Psicologia della personalità. Bologna, Il Mulino, 1994
+*Umberto Galimberti. Enciclopedia di psicologia. Torino, Garzanti, 2001.
+*Giovanni Jervis. Psicologia dinamica. Bologna, Il Mulino, 2001.
+*P.D.M., Manuale Diagnostico Psicodinamico, Milano, Raffaello Cortina Editore, 2008
+
+Critica
+*Catherine Meyer (a cura di). Il libro nero della psicoanalisi, Fazi Editore, 2006. ISBN 9788881127955. (Traduzione italiana di ISBN 2912485886.
+* ISBN 9780812693850.
+* ISBN 9788842060710.
+*
+* (a cura di. M. Pera)
+* ISBN 9788883230332.
+*Karl Popper, Congetture e Confutazioni, 1969. Trad.it. Bologna, il Mulino, 1972.
+*Karl Popper, Logica della scoperta scientifica, 1934. Trad.it. Torino, Einaudi, 1970.
+
+Altri progetti
+
+Voci correlate
+*Storia della psicoanalisi
+*Glossario di psicoanalisi
+*Pseudoscienza
+*Psicologi (lista)
+*Filosofia
+*Neurologia
+*Nevrosi
+*Piacere
+*Psicosi
+*Psicoterapia
+*Psicopatologia
+*Psicodinamica
+*Thanatos (psicoanalisi)
+*Ascolto fluttuante
+
+Collegamenti esterni
+* Società psicoanalitica italiana
+* Scienza e Psicoanalisi, rivista multimediale
+* Anna Freud Center - Londra
+* Freud museum London
+* International Sàndor Ferenczi Foundation
+* La voce sulla psicoanalisi dello Skeptic's Dictionary
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 08:51:20 from:
+  http://it.wikipedia.org/wiki/Psicoanalisi
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,142 @@
+Nella storia della cultura occidentale, l'antichità greca ha rappresentato un concreto modello di classicità, specialmente per l'architettura, la scultura e la letteratura. Diverso è stato per la musica, arte altrettanto importante e praticata nel mondo classico, della quale, a differenza delle discipline precedentemente dette, ci sono rimasti solo pochi frammenti e di difficile interpretazione.
+L'elemento di continuità tra il mondo della civiltà musicale ellenica e quella dell'Occidente europeo è costituito principalmente dal sistema teorico greco, che fu assorbito dai romani e da essi trasmesso al medioevo cristiano.
+Il sistema diatonico, con le scale di sette suoni e gli intervalli di tono e di semitono, che sono tutt’ora base del nostro linguaggio musicale e della nostra teoria, è l'erede e il continuatore del sistema musicale greco.
+Altri aspetti comuni alla musica greca e ai canti della liturgia cristiana dei primi secoli dell'era volgare furono il carattere rigorosamente monodico della musica e la sua stretta unione con le parole del testo.
+
+I tre grandi periodi della storia della musica greca
+
+In linea di massima, è possibile distinguere tre grandi periodi all'interno della storia della musica greca:
+#Periodo arcaico: dalle origini al VI sec. a.C.
+#Periodo classico: dal VI sec. al IV sec. a.C. Fu il periodo delle grandi città di Atene, Sparta e della grande fioritura dell'arte e del pensiero filosofico greco;
+#Periodo ellenistico-romano: dal IV sec. fino al 146 a.C. (conquista della Grecia da parte dei Romani);
+
+Periodo arcaico
+Nel periodo arcaico domina, in Grecia, una concezione della musica che è di tipo magico-incantatorio. Ricordiamo che, per i Greci, la magia era un estremo tentativo di controllare le forze naturali che si presentavano, con violenza, all'uomo primitivo.
+Fu in questo periodo che nacquero racconti mitologici che fanno riferimento al potere psichico della musica.
+
+La forte presenza della componente sonora nella Grecia arcaica viene testimoniata dal fatto che quasi tutti i miti greci hanno una dimensione sonora (ad esempio, i miti relativi alla nascita degli strumenti, ad esempio il mito della ninfa Siringa, innamorata di Pan, la quale, per sfuggire a quest’ultimo, venne trasformata in canna. Pan, per conservare questo legame con la ninfa, tagliò queste canne facendone il suddetto strumento musicale).
+
+Gli strumenti
+Lo strumento associato a questa dimensione magico-incantatoria fu l'aulos. Era uno strumento a fiato ad ancia, sacro al culto di Dioniso, dio del vino, dell'ebbrezza e dell'incantamento. Una striscia di cuoio girava intorno al capo dell'esecutore, aiutandolo a fermare, tra le labbra, le imboccature dell'aulos doppio, il diaulos, strumento più diffuso dell'aulos semplice.
+
+Un altro strumento utilizzato in Grecia fu la cetra, strumento utilizzato, generalmente, per accompagnare i racconti delle leggende degli dei e degli eroi. La lira o cetra era ritenuta sacra al culto di Apollo, il dio della bellezza e simboleggiava una diversa idea della musica, molto più razionale di quella associata al dio Dioniso. Era formata da una cassa di risonanza dalle cui estremità salivano due bracci collegati in alto da un giogo. Tra la cassa e il giogo erano tese le corde: dapprima 4, poi 7 (merito attribuito erroneamente al poeta-musico Terpandro), poi un numero maggiore. Si suonava pizzicando le corde con un plettro solitamente d'avorio. Varietà della lira erano la forminx degli aedi, la pectis lidia, la grande magadis.
+
+C’è un mito che dimostra la superiorità che acquistò, per i greci, la poesia accompagnata dalla cetra. Si tratta del mito di Atena, dea della sapienza, la quale gettò via l'aulos perché le deturpava il viso, scegliendo la cetra.
+C’è, quindi, quest’idea della superiorità della musica razionale rispetto a quella irrazionale. Ciò nonostante, vengono riconosciute entrambe le dimensioni e associate una ad Apollo, l'altra a Dioniso.
+
+Altri strumenti erano la siringa, simile al flauto dolce; il flauto di Pan, formato da 7 canne disposte una vicina all'altra e di altezza degradante; la salpinx o tromba.
+Tra gli strumenti a percussione si ricordano i tamburi, i cimbali (gli attuali piatti), i sistri e i crotali.
+
+La notazione
+
+L'esistenza della notazione risale solo al IV secolo a. C.
+La scrittura musicale greca serviva solo ai musicisti professionisti per loro uso privato. C’erano due tipi di notazione:
+# La notazione vocale, che impiegava, con poche varianti, i segni dell'alfabeto greco maiuscolo;
+# La notazione strumentale che impiegava segni dell'alfabeto fenicio e usati diritti, inclinati o capovolti;
+
+Sono pervenute così poche melodie/pezzi da non poter formare nemmeno uno dei pezzi più brevi di Bach. Comunque sia, tra i pochi documenti pervenutici in cui vengono utilizzati le due notazioni ricordiamo:
+* Un frammento del primo stasimo della tragedia Oreste di Euripide, scritto su papiro;
+* Due inni delfici, in onore di Apollo, uno in notazione vocale, l'altro in notazione strumentale, entrambi incisi su pietra;
+* Tre inni di Mesomede di Creta, dedicati al Sole, a Nemesi e alla musa Calliope, pubblicati da Vincenzo Galilei alla fine del ‘500.
+
+Alla fine del periodo arcaico comparve il primo musico realmente esistito, Terpandro, a cui fu riconosciuto il merito di aver raccolto, classificato e denominato le melodie in base alla loro origine geografica (una melodia che veniva dalla regione dorica venne chiamata dorica, dalla regione frigia, frigia…), nonché di aver organizzato le melodie in funzione dei testi poetici. Queste melodie vennero chiamate Nomoi (termine che, in greco, significa legge) perché il musico doveva utilizzarle in funzione del tipo di testo che metteva in musica. In questa fase fu decisiva, nell'ambito dell'esecuzione musicale del testo poetico, la funzione della memoria, considerata la madre delle muse, nonché madre delle arti perché aveva un ruolo fondamentale per la sopravvivenza e la trasmissione della cultura.
+
+La Teoria
+
+La Ritmica
+Nella Grecia antica, la musica era assolutamente inseparabile dalla poesia, soprattutto nel periodo più antico della sua storia. Nella poesia greca e in quella latina, la metrica era governata dalla successione, secondo schemi prefissati, di sillabe lunghe e brevi (metrica quantitativa). Da questi schermi derivavano le alternanze fra tempi forti e deboli, cioè il ritmo.
+
+La ritmica greca si estendeva all'area delle arti temporali, quindi la musica adottava gli stessi principi metrici della poesia (Ogni verso della metrica greca era costituito da un insieme di piedi, dati da sillabe lunghe e brevi).
+verifica: le vocali della lingua greca antica, che noi oggi classifichiamo in lunghe e brevi, erano in realta' differenziate in suoni alti e bassi, la differenza era dunque tonale, non metrica. (similmente alla lingua cinese) i greci dunque "cantavano" anche nella lingua parlata.
+Elemento fondamentale ed indivisibile della metrica greca era il tempo primo, misura della sillaba breve. La breve si indicava con il segno ˘ e corrispondeva alla durata di una croma, mentre la lunga si indicava con il segno - e corrispondeva alla durata di due sillabe brevi, ossia di una semiminima. Il ritmo si produce solo quando ci sono due o più note o sillabe, cioè più brevi e lunghe; esse si ordinavano in schemi ritmici chiamati piedi (pirricchio, giambo, trocheo…)
+Nella poesia, i piedi si raggruppavano in combinazioni varie a formare i versi, e i versi a formare le strofe.
+
+Il canto
+
+Verso la fine del periodo arcaico cominciò a svilupparsi una lirica monodica, affidata ad una voce sola ed eseguita in contesti conviviali. Monodiche furono, ad esempio, le intonazioni con cui si declamavano i poemi omerici e la lirica delle epoche alessandrina e romana.
+
+In alcune città come Sparta, invece,dove si sviluppò un forte senso civile e si diede importanza alla dimensione collettiva della vita civile, si sviluppò una produzione di musica corale, affidata ad eventi celebrativi pubblici sia religiosi che laici. Forme della lirica corale furono: il peana in onore di Apollo, il ditirambo in onore di Dioniso, l'imeneo, canto di nozze, il threnos, canto funebre, il partenio, canto di fanciulle, gli inni in onore degli dei e degli uomini e gli epinici in onore dei vincitori dei giochi panellenici. Nella lirica corale si realizza pienamente l'unione delle tre arti della Mousikè, perché alla poesia si aggiunge la danza (il coro si muoveva coreograficamente durante l'esecuzione dei canti corali).
+
+Il ritmo di questi canti era lo stesso della poesia.
+Il coro greco cantava all'unisono, utilizzando il procedimento dell'eterofonia: veniva cantata un'unica melodia, ma ad altezze diverse.
+Massimi poeti e musicisti dei canti corali furono Stesicoro e Pindaro. Siamo tra il periodo arcaico e classico.
+
+Periodo Classico
+La tragedia
+
+Nel periodo classico, la prima grande novità fu la nascita della tragedia.
+Della tragedia abbiamo notizie dall'opera Poetica di Aristotele, nella quale si afferma che la tragedia nasce, nel Peloponneso, dal ditirambo.
+
+Il coro
+
+La disposizione circolare del coro greco e l'organizzazione dei testi dei ditirambi, anche dal punto di vista metrico, fu introdotta da Arione di Metimna. Successivamente, dal coro si distaccò un corifeo (capo del coro) che raccontava le gesta del dio Dioniso e di altri dei. Il racconto del corifeo si alternava agli interventi del coro.
+Il salto verso il dramma, cioè verso la rappresentazione, avvenne con il passaggio dalla struttura lirica (quando il corifeo raccontava una storia all'uditorio) a quella drammatica (quando il corifeo diventò attore, impersonificando Dioniso o un altro dio). Secondo la tradizione, questa trasformazione fu operata da Tespi.
+
+La struttura della tragedia
+
+* Prologo: recitato da un personaggio allegorico che introduce la tragedia;
+* Parodos: l'entrata del coro, che avviene danzando e cantando;
+* Alternanza di episodi (ossia parti recitate) e stasimi (ossia parti cantate dal coro);
+* exodos: scioglimento della vicenda. Poteva essere cantato o recitato, o entrambi.
+
+Dal punto di vista musicale, nel periodo classico, il nomos viene sostituito gradualmente da un'armonia o modo, cioè da scale. La differenza tra nomos e modo sta nel fatto che il nomos è una melodia prestabilita in una tonalità, mentre il modo ci consente di inventare nuove melodie pur battendo sulla stessa tonalità. L'esecutore che utilizza il nomos è vincolato ad usare una sola melodia, mentre colui che utilizza il modo, cioè la scala, può inventare, mantenendo il tono, l'accento espressivo del nomos. I principali modi, dorico, frigio e lidio, vengono chiamati con i nomi dei nomoi corrispondenti proprio perché le scale di quei nomoi sono le stesse dei modi, con la differenza che il nomos è solo una melodia, mentre il modo è una scala che consente all'esecutore di inventare, quindi c’è una fioritura inventiva.
+
+Com’è avvenuto di norma nella storia della musica, le innovazioni tecniche, cioè i sistemi musicali, precedono la loro teorizzazione. I Greci utilizzavano i sistemi musicali in maniera pratica.
+
+La forma del teatro greco
+
+I teatri della Grecia e della Magna Grecia venivano costruiti sulle colline, per una perfetta resa acustica, e a forma di conchiglia, per l'amplificazione del suono. Esempi notevoli di teatri greci sono il Teatro di Dioniso, ad Atene (dove Eschilo, Sofocle ed Euripide rappresentavano abitualmente le loro tragedie), il Teatro greco di Siracusa, il Teatro di Epidauro.
+
+Generi, modi, armonie, sistema perfetto
+
+Il primo studioso di musica da un punto di vista teorico e tecnico, nonché il primo musicologo dell'antichità viene considerato Aristosseno di Taranto. Costui individuò alla base del sistema musicale greco il tetracordo, una successione di quattro suoni discendenti compresi nell'ambito di un intervallo di quarta giusta. I suoi estremi erano fissi, quelli interni erano mobili.
+L'ampiezza degli intervalli di un tetracordo caratterizzava i 3 generi della musica greca: diatonico, cromatico, enarmonico. Il tetracordo di genere diatonico era costituito da 2 intervalli di tono ed uno di semitono ed era il genere più antico e diffuso. Il tetracordo di genere cromatico era costituito da un intervallo di terza minore e 2 intervalli di semitono; il tetracordo di genere enarmonico era costituito da un intervallo di terza maggiore e 2 micro-intervalli di un quarto di tono.Nei tetracordi di genere diatonico la collocazione dell'unico semitono, distingueva i tre modi: dorico, frigio e lidio.Il tetracordo dorico aveva il semitono al grave ed era di origine greca. Il tetracordo frigio aveva il semitono al centro ed era di origine orientale, come il tetracordo lidio in cui il semitono stava all'acuto.
+I tetracordi erano, di solito, accoppiati a due a due; potevano essere disgiunti o congiunti. L'unione di due tetracordi formava una harmonia (= modo). Diazeusi (= disgiunzione) era chiamato il punto di distacco fra due tetracordi disgiunti; sinafè (= congiunzione) il punto in cui si univano due tetracordi congiunti. Se nelle harmonìai si abbassava di un'ottava il tetracordo superiore, si ottenevano gli ipomodi (ipodorico, ipofrigio, ipolidio), che erano congiunti; congiunti erano anche gli ipermodi (iperdorico, iperfrigio, iperlidio), ottenuti alzando di un'ottava il tetracordo inferiore. Se ad una harmonia disgiunta si aggiungeva un tetracordo congiunto all'acuto, un tetracordo congiunto al grave e sotto a quest’ultimo una nota (proslambanòmenos), si otteneva il sistema tèleion (o sistema perfetto), che abbracciava l'estensione di due ottave. Esso fu elaborato nel IV secolo a. C.
+Il primo grande mutamento, nell'epoca classica, è il passaggio dai nomoi ai modi corrispondenti. Già in Sofocle i nomoi sono scomparsi. Con Euripide vi è la comparsa, accanto al genere diatonico, di due nuovi generi: cromatico ed enarmonico. In realtà quest’innovazione di deve a Timoteo di Mileto che fu il protagonista della rivoluzione musicale del V secolo, accompagnata dalla costruzione della lira con non più di sette o undici corde, proprio per consentire l'uso delle alterazioni.
+Questi generi sono di derivazione orientale. L'introduzione delle alterazioni introduce una sfumature, una carica espressiva molto più grande che nel genere diatonico. Questa è la ragione per cui Euripide utilizzò i generi enarmonico e cromatico. La sua tragedia aveva un'accentuazione espressiva delle passioni, esprimibile solo con i generi cromatico ed enarmonico. Altre novità nelle tragedia di Euripide sono:
+*Accanto ai cori cominciano ad essere messi in musica anche dei brani solistici, quindi possono esserci momenti in cui un personaggio canta da solo;
+*La rottura dell'intima relazione fra poesia e musica che si era avuta nella letteratura e nella musica greca fino a qual momento. Come si è detto, per tutto il mondo classico fino al V sec., la melodia era applicata al ritmo del metro poetico. Con Euripide avviene anche la frattura fra ritmo della musica e metro poetico;
+
+I filosofi e gli intellettuali del tempo, dinanzi alla rivoluzione del V secolo, si posero in maniera differenziata, come desumibile dalla riflessioni di Platone e Aristotele, entrambi filosofi del periodo classico.
+
+La dottrina dell'ethos e l'educazione
+
+A Pitagora si attribuisce l'affermazione della relazione tra la musica e l'animo umano, concetto ripreso e sviluppato da tutta la filosofia greca dei secoli seguenti e che assunse i caratteri della dottrina dell'ethos. Essa indicò le relazioni esistenti tra alcuni aspetti del linguaggio musicale e determinati stati d'animo. Le differenti potenzialità emotive della musica riguardavano principalmente le armonie, cioè le melodie, ma potevano anche riferirsi ai ritmi e agli strumenti.
+Ogni tipo di musica imita un certo carattere; questa imitazione avviene in vari modi: per esempio, il modo dorico veniva considerato capace di produrre un ethos positivo e pacato, mentre il modo frigio era legato ad un ethos soggettivo e passionale.
+Ogni modo doveva produrre un ben determinato effetto sull'animo, positivo o negativo che fosse; inoltre ogni modo non imiterebbe soltanto uno stato d'animo, ma anche i costumi del paese da cui trae origine ed anche il tipo di regime politico, democratico, oligarchico o tirannico.
+L'insieme delle dottrine, anche diverse, presenti nella scuola pitagorica trovano una loro sistemazione ed una certa coerenza nella filosofia di Platone.
+
+Platone raccoglie una precisa eredità di pensiero che consiste nel ritenere che il cosmo sia organizzato da rapporti numerici che sono essi stessi armonia musicale, la cosiddetta armonia delle sfere (armonia pitagorica).
+Nella Repubblica, la posizione di Platone, nei confronti della musica, è estremamente complessa: da un lato c’è una condanna filosofica dell'arte in generale, perché tutta l'arte è imitazione della realtà e la realtà, a sua volta, è il riflesso del mondo delle idee. L'arte, quindi, essendo imitazione di un'imitazione, è lontana di due gradi dalla verità; dall'altro c’è l'armonia delle sfere, quella di origine pitagorica, che è riflesso della perfezione del cosmo, ma che non è udibile dall'uomo.
+Dunque, la musica in quanto fonte di piacere, sotto il profilo pratico, è oggetto di condanna o, più raramente, può essere accettata, ma con cautela e con molte riserve. Va aggiunto che la musica può anche essere una scienza e, in quanto tale, oggetto non più dei sensi ma della ragione. La musica, allora, può avvicinarsi alla filosofia sino ad identificarsi con essa, come la più alta forma di sapienza (sophia). Si ritrova in molti dialoghi di Platone l'identificazione del comporre musica con il filosofare. Ad esempio, nel mito delle cicale nel Fedro appare chiara la posizione privilegiata della musica rispetto alle altre Muse, privilegio che la rende simile alla filosofia, nel senso che filosofare significare "rendere onore alla musica". In questo mito la musica appare come un dono divino di cui l'uomo può appropriarsi, ma solo ad un certo livello, cioè quando raggiunge la sophia.
+Nell'educazione, Platone proponeva la ginnastica (= la pratica sportiva, ma anche danza) e la musica, nel significato di canto e di suono della lira, per l'anima.
+Platone si trovava di fronte alle profonde innovazioni presentate dalla pratica musicale del suo tempo, innovazioni che nel loro insieme rappresentavano la rivoluzione musicale del V secolo. Di fronte ad essa il filosofo manifesta la sua più profonda avversione e ostilità, ancorandosi alla più antica e salda tradizione musicale e poetica. Questa posizione conservatrice non ha origine solamente in un suo atteggiamento negativo di fronte ai musicisti e alla muova musica del suo tempo, ma trova una spiegazione anche nella sua filosofia della musica.
+
+Aristotele, invece, ebbe una visione più aperta. Diede una giustificazione antropologica dell'arte, disciplina essenziale all'uomo, che la giustifica, anche se negativa.
+Aristotele riprende il concetto pitagorico di catarsi, ma lo modifica, osservando che il meccanismo della purificazione avviene attraverso una liberazione delle passioni che vengono imitate dal musicista: perciò non vi sono armonie o musiche dannose in assoluto dal punto di vista etico; la musica è una medicina per l'animo proprio in quanto può imitare tutte le passioni o emozioni che ci tormentano e di cui siamo affetti e dalle quali vogliamo purificarci; tale liberazione avviene proprio potendo osservare la loro imitazione attraverso l'arte.
+Aristotele sottolinea come Platone confonda la realtà con l'imitazione della realtà. Egli afferma: Platone confonde colui che zoppica come colui che imita uno zoppo. Queste sono due cose diverse, perché l'imitazione della realtà che avviene nell'arte non è la realtà in se, ma ha una funzione catartica perché, dopo aver provocato nello spettatore una immedesimazione di sentimenti, alla fine, lo libera da questi stessi sentimenti, quindi produce una sorta di liberazione omeopatica (omeopatica, in quanto omeopatica rafforza un sintomo per poi scaricarlo).
+La musica ha come fine il piacere e come tale rappresenta un ozio cioè qualcosa che si oppone al lavoro e all'attività. In quanto occupazione per i momenti di ozio, la musica veniva considerata da Aristotele come una disciplina "nobile e liberale". L'arte e la musica è imitazione e suscita sentimenti, perciò è educativa in quanto l'artista può scegliere più opportunamente la verità da imitare ed influire così sull'animo umano.
+
+Tutto il mondo occidentale sarà attraversato da due opposte concezioni dell'arte:
+# come espressione di contenuti morali;
+# come rappresentazione della realtà nella sua interezza e complessità, quindi anche nei suoi aspetti peggiori e immorali, nella misura in cui questa rappresentazione sia comunque liberatoria;
+
+Nel mondo classico si distinguono due fasi:
+* Una prima fase al passaggio dai nomoi ai modi che risulta piuttosto evidente in Sofocle, in cui nomi e modi coesistono;
+* Una seconda in cui alla rivoluzione musicale del V secolo che si realizza soprattutto in Euripide che fa proprie le innovazioni di Timoteo di Mileto. Queste innovazioni consistono:
+:# Nell'adozione di generi che utilizzano le alterazioni e che consentono una maggiore espressività della musica;
+:# Nella rottura della coincidenza fra ritmo e della musica e il metro della poesia e quindi ella nuova autonomia del fatto musicale.
+
+Voci correlate
+*Storia della musica
+*Musica rinascimentale
+*Musica barocca
+*Musica classica
+*Musica romantica
+*Musica tardo-romantica
+*Musica contemporanea
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 00:26:14 from:
+  http://it.wikipedia.org/wiki/Musica_nell'antica_Grecia
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,181 @@
+Una portaerei è una nave da guerra di grandi dimensioni il cui ruolo principale è il trasporto in zona di operazioni, lancio e recupero di aeroplani, agendo in effetti come una base aerea capace di muoversi in mare. Le portaerei permettono pertanto ad una forza navale di proiettare la propria potenza aerea fino a grandi distanze senza dover dipendere da basi locali per gli aerei. Le marine moderne che operano portaerei le trattano come il nucleo della flotta, un ruolo giocato in precedenza dalle corazzate. Il cambiamento iniziò con la crescita della potenza aerea come parte significativa della guerra ed avvenne durante la seconda guerra mondiale. Le portaerei prive di scorta sono considerate vulnerabili ad attacchi da altre navi, aerei, sottomarini o missili e pertanto viaggiano come parte di un gruppo da battaglia di portaerei.
+
+Configurazione del ponte di volo
+Le navi portaerei possiedono un ponte piatto, il ponte di volo, che serve da pista di decollo e di atterraggio per aerei. Gli aerei decollano ed atterrano con il vento a sfavore. Per favorire il decollo degli aerei una portaerei viaggia a grande velocità, per esempio fino a 35 nodi (65 km/h) di velocità, orientata a sfavore del vento, in modo da incrementare la velocità apparente del vento e riducendo pertanto la velocità dell'aereo rispetto alla nave. Su alcune navi si utilizza una catapulta a vapore per lanciare in avanti l'aeroplano in modo da permettergli di decollare con una rincorsa più limitata di quella altrimenti richiesta (sia pure con l'aiuto del vento). Su altri modelli non è richiesta l'assistenza di una catapulta - la necessità di usarne una dipende dal tipo e prestazioni dell'aereo.
+
+Durante l'atterraggio alcuni aerei si affidano per arrestarsi in una distanza più breve del normale ad un "gancio per l'appontaggio" che si aggancia a delle funi elastiche disposte trasversalmente al ponte di atterraggio. Altri aerei usano la loro capacità di atterraggio verticale e non richiedono assistenza per ridurre la loro velocità nell'atterraggio. Dalla fine della seconda guerra mondiale è diventato comune angolare la pista di atterraggio e decollo rispetto all'asse longitudinale della nave. Lo scopo è di permettere agli aerei che manchino le funi di arresto di decollare nuovamente senza rischiare di colpire gli aerei parcheggiati nella parte anteriore del ponte. Il ponte angolato permette inoltre il decollo di aerei contemporaneamente all'atterraggio di altri.
+
+Le aree sopra al ponte di volo (ponte di comando, torre di controllo, scarichi dei motori e così via) sono concentrate a tribordo del ponte in una zona relativamente piccola chiamata "isola". Solo poche portaerei sono state progettate o costruite senza un'isola e questa configurazione non è mai stata vista in una portaerei di flotta.
+
+Una configurazione più recente, usata dalla Royal Navy ha una ski-jump (trampolino di lancio) al termine della pista di decollo. Questo per aiutare il decollo di aerei VTOL (o STOVL) (aerei in grado di decollare e atterrare con poco o nessun movimento in avanti), come il Sea Harrier, sebbene questi aerei siano in grado di decollare verticalmente dal ponte, l'uso della rampa riduce il consumo di carburante. Poiché catapulta e funi di arresto non sono necessarie le portaerei con questa configurazione riducono il peso, complessità ed ingombro necessario per l'equipaggiamento.
+
+Tipi comuni
+Nel corso dell'ultimo secolo sono stati sperimentati diversi tipi di portaerei, alcuni dei quali ora obsoleti. In generale possono essere categorizzati come segue:
+
+Primi progetti e sviluppi tra le guerre
+
+* Nave appoggio idrovolanti: navi per il trasporto e manutenzione di idrovolanti, erano prive di ponte di volo e per lanciare gli idrovolanti dovevano calarli in acqua con una gru (o lanciarli con una catapulta). Un esempio è la HMS Engadine fuori servizio dopo gli anni 1920 con la generale dismissione degli idroplani.
+* Portaerei di flotta standard, come la HMS Ark Royal, tipicamente con dislocamento da 20.000 a 65.000 ton.
+* "Portaerei volanti": dirigibili equipaggiati per il trasporto e lancio di aeroplani. Come per esempio l'USS Akron e l'USS Macon. ''Vedi Caccia parassiti su dirigibili.
+* Sommergibili portaerei: come il francese Surcouf, o la classe giapponese I-400 in grado di trasportare 3 idrovolanti multiruolo Aichi M6A Seiran.
+
+Sviluppi durante la seconda guerra mondiale
+
+* Portaerei di scorta: come la USS Barnes, costruite solo durante la seconda guerra mondiale ed utilizzate dalle marina britannica e statunitense. Erano fondamentalmente delle unità leggere, intorno alle 12.000 tonnellate, capaci di trasportare una trentina di velivoli, dotate di armamento leggero, generalmente un solo cannone da 127mm, e con una velocità massima non elevata ma adatta per compiti di scorta al naviglio mercantile ed alla lotta antisommergibile.
+* Portaerei leggere: come la USS Independence, progettate per trasportare principalmente caccia. ????
+* "Navi CAM": (Catapult Aircraft Merchantman, "Mercantile equipaggiato con Catapulta Aerei") come la SS Michael E, navi cargo mercantili che potevano lanciare, ma non recuperare caccia. Questi vascelli furono una misura d'emergenza usata durante la seconda guerra mondiale.
+* "Navi MAC": (Merchant aircraft carriers "Mercantili Portaerei"), come la MV Empire MacAlpine, un'altra misura d'emergenza per cui delle navi mercantili furono dotate di un ponte di volo.
+* Corazzate portearei: create dalla Marina Imperiale Giapponese per compensare parzialmente la perdita delle sue portaerei alla Battaglia delle Midway. Due corazzate giapponesi classe Ise, la Ise e la Hyuga furono trasformate rimuovendo le torrette di poppa e rimpiazzandole con un hangar, ponte di volo e catapulta.
+
+Inoltre molte corazzate, incrociatori e navi corsare vennero equipaggiati con idrovolanti per missioni di ricognizione.
+
+Sviluppi dopo la seconda guerra mondiale
+* portaelicotteri d'assalto anfibie: come la USS Tarawa (classe Tarawa), in grado di svolgere missioni di trasporto e sbarco di soldati ed a questo scopo opera un grande contingente di elicotteri. Dette anche Commando Carriers
+* Portaerei antisommergibile: come la HMS Invincible, dette anche portaelicotteri
+* Superportaerei: come la USS Nimitz, con dislocamento di 75.000 ton o più.
+
+Alcuni incrociatori e navi maggiori del periodo tra le guerre trasportavano spesso un idroplano che decollava grazie ad una catapulta per missioni di ricognizione e di avvistamento del punto di impatto dei proiettili dei cannoni. Veniva lanciato da una catapulta e recuperato dall'acqua mediante una gru dopo l'ammaraggio. Le gru e gli hangar per il trasporto furono generalmente rimossi durante la seconda guerra mondiale, ma durante le prime fasi della guerra ottennero qualche successo degno di nota, come dimostrato dal Supermarine Walrus del HMS Warspite nelle sue operazioni nei fiordi norvegesi del 1940.
+
+Molte navi da guerra moderne sono equipaggiate per permettere l'atterraggio di elicotteri
+
+Storia e pietre miliari
+Genesi
+
+Con lo sviluppo degli aeroplani all'inizio del XX secolo le varie marine iniziarono ad interessarsi al loro potenziale uso per missioni di ricognizione per le loro corazzate. Vennero effettuati diversi voli sperimentali per testare l'idea. Eugene Ely fu il primo pilota a decollare da una nave stazionaria nel novembre 1910. Decollò da una struttura installata sul castello di prua dell'incrociatore corazzato USS Birmingham a Hampton Roads, Virginia ed atterrò a Willoughby Spit dopo circa cinque minuti di volo. Il 18 gennaio 1911 divenne anche il primo pilota ad atterrare su una nave stazionaria. Decollò dalla pista di corse di Tanforan ed atterrò su una struttura temporanea installata sulla poppa dell'USS Pennsylvania ancorato sul fronte del porto di San Francisco - il sistema di frenaggio improvvisato di sacchi di sabbia e di corde è l'antenato del dispositivo formato dal gancio d'appontaggio e di funi d'arresto descritti sopra. Il Capitano di fregata Charles Samson, divenne il primo pilota a decollare da una nave in movimento il 2 maggio 1912 decollando a bordo di un Short 27 dalla nave da guerra HMS Hibernia mentre questa viaggiava a 10.5 nodi (19 km/h) durante la Rivista della Royal Fleet a Weymouth.
+
+La HMS Ark Royal fu la prima portaerei. Venne originariamente progettata come nave mercantile, ma durante la costruzione venne convertita per essere trasformata in una nave appoggio idrovolanti. Varata nel 1914, servì nella Campagna dei Dardanelli e durante la prima guerra mondiale.
+
+Il primo attacco lanciato da una portaerei contro un bersaglio terrestre avvenne il 19 luglio 1918. Sette Sopwith Camel decollati dalla HMS Furious attaccarono la base di Zeppelin tedesca di Tondern con due bombe da 25 kg ognuno. Diversi dirigibili e palloni aereostatici vennero distrutti, ma poiché il Furious non aveva metodi per recuperarli in sicurezza due piloti eseguirono un atterraggio d'emergenza in mare, a fianco del Furious, mentre i rimanenti si diressero verso la neutrale Danimarca.
+
+Il periodo tra le guerre mondiali
+
+Successivamente alla prima guerra mondiale, il Trattato navale di Washington del 1922 impose alle maggiori potenze navali stretti limiti sul tonnellaggio di corazzate e incrociatori, così come un limite sul tonnellaggio totale delle portaerei ed un limite massimo di 27.000 ton per ogni nave. Sebbene vennero fatte alcune eccezioni riguardo il tonnellaggio massimo di singole navi, i limiti sul tonnellaggio totale di ogni tipo di nave non potevano essere ecceduti. Di conseguenza molte corazzate o incrociatori in corso di costruzione (o in servizio) vennero convertite in portaerei. La prima nave ad avere un ponte piatto lungo tutta la sua lunghezza fu la HMS Argus la cui conversione venne completata nel settembre 1918.
+
+La prima nave specificatamente designata come portaerei ad entrare in servizio fu la giapponese Hosho nel 1922. La costruzione dell'inglese HMS Hermes entrò in servizio l'anno dopo, sebbene la sua costruzione fosse iniziata prima di quella della Hosho.
+
+Alla fine degli anni 1930, le portaerei in attività nel mondo imbarcavano tipicamente tre tipi di aerei: aerosiluranti, usati anche per missioni convenzionali di bombardamento e di ricognizione; bombardieri in picchiata usati anche per missioni di ricognizione (nella US Navy questo tipo di aerei era chiamato "scout bombers"); e caccia per missioni di difesa della flotta e di scorta dei bombardieri. A causa delle restrizioni di spazio i modelli imbarcati erano piccoli, monomotore, di solito con ali pieghevoli per facilitare lo stivaggio.
+
+La seconda guerra mondiale
+
+Le portaerei giocarono un ruolo significativo nella seconda guerra mondiale. All'inizio della guerra, con un totale di sette portaerei in attività la Royal Navy aveva un vantaggio numerico considerevole sugli italiani e sui tedeschi, che non ne possedevano alcuna. Comunque la vulnerabilità delle portaerei all'attacco delle corazzate venne rapidamente dimostrata dall'affondamento della HMS Glorious da parte di incrociatori da battaglia tedeschi durante la campagna norvegese del 1940.
+
+Questa apparente debolezza nei confronti delle corazzate venne capovolta nel novembre 1940 quando la HMS Illustrious lanciò un attacco a lungo raggio contro la flotta italiana ancorata nel porto di Taranto. Questa operazione affondò una corazzata e ne mise fuori servizio altre due al costo di soli due dei 21 aerosiluranti Fairey Swordfish attaccanti. Le portaerei giocarono anche un ruolo fondamentale nel rinforzare Malta, sia trasportando aerei, che difendendo convogli di rifornimenti inviati all'isola. L'uso delle portaerei impedì alla Regia Marina ed all'aviazione terrestre tedesca dal dominare il teatro del mediterraneo.
+
+Nell'oceano atlantico la HMS Ark Royal e la HMS Victorious ebbero il compito di rallentare la Bismarck nel maggio 1941. Successivamente durante la guerra le portaerei scorta dimostrarono il loro valore sorvegliando i convogli che attraversano l'oceano atlantico e artico.
+
+Basandosi sullo sviluppo nel 1939 dei siluri lanciati da aerei, con corsa a bassa profondità e sull'esempio britannico della Notte di Taranto, l'attacco giapponese contro Pearl Harbor fu un chiaro esempio della capacità di proiezione del potere permesso da una grande flotta di portaerei. Simultaneamente all'attacco i giapponesi iniziarono un'avanzata lungo tutta l'Asia sudorientale e l'affondamento della Prince of Wales e del Repulse da parte di aerei giapponesi decollati da terra dimostrarono ulteriormente il bisogno per questo tipo di navi per fornire copertura aerea. Nell'aprile 1942 la Japanese Fast Carrier Strike Force operò nell'Oceano Indiano affondando navigli, comprese la portaerei sottoriparata e sottoprotetta HMS Hermes. Le flotte alleate più piccole, sprovviste di un'adeguata copertura aerea furono forzate a ritirarsi o vennero distrutte. Nella Battaglia del Mar dei Coralli le flotte americane e giapponesi si scambiarono attacchi aerei nella prima battaglia nella quale nessuna nave entrò nel raggio visivo di una nave avversaria. La Battaglia delle Midway, dove aerei decollati da tre portaerei americane affondarono con un attacco di sorpresa quattro portaerei giapponesi è considerato il punto di svolta della guerra nel Pacifico.
+
+Successivamente gli Stati Uniti crearono una diversificata flotta di portaerei leggere e di flotta, che giocarono un ruolo fondamentale nel vincere la guerra nel Pacifico. L'eclissi delle corazzate come componenti primarie della flotta venne chiaramente illustrata nel 1945 dall'affondamento della più grande nave da battaglia mai costruita, la, ad opera di aerei decollati da portaerei. Il Giappone costruì anche la più grossa portaerei della guerra, la.
+
+Innovazioni introdotte durante la guerra
+L'esperienza di combattimento dimostrò che l'invenzione inglese dell'hurricane bow (le strutture dello scafo vennero prolungate fino al ponte di volo e la prua assunse nella parte estrema una forma triangolare) che migliora il comportamento della nave con mare tempestoso era l'uso migliore per il fronte della nave, sia rispetto all'installazione di mitragliatrici che all'installazione di un secondo ponte di volo. Questo divenne una caratteristica standard delle portaerei britanniche e statunitensi. La portaerei giapponese Taihō fu la prima nave giapponese a incorporarlo.
+
+A cominciare dalla classe Midway le portaerei americane divennero così grandi che non era pratico continuare ad usare il ponte hangar come strength deck concept e tutte le successive portaerei americane usarono il ponte di volo come strength deck lasciando come unica superstruttura l'isola.
+
+Portaerei leggere
+La perdita in rapida successione nella guerra del Pacifico di tre delle principali portaerei spinse la US Navy a sviluppare le portaerei leggere (designazione CVL) a partire da scafi di incrociatori leggeri già in corso di costruzione. Queste erano destinate ad aggiungere squadriglie di caccia ad una task force e vennero usate dalla US Navy solo durante la seconda guerra mondiale. La Royal Navy inglese realizzò un modello simile che utilizzò anche dopo la seconda guerra mondiale (così come altre nazioni del Commonwealth). Una di queste portaerei, la INS Viraat indiana, precedentemente HMS Hermes, è ancora in servizio.
+
+Portaerei scorta e navi MAC
+Per proteggere i convogli atlantici i britannici utilizzarono le navi MAC (Merchant aircraft carrier - "Mercantili Portaerei"), navi mercantili equipaggiate con un ponte piatto di decollo per una mezza dozzina di aerei. Operarono con equipaggi civili, battendo bandiera mercantile e trasportando un carico normale, oltre a fornire supporto aereo al convoglio. Poiché erano prive di ascensore e hangar le operazioni di manutenzione erano limitate e gli aerei dovevano trascorrere tutto il viaggio esposti sul ponte.
+
+L'equivalente americano furono le portaerei scorta (designazione americana CVE). Circa un terzo delle dimensioni di una portaerei di flotta, con la capacità di trasportare circa due dozzine di caccia per missioni antisommergibile. Oltre un centinaio vennero costruite o ricavate da navi mercantili convertite.
+Le portaerei scorta vennero costruite negli Stati Uniti secondo due modelli di scafo: uno a partire da una nave mercantile e l'altro da una lievemente più veloce nave cisterna. Oltre a difendere convogli furono usate per trasportare aerei attraverso l'oceano. Nonostante ciò alcune parteciparono all'attacco contro le Filippine, principalmente la battaglia del golfo di Leyte nella quale sei portaerei scorta ed i cacciatorpediniere che le accompagnavano bluffarono attaccando brevemente cinque corazzate giapponesi e forzandole a ritirarsi.
+
+Navi CAM
+
+Come misura di emergenza, prima che un numero sufficiente di mercantili portaerei fossero disponibili, i britannici utilizzarono navi CAM ( Catapult aircraft merchantman - "mercantile concatapulta aerea") per fornire supporto aereo ai convogli. Le navi CAM erano vascelli equipaggiati con un aereo, solitamente un usurato Hawker Hurricane che decollava assistito da una catapulta. Una volta lanciato l'aereo non poteva riatterrare sul ponte e doveva ammarare se non era ad una distanza sufficiente da terra. Nel giro di due anni meno di 10 lanci vennero effettuati, ottenendo comunque un limitato successo: 6 bombardieri contro la perdita di un singolo pilota.
+
+Ponte angolato
+Durante la seconda guerra mondiale gli aerei dovevano atterrare sul ponte di volo parallelo all'asse dello scafo della nave. Gli aerei già atterrati venivano parcheggiati sul ponte all'estremità di prua del ponte di volo. Dietro di essi veniva sollevata una barriera antiurto per arrestare ogni aereo in fase di atterraggio che non riuscisse ad arrestarsi in tempo, nel caso che il gancio d'atterraggio mancasse i cavi d'arresto. Se questo succedeva, oltre al rischio per l'equipaggio, l'aereo in atterraggio causava seri danni agli aerei parcheggiati, e al peggio, nel caso che la barriera antiurto non fosse sufficientemente solida, poteva distruggerli e causare un incendio.
+
+Un'importante innovazione britannica della fine degli anni quaranta fu l'introduzione tecnica del ponte angolato, in cui la pista di atterraggio era angolata di pochi gradi rispetto alla nave. Se un aereo mancava i cavi di arresto il pilota doveva solo incrementare al massimo la potenza del motore per decollare nuovamente, senza rischiare di colpire gli aeroplani parcheggiati, dato che il ponte angolato punta all'esterno verso il mare. L'immagine della USS John C. Stennis all'inizio di questa voce mostra il ponte d'atterraggio angolato.
+
+Sviluppi postguerra
+La moderna catapulta a vapore, alimentata dalle caldaie, o reattori, della nave è stata inventata dal comandante C.C. Mitchell della Royal Naval Reserve. Venne diffusamente adottata in seguito alle prove eseguite sulla HMS Perseus tra il 1950 ed il 1952, che dimostrarono come fosse più potente ed affidabile delle catapulte ad aria compressa introdotte negli anni 1930. Poiché attualmente solo le portaerei nucleari possiedono caldaie come parte integrante del loro sistema di propulsione la maggior parte delle portaerei sono ora equipaggiante con impianti di produzione del vapore per l'unico motivo di alimentare le catapulte.
+
+Un'altra invenzione inglese fu l'indicatore glide-slope ("piano di planata). Questa è una lampada controllata giroscopicamente situata a babordo del ponte che può essere vista dal pilota in fase di atterraggio e gli indica se sta arrivando troppo alto o troppo basso in relazione al sentiero di discesa desiderato. Tiene anche conto degli effetti delle onde sul ponte di volo. Questo strumento divenne una necessità con l'aumento della velocità di atterraggio.
+
+La US Navy tentò prematuramente di diventare una forza strategica nucleare con il progetto di costruzione della United States, classificata CVA, con la "A" che sta per "atomica". Avrebbe dovuto trasportare bombardieri bimotori, ognuno dei quali armato con una bomba atomica. Il progetto venne cancellato su pressioni dell'appena creata United States Air Force, e la lettera "A" venne riciclata per significare "attacco". Ma questo ritardò solo la crescita delle portaerei, nel 1955 le armi nucleari presero il mare nonostante le obiezioni della Air Force a bordo della USS Forrestal (CVA-59) (classe Forrestal), e per la fine degli anni 1950 la US Navy possedeva una serie di aerei d'attacco armati con armi nucleari.
+
+La US Navy utilizzò il nucleare anche per costruire portaerei alimentate da reattori nucleari. La USS Enterprise fu la prima portaerei equipaggiata con motori nucleari e le successive portaerei sfruttarono questa tecnologia per incrementare l'autonomia. La sola altra nazione ad aver seguito l'esempio degli Stati Uniti è stata la Francia con la Charles de Gaulle.
+
+Negli anni successivi alla seconda guerra mondiale videro lo sviluppo dell'elicottero, che a differenza degli aerei adatti al combattimento aria-aria e aria-superficie, venne destinato al trasporto di materiale e personale e può essere utilizzato nella guerra anti-sommergibile equipaggiandolo con sonar a immersione e missili.
+
+Alla fine degli anni 1950 ed all'inizio degli anni 1960 l'inghilterra convertì alcune sue vecchie portaerei in portaerei commando: portaelicotteri come la HMS Bulwark. per mitigare le connotazioni costose della parola portaerei le portarei di nuova costruzione di classe Invincible vennero designate through deck cruisers ("incrociatori a ponte completo") e inizialmente trasportarono solo elicotteri per operare come portaerei scorta. L'introduzione del Sea Harrier permise loro di trasportare aerei ad ala fissa nonostante il loro breve ponte di volo.
+
+Portaerei oggigiorno
+
+Le portaerei sono generalmente le più grandi unità tenute in funzione dalle marine militari odierne; una portaerei classe Nimitz alimentata da due reattori nucleari e quattro turbine a vapore è lunga 333 metri e costa circa 5 miliardi di $. Gli Stati Uniti possiedono il più grande numero di portaerei in servizio (circa una dozzina), che costituiscono la pietra angolare della loro capacità di proiezione del potere.
+
+Nove nazioni mantengono in servizio portaerei: Stati Uniti, Regno Unito, Francia, Russia, Brasile, Italia, Spagna, India e Thailandia. Inoltre la marina cinese possiede la portaerei ex-sovietica Varyag, ma la maggior parte degli analisti navali crede che non abbiano intenzione di tenerla in attività, ma invece che la vogliano per fare esperienza nelle operazioni di portaerei per una futura portaerei cinese. La Cina, il Giappone, il Pakistan ed il Cile hanno in attività portaelicotteri.
+
+Le portaerei sono generalmente accompagnate da diverse altre navi che forniscono protezione alla relativamente vulnerabile portaerei, trasportano rifornimenti e forniscono capacità offensive aggiuntive. Questa flotta viene spesso chiamata "gruppo da battaglia di portaerei".
+
+Portaerei moderne
+Gli usi più recenti delle portaerei includono la Guerra delle Falklands nella quale il Regno Unito vinse un conflitto distante 13.000 km dalle proprie acque in gran parte grazie all'uso della portaerei HMS Hermes e della più piccola HMS Invincible. Questa guerra dimostrò il valore di un aereo VSTOL come l'Hawker-Siddeley Harrier nel difendere la flotta e la forza d'assalto da aerei con basi a terra e nell'attaccare il nemico. Elicotteri basati sulle portaerei furono usati per scaricare truppe e recuperare i feriti.
+
+Gli USA hanno utilizzato le portaerei nella Guerra del Golfo, in Afghanistan e per proteggere i propri interessi nell'Oceano Pacifico. Nella recente invasione dell'Iraq le portaerei sono state la base principale della potenza aerea americana. Sebbene privi della possibilità di piazzare un numero significativo di aerei nelle basi medio-orientali, gli USA furono in grado di lanciare significativi attacchi aerei eseguiti da squadroni basati su portaerei.
+
+All'inizio del XXI secolo le portaerei in attività sono in grado di trasportare circa 1.250 aerei in zona di operazioni, il Regno Unito ne schierò circa 50. La Francia ed il Regno Unito hanno in corso un programma di espansione della flotta di portaerei, ma gli Stati Uniti mantengono comunque un grande margine di vantaggio.
+
+Anche l'Italia ha in corso la costruzione di una nuova portaerei, la ''Cavour, che stazzerà circa 30.000 tonnellate a massimo carico ed entrerà in servizio nella primavera del 2009.
+
+Portaerei future
+Diverse nazioni dotate di portaerei hanno in corso il progetto di nuove classi per rimpiazzare quelle correnti.
+
+Federazione Russa
+
+Possiede una portaerei in attività, la Admiral Kuznetsov. Al momento sta sviluppando dei nuovi progetti di portaerei, da progettare con i materiali e le tecnologie più moderne. Si prevede che il primo stadio di costruzione inizi presto, con due portaerei, una destinata alla Flotta del Baltico e l'altra per quella dell'Oceano Pacifico che saranno costruite entro il 2010. Pare che saranno equipaggiate con i caccia Sukhoi Su-47, in corso di sviluppo.
+
+Francia
+La Marine Nationale francese ha in progetto la costruzione di una seconda portaerei, in aggiunta alla Charles de Gaulle. Il progetto prevede una portarei molto più grande, della Charles de Gaulle di circa 50-60.000 tonnellate, ma alimentata da un motore convezionale, non nucleare. Ci sono piani per uno sviluppo congiunto con la Royal Navy, mediante la collaborazione tra la BAE Systems ed il Thales Group intorno al programma Carrier Vessel Future (CVF).
+
+India
+L'India ha iniziato la costruzione di una portaerei da 37.500 tonnellate, lunga 252 metri nell'Aprile 2005. La nuova portaerei costerà 762 milioni di dollari e sarà equipaggiata con aerei MiG 29K Fulcrum e BAE Sea Harrier oltre a elicotteri di costruzione russa ed indiana. La nave sarà alimentata da quattro motori a turbina ed una volta completata avrà un'autonomia di 14.000 km, porterà 160 ufficiali, 1.400 marinai e 30 aerei. Sarà realizzata in un arsenale navale statale nell'India meridionale. Nel 2004 l'India ha anche comprato la portaerei sovietica Admiral Gorshkov dalla Russia al costo di 1,5 miliardi di dollari; ci si aspetta che si unirà all'Indian Navy nel 2008, una volta revisionata.
+
+http://en.wikipedia.org/wiki/Admiral_Gorshkov
+
+Italia
+
+La Marina militare italiana ha in servizio dal 1985 la portaerei Garibaldi.
+
+Quest'ultima è affiancata dalla nave Cavour, entrata in servizio il 10 giugno 2009 dopo alcuni ritardi dovuti a diverse migliorie applicate al progetto originale.
+La nave Cavour è una portaerei di tipo STOVL a propulsione convenzionale (non nucleare) con un dislocamento di 27.500 tonnellate.
+Grazie allo sky-jump inclinato di 12° sarà in grado di imbarcare una componente aerea, sia ad ala rotante che fissa, composta da elicotteri medi EH-101 e dai nuovissimi F-35 Lightning II del cui progetto l'Italia è partner di 2° livello.
+
+Si stima che il costo di nave Cavour sia di un totale di 1390 milioni di euro.
+
+Regno Unito
+Attualmente la Royal Navy sta progettando la costruzione di due portaerei per rimpiazzare le tre unità classe Invincible correntemente in servizio. Ci si aspetta che queste due navi saranno chiamate HMS Queen Elizabeth e HMS Prince of Wales. Trasporteranno una forza di circa 50 aerei, con un dislocamento di circa 60.000 tonnellate. La loro entrata in servizio è prevista rispettivamente per il 2012 ed il 2015. Imbarcheranno principalmente F-35 Joint Strike Fighter, con un equipaggio di circa 1.000 unità. Le due navi formeranno il nucleo della Royal Navy e saranno le più grandi navi da guerra mai costruite per essa. Saranno progettate in modo adattabile per permettere la massima flessibilità operativa e probabilmente saranno attrezzate con uno ski-jump per aerei STOVL.
+
+Repubblica popolare cinese
+Nel giugno 2005 è stato riportato da boxun.com che la Cina avrebbe investito 362 milioni di dollari nella costruzione di una portaerei del dislocamento di 78.000 tonnellate, da costruirsi nei cantieri Jiangnan in Shanghai. La notizia è stata ufficialmente negata dall'ufficiale alla Difesa cinese Zhang Guangqin.
+
+Nel dicembre 2008 il maggiore generale Qian Lihua del Ministero cinese della Difesa Nazionale, ha accennato che la marina sta cercando di acquisire una portaerei, sebbene la mossa potrebbe alimentare le tensioni con gli Stati Uniti e rispettivi alleati in Asia. In un'intervista pubblicata sul Financial Times di Londra, il Maggiore Generale Qian non ha esplicitamente dichiarato che la Cina ha deciso di costruire delle portaerei, ma ha affermato che la Cina ha tutto il diritto di possederne. La marina di qualsiasi grande superpotenza sogna di avere una o più portaerei. Egli ha detto nel colloquio che il fatto di averne almeno una è difatti il sogno di ogni grande potenza militare. Ha anticipato altresì che il destino delle eventuali nuove portaerei saranno strettamente per scopi difensivi: il generale ha sottolineato come la Cina non intende avere delle portaerei con intenti aggressivi.
+
+Spagna
+
+Il progetto per la portaerei convenzionale (non nucleare) del dislocamento di 27.079 tonnellate, lunga 231 metri, denominata Buque de Proyección Estratégica ("vascello di proiezione strategica") Juan Carlos I per l'Armada Española è stato approvato nel 2003 e la sua costruzione è cominciata nell'agosto 2005, nei cantieri navali statali di Navantia. La Buque de proyección estratégica è un vascello progettato per operare sia come nave d'assalto anfibio, sia come portaerei VSTOL, a seconda della missione. Il progetto è stato realizzato tenendo conto dei conflitti a bassa intensità nelle quali si prevede che saranno coinvolte le FF.AA. spagnole nel futuro. A rigore, infatti, la BPE deve essere considerata principalmente una nave da assalto anfibio, le quali all'occorrenza in determinati casi possono anche fungere da portaerei leggere.
+È stata costruita seguendo standard commerciali, più economici di quelli militari.
+Quando configurata per operare come portaerei STOVL potrà imbarcare Matador AV-8B+ e F-35 Lightning II. La nave è equipaggiata con uno sky-jump ed un sistema di combattimento equipaggiato con un radar tridimensionale, e sarà la seconda portaerei della marina spagnola dopo la Príncipe de Asturias.
+
+Stati Uniti d'America
+
+Le portaerei correntemente in servizio, della classe Nimitz saranno seguite (ed in alcuni casi rimpiazzate) dalle portaerei CVN-21/CVNX. Ci si aspetta che saranno più grandi ed in grado di operare più aerei dei correnti 80 della classe Nimitz e saranno anche progettate per una minore tracciabilità da parte dei radar.
+
+Note
+
+Voci correlate
+*Sommergibile portaerei
+* Grande enciclopedia delle Armi moderne
+
+Altri progetti
+
+Collegamenti esterni
+* Haze Gray & Underway, World Aircraft Carrier Lists elenco dettagliato e comprensivo di tutte le portaerei del mondo dal 1913 al 2001, con gallerie fotografiche.
+* Storia ed evoluzione della portaerei su IlVolo.it
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 12:47:40 from:
+  http://it.wikipedia.org/wiki/Portaerei
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

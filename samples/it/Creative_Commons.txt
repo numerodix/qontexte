@@ -1,0 +1,238 @@
+Creative Commons (CC) è un'organizzazione non profit dedicata all'espansione della portata delle opere di creatività offerte alla condivisione e all'utilizzo pubblici. Essa intende altresì rendere possibile, com'è sempre avvenuto prima di un sostanziale abuso della legge sul copyright, il ricorso creativo a opere di ingegno altrui nel pieno rispetto delle leggi esistenti.
+
+Scopi
+Le licenze di tipo Creative Commons permettono a quanti detengono dei diritti di copyright di trasmettere alcuni di questi diritti al pubblico e di conservare gli altri, per mezzo di una varietà di schemi di licenze e di contratti che includono la destinazione di un bene privato al pubblico dominio o ai termini di licenza di contenuti aperti (open content). L'intenzione è quella di evitare i problemi che le attuali leggi sul copyright creano per la diffusione e la condivisione delle informazioni.
+
+Il progetto fornisce diverse licenze libere che i detentori dei diritti di copyright possono utilizzare quando rilasciano le proprie opere sulla Rete. Il progetto fornisce anche dei metadata RDF/XML che descrivono la licenza ed il lavoro che rende più facile il trattamento automatico e la ricerca delle opere concesse con licenza creative commons; viene anche fornito un Founder's Copyright, il quale è un contratto che vorrebbe ricreare lo spirito del concetto originale di Copyright così come introdotto dai padri fondatori nella costituzione americana.
+
+Storia
+
+Le licenze Creative Commons sono state anticipate dalle licenze Open Publication License (OPL) e GNU Free Documentation License (GFDL). La GFDL è intesa principalmente come una licenza per la documentazione software, ma è anche in uso per progetti che non riguardano strettamente il software, come la stessa Wikipedia. La licenza OPL è ora defunta, e il suo stesso creatore suggerisce di non utilizzarla. Sia la OPL che la GFDL contenevano delle sezioni opzionali che, nell'opinione dei critici, le rendevano meno libere. La GFDL si differenzia dalle licenze creative commons nella sua richiesta che i lavori licenziati con essa vengano distribuiti in una forma "trasparente", ad esempio non usando formati proprietari e/o segreti.
+
+Creative Commons è nato ufficialmente nel 2001 per volere del professore Lawrence Lessig, ordinario della facoltà di Giurisprudenza di Stanford (e in precedenza anche di Harvard) e riconosciuto come uno dei massimi esperti di diritto d'autore negli Stati Uniti. Lessig fondò l'organizzazione come metodo addizionale per raggiungere il suo scopo nel suo caso di fronte alla Corte Suprema degli Stati Uniti, Eldred v. Ashcroft. Il set iniziale delle licenze creative commons fu pubblicato il 16 dicembre 2002. Al progetto fu conferito il Golden Nica Award durante la Prix Ars Electronica nella categoria Net Vision nel 2004.
+
+A marzo 2009, è stata rilasciata la prima versione per la licenza Creative Commons 0. Con questa licenza, l'autore rinuncia a qualunque diritto sull'opera, che può esere utlizzata da tutti, in qualunque modo, per sempre e senza condizioni. Scompare pure l'obbligo di citare l'autore.
+
+La legislazione, al momento, non prevede che vi sia un ente preposto dove l'autore possa depositare l'opera prima di distribuirla. È più difficile per l'autore dimostrare la paternità dell'opera, nel caso in cui qualcuno applichi successivamente il diritto d'autore, e a limite accusi di averlo violato quanti fruiscono l'opera stessa.
+
+Rispetto alla licenza, prevale la legislazione, che nei Paesi di diritto latino prevede che resti l'obbligo di citare l'autore, e che i diritti morali sulle opere siano per questi irrinunciabili.
+
+In Italia
+L’Istituto di Elettronica e di Ingegneria dell’Informazione e delle Telecomunicazioni (IEIIT organo del CNR – consiglio nazionale delle Ricerche) offre la propria collaborazione a International Commons per realizzare una versione italiana delle licenze CC. Marco Ricolfi del Dipartimento di Scienze Giuridiche dell’Università degli Studi di Torino è il project Lead del gruppo di lavoro che si è assunto questo compito.
+
+Ogni paese ha un proprio sistema giuridico. Il gruppo di lavoro per il progetto creative Commons Italia, ha dovuto capire la funzione delle licenze CC nel sistema giuridico Americano, per potere fare un confronto con quello italiano e cercare di adattare a quest’ultimo le licenze.
+Un punto di partenza è stato dato da una prima traduzione delle licenze, realizzata dall’avvocato milanese Antonio Amelia.
+Oltre al gruppo di lavoro, è stato importante l’intervento della community, nata a sostegno del progetto.
+
+È il 2003, l’anno in cui Lawrence Lessig annuncia a Torino l'inizio ufficiale del lavoro di traduzione e adattamento delle licenze Creative Commons.
+Il gruppo di lavoro delle Affiliate Institutions CC Italia è formato da Marco Ricolfi, Marco Ciurcina, Massimo Travostino, Nicola Bottero, Samantha Zanni, Alessandro Cogo e Juan Carlos De Martin; parteciperanno ad alcuni incontri anche Lorenzo Benussi e Alberto Gilardi. L'interazione con la comunità avverrà prevalentemente tramite la mailing list e un wiki.
+
+Il 2004 vede la nascita delle bozze 1.0 e 2.0 della traduzione in italiano delle licenze e della loro pubblicazione su wiki per permettere una libera discussione.
+La presentazione delle licenze Creative Commons italiane avviene il 16 dicembre a Torino presso la Fondazione Giovanni Agnelli.
+
+Nel gennaio del 2005 Juan Carlos De Martin, ricercatore presso l'IEII-CNR di Torino e docente presso il Politecnico di Torino, viene nominato Lead Creative Commons Italia mentre Il prof. Marco Ricolfi assume il ruolo di coordinatore scientifico del gruppo di lavoro giuridico CC Italia.
+
+Il 29 aprile 2006 viene presentata la versione 2.5 delle licenze Creative Commons italiane.
+
+Nel 2005 e 2006 vengono organizzati degli incontri nazionali Creative Commons Italia su diversi temi (multimedia, editoria, musica, archivi, open access).
+
+Diritto d'autore in Italia
+
+Le licenze Creative Commons sono nate negli USA appoggiandosi al sistema giuridico locale. Sono state quindi adattate al sistema giuridico italiano, dove il diritto d'autore è regolato dalla legge 633/41.
+L'autore diventa detentore dei diritti nel momento dell'estrinsecazione dell'opera creativa, secondo la L. 633/41, art. 6
+
+Inoltre tutti i diritti sono riservati all'autore (art.13 / 18bis).
+
+Le sei licenze Creative Commons (definite dalla combinazione di quattro attributi) stabiliscono in modo esplicito quali sono i diritti riservati, modificando quindi la regola di default in cui tutti i diritti sono riservati.
+
+Attribuzione (by)
+Bisogna sempre indicare l'autore dell'opera (attributo obbligatorio) in modo che sia possibile attribuirne la paternità come definito dagli artt. 8 e 20 lda:
+
+Non uso commerciale (nc)
+Non sono consentiti usi commerciali dell'opera creativa come definito dal secondo comma dell'art. 12:
+
+Con il secondo attributo si definisce come diritto esclusivo dell'autore il solo uso commerciale dell'opera creativa. I diritti di riproduzione (art. 13), di trascrizione (art. 14), di esecuzione (art. 15), di comunicazione al pubblico (art. 16), di distribuzione (art. 17) e di noleggiare (art. 18bis) definiti dalla L633/41 non sono esplicitati nella licenza e pertanto non sono considerati diritti esclusivi dell'autore.
+Chiunque può riprodurre, trascrivere, eseguire e distribuire purché non a scopo di lucro, attribuendo sempre la paternità come definito nel primo attributo. Tuttavia le limitazioni sullo sfruttamento economico dell'opera sono limitate al settantesimo anno solare dopo la morte dell'autore come specificato dall'art. 25 lda.
+
+Non opere derivate (nd)
+Non sono consentite elaborazioni dell'opera creativa come definito dall'art 20
+
+Condividi allo stesso modo (sa)
+Si può modificare l'opera ma l'opera modificata deve essere rilasciata secondo le stesse condizioni scelte dall'autore originale.
+
+Localizzazione
+
+Le licenze Creative Commons principali sono state scritte avendo in mente il modello legale americano, quindi potrebbero non essere perfettamente compatibili con le leggi vigenti in altri Paesi. Ricorrere al modello (legale) degli Stati Uniti senza considerare le leggi locali di ciascun singolo paese potrebbe rendere le licenze prive di tutela giudiziaria. Il progetto iCommons (International Commons) intende mettere a punto un adattamento legale delle Creative Commons alle legislazioni di ogni singola realtà nazionale. All'ottobre 2005, 23 paesi hanno preso parte a questa iniziativa e le licenze dei rispettivi paesi sono state recepite. Eccone l'elenco:
+
+* Argentina
+* Australia
+* Austria
+* Belgio
+* Brasile
+* Bulgaria
+* Canada
+* Cile
+* Corea del Sud
+* Croazia
+* Finlandia
+* Francia
+* Germania
+* Giappone
+* Israele
+* Italia
+* Paesi Bassi
+* Polonia
+* Regno Unito (Inghilterra e Galles)
+* Spagna
+* Sudafrica
+* Taiwan
+* Ungheria
+
+All'ottobre 2005, il processo di localizzazione delle licenze è in atto (come lavori in corso) in altri 13 paesi, eccone l'elenco:
+
+* Cina
+* Danimarca
+* Filippine
+* Irlanda
+* Giordania
+* Malesia
+* Messico
+* Nigeria
+* Regno Unito (Scozia)
+* Slovenia
+* Svezia
+* Svizzera
+* Ucraina
+
+Progetti che adottano licenze Creative Commons
+
+Diversi milioni di pagine e di contenuti sulla Rete adottano le licenze Creative Commons. Alcuni dei progetti più conosciuti licenziati sotto CC includono:
+
+* Al Jazeera Creative Comons Repository
+* Arcoiris
+* OpenStreetMap http://www.openstreetmap.org, le immagini delle mappe sono rilasciate sotto la licenza Creative Commons Attribution-ShareAlike 2.0
+* Wikinotizie, utilizza la licenza CC-BY
+* Linuxquestions.org wiki http://wiki.linuxquestions.org
+* Opcopy
+* Wikitravel
+* World66
+* Wikivoyage
+* La fiction di Cory Doctorow
+* Il libro del professor Lessig pubblicato nel 2004, Free Culture
+* Tre dei libri di Eric S. Raymond, The Cathedral and the Bazaar (il primo ad essere pubblicato commercialmente sotto una licenza CC, edito da O'Reilly & Associates), The New Hacker's Dictionary, e The Art of Unix Programming (tutti e tre con una clausola condizionale aggiunta)
+* Public Library of Science
+* Star Wreck VI
+* MoveOn.org's Bush In 30 Seconds contest (vedi http://www.moveon.org)
+* Groklaw http://www.groklaw.net
+* CCMixter http://www.ccmixter.org A community music site featuring remixes licensed under Creative Commons
+* MIT OpenCourseWare http://ocw.mit.edu/index.html
+* Penínsulas http://www.midesa.it/peninsula.html Progetto on line di Midesa, per la diffusione di testi accademici che analizzano la cultura spagnola e italiana, sotto licenza Creative Commons.
+* Telltale Weekly
+* The Oyez Project - Supreme Court MP3 Files http://www.oyez.org/oyez/resource/nitf/273/
+* La maggior parte dei video realizzati dalle Telestreet italiane
+* Serpica Naro, metabrand
+* POIGPS http://www.poigps.com, i punti di interesse da scaricare sul proprio navigatore GPS
+* La tana dei goblin, i contenuti del sito dell'associazione La Tana dei Goblin http://nuke.goblins.net sono protetti e condivisi in base alla licenza CC 2.5
+* Deviantart http://www.deviantart.com, ha la possibilità di attribuire la licenza CC ai lavori caricati.
+
+Dal 2001 sono stati compiuti vari passi in avanti: solo in Italia, ad esempio, Creative Commons è stato utilizzato da Feltrinelli, da la Stampa Alternativa e da La Stampa di Torino per vari inserti culturali.
+
+Bibliografia di approfondimento
+
+* Aliprandi, Creative Commons: manuale operativo. Guida all'uso delle licenze e degli altri strumenti CC (ed. Stampa Alternativa, 2008), disponibile anche qui e su Biblioteca.
+* Aliprandi, Copyleft & opencontent. L'altra faccia del copyright (ed. PrimaOra, 2005), disponibile anche qui.
+* Aliprandi, Teoria e pratica del copyleft - Guida all'uso delle licenze opencontent (ed. NDA press, 2006), disponibile anche qui.
+* Aliprandi (a cura di), Compendio di libertà informatica e cultura open (ed. PrimaOra, 2006), disponibile anche qui.
+* Lessig, Cultura libera. Un equilibrio fra anarchia e controllo, contro l'estremismo della proprietà intellettuale (ed. Apogeo, 2005), disponibile anche qui.
+* Ziccardi, Libertà del codice e della cultura (Giuffrè, 2006).
+
+Filmografia di approfondimento
+* Aliprandi, Intervista/conferenza in occasione del CC-Festival 2006 (San Donà di Piave), scaricabile qui in formato AVI.
+* Creative Commons Italia Diventa Creativo.
+* Christian Biasco, Francesca Terri Diritti d'autori creativi.
+* Video di presentazione di Creative Commons su You Tube.
+
+Voci correlate
+* Copyleft
+* Copyright
+* Copyzero
+* Licenza Creative Commons
+* Free Culture movement
+* Intercultura
+* Proprietà intellettuale
+* R&D TV
+
+Altri progetti
+
+Collegamenti esterni
+
+Generici e informativi
+
+* Creative Commons Italia
+* Brochure divulgativa su Creative Commons realizzata da Simone Aliprandi per il Progetto Copyleft-Italia.it
+* Sezione Creative Commons del sito www.copyleft-italia.it
+* Il copyleft in tasca - Vademecum del copyleft (a cura di S. Aliprandi) con prospetto sinottico delle licenze Creative Commons
+* A short Flash animation describing Creative Commons
+* International Commons: Creative Commons initiatives outside the United States
+* BBC to Open Content Floodgates BBC's Creative Archive project
+*Creative Commons: creativi insieme
+*Creative Commons e RAI
+*Creative commons in Svizzera
+
+Strumenti per cercare materiale con licenze CC
+* iRATE radio http://irate.sourceforge.net/
+* Gnomoradio
+* Motore di ricerca Yahoo! per lavori sotto licenze Creative Commons
+* Common Content
+* Jamendo - Jamendo - un archivio di interi album musicali sotto Licenza Creative Commons
+* The Assayer - un catalogo di libri free e copyleft
+* Flickr Creative Commons search - foto su Flickr.
+* MusiCC - Social Network su Musica CC e libera
+
+Editoria e libri
+
+* BBN - BoxingBooks on the Net eBook scolastici in licenza d'uso e free (Creative Common)www.bibienne.com
+* Ampia Booksopen raccolta di libri e manuali copyleft in pdf
+*Edizioni OMP, la prima casa editrice italiana completamente in copyleft con la possibilità di scaricare gratuitamente e completamente tutti i titoli in catalogo
+
+Etichette discografice in rete (o Netlabel)
+
+* Netlabel list
+* A Quiet Bump
+* Beatpick
+* Exprezoo
+* Inv3rno
+* Opsound
+* Thinner/Autoplate
+* Anaesthetix
+* Musicartistry
+* Adrenalinic Sound
+* Selva Elettrica
+* Terminalstation
+
+Radio
+*Radio Dimensione Scuola - Dedicato a studenti, autodidatti, scuole e associazioni - Solo musica Creative Commons
+*FlorenceWebRadio - Trasmette unicamente via web musica rilasciata sotto licenza Creative Commons
+*Musick Radio - Trasmette unicamente via web musica rilasciata sotto licenza Creative Commons
+*Sciax2 Radio - Nata con l'intento di trasmettere solo musica di giovani cantanti emergenti copyleft o rilasciata sotto licenza Creative Commons
+*radiomaurodellechiaie- Nata con l'intento di trasmettere solo musica di giovani artisti emergenti rilasciata sotto licenza Creative Commons
+*RQN Radio Quintessenza Network una web radio italiana che trasmette Creative Commons
+*Indipendent Noise Republic Radio Station trasmette solo musica sotto licenza Creative Commons
+*Radio Shamal - Trasmette unicamente via web musica rilasciata sotto licenza Creative Commons e tematiche riguardanti volontariato e terzo settore
+*Radio Savona Web - Nata per far ascoltare i nuovi artisti emergenti di tutto il mondo licenziati licenze Creative Common's
+*Radio Pentagramma - Dedica ampio spazio nel far conoscere al suo pubblico i lavori di artisti emergenti rilasciati sotto licenza Creative Commons.
+*RadioBallaro - Trasmette via web musica rilasciata sotto licenza Creative Commons
+*GnuFunk Radio - Musica Libera Tutti - Web Radio con musica e trasmissioni rilasciate sotto licenza Creative Commons
+
+Festival
+
+*CC-Festival - Festival nazionale dedicato alla Cultura Copyleft, dal 2006
+*Copyleft Festival - Festival di Arezzo dedicato a Copyleft e CC con ospiti di livello nazionale
+*TorinOpen - Serata dedicata ai contenuti Copyleft-Creative Commons, dal 2009
+
+Note
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 21:29:56 from:
+  http://it.wikipedia.org/wiki/Creative_Commons
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

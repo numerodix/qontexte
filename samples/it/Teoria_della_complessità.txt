@@ -1,0 +1,98 @@
+Complessità (o teoria della complessità) è un termine ricco di significati e dunque ambiguo, venuto affermandosi negli ultimi decenni soprattutto in riferimento alla trasformazione in atto nel mondo dell’indagine scientifica dovuta alla crescente inclinazione a rinunciare alle assunzioni di linearità nei sistemi dinamici per indagarne più a fondo il comportamento.
+
+Si parla così di della complessità pensando alla teoria del caos, al comportamento emergente di molti sistemi, alla complessità delle reti, al comportamento che i sistemi esibiscono quando sono lontani dall’equilibrio termodinamico e alle facoltà di auto-organizzazione che a volte ne derivano.
+
+Questo movimento scientifico sta avendo una messe di conseguenze non solo tecnologiche ma anche filosofiche e -grazie alla suggestione di taluni aspetti- persino giornalistiche e di costume. L’uso del termine complessità è, per queste ragioni, ancora (2009) instabile, e nella letteratura divulgativa se ne rinvengono anche utilizzi spurii che si allontanano dal contesto scientifico per avventurarsi in ambiti più colloquiali (tipicamente facendo astrazione dal concetto, cruciale, di non-linearità): ecco che, ad esempio, si parla a volte di complessità come sinonimo di sistemistica tout-court, oppure di cibernetica oppure di mera interdisciplinarità, oppure ancora di un non meglio precisato "pensiero complesso".
+
+Il termine viene da alcuni utilizzato come sinonimo di epistemologia della complessità, una branca della filosofia della scienza inaugurata nei primi anni ’70 da Edgar Morin, Isabelle Stangers e Ilya Prigogine e dalla quale è lecito aspettarsi un giorno un contributo per mettere ordine nella nomenclatura.
+
+Esiste poi una teoria della complessità computazionale che è un filone scientifico più stabile e meglio definito, storicamente evolutosi separatamente da quello afferente al concetto di sistema non-lineare ma alla fine sottilmente collegato a questo.
+
+Infine, anche in ambito scientifico si riscontrano molti impieghi del termine complessità diversi tra loro e tutti irrilevanti rispetto alla presente discussione. Per tutti, un esempio autorevole: i numeri complessi.
+
+Linearità
+Di centrale importanza in questo contesto è il concetto di linearità , che non va confuso con quello colloquiale bensì inteso nel senso della teoria dei sistemi.
+
+Un problema è lineare se lo si può scomporre in una somma di sotto-problemi indipendenti tra loro. Quando, invece, i vari componenti/aspetti di un problema interagiscono gli uni con gli altri così da rendere impossibile la loro separazione per risolvere il problema passo-passo e “a blocchi”, allora si parla di non-linearità.
+
+Un altro modo per affermare la stessa cosa è usare esplicitamente la definizione sistemistica, secondo la quale è lineare un sistema che risponde in modo direttamente proporzionale alle sollecitazioni ricevute. Si dice allora che per quel sistema vale il principio di sovrapposizione degli effetti, nel senso che se alla sollecitazione S1 il sistema dà la risposta R1 e alla sollecitazione S2 dà la risposta R2, allora alla sollecitazione (S1+S2) esso risponderà con (R1+R2).
+
+I sistemi e i problemi che si presentano in natura sono essenzialmente non-lineari. Tuttavia, per semplificare inizialmente le indagini o per scopi applicativi, si ricorre spesso in prima istanza all’ipotesi di linearità. Si considerano, cioè, in prima approssimazione trascurabili gli effetti della non-linearità e si approntano modelli matematici che descrivono il sistema come se esso fosse lineare (linearizzazione).
+
+Un modello matematico lineare consiste nella rappresentazione del sistema in esame come una funzione polinomiale, i coefficienti della quale sono indipendenti l’uno dall’altro (o così debolmente dipendenti da potersi trascurare le mutue interazioni).
+
+Questo approccio si rivela fecondo in moltissimi casi. Per fare un esempio: nessun amplificatore audio è intrinsecamente lineare ma, entro certi limiti di frequenza, esso si comporterà in modo lineare, rivelandosi così utilizzabile per l’hi-fi.
+
+I modelli lineari sono utili perché in ipotesi di linearità molti sistemi presenti in natura “si somigliano”, nel senso che il loro comportamento può essere descritto mediante le medesime equazioni anche se i contesti sono molto diversi, come la meccanica, l’elettronica, la chimica, la biologia, l'economia e così via.
+
+Enormi progressi scientifici e tecnologici sono stati ottenuti anche prima che l’avvento degli elaboratori elettronici (1940-1950) consentisse di addentrarsi risolutamente nei territori della non-linearità.
+
+Non-linearità
+Si immagini di voler condurre uno studio di una popolazione di animali per modellare con un’equazione l’andamento nel tempo della popolazione in funzione della disponibilità di cibo. Se esistono predatori per quel tipo di animale, il modello lineare si rivela semplicistico e inadeguato: infatti, la popolazione degli animali predati diventa anche una funzione della popolazione dei predatori; ma, a sua volta, l’espansione o la contrazione della popolazione dei predatori dipenderà anche dalla maggiore o minore presenza di prede. Il sistema prede – predatori – cibo, dunque, è intrinsecamente non lineare perché nessuno dei suoi componenti può essere studiato separatamente dagli altri. Le equazioni di Lotka-Volterra costituiscono infatti un esempio classico di semplice modello non-lineare di una situazione ambientale.
+
+Tali modelli, e di complessità anche molto maggiore, sono oggi assai diffusi in elettronica, in avionica, in chimica, in biologia, in ecologia, in economia e in molti altri settori. Essi sono il risultato della modellizzazione che effettuiamo quando smettiamo di "fingere" che i sistemi siano lineari e li studiamo invece nella loro intima complessità.
+
+La solubilità delle equazioni matematiche che ne derivano non è quasi mai possibile, e solo l’utilizzo di simulazioni numeriche all’elaboratore consente di trattare i relativi problemi. Per questa ragione, l’indagine dei sistemi dinamici complessi –che pure erano noti e marginalmente studiati già dai primi dell’Ottocento– si è sviluppata a partire dall’avvento dei computer. (Per fare un esempio molto noto, le figure "a farfalla" del celebre attrattore di Lorenz sono simulazioni di computer grafica).
+
+Comportamento emergente
+
+Dalla non-linearità di interazione tra le componenti di un sistema scaturisce l’attitudine di questo a esibire proprietà inspiegabili sulla base delle leggi che governano le singole componenti stesse:
+
+Quantunque il comportamento emergente sia più facilmente riscontrabile in sistemi di organismi viventi o di individui sociali oppure ancora in sistemi economici ovvero in sistemi 'complicati' dai molteplici gradi di libertà, diversamente da una credenza oggi diffusa l’emergenza si manifesta anche in contesti molto più elementari, come ad esempio la fisica delle particelle e la fisica atomica; e anzi, proprio questo fatto ne attesta l’importanza sul piano epistemologico, nel senso che si può contestare risolutamente la visione riduzionista in base alla quale ogni conoscenza scientifica deve essere fatta risalire a quella delle leggi che governano le particelle elementari. Al contrario, al salire della scala geometrica (particelle, atomi, molecole, eccetera), emergono leggi nuove che, senza violarle, integrano e superano quelle della fisica delle alte energie. In questo senso si parla anche di approccio olistico ovvero di computazione in toto del sistema e delle sue parti nel mettere in luce ciò che non può essere osservato singolarmente nel piccolo.
+
+È importante sottolineare che la conditio sine qua non per l'emergenza è la non-linearità delle interazioni tra le componenti di un sistema e non già la numerosità di queste.
+
+Caos
+
+Il comportamento caotico di sistemi anche apparentemente semplici e soggetti a leggi controllate e deterministiche, come ad esempio il problema dei tre corpi (nel quale Henri Poincaré alla fine dell’Ottocento rinvenne comportamenti caotici) o la mappa logistica di Robert May, è pure esso riconducibile alla non-linearità: i tre pianeti di Poincaré costituiscono un sistema nel quale gli elementi di ciascuna delle tre coppie di componenti si influenzano l'uno con l'altro, e la mappa logistica è in ultima analisi un modello semplificato del problema preda-predatore di cui sopra.
+
+Nonostante i prodromi ottocenteschi, una vera e propria teoria del caos si è sviluppata solo a partire dagli anni '60 del Novecento, quando l'impiego dei computer consentì di compiere osservazioni controllate e allestire simulazioni numeriche.
+
+In teoria del caos l'enfasi è posta sulla forte dipendenza del sistema dalle condizioni iniziali, nel senso che a variazioni infinitesime di queste possono aver luogo variazioni finite della traiettoria nello spazio delle fasi. Si parla allora di "caos deteministico", per sottolineare come l'evoluzione di un sistema possa farsi imprevedibile anche a partire da leggi di base ordinate o addirittura deterministiche.
+
+Complessità nel vivente
+
+Il comportamento emergente delle folle o dei consumatori o degli operatori in un mercato o degli organismi in un collettivo vivente è, ovviamente, il più intrigante da esaminare. Particolare attenzione ricevono tra gli studiosi i fenomeni di auto-organizzazione, altra manifestazione delle interazioni non-lineari tra le componenti di un sistema.
+
+In questo campo, un ruolo primario viene giocato dai computer, come si può facilmente comprendere già contemplando il Game Of Life di Horton Conway, nel quale poche semplici regole fissate per pochi individui di base possono condurre a evoluzioni assai complesse. È questo il dominio cosidetto degli automi cellulari e dei sistemi adattivi complessi o CAS (complex adaptive systems): ambienti artificiali attraverso i quali si simula e si studia il comportamento dei sistemi più complessi, come quelli viventi.
+
+Secondo alcuni, si tratta di un filone di ricerca che potrebbe condurre anche a dare conto dell’evoluzione del mondo da materia fisica inerte a organismi viventi.
+
+Teorie della complessità
+
+L’instabilità del termine complessità fa sì che si parli di “teoria” della complessità in molteplici domini anche disgiunti, e "una" teoria della complessità in effetti non esiste.
+
+Il dominio che più di ogni altro ha il potenziale di condurre a una teoria unificante è lo studio dei sistemi dinamici non lineari.
+
+In questo ambito, l'entropia “di Kolmogorov” è una prerogativa del moto nello spazio delle fasi e viene collegata a un concetto analogo a quello che si ritrova in termodinamica. Attraverso questo concetto la complessità dei sistemi dinamici può collegarsi anche alla complessità computazionale.M. Gell-Mann, “What Is Complexity?”, Complexity, vol.1
+no.1, John Wiley & Sons, Inc. 1995
+
+Etimologia
+
+"Complesso" scende dal verbo latino complector, che vuol dire cingere, tenere avvinto strettamente, e, in senso metaforico, abbracciare, comprendere, unire tutto in sé, riunire sotto un solo pensiero e una sola denominazione. Altri significati che appaiono nei classici latini sono quelli di legame, nesso, concatenazione.
+
+Dal XVII secolo in poi, una situazione, un problema, un sistema è "complesso" se consta di molte parti interrelate, che influiscono una sull'altra. Un problema complicato (da complico, piegare, arrotolare, avvolgere), invece, è uno che si fatica a risolvere perché contiene un gran numero di parti nascoste, che vanno scoperte una a una.
+
+Implicazioni filosofiche: Pensiero complesso
+
+L'etimologia del termine aiuta a comprendere il senso ultimo dell'"atteggiamento complesso", che ammonisce circa l'insufficienza del solo approccio analitico e invoca l'integrazione di questo con un approccio olistico e globale: un sistema complesso non può essere compreso mediante il solo esame delle sue componenti e, per analogia, le "cause ultime" di un problema complesso non sono banalmente quelle delle sue parti essenziali, perché esso non può essere risolto mediante semplice scomposizione ma richiede l'iterazione tra questa e una visione d'insieme.
+
+È questo il punto di partenza della epistemologia della complessità sviluppata da Edgar Morin a partire dai primi anni '70 del Novecento.
+
+Da Morin (che muove da una critica al riduzionismo e dal disvelamento dell'importanza del comportamento emergente) in poi, un pensiero complesso non può essere sviluppato prescindendo dal senso scientifico della complessità. Del pensiero complesso esiste tuttavia anche una versione "ingenua", ancora prevalente nella cultura italiana, che si pasce di concetti estranei alla tradizione scientifica, essendo in particolare non curante della centralità del concetto di non-linearità, la quale viene spesso fraintesa e confusa ora con il suo mero significato geometrico ora con la causalità.
+
+Note
+
+Bibliografia
+* Ampia trattazione divulgativa offerta dall'Istituto Nazionale di Fisica Nucleare (INFN)
+* Accessibile ma esauriente introduzione al caos deterministico (Università Bocconi)
+* Intervista della rivista Newton al grande fisico italiano Giorgio Parisi sulla complessità
+* Una importante scuola italiana. Concetti di base.
+* Una breve storia della complessità (pdf, Il Sole 24Ore Nòva Review, N.4 2008, settembre 2008)
+* Il famoso paper di Edward Lorenz che diede il via alla teoria del caos (in inglese)
+* Il paper di P.W.Anderson che pose fine al riduzionismo
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 17:16:06 from:
+  http://it.wikipedia.org/wiki/Complessità
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

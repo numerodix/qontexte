@@ -1,0 +1,124 @@
+Il calcestruzzo armato o conglomerato cementizio armato (chiamato gergalmente anche cemento armato) è un materiale usato per la costruzione di opere civili, costituito da calcestruzzo (una miscela di cemento, acqua, sabbia e aggregati, cioè elementi lapidei, come la ghiaia) e barre di acciaio (armatura) annegate al suo interno ed opportunamente sagomate ed interconnesse fra di loro.
+
+È un materiale utilizzato sia per la realizzazione della struttura degli edifici (ovverosia dell'ossatura portante) o di manufatti come ad esempio, i muri di sostegno dei terrapieni.
+
+Come l'acciaio, anche il cemento armato può essere realizzato in stabilimento per produrre elementi prefabbricati; in genere travi e pilastri, ma è in uso anche la produzione di pannelli ed elementi con anche funzioni decorative. La produzione in stabilimento permette di avere un miglior controllo sulla qualità del calcestruzzo, ma, essendo più costosa, viene utilizzata con regolarità quando le condizioni climatiche del cantiere sono proibitive (non a caso la prefabbricazione si è sviluppata moltissimo in Russia), o quando gli elementi da produrre richiedono dei controlli rigorosi, come può essere il caso di alcune tecnologie con le quali viene realizzato il cemento armato precompresso.
+
+In cantiere, la tecnologia del calcestruzzo gettato in opera ha il vantaggio di creare meno problemi nei nodi tra gli elementi, cioè in quei punti in cui si uniscono travi e pilastri.
+
+Cenni storici
+I primi impieghi
+
+Il calcestruzzo, con pozzolana e calce comune come leganti, fu adoperato già dagli antichi romani col nome di betunium.
+Vi sono anche rari esempi di ritrovamenti di barre di bronzo annegate nella massa del calcestruzzo, disposte in maniera intuitiva, che non permettono però di considerarlo cemento armato vero e proprio. Inoltre la differente dilatazione termica dei due materiali produceva problemi di scheggiatura.
+
+L'invenzione del cemento armato è generalmente attribuita alla scoperta fortuita di un giardiniere parigino di nome Joseph Monier: nel tentativo di produrre vasi da fiori, avrebbe notato che la gabbia di metallo usata per trattenere e modellare il cemento dimostrava la proprietà di non staccarsi facilmente dal calcestruzzo stesso.
+Il 16 luglio 1867 Monier si faceva rilasciare il suo primo brevetto per la realizzazione di vasi da fiori.
+
+Negli anni successivi seguirono brevetti per tubi, serbatoi, solette piane e curve, scale ecc. In tali brevetti si riscontrano già tutti i concetti principali per l'armatura del cemento.
+
+Prima di essere utilizzato nell'edilizia, il cemento armato fu impiegato nell'industria navale.
+L'avvocato francese J. L. Lambot costruì una piccola imbarcazione con una struttura metallica ricoperta di calcestruzzo, che fece sensazione all'Esposizione universale di Parigi del 1855. Nel 1890 l'italiano C. Gabellini iniziò la costruzione di scafi navali in cemento.
+
+Il calcestruzzo nell'edilizia
+
+Anche se già nel 1830 in una pubblicazione intitolata The Encyclopaedia of Cottage, Farm and Village Architecture si suggeriva che una grata di acciaio poteva essere inglobata nel calcestruzzo per formare un tetto, il primo ad avere introdotto il cemento armato nell'edilizia è considerato William Wilkinson di Newcastle. Nel 1854 egli registrò un brevetto per il "miglioramento nella costruzione di dimore a prova di fuoco, di magazzini, di altre costruzioni e delle parti delle stesse". Wilkinson eresse un piccolo cottage di due piani per la servitù, rinforzando pavimento e tetto di cemento con l'uso di barre di acciaio e di cavi metallici; in seguito sviluppò varie strutture del genere.
+
+L'architetto franco-svizzero Le Corbusier (1887-1965) fu tra i primi a comprendere le potenzialità innovative del cemento armato nell'ambito dell'architettura contemporanea ed a sfruttarlo ampiamente nelle sue opere, dopo averne visto le potenzialità intuite dal suo maestro Auguste Perret, tra le cui opere in cemento armato spicca la casa in Rue Franklin a Parigi del 1903. In Italia il cemento armato iniziò a diffondersi a cavallo fra il XIX e il XX secolo ma una legislazione specifica per regolarne l'utilizzo fu emanata solo a partire dal novembre 1939 (R.D.L. n.2229 del 16.11.1939).
+
+Riferimenti normativi
+
+Leggi:
+* Legge 5 novembre 1971 - n°1086 "Norme per la disciplina delle opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica".
+
+Decreti ministeriali:
+* D.M. 20 novembre 1987 - "Norme tecniche per la progettazione, esecuzione e collaudo degli edifici in muratura e per il loro consolidamento".
+* D.M. 14 febbraio 1992 "Norme tecniche per l’esecuzione delle opere in cemento armato normale e precompresso e per le strutture metalliche". (sostituito dal D.M.9/1/1996 che, al comma 2 dall’art.1, riconosce ancora applicabili le norme tecniche del presente decreto per la parte concernente le norme di calcolo e le verifiche col metodo delle tensioni ammissibili e le relative regole di progettazione e di esecuzione)
+* D.M. 9 gennaio 1996 - Ordinanza (Carichi e sovraccarichi)
+* D.M. 9 gennaio 1996 - "Norme tecniche per il calcolo, l’esecuzione ed il collaudo delle strutture in cemento armato, normale e precompresso e per le strutture metalliche" - Parte I e Parte II
+* D.M. 16 gennaio 1996 - "Norme tecniche relative ai Criteri generali per la verifica di sicurezza delle costruzioni e dei carichi e sovraccarichi".
+* D.M. 14 settembre 2005 - "Norme tecniche per le costruzioni". (coesistente con i decreti precedenti fino al 31/12/2007, data in cui non potranno più essere applicati il D.M. 09/01/1996 e il D.M. 16/01/1996)
+* D.M. 14 gennaio 2008 - "Approvazione delle nuove norme tecniche per le costruzioni".
+
+Circolari:
+* CNR 10024-1986
+* Circolare 15 ottobre 1995
+* Circolare 10 aprile 1997
+
+Proprietà
+
+Generalità
+
+Il cemento armato sfrutta l'unione di un materiale da costruzione tradizionale e relativamente poco costoso come il calcestruzzo, dotato di una notevole resistenza alla compressione ma con il difetto di una scarsa resistenza alla trazione, con l'acciaio, dotato di un'ottima resistenza a trazione. Quest'ultimo è utilizzato in barre (che possono essere lisce o ad aderenza migliorata con opportuni risalti) e viene annegato nel calcestruzzo nelle zone ove è necessario far fronte agli sforzi di trazione.
+
+Le barre hanno diametro variabile commercialmente da 5 mm a 32 mm e possono essere impiegate sia come "armatura corrente" o longitudinale, sia come "staffe", ovvero come barre che racchiudono altre barre (in genere di maggior diametro) a formare una sorta di "gabbie" opportunamente dimensionate secondo le necessità d'impiego. In generale, vengono prodotte barre fino ad una lunghezza massima di 12 m a causa di problemi di trasporto. Le barre si possono presentare anche sotto forma di reti elettro saldate (nei diametri da 5 a 10 mm) a maglia quadrata con passi variabili da 10 a 20 cm e vengono, in questo caso, impiegate per armare solette o muri in elevazione.
+
+La collaborazione tra due materiali così eterogenei è spiegata tenendo presenti due punti fondamentali:
+
+*Tra l'acciaio ed il calcestruzzo si manifesta un'aderenza che trasmette le tensioni dal calcestruzzo all'acciaio in esso annegato. Quest'ultimo, convenientemente disposto nella massa, collabora assorbendo essenzialmente gli sforzi di trazione, mentre il calcestruzzo assorbe quelli di compressione.
+*I coefficienti di dilatazione termica dei due materiali sono sostanzialmente uguali.
+
+Per aumentare l'aderenza tra i due materiali da qualche decennio al posto delle barre lisce di acciaio vengono utilizzate barre ad aderenza migliorata, cioè barre sulle quali sono presenti dei risalti.
+
+Un tempo, a causa dell'elevato costo del materiale e grazie alla disponibilità di manodopera a basso costo, si cercava di utilizzare meno barre possibili facendo svolgere a quelle utilizzate diverse funzioni strutturali. Di solito si sagomavano le barre longitudinali a 45° per fornire alla trave in calcestruzzo armato anche resistenza al taglio oltre che a flessione. Oggi invece la situazione è opposta, pertanto si cercano di snellire maggiormente le operazioni in cantiere utilizzando direttamente staffe e armature longitudinali.
+
+Durabilità
+
+Inizialmente e per molti anni si pensò che il calcestruzzo armato potesse avere una vita eterna; purtroppo ciò è evidentemente falso, perché entrambi i materiali che lo costituiscono sono soggetti a problemi che ne compromettono la resistenza nel tempo.
+
+Il calcestruzzo, se non adeguatamente protetto, può essere attaccato da sali presenti nell'acqua di mare e nell'aria in prossimità delle coste, da acidi dei fumi industriali, dal fenomeno della carbonatazione. Esso risente inoltre delle variazioni di temperatura, ed in particolare è vulnerabile al gelo.
+
+L'acciaio, se non ben protetto da uno strato di calcestruzzo (copriferro), è soggetto ad ossidazione, cioè tende ad arrugginirsi. L'ossidazione oltre a compromettere del tutto la resistenza a flessione dell'acciaio (che tende quindi a rompersi molto più facilmente) fa aumentare il volume dell'acciaio che può così rompere il calcestruzzo che lo ricopre e lo porta di conseguenza a sbriciolarsi.
+
+L'ossidazione può essere provocata da vari fattori, per esempio da infiltrazione di acqua o vapore acqueo attraverso le fessurazioni del calcestruzzo che si producono naturalmente quando l'elemento strutturale è sollecitato a flessione: il calcestruzzo, non reagendo a trazione, nella parte tesa della sezione tende a fessurarsi, aprendo così la strada, quando tali fessure sono di entità rilevante, agli agenti ossidanti. L'entità e la pericolosità delle fessurazioni sono calcolabili attraverso semplici modelli matematici descritti nella scienza delle costruzioni e nelle norme UNI. È virtualmente impossibile realizzare un calcestruzzo armato che non si fessura, perché il modulo di elasticità (o modulo di Young) dei due materiali (acciaio e calcestruzzo) differisce troppo per consentire una omogeneità di dilatazione sotto sforzo. Tuttavia, rimanendo entro i limiti normativi per la fessurazione, l'ossidazione dell'acciaio può essere considerata trascurabile, allungando di molto la durabilità del manufatto.
+
+Negli ultimi tempi alcune ditte hanno cominciato a proporre l'acciaio inossidabile per l'armatura del calcestruzzo. Tale materiale è sensibilmente più costoso dell'acciaio "normale" (semplice lega di ferro e carbonio), perché più complesso da produrre, meno resistente e più fragile. Ha però un vantaggio indiscusso: il fatto di non subire la ruggine e il conseguente aumento di volume. I costi proibitivi ne consentono l'utilizzo, per ora, solo in strutture in cui la manutenzione è particolarmente gravosa o l'aggressività degli agenti atmosferici particolarmente elevata, quali, per esempio: ponti, dighe, strutture portuali, infrastrutture viarie sospese e simili. In questi casi, il risparmio dovuto alle opere di manutenzione può giustificare una maggiore spesa per la realizzazione del manufatto. Rimane il fatto, però, che la struttura è più pesante perché necessita di una maggiore quantità di acciaio in quanto l'acciaio inossidabile è meno resistente di quello al solo carbonio e ne serve dunque una maggiore quantità per rientrare nei limiti di legge.
+
+Caratteristiche meccaniche del calcestruzzo
+
+Occorre innanzitutto specificare le ipotesi poste per il calcolo delle resistenze:
+# Planarità delle sezioni degli elementi sotto l'effetto delle sollecitazioni applicate (ipotesi che si rifà al modello di De Saint Venant).
+# Perfetta aderenza tra calcestruzzo e acciaio, ipotizzando quindi anche uno deformazione uguale per i due materiali.
+# Trascurabilità della resistenza a trazione del calcestruzzo (da cui conseguirà la parzializzazione della sezione).
+# Modelli rappresentativi dei legami costitutivi \sigma - \epsilon
+
+Resistenze di calcolo
+
+Si distinguono due campi applicativi, quello elastico, sotto carichi modesti, e quello non lineare riscontrabile agli stati limite di rottura. Nel calcolo elastico delle sezioni si ipotizza che i legami elastici sono rappresentati dalla Legge di Hooke:
+
+:\sigma_c=E_c \cdot \epsilon_c e \sigma_s=E_s \cdot \epsilon_s
+
+Il termine \sigma_c, relativo al calcestruzzo e quindi valido limitatamente al campo delle compressione, e a parità di contrazione si ha
+
+:\epsilon_c = \epsilon_s = \epsilon \Rightarrow \sigma_s = E_s \epsilon = \sigma_c \frac = m \sigma_c
+
+Quindi in fase elastica l'acciaio è "m" volte più sollecitato del calcestruzzo, con "m" detto coefficiente di omogeneizzazione.
+
+Nel calcolo non lineare delle sezioni si definiscono modelli analitici che rappresentano i reali legami σ - ε dei materiali.
+
+Calcestruzzo
+
+Acciaio
+
+Bibliografia
+*
+
+Voci correlate
+*Armatura
+*Calcolo del calcestruzzo armato
+*Cassaforma
+*Cemento a vista
+*Metodo degli elementi finiti (FEM)
+*Pacometro
+* Metodo di Wuckowski
+
+Altri progetti
+
+Collegamenti esterni
+* Breve storia del cemento armato
+* O Mundo do Cimento
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 19:35:44 from:
+  http://it.wikipedia.org/wiki/Calcestruzzo_armato
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

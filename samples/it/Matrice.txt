@@ -1,0 +1,276 @@
+In matematica, una matrice è uno schieramento rettangolare di oggetti; le matrici di maggiore interesse sono costituite da numeri appartenenti ad un campo. Ad esempio,
+:\begin
+1 & 0 & 5 \\
+1 & -2 & 0
+\end.
+Le matrici servono principalmente a descrivere valori che dipendono da due parametri, e per questo motivo sono ampiamente usate in matematica e in tutte le scienze. In particolare, sono uno strumento centrale dell'algebra lineare, utile soprattutto a risolvere i sistemi lineari.
+
+Cenni storici
+Lo studio delle matrici è antico. I quadrati latini e i quadrati magici sono stati studiati fin dalla nascita delle prime civiltà.
+
+Il reperto più antico noto contenente una matrice come strumento di risoluzione di sistemi lineari è cinese, scritto tra il 300 a.C. e il 200 d.C. Nel testo compare anche il concetto di determinante (per una matrice 2 per 2). In Occidente, fu Leibniz a sviluppare la teoria nel 1693, ampliata successivamente da Cramer, che presentò l'algoritmo ora noto come regola di Cramer nel 1693. Successivamente Gauss e il geodeta Wilhelm Jordan svilupparono l'algoritmo di Gauss-Jordan nel XIX secolo.
+
+Il termine "matrice" fu usato inizialmente nel 1848 da Sylvester. Cayley, Hamilton, Grassmann, Frobenius e von Neumann sono alcuni dei matematici che hanno dato dei contributi importanti alla teoria delle matrici nella storia più recente.
+
+Definizioni e notazioni
+Righe, colonne, elementi
+Le righe orizzontali di una matrice sono chiamate righe, mentre quelle verticali sono le colonne. Ad esempio, la matrice mostrata sopra ha due righe e tre colonne. In generale, una matrice m\times n  è una matrice con  m  righe e  n  colonne, dove  m  e  n  sono interi positivi fissati. Una matrice  m \times n  generica è descritta solitamente nel modo seguente:
+:\begin a_ & a_ & \cdots & a_ \\ a_ & a_ & \cdots & a_ \\ \vdots & \vdots & \ddots & \vdots \\ a_ & a_ & \cdots & a_ \end
+indicando con a_  l'elemento posizionato alla riga  i -esima e alla colonna j-esima.
+
+I vettori possono essere considerati matrici molto semplici, aventi una sola riga o una sola colonna. Più precisamente, una matrice con una sola riga, di dimensione 1\times n , è detta
+vettore riga, mentre una matrice con una sola colonna, di dimensione  m\times 1 , è detta vettore colonna.
+
+Qui sotto sono mostrati in ordine una matrice  4\times 3 , un vettore colonna ed un vettore riga.
+:\begin
+1 & 2 & 3 \\
+1 & -2 & 0 \\
+4.5 & 0 & 2 \\
+6 & 1 & 5\end \quad
+\begin 7 \\ 0 \\ \pi \end \quad
+\begin
+3 & \frac 72 & -9 \end
+
+Come mostrato negli esempi, i valori presenti nella matrice possono essere di vario tipo: interi, reali o anche complessi. Generalmente, in algebra lineare si suppone che i valori siano elementi di un campo fissato.
+
+Notazioni
+Generalmente una matrice è indicata con una lettera dell'alfabeto (spesso maiuscola):
+: A = \begin
+1 & 2 \\
+3 & 4\end.
+L'elemento posizionato nella riga  i  e nella colonna  j  può essere indicato in vari modi: ad esempio come  A_ , o tramite parentesi quadre  Ai,j . Si usa talvolta la notazione  A= (a_)  per indicare che  A  è una matrice e che i suoi elementi sono denotati con  a_ .
+
+Gli elementi con i due indici di riga e di colonna uguali, cioè gli elementi della forma  A_  costituiscono la diagonale principale della matrice.
+
+Operazioni con le matrici
+Sulle matrici si possono definire numerose operazioni: due matrici (aventi dei numeri opportuni di righe e colonne) possono essere sommate, sottratte, moltiplicate fra loro, e moltiplicate per un numero (detto scalare).
+
+Somma
+
+Due matrici  A  e  B , entrambe di tipo  m\times n , possono essere sommate. La loro somma  A+B  è definita come la matrice m\times n  i cui elementi
+sono ottenuti sommando i corrispettivi elementi di  A  e  B . Formalmente:
+:(A + B)_ := A_ + B_
+
+Per esempio
+
+:
+\begin
+1 & 3 & 2 \\
+1 & 0 & 0 \\
+1 & 2 & 2
+\end
++
+\begin
+0 & 0 & 5 \\
+7 & 5 & 0 \\
+2 & 1 & 1
+\end
+=
+\begin
+1+0 & 3+0 & 2+5 \\
+1+7 & 0+5 & 0+0 \\
+1+2 & 2+1 & 2+1
+\end
+=
+\begin
+1 & 3 & 7 \\
+8 & 5 & 0 \\
+3 & 3 & 3
+\end.
+
+Moltiplicazione per scalare
+La moltiplicazione per uno scalare è un'operazione che, data una matrice  A  ed un numero  c  (detto scalare), costruisce una nuova matrice  cA , il cui elemento è ottenuto moltiplicando l'elemento corrispondente di  A  per  c ; la matrice e lo scalare scelti devono appartenere allo stesso campo. Formalmente:
+
+:(cA)_ := cA_.
+
+Per esempio:
+
+:2
+\begin
+1 & 8 & -3 \\
+4 & -2 & 5
+\end
+=
+\begin
+2\times 1 & 2\times 8 & 2\times -3 \\
+2\times 4 & 2\times -2 & 2\times 5
+\end
+=
+\begin
+2 & 16 & -6 \\
+8 & -4 & 10
+\end.
+
+Prodotto
+
+La moltiplicazione tra due matrici  A  e  B  è un'operazione più complicata delle precedenti. A differenza della somma, non è definita moltiplicando semplicemente gli elementi aventi lo stesso posto. La definizione di moltiplicazione che segue è motivata dal fatto che una matrice modellizza una applicazione lineare, e in questo modo il prodotto di matrici corrisponde alla composizione di applicazioni lineari.
+
+La moltiplicazione è definita soltanto se le matrici  A  e  B  sono rispettivamente di tipo m\times n e n \times p: in altre parole, il numero di righe di  B  deve coincidere con il numero  n  di colonne di  A .
+Il risultato è una matrice di tipo m\times p. Si possono ad esempio moltiplicare una matrice 3\times 4 e una 4 \times 2, ed il risultato è una matrice 3\times 2. Non si possono moltiplicare una 3\times 3 e una 4 \times 3.
+
+Il prodotto di  A  e  B  è la matrice C=AB di dimensione m \times p, il cui elemento di posizione (i,j)  è dato dalla somma
+:C_ := A_ B_ + A_ B_ + \cdots + A_ B_.
+Questo è il prodotto scalare tra la riga i di  A  e la colonna j di  B , che hanno lo stesso numero  n  di elementi. Per questo motivo il prodotto è chiamato prodotto riga per colonna.
+
+Per esempio:
+:
+\begin
+1 & 1 & 2 \\
+0 & 1 & -3 \\
+\end
+\times
+\begin
+1 & 1 & 1\\
+2 & 5 & 1\\
+0 & -2 & 1
+\end
+=
+
+:Moltiplicando una matrice 2\times 3 per una 3 \times 3 si ottiene una matrice 2\times 3.
+
+1° riga:
+: C_ = \times 1) + (1 \times 2) + (2 \times 0) = 3
+: C_ = \times 1) + (1 \times 5) + (2 \times -2) = 2
+: C_ = \times 1) + (1 \times 1) + (2 \times 1) = 4
+
+2° riga:
+: C_ = \times 1) + (1 \times 2) + (-3 \times 0) = 2
+: C_ = \times 1) + (1 \times 5) + (-3 \times -2) = 11
+: C_ = \times 1) + (1 \times 1) + (-3 \times 1) = -2
+
+Risultato 2\times 3:
+:
+\begin
+C_ & C_ & C_ \\
+C_ & C_ & C_ \\
+\end
+=
+\begin
+3 & 2 & 4\\
+2 & 11 & -2\\
+\end
+
+A differenza dell'usuale moltiplicazione fra numeri, questa non è un'operazione commutativa, cioè AB è in generale diverso da BA, quando si possono effettuare entrambi questi prodotti.
+
+Un caso particolare, ampiamente usato in algebra lineare per rappresentare le trasformazioni lineari (come rotazioni e riflessioni) è il prodotto tra una matrice  m \times n  ed un vettore colonna  n \times 1 , che viene chiamato anche prodotto matrice-vettore.
+
+Proprietà
+Le operazioni di somma e prodotto di matrici soddisfano tutte le proprietà usuali della somma e del prodotto di numeri, ad eccezione, nel caso del prodotto di matrici, della proprietà commutativa.
+
+Sia  0  la matrice nulla, fatta di soli zeri (e della stessa taglia di  A ). Sia inoltre  -A = (-1)A  la matrice ottenuta moltiplicando  A  per lo scalare -1 . Valgono le relazioni seguenti, per ogni  A, B, C matrici  m \times n  per cui queste operazioni hanno senso.
+
+A+ 0 = 0 + A = A  (la matrice nulla è l'elemento neutro della somma)
+A+(-A) = 0  (esistenza di un inverso per la somma)
+(A+ B) + C = A + (B+C)  (proprietà associativa della somma)
+A + B = B + A  (proprietà commutativa della somma)
+(AB)C = A(BC)  (proprietà associativa del prodotto)
+(A+B)C = AC + BC  (proprietà distributiva)
+C(A+B) = CA + CB  (proprietà distributiva)
+
+Le prime 4 proprietà affermano che le matrici  m\times n  formano un gruppo abeliano rispetto all'operazione di somma. Come mostrato sopra, il prodotto non è commutativo in generale.
+
+Altre operazioni
+Sulle matrici sono definite numerose altre operazioni. Tra queste:
+*Trasposizione di una matrice
+*Somma diretta
+*Prodotto diretto (o di Kronecker)
+*Esponenziale di una matrice
+*Inversione di una matrice invertibile
+*Diagonalizzazione di una matrice diagonalizzabile
+
+Matrici quadrate
+
+Fra le matrici, occupano un posto di rilievo le matrici quadrate, cioè le matrici  n\times n , che hanno lo stesso numero  n  di righe e di colonne.
+
+Nozioni di base
+Una matrice quadrata ha una diagonale principale, quella formata da tutti gli elementi  a_  con indici uguali. La somma di questi elementi è chiamata traccia. L'operazione di trasposizione trasforma una matrice quadrata  A  nella matrice A^t  ottenuta scambiando ogni a_  con a_ , in altre parole ribaltando la matrice intorno alla sua diagonale principale.
+
+Una matrice tale che a_ = a_  è una matrice simmetrica. In altre parole,  A  è simmetrica se  A = A^t . Se tutti gli elementi che non stanno nella diagonale principale sono nulli, la matrice è detta diagonale.
+
+Prodotto di matrici quadrate
+La più importante matrice n\times n  è forse la matrice identità I_n : è una matrice avente 1 su ogni elemento della diagonale e 0 altrove. La matrice è importante perché rappresenta l'elemento neutro rispetto al prodotto: infatti le matrici  n\times n possono essere moltiplicate fra loro, e vale (oltre a quelle scritte sopra) la proprietà seguente per ogni  A :
+
+: AI_n = I_nA = A  (elemento neutro del prodotto)
+
+Nello spazio delle matrici n\times n  sono quindi definiti una somma ed un prodotto, e le proprietà elencate fin qui asseriscono che l'insieme è un anello, simile all'anello dei numeri interi, con l'unica differenza che il prodotto di matrici non è commutativo.
+
+Determinante
+
+Un' importante quantità definita a partire da una matrice quadrata  A  è il suo determinante. Indicato con \det A , questo numero fornisce molte informazioni essenziali sulla matrice. Ad esempio, determina se la matrice è invertibile, cioè se esiste una matrice  B  tale che
+: AB = BA = I_n.
+Il determinante è l'ingrediente fondamentale della regola di Cramer, utile a risolvere alcuni sistemi lineari.
+
+Polinomio caratteristico, autovettori, diagonalizzabilità
+
+La traccia ed il determinante possono essere racchiuse in un oggetto ancora più raffinato, di fondamentale importanza nello studio delle trasformazioni lineari: il polinomio caratteristico.
+
+Questo polinomio è importante nello studio delle trasformazioni lineari. Le sue radici sono gli autovalori della matrice, quantità associate ai corrispondenti autovettori. In particolare, questi concetti sono utili a capire se una data matrice è simile ad una matrice diagonale.
+
+Applicazioni delle matrici
+Sistemi lineari
+
+Le matrici sono utili soprattutto a rappresentare sistemi di equazioni lineari. Il sistema lineare
+
+:\left \{ \begin a_ x_1 + a_ x_2 + \cdots + a_ x_n = b_1 \\ a_ x_1 + a_ x_2 + \cdots + a_ x_n =b_2\\ \vdots \\ a_ x_1 + a_ x_2 + \cdots + a_ x_n =b_m \end \right.
+
+può essere rappresentato con il suo equivalente matriciale, tramite il prodotto matrice-vettore:
+
+:\begin a_ & a_ & \cdots & a_ \\ a_ & a_ & \cdots & a_ \\ \vdots & \vdots & \ddots & \vdots \\ a_ & a_ & \cdots & a_ \end \begin x_1 \\ x_2 \\ \vdots \\ x_n \end = \begin b_1 \\ b_2 \\ \vdots \\ b_m \end
+
+Applicazioni lineari
+
+Più in generale, le matrici permettono di rappresentare le trasformazioni lineari fra spazi vettoriali. Ogni operatore lineare T : V \to W  da uno spazio vettoriale  V  di dimensione m  a uno spazio vettoriale  W  di dimensione  n , e per ogni possibile scelta di una coppia di basi \ e \, si associa a  T  la matrice A tale che
+
+:T(v_i) = \sum_^n A_ w_j\quad \forall i \in \.
+Questa matrice rappresenta l'applicazione  T : questa rappresentazione dipende però dalle basi scelte. Molte operazioni fra matrici si traducono in operazioni fra applicazioni lineari:
+* L'immagine  T(v)  di un vettore corrisponde alla moltiplicazione matrice-vettore.
+* La somma di applicazioni (quando possibile) corrisponde alla somma fra matrici.
+* La composizione di applicazioni lineari (quando possibile) corrisponde al prodotto fra matrici.
+
+Classi di matrici reali e complesse
+
+Oltre alle matrici diagonali e simmetriche già introdotte, vi sono altre categorie di matrici importanti.
+
+* Le matrici antisimmetriche, in cui i valori nelle caselle in posizioni simmetriche rispetto alla diagonale principale sono opposti:  a_ = -a_ .
+* Le matrici hermitiane (o auto-aggiunte), in cui i valori nelle caselle di posizioni simmetriche rispetto alla diagonale principale sono complessi coniugati:  a_ = a_^* .
+* Un quadrato magico è una matrice quadrata in cui la somma dei valori su ogni riga, colonna o diagonale è sempre la stessa.
+* Le matrici di Toeplitz hanno valori costanti sulle diagonali parallele alla principale:  a_ = a_
+* Le matrici stocastiche sono matrici quadrate le cui colonne sono vettori di probabilità, cioè sequenze di reali compresi tra 0 e 1 con somma uguale a 1; esse sono usate per definire le catene di Markov.
+
+Spazio di matrici
+Spazio vettoriale
+Lo spazio di tutte le matrici  m\times n  a valori in un fissato campo  K  è indicato generalmente con M(m,n,K)  o Mat(m,n,K). Per quanto già visto, questo spazio è un gruppo abeliano con la somma. Considerato anche con la moltiplicazione per scalare, l'insieme ha una struttura di spazio vettoriale su  K .
+
+Questo spazio ha una base canonica, composta da tutte le matrici e_ aventi valore 1 sulla casella di posto (i,j)  e zero in tutte le altre. La base consta di  m\times n  elementi, e quindi lo spazio M(m,n,K)  ha dimensione  m\times n .
+
+Algebra su campo
+Nel caso  m=n  delle matrici quadrate, è definito anche il prodotto. Con questa ulteriore operazione, lo spazio  M(n,n,K) , generalmente indicato con M(n,K) , eredita una struttura di anello con unità. Tale struttura è compatibile con quella di spazio vettoriale definita sopra, e fornisce quindi un esempio basilare di algebra su campo.
+
+Generalizzazioni
+Una matrice infinita può essere definita come una serie di elementi a_ , indicizzati da coppie di numeri naturali (i,j) , senza nessun limite superiore per entrambi.
+
+Più in generale, una generalizzazione del concetto di matrice è costruita prendendo due insiemi di indici  R, C  qualsiasi (parametrizzanti le "righe" e le "colonne") e definendo una matrice come un'applicazione
+: A : R \times C \rightarrow V
+a valori in un altro dato insieme  V . La matrice usuale m\times n  corrisponde al caso in cui  R = \ e C = \, e  V  è ad esempio l'insieme dei numeri reali o complessi.
+
+Questa definizione generale si serve solo di nozioni insiemistiche e non ricorre a nozioni visive e intuitive come quella di schieramento rettangolare. Consente di trattare casi molto generali: ad esempio matrici le cui righe e colonne sono etichettate da indici in un qualunque sottoinsieme I  degli interi \mathbb Z, matrici etichettate da coppie o in generale da  n -uple di interi come quelle che si incontrano nella meccanica quantistica o nella chimica molecolare, matrici infinite etichettate con gli insiemi \mathbb N e \mathbb Z come
+quelle che permettono di rappresentare successioni polinomiali
+o serie formali con due variabili.
+
+Per poter definire somma, prodotto e altre operazioni sulle matrici, è opportuno che l'insieme  V  sia dotato di tali operazioni, ad esempio che sia un anello.
+
+Voci correlate
+
+* Glossario sulle matrici per una lista dei vari tipi di matrici esistenti.
+* Determinante
+* Autovettore e autovalore
+* Rango
+* Matrice associata ad una trasformazione lineare
+* Norma matriciale
+* Sistema lineare
+* Collegamenti tra combinatoria e matrici
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 08:39:46 from:
+  http://it.wikipedia.org/wiki/Matrice
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,229 @@
+AmigaOS è il sistema operativo della piattaforma informatica Amiga.
+
+Storia
+AmigaOS nacque nel 1983 e fu pensato come sistema operativo per coordinare le potenzialità hardware di un prototipo di computer denominato "Lorraine" sviluppato dalla Hi-Toro, in seguito rinominata Amiga Corporation.
+
+Sebbene nel 1983 molte parti di Lorraine non fossero state ancora realizzate, già a quel tempo Dale Luck e un gruppo di ingegneri si stavano occupando della progettazione del sistema operativo che avrebbe accompagnato la nuova macchina, simulando via software l'hardware non ancora disponibile per mezzo di una workstation Sun.
+Alla fine del 1983 il sistema operativo offriva già un'interfaccia grafica con finestre e menù: era stata realizzata tutta la gestione grafica (Intuition) progettata e implementata da R. J. Mical; il tutto era controllato da un microkernel (Exec) creato da Carl Sassenrath.
+
+Nel 1984 il progetto Lorraine assieme all'Amiga Corporation fu acquistato da Commodore International, in quel momento il sistema operativo era ancora incompleto, pertanto Commodore decise di mettere da parte alcune componenti del progetto (CAOS) e cercò di integrare caratteristiche lontane da quello che Jay Miner e il suo team avevano ideato. Al fine di completare in fretta il progetto, Commodore commissionò a MetaComCo, una società di sviluppatori, l'integrazione di parte del sistema operativo TripOS all'interno del sistema operativo di Lorraine. Da questa integrazione, il cui diretto responsabile fu Tim King, nacque il modulo AmigaDOS.
+
+Nel 1985 venne finalmente commercializzato il primo computer derivato dal progetto Lorraine, Amiga 1000, coordinato da un sistema operativo che venne in seguito chiamato AmigaOS.
+
+Caratteristiche
+
+AmigaOS è un sistema operativo monoutente multiprogrammato e si distingue per:
+
+*Preemptive multitasking: Round Robin prioritizzato
+*Architettura modulare a memoria dinamica basata sul microkernel Exec (ExecSG dalla versione 4)
+*Interrupt programmabili in tempo reale e con bassa latenza
+*Nessuna protezione della memoria (fino alla versione 3.9)/ protezione della memoria limitata (dalla versione 4)
+*Design a 32-bit
+*Programmabilità dispositivi accessibili da filesystem
+*Supporto per le librerie condivise
+*Comunicazioni inter-processo molto veloci (IPC con messaggi passati per riferimento)
+
+Eseguibile Amiga Hunk
+
+Gli eseguibili Amiga sono in formato Amiga Hunk fino alla versione 3.9. A partire dalla versione 4.0, e così anche per i sistemi operativi derivati da Amiga AROS e MorphOS, gli sviluppatori hanno preferito adeguarsi allo standard ELF.
+
+Il formato Amiga Hunk prevede che l'eseguibile sia diviso al suo interno in tanti spezzoni, detti appunto hunk, che possono ospitare sia il codice, sia i dati dell'eseguibile. Il file eseguibile viene riconosciuto dal sistema tramite una sequenza esadecimale speciale posta nell'intestazione (header) del file eseguibile stesso, chiamata in gergo "magic cookie" (biscottino magico), analoga al magic number del mondo Unix.
+
+Versioni
+
+Sono state rese disponibili sul mercato quattro versioni di AmigaOS:
+
+AmigaOS1.x
+
+La commercializzazione di Amiga 1000 nel 1985 presentò al pubblico anche la prima versione del suo sistema operativo: AmigaOS1.0. Molte parti di AmigaOS1.0 furono scritte con il linguaggio BCPL e già il sistema presentava preemptive multitasking, GUI a colori e la possibilità (tutt'ora ineguagliata su altri sistemi) di avere per ogni programma in funzione uno schermo grafico indipendente. Ognuno di questi schermi era trascinabile con il mouse, permettendo all'utente di visualizzare il lavoro che stavano compiendo gli altri programmi in "background" (ossia tecnicamente "non prioritari"), e, davano a qualsiasi spettatore, una visione di sicuro impatto, mostrando concretamente all'opera il concetto, altrimenti astratto di cosa fosse in realtà il multitasking preemptive di Amiga.
+
+Con la versione 1.3 vennero introdotti inoltre AutoConfig, che sarà poi conosciuto, solo in epoca recente, sugli altri sistemi come Plug and Play e il FastFileSystem.
+
+AmigaOS2.x
+
+La versione 2 accompagnava la seconda generazione di computer Amiga del 1990; subì una larga conversione di parti vitali in linguaggio assembly 68000 a partire dalla precedente versione. Questa seconda versione conteneva numerosi cambiamenti, i più visibili riguardavano l'interfaccia grafica che presentava un nuovo look pseudo-3D e dei nuovi caratteri di tipo vettoriale. Inoltre furono aggiunti: GadTools, ASL e "Basic Object-Oriented Programming System for Intuition". Fu inoltre aggiunto l'interprete del linguaggio Rexx. Venne infine introdotto il supporto alle "Commodities" che estendono principalmente le funzionalità del gestore dell'input utente e la variante di Amiga Filesystem chiamata International.
+*Nel 1992 venne commercializzato l'ultimo aggiornamento della versione 2 di AmigaOS: AmigaOS2.1. Questa revisione presentava alcune caratteristiche poi migliorate nelle successive versioni di AmigaOS, come il meccanismo di localizzazione del sistema operativo e dei programmi nella lingua dell'utente, il sistema ipertestuale AmigaGuide e CrossDOS, un programma di sistema che consente di leggere i dispositivi di memorizzazione formattati con il filesystem FAT (12/16/32) di Windows.
+
+AmigaOS3.x
+
+Con la versione 3 di AmigaOS nel 1993 furono riscritte alcune parti in linguaggio C e furono introdotte molte novità sia tecniche sia concettuali. Graficamente la GUI di AmigaOS acquistò uno stile sempre più tridimensionale grazie ai sensibili miglioramenti apportati a GadTools ed ASL. Fecero il loro esordio tra le tante nuove tecnologie: Datatype (un sistema modulare espandibile che consente ai programmi che lo sfruttano l'accesso a numerosi tipi di file) e MultiView (un programma di sistema che attraverso l'uso dei Datatypes permette la visualizzazione di numerosi formati di file video e audio). Anche il modulo AmigaDOS subì numerose migliorie, ad esempio il filesystem vide il supporto per gli hard e soft link, nonché la gestione dei blocchi adibiti alla cache per le directory (DCFS). Venne infine migliorato il formato ipertestuale Amigaguide.
+*La revisione AmigaOS 3.5 del 1999 introdusse un gran numero di altre novità, tra le più significative l'introduzione di uno standard per il supporto di hard disk con capacità superiori a 4 Gb (NSDPatch), portando il limite massimo per una periferica Amiga a 2^64 bit = 36.893.488.147.419.103.232 bit o, detto in byte: 4.611.686.018.427.387.904 cioè 4 Exabyte. Inoltre la nuova versione ha aumentato le possibilità di interagire in modo più coerente con il sistema attraverso combinazioni di tasti, il supporto completo per i dispositivi CD-ROM, la possibilità di controllare ed estendere le funzionalità del Workbench attraverso ARexx, l'estensione di BOOPSI attraverso le nuove classi Reaction e icone a 256 colori come standard.
+*In AmigaOS3.9 del 2001, ultimo aggiornamento del Sistema Operativo per i processori Motorola 680x0, vennero corretti numerosi altri bug, sviluppate nuove API, aggiunte nuove classi Reaction e migliorate quelle esistenti. Furono inoltre implementate funzionalità minori ma utili come le librerie matematiche per ARexx. AmigaOS3.9 vide inoltre l'introduzione di nuovi strumenti di sistema come AmiDock, DefIcons, RAWBInfo (che rese disponibile un'interfaccia di tipo Reaction per le finestre di informazione delle icone), Find (indispensabile funzione per rintracciare in maniera semplice i file); BenchTrash (per il miglioramento del "cestino" di ciascuna partizione). E ancora il pacchetto XAD (per scompattare molti tipi di archivi) ed ASyncWB, basato sulle API introdotte in AmigaOS3.9, che rese asincrone molte funzioni del Workbench.
+
+Il sistema rimaneva tuttavia legato pesantemente ai chip custom della piattaforma hardware Amiga. La mancanza della protezione della memoria rendeva il sistema operativo molto sensibile ad errori di programmazione: fino all'avvento della versione 3 del sistema operativo non era raro assistere a blocchi del sistema dovuti a errori di programmazione del Sistema Operativo o più frequentemente delle applicazioni che non programmate correttamente danneggiavano le strutture dati del sistema.
+
+AmigaOS4.x
+
+Dalla versione 4 AmigaOS (2004) è stato totalmente riscritto in linguaggio C, slegandolo non solo dalla vecchia architettura hardware Amiga ma anche dai processori 68k di Motorola. AmigaOS4 presenta un nuovo kernel retrocompatibile (ExecSG) che implementa molte nuove tecnologie come memoria protetta, memoria virtuale, resource tracking, paginazione della memoria ecc. Ciascun modulo che compone AmigaOS4 è stato riscritto e ciò ha permesso di introdurre tante novità da tempo ricercate dagli utenti Amiga come un AmigaDOS slegato dal codice TripOS, FastFileSystem2, una nuova Intuition completamente riconfigurabile dall'utente e molto altro.
+
+AmigaOS è adesso un sistema operativo per processori PowerPC e accompagna la nuova piattaforma hardware AmigaONE.
+
+Componenti
+L'AmigaOS è composto principalmente da tre parti:
+*Exec/ExecSG
+*AmigaDOS
+*Intuition
+
+Vi sono tre interfacce principali che permettono l'interazione tra l'utente ed AmigaOS:
+*CLI/AmigaShell: nata dal porting di alcune parti del sistema TripOS
+*ARexx: linguaggio di scripting interprocesso derivato da Rexx e introdotto a partire da AmigaOS2.0
+*Workbench
+
+Exec
+
+Exec è il microkernel di AmigaOS. Esso gode di alcune peculiari caratteristiche che hanno reso le sue prestazioni più efficienti rispetto ad altre alternative. Exec ha il compito di gestire l'intero sistema comprese le risorse, i task, le porte messaggi e i semafori.
+
+Exec, sino alla versione 3.1, risiedeva sotto forma di libreria all'interno di una ROM insieme agli altri moduli fondamentali di AmigaOS. Tale ROM veniva identificata come Kickstart. Con la versione del Kickstart è possibile identificare anche le versioni di Exec:
+
+*Kickstart V0.7 (v27.x)
+*Kickstart V0.9beta (29.x)
+*Kickstart V1.0NTSC (v30.x)
+*Kickstart V1.1NTSC (v31.34)
+*Kickstart V1.1PAL (v32.34)
+*Kickstart V1.2 (v33.180)
+*Kickstart V1.3 (v34.5, v35)
+*Kickstart V1.4beta (v36.16) - mai rilasciata. Su di essa si è basata l'intera release 2.0
+*Kickstart V2.0 (v36.xx)
+*Kickstart V2.04 (v37.175)
+*Kickstart V2.05 (v37.299, v37.3xx)
+*Kickstart V3.0 (v39.106)
+*Kickstart V3.1 (v40.xx)
+*Kickstart V3.2alpha (v43.1) - mai rilasciata. Sarebbe stata la release dell'Amiga Walker
+*Kickstart V3.9 (v45.57) - visualizzato come "ROM 3.9"; non risiedeva in una ROM ma aggiornava Exec e altre parti del Kickstart V3.1
+
+ExecSG
+
+Nella versione 4 dell'AmigaOS, a cura di Hyperion, i sorgenti di Exec sono stati totalmente riscritti, comportando un salto generazionale del microkernel di questo sistema operativo: 'Exec Second Generation', in breve ExecSG, rappresenta la nuova versione del kernel di AmigaOS. In ExecSG vi sono cambiamenti sostanziali rispetto ad Exec, che comportano sia la modifica di alcuni aspetti importanti del kernel, sia l'implementazione di ulteriori funzionalità, in particolare:
+
+*Hardware abstraction layer (HAL): sostanziale indipendenza dall'hardware su cui opera;
+*Resource tracking;
+* API per la MMU;
+* Parziale protezione della memoria;
+* Nuovo modello di librerie, basato sulle 'interfacce';
+* È presente una nuova gestione della memoria completamente virtualizzata e basata sul meccanismo di paginazione e sul sistema di allocazione basato sugli slab;
+* È supportata la memoria virtuale;
+* È integrato, per compatibilità con il vecchio software, un emulatore task-based dei processori 68k che opera in modo interpretativo per una migliore compatibilità, impiegando nella maggior parte dei casi l'emulatore JIT Petunia per una maggiore velocità;
+
+Versioni finora rilasciate:
+
+*Kickstart (OS4 Kernel) V4.0Developer PreRelease (v50.xx)
+*Kickstart (OS4 Kernel) V4.0Update-1 (v51.11)
+*Kickstart (OS4 Kernel) V4.0Update-2 (v51.19)
+*Kickstart (OS4 Kernel) V4.0Update-3 (v51.28)
+*Kickstart (OS4 Kernel) V4.0Update-4 (v51.32)
+
+AmigaDOS
+
+AmigaDOS è uno dei moduli principali di AmigaOS e si occupa della memorizzazione dei dati su dispositivi come hard disk e floppy disk. Commissionato a MetaComCo da Commodore, AmigaDOS deriva principalmente dal Sistema Operativo TripOS scritto in BCPL ed è anche responsabile della gestione di alcuni task particolari che vengono identificati singolarmente con il nome di processo. I processi possono accedere ad alcune funzioni fornite dal modulo AmigaDOS, in particolare quelle legate all'I/O su memorie di massa, a loro volta interfacciate, a basso livello, con AmigaDOS per mezzo di un particolare processo, noto come Amiga FileSystem.
+
+ARexx
+
+ARexx è l'interprete ufficiale AmigaOS del linguaggio Rexx di IBM, accluso al sistema operativo a partire dalla versione 2.0, permettendo all'utente di realizzare script di uso generico.
+
+La sua caratteristica più interessante, che a tutt'oggi rende unico AmigaOS ed il relativo parco software, è la possibilità di pilotare qualsiasi software che integri una "porta ARexx" consentendo quindi l'automazione di taluni compiti (si pensi ad esempio alla conversione di un gruppo di immagini da GIF a PNG) e non solo: è possibile anche coordinare il lavoro di più software, svolgendo attività non previste dai loro stessi autori. Ciò di fatto consente di implementare funzionalità aggiuntive al software senza bisogno di modificarne il codice.
+
+Intuition
+Nome dell'interfaccia grafica (GUI) realizzata inizialmente da Robert J. Mical. Pur essendo nata nel 1985, fu un'interfaccia grafica relativamente moderna basata su mouse, menu, finestre sovrapponibili, eventi e tutto quanto siamo abituati a vedere ancora oggi in Windows, Linux e Macintosh e formulata per prima da Xerox. Il suo merito fu che a quei tempi (1985) l'interfaccia standard dei sistemi personal computer era ancora MS-DOS, basata su un'interfaccia grafica a carattere, ovvero soltanto sulla classica tastiera alfanumerica.
+Intuition comprende i sottomoduli Graphics, Layers, GadTools, ASL, BOOPSI/Reaction, Workbench. Dalla versione 4 di AmigaOS Intuition permette all'utente di cambiare ufficialmente (senza alcun programma di terze parti come avviene su altri sistemi operativi) qualsiasi aspetto dell'interfaccia grafica offrendo all'utente la possibilità di avere un ambiente di lavoro personalizzato e quasi mai uguale a quello di un altro utente.
+
+Workbench
+
+Il Workbench ("banco di lavoro" in inglese) è il nome dato all'ambiente desktop disponibile su AmigaOS. Al momento della commercializzazione la defunta Commodore assegnò erroneamente il nome Workbench all'intero sistema operativo Amiga, per questo motivo fino alla versione 3.0 di AmigaOS il sistema veniva identificato universalmente come Workbench.
+Il Workbench è un programma di sistema, lanciato di solito all'avvio dell'AmigaOS, avente un'interfaccia utente di tipo grafico (GUI). Il Workbench utilizza simboli grafici, detti Icone, con cui è possibile interagire con l'Amiga FileSystem, cioè il filesystem offerto da AmigaOS.
+
+Tale rappresentazione iconica è ottenuta attraverso i file '.info'. Ciascun file, disco e directory che si ritiene dover essere sempre visibile sul Workbench gode di un file ".info" personalizzato. Ciascun file contiene sia l'immagine grafica da associare all'elemento del filesystem, sia una serie di informazioni usate da Workbench per visualizzarlo. Relativamente ai file tipizzati, ossia quei file dei quali si conosce il formato, essi vengono visualizzati dal Workbench mediante icone predefinite per mezzo dell'applicazione di sistema DefIcons, il quale permette di associare i tipi di file non solo alle icone, ma anche agli applicativi che devono trattarli, grazie ad un database facilmente estensibile.
+
+Le versioni del Workbench rilasciate fino ad oggi sono:
+
+*Workbench 1
+**Workbench 1.0 (v30)
+**Workbench 1.1 (v31.34)
+**Workbench 1.2 (v33.xx)
+**Workbench 1.3 (v34.xx)
+**Workbench 1.4beta (v36.1xx)
+*Workbench 2
+**Workbench 2.0 (v36.6x)
+***Workbench 2.04 (v37.6x)
+***Workbench 2.05 (v37.7x)
+**Workbench 2.1 (v38.36)
+*Workbench 3
+**Workbench 3.0 (v39.29)
+**Workbench 3.1 (v40.42)
+**Workbench 3.1beta, localizzazione giapponese (v41)
+**Workbench 3.2alpha (v42)
+**Workbench 3.5 (v44.x)
+**Workbench 3.9 (v45.x)
+*Workbench 4
+**Workbench 4.0PreRelease (v50.x)
+**Workbench 4.0Update-1+ (v51.x)
+
+AmiDock
+
+Introdotto con AmigaOS3.9 ed esteso notevolmente su AmigaOS 4.0, AmiDock è una componente fondamentale della GUI del sistema operativo Amiga. AmiDock consente all'utente di creare a piacimento una o più barre grafiche (chiamate dock) contenenti file, cartelle, dischi e molto altro -come il Dock di Mac OS X dal quale si differenzia per alcune interessanti funzionalità-. I dock di AmigaOS infatti possono:
+
+* posizionarsi sullo schermo secondo il desiderio dell'utente;
+
+* visualizzare i programmi in esecuzione sotto forma di icone attive per mezzo di nuove API fornite da AmigaOS 4.0;
+
+* contenere a loro volta altri dock (detti SubDock), accessibili per mezzo di un'icona presente sul dock "parente";
+
+* contenere i Docky, ossia software che estendono le funzionalità dei dock in maniera analoga alle applet del pannello di GNOME;
+
+* assumere configurazioni grafiche differenti come:
+** la visibilità dei bordi e della barra di trascinamento (posizionabile su qualunque lato del dock);
+** contenuto visualizzabile sotto forma di icone (con o senza etichette), pulsanti oppure sole etichette;
+** sfondo trasparente oppure contenente diverse immagini oppure un mix fra entrambe;
+
+Componenti addizionali
+
+AmigaOS a partire dalla versione 2.0 si dota di alcune interessanti componenti addizionali, e comodità varie che vengono messe "di serie" a disposizione dell'utente.
+
+Boot Menu
+
+A partire dall'Amiga OS 2.0 è stato reso disponibile, tra gli altri servizi, un comodo boot menù accessibile tenendo contemporaneamente premuti entrambi i tasti del mouse all'atto dell'accensione o al reset.
+
+Detto menù permette di fare il boot da qualsiasi device o hard disk collegato al sistema, e, nelle versioni successive, anche di inibire il caricamento di alcune partizioni rispetto ad altre per nasconderle così al sistema. Notare la terza immagine che riguarda il boot menù. Sono evidenziate numerose unità, infatti Amiga non ha limiti riguardo al numero di partizioni. Il numero di unità disponibili è limitato invece dal tipo di interfaccia usata (IDE o SCSI). Bisogna fare oltretutto presente che, più schede di espansione con bus IDE o SCSI possono essere collegate contemporaneamente, aumentando il numero di unità disponibili e moltiplicando le possibilità di suddividerle in partizioni.
+
+Dalla versione 3.0 dell'OS, oltre a scegliere da quale device (floppy o hard disk) fare il boot, e soprattutto da quale partizione, il bootmenu di Amiga permette di monitorare, con una propria procedura di check, le schede montate sul bus Zorro e di segnalare eventuali problemi: una delle caratteristiche più innovative di AutoConfig, poi ripreso come Plug and Play in altri sistemi operativi (Windows 95).
+L'unica pecca del Bootmenu Amiga è che non è in grado di effettuare il boot di altri sistemi operativi alternativi disponibili anche per Amiga.
+
+Infine, è utile menzionare che il Bootmenu permette addirittura di cambiare il tipo di risoluzione dello schermo, senza dover intervenire a posteriori salvando i settaggi. Una vera comodità, nel caso fossero state impostate per errore, modalità grafiche che potevano stressare il monitor o l'apparecchio televisivo al quale Amiga veniva collegato.
+
+Installer
+
+Mentre su altri sistemi operativi la procedura di installazione dei programmi era piuttosto laboriosa (lo è ancora a tutt'oggi), confusa, non standardizzata e potenzialmente pericolosa (in quanto potrebbe sovrascrivere file di sistema) Amiga invece si è dotata, sin dalla versione 3.0 dell'OS, di un programma di installazione standard chiamato Installer, usato sia per i programmi da installare sulla macchina, sia per aggiornare lo stesso sistema operativo AmigaOS.
+
+Installer gestisce le procedure di installazione sotto Amiga e ha alcune caratteristiche davvero interessanti.
+
+Completo di localizzazione (ossia della possibilità di usare la lingua madre dell'utente), permette anche di creare nuove directory (anche a mano) qualora il programma in fase di installazione ne faccia richiesta. Offre un comodo Help OnLine (Aiuto In Linea), presente in ogni livello della fase di installazione (in modo da seguire sempre passo, passo l'utente inesperto). Infine, con una caratteristica tutt'ora ineguagliata in altri sistemi operativi, Amiga Installer permette addirittura di fare una installazione fittizia di prova per verificare in anticipo il buon fine dell'operazione, prima che l'utente si avventuri in un'installazione effettiva col rischio di trovarsi a possibili incompatibilità con il software già presente sul sistema.
+
+Installer è in realtà un interprete di linguaggio LISP. Le procedure di installazione Amiga sono file formattati come listati di questo particolare linguaggio informatico.
+
+InstallerNG
+
+InstallerNG è la nuova versione di Installer presente su AmigaOS4. Questa versione è caratterizzata da nuove caratteristiche tra le quali:
+
+*La finestra "Help" può restare aperta durante l'installazione
+*Se viene rilevato un errore nel corso del processo di interpretazione l'InstallerNG permette di continuare dalla funzione successiva.
+*Se richiesto è possibile creare degli script per la rimozione di programmi;
+*Se richiesto l'InstallerNG chiede conferma di ogni azione, senza tener conto di quanto specificato dal programmatore nello script di installazione.
+
+Petunia
+
+Petunia è il nome dell'emulatore task-based introdotto in AmigaOS a partire dal quarto aggiornamento della versione 4.0 PreRelase.
+Petunia, basato sulla tecnica JIT risiede tra le componenti base di sistema sotto forma di libreria, viene utilizzato da AmigaOS per l'esecuzione di programmi compilati per 68k, in modo che questi ultimi abbiano una resa paragonabile a quella dei programmi compilati per PowerPC.
+Più precisamente AmigaDOS, durante il boot, carica Petunia, il quale resta in attesa di eventuali chiamate 68k da parte di programmi. Nel momento in cui un programma 68k viene eseguito, Petunia controlla una speciale lista, la blacklist, la quale riporta i programmi che Petunia NON deve eseguire. Se il programma NON è riportato nella black list, allora Petunia intercetterà le sue chiamate e lo eseguirà secondo la tecnica JIT, altrimenti lascerà il compito di gestire tale programma all'emulatore integrato in ExecSG. Questo espediente permette di eseguire su AmigaOS i programmi non del tutto compatibili con Petunia -il quale è un emulatore che pone l'accento sulla velocità di esecuzione dei programmi 68k, piuttosto che sulla compatibilità di tutto il set di istruzioni della famiglia di processori 68k-, lasciando la loro esecuzione all'emulatore di ExecSG che, operando in modalità interpretativa, permette una migliore compatibilità, non solo con l'intero set di istruzioni dei processori 68k, ma anche con chiamate ad interrupt, in modo da offrire una compatibilità anche nei confronti di vecchi driver 68k.
+La blacklist di Petunia, come da tradizione in AmigaOS, è totalmente gestibile e configurabile da parte dell'utente, il quale potrà impiegare lo strumento di preferenze "Compatibility" (risiedente in SYS:Prefs/) per aggiungere o rimuovere programmi, in modo da avere piena libertà decisionale sulla relativa esecuzione dei programmi 68k.
+
+Collegamenti esterni
+* AmigaOS4 official site
+* AmigaOS Support homepage
+* Hyperion
+* Aminet: il principale archivio di software per Amiga
+* OS4Depot: raccolta di software per AmigaOS 4.x
+* ACP Amiga Culture Philosophy
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 18:43:14 from:
+  http://it.wikipedia.org/wiki/AmigaOS
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

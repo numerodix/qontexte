@@ -1,0 +1,89 @@
+Con il termine generico di ingegneria genetica (più propriamente tecnologie del DNA ricombinante) si fa riferimento ad un insieme molto eterogeneo di tecniche che permettono di isolare geni, clonarli, introdurli e esprimerli in un ospite eterologo (differente dall'ospite originale).
+Queste tecniche permettono di conferire caratteristiche nuove alle cellule riceventi. Le cellule così prodotte sono chiamate ricombinanti.
+L'ingegneria genetica permette anche di alterare la sequenza del gene originale e di produrne uno più adatto a rispondere ad esigenze specifiche, come avviene ad esempio per quanto riguarda gli OGM.
+
+Cos'è l'ingegneria genetica
+Le tecniche dell'ingegneria genetica coinvolgono spesso l'isolamento, la manipolazione e la reintroduzione del DNA all'interno di cellule eterologhe o, più nello specifico, in organismi modello. Il fine può essere, ad esempio, quello di esprimere una proteina all'interno di un organismo diverso da quello di origine (la proteina è detta per questo eterologa), sfruttando i ribosomi e la sintesi proteica dell'organismo ospite. Tale processo è noto come espressione eterologa.
+
+Le applicazioni più fini dell'ingegneria genetica permettono non solo di selezionare un gene al fine di produrne la proteina eterologa, ma di modificare l'informazione genetica stessa, al fine di ottenere una proteina finale parzialmente modificata.
+
+Specifiche sulla tecnica
+Il primo passo di tali tecniche di manipolazione dei geni è stato certamente la scoperta degli enzimi di restrizione, per la quale Werner Arber, Daniel Nathans e Hamilton Smith ricevettero il Premio Nobel per la Medicina nel 1978.
+
+Il processo avviene in varie fasi:
+
+-estrazione di DNA da cellule eucariote e procariote;
+
+-frammentazione delle molecole di DNA in segmenti più corti;
+
+-identificazione e separazione dei diversi frammenti isolati in cellule ospiti, spesso diverse dalle cellule da cui proviene il DNA isolato.
+
+Le cellule ospiti con genoma manipolato possono esprimere i geni estranei, possono anche riprodursi e fungere da sistemi di amplificazione del gene stesso.
+
+Per estrarre il DNA bisogna rompere le cellule trattandole con sostanze litiche e detergenti. Le molecole di DNA, separate dalla miscela di cellule con tecniche purificanti, vengono tagliate in frammenti più piccoli. Per effettuare ciò si utilizzano enzimi di restrizione, o endonucleasi di restrizione. Esse non tagliano la doppia elica a caso, bensì agiscono in sequenze bersaglio di nucleotidi creando delle estremità appiccicose/coesive (che contengono delle sequenze palindrome). Il taglio avviene mediante idrolisi. Si ottengono un numero variabile di filamenti di DNA di lunghezza variabile, legato alla presenza di sequenze bersaglio che si trovano nei plasmidi. I frammenti di DNA plasmidico e quelli di DNA eucariotico vengono legati insieme grazie alle sequenze coesive con l’intervento di DNA ligasi.
+
+I suddetti enzimi di restrizione associati ad una classe di molecole note come ligasi, costituiscono il primo vero kit delle tecnologie del DNA ricombinante. Tale espressione è spesso usata per intendere le varie tecniche utilizzate dall'ingegneria genetica.
+
+Il termine più corretto per identificare un organismo con informazioni genetiche di provenienza esterna è organismo transgenico. Nel linguaggio comune sono utilizzati anche organismo geneticamente modificato o geneticamente ingegnerizzato.
+
+Applicazioni
+
+Se da un punto di vista di ricerca pura queste tecniche sono molto importanti per comprendere a fondo la funzione di una determinata proteina, dal punto di vista della ricerca applicata, il fine ultimo è quello di conferire a determinati organismi caratteristiche importanti per svolgere determinati scopi. Tali scopi possono essere applicati ai campi più svariati, come ad esempio quello agricolo (ad esempio la produzione di linee di cereali resistenti agli erbicidi) o quello biomedico (la produzione di insulina attraverso batteri).
+
+Ingegneria genetica e ricerca
+Sebbene la conclusione del Progetto Genoma Umano abbia portato una vera e propria rivoluzione nel mondo delle scienze biologiche, ponendo fine di fatto all'era della genomica, rimangono tuttora numerose sfide che attendono la ricerca in questo campo. Il sequenziamento dell'intero genoma umano, oltre a quello di numerose altre specie viventi, ha infatti reso estremamente semplice, se non banale, ottenere informazioni sulla composizione di un gene o di un segmento di DNA: i miliardi di nucleotidi finora sequenziati, infatti, sono largamente disponibili nelle banche dati presenti su internet.
+
+Le sfide della post-genomica
+La sfida più grande che la ricerca sta raccogliendo in questi anni di post-genomica consiste nell'individuazione e nella caratterizzazione dei prodotti proteici di ogni gene. Quello della cosiddetta proteomica, dunque, è un compito ben più complesso, essendo meno meccanico del mero sequenziamento del DNA. La rivisitazione che il dogma centrale della biologia molecolare ha subito in questi anni, complica ulteriormente le cose. Oggi appare infatti chiaro che la classica definizione "un gene, un trascritto, una proteina" appare quantomeno insufficiente, se non sbagliata. Esistono infatti numerosi geni che, trascritti, vanno incontro a splicing alternativo. Esistono numerosi trascritti di RNA che non vengono a loro volta tradotti. Non esiste nemmeno una cifra certa dei geni presenti nel genoma umano: le stime proposte al termine del sequenziamento del genoma (circa 30-40 mila geni) sono state ridotte a circa 25 mila.
+
+Per tutti questi motivi, l'era post-genomica si sta notevolmente specializzando. Oltre alla già citata proteomica (che studia il proteoma, l'incredibile numero di proteine e le loro interazioni), si stanno diffondendo la trascrittomica, la metabolomica ed una gran quantità di -omics (dall'originale inglese della terminazione -omica).
+
+Il ruolo dell'ingegneria genetica nella post-genomica
+
+L'ingegneria genetica è oggi il gold standard nella ricerca sulle proteine. Tra gli strumenti di base che essa mette a disposizione figurano i seguenti.
+
+* Studi di loss of function (dall'inglese, perdita di funzione). Si tratta di esperimenti, genericamente chiamati di knock-out, che permettono di ingegnerizzare un organismo in modo tale da eliminare l'attività di un determinato gene. Ciò permette di studiare il difetto causato da questa mutazione, e può essere utile come screening iniziale della funzione di un gene. Spesso viene utilizzato in biologia dello sviluppo. Un esperimento di knock-out viene messo a punto attraverso la manipolazione in vitro di un costrutto di DNA che, nelle versioni base di un esperimento di knock-out, consiste nel gene di interesse modificato a sufficienza per perdere la funzione originale. Questo costrutto può essere poi inserito in una cellula in coltura, all'interno della quale sarà in grado di sostituire la versione originale (detta wildtype) del gene. Se le cellule che ricevono tale costrutto sono cellule staminali, esse possono essere inserite in una blastocisti, a sua volta inserita nell'utero di madri surrogate. Con questa tecnica, chiamata Embryonic Stem Cell Transfer (dall'inglese, trasferimento di cellule staminali embrionali), è possibile realizzare un organismo transgenico. Un metodo più semplice per lo screening di knock-out, che tuttavia può essere applicato solo ad animali meno complessi, consiste nell'induzione di mutazioni casuali in una popolazione molto ampia (ad esempio di Drosophila melanogaster, il moscerino della frutta). La progenie verrà strettamente analizzata alla ricerca della mutazione che si intende studiare. Tale metodo è correntemente utilizzato per gli organismi unicellulari, specialmente prokaryota, e talvolta per le piante.
+
+* Studi di gain of function (dall'inglese, acquisizione di funzione). Si tratta della logica controparte della produzione di knock-out. Sono spesso portati avanti insieme ai knock-out per valutare in modo più fine la funzione dei geni in esame. I procedimenti che vengono svolti per introdurre una mutazione gain of function'' sono molto simili a quelli utilizzati per produrre knock-out. In questo caso il costrutto porterà con se alcuni accorgimenti tali da incrementare l'espressione della proteina (come ad esempio un promotore forte).
+* Studi con traccianti. Permettono di individuare l'esatta localizzazione e l'interazione della proteina in esame. Un metodo per ottenere ciò consiste nella sostituzione del gene wildtype con un gene di fusione, contenente il gene originale fuso con una terminazione visibile dall'operatore. Un esempio di tali terminazioni visibili è la GFP, (dall'inglese Green Fluorescent Protein, proteina fluorescente verde). Tale proteina è molto utile perché permette nella maggior parte dei casi un corretto funzionamento della proteina originale con cui è fusa: uno dei principali problemi legato a questo tipo di tecnica consiste infatti nell'instabilità della maggior parte delle proteine di fusione. Il desiderio dell'operatore in questo tipo di saggi, infatti, è quello di seguire la proteina, non di modificarne i parametri strutturali e funzionali. Una strategia attualmente in sviluppo per migliorare la stabilità dei prodotti di fusione è la possibilità di realizzare code facilmente riconoscibili attraverso la somministrazione di anticorpi.
+
+Applicazioni industriali
+Il primo farmaco ottenuto ingegnerizzando un sistema vivente (batterico) è stato l'insulina, approvato dalla FDA nel 1982. Anche l'ormone della crescita umano, precedentemente estratto dai cadaveri, fu rapidamente ingegnerizzato. Nel 1986 la FDA approvò il primo vaccino umano ricombinante, contro l'epatite B. La produzione industriale di farmaci utilizzando i sistemi viventi come bioreattori si è da allora largamente diffusa, diventando attualmente la via preferita di sintesi di numerosi farmaci, in particolare per il costo di produzione relativamente basso.
+
+La produzione di molecole attraverso sistemi biologici è oggi ampiamente sfruttato anche nell'industria alimentare: per la produzione di alimenti nutraceutici, arricchiti cioè con alcune molecole, si può servire di sistemi biologici modificati di specie vegetali e animali.
+
+Bibliografia
+*Lewin B.,Il gene. (Edizione compatta), Bologna, Zanichelli, 2006
+*Griffiths A., Wessler S., Lewontin R., Gelbart W., Suzki D., Miller J., Genetica. Principi di analisi formale, Bologna, Zanichelli, 2006
+*Brown T., Genomi, Napoli, Edises, 2003
+*Dale J., Von Schantz M., Dai geni ai genomi, Napoli, Edises, 2004
+*Ceccarelli M., Colantuoni V., Graziano G., Rampone S., Bioinformatica. Sfide e prospettive, Franco Angeli, Milano, 2006
+*Prantera G., Genetica. Dall'analisi formale alla genomica, McGraw-Hill Companies, 2008
+
+Testi divulgativi sulla Genomica e sulla Post-Genomica
+*Keller E. F., Il secolo del gene, Milano, Garzanti, 2000
+*Boncinelli E., Genoma:il grande libro dell'uomo, Milano, Mondadori, 2001
+*Buiatti S., Lo stato vivente della materia, Torino, UTET, 2000
+*Di Bernardo M., Dialegesthai. Collana di ricerche filosofiche, Aracne, 2007 (Per una rivisitazione della dottrina monodiana della morfogenesi autonoma alla luce dei nuovi scenari aperti dalla post-genomica)
+*Polsinelli M., De Carli L., Fani R., Dalla genetica classica alla genomica, Carocci, 2008
+
+Voci correlate
+*Gene
+*Ingegneria genetica in medicina
+
+Collegamenti esterni
+* Breve storia dell'ingegneria genetica
+* Sito del Consiglio per una Genetica Responsabile
+* Dibattito sulla modificazione genetica delle piante
+* Tavola rotonda del Vega Science Trust
+* Ampio glossario sugli OGM
+* Dipartimento dell'Agricoltura della FAO e il resoconto del Dipartimento sulle biotecnologie agricole
+* Glossario per non specialisti sul tema
+* Lettera aperta per una moratoria sulle tecnologie di ingegneria genetica
+* Petizione di alcuni scienziati a sostegno dell'uso delle biotecnologie in agricoltura (oltre 3400 firme)
+* Ingegneria genetica: sogno o incubo?
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 20:50:19 from:
+  http://it.wikipedia.org/wiki/Ingegneria_genetica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

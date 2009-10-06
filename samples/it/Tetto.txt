@@ -1,0 +1,320 @@
+La copertura, o più comunemente tetto, ha la funzione di definire la parte superiore dell’edificio e di preservare l’ambiente interno dagli agenti atmosferici.
+
+Lo scopo essenziale delle coperture è impedire l’insorgere di umidità, quella di opporre resistenza alle sollecitazioni date dalla neve e il vento. Il manto di copertura, che è lo strato esterno delle coperture, garantisce la tenuta dell’acqua, mentre la struttura portante ha il compito di sostenere il manto.
+
+Tipi di copertura
+In base ai materiali utilizzati per il manto le coperture sono così raggruppate:
+
+Coperture discontinue
+Il manto è effettuato con vari materiali che, grazie al modo in cui sono collegati e alla loro pendenza, assicurano la tenuta dell’acqua. Le coperture discontinue sono a loro volta ripartite in:
+*coperture di tegole in laterizio;
+*coperture di tegole in cemento;
+*coperture di lastre in fibrocemento;
+*coperture di lastre in pietra;
+*coperture di lastre di materie plastiche;
+*coperture di tegole bituminose;
+*coperture di pannelli metallici coibentanti;
+*coperture di rame;
+*coperture di lamiere grecate di acciaio zincato, rame, alluminio, ecc,;
+*coperture di paglia;
+*coperture di canna lacustre.
+
+Coperture continue
+Il manto è attuato con elementi molto ampi congiunti insieme durante la posa in opera, in modo da assicurare la tenuta per qualsiasi pendenza. Le coperture continue sono divise in:
+*coperture impermeabilizzate a freddo;
+*coperture impermeabilizzate a caldo;
+*coperture impermeabilizzate con membrane sintetiche;
+*coperture impermeabilizzate con membrane bituminose.
+In base alla pendenza le coperture possono essere suddivise in:
+*tetti a falde, costituiti da una o più falde con pendenza diversa a seconda dei materiali usati per il manto;
+*tetti piani, realizzati da pendenza minime ma commisurati per smaltire le acque.
+
+Tetti a falde
+
+La forma geometrica di un tetto, ossia della superficie di copertura di un edificio, viene determinate da una o più facce piane inclinate, dette falde o pioventi.
+Il tetto a falde piane è caratterizzato da alcuni elementi:
+*la linea di colmo, indica, in generale, una retta orizzontale di massima quota, che si ottiene come intersezione tra due falde inclinate del tetto;
+*la linea di gronda, indica, in genere, una retta orizzontale di minima quota che si ottiene come intersezione tra le falde inclinate con un stesso piano orizzontale, detto piano d'imposta del tetto;
+*la linea di displuvio, l’intersezione inclinata di due falde ad angolo convesso (saliente);
+*la linea di compluvio, l’intersezione inclinata di due falde ad angolo concavo (rientrante).
+
+Strutture portanti dei tetti a falde
+La struttura portante dei tetti a falde può essere realizzata mediante varie soluzioni:
+*orditura in legno strutturale;
+*capriata e profilati in acciaio;
+*capriata e pannelli di calcestruzzo armati precompresso;
+*solai di calcestruzzo armato.
+
+Orditura in legno strutturale
+L'orditura in legno strutturale è costituita da vari elementi:
+*le capriate;
+*la grossa orditura;
+*la piccola orditura.
+Le capriate in legno, ognuna di esse formate da due travi (puntoni) disposte secondo l’inclinazione delle falde, riunite in sommità ad un travetto verticale (monaco o ometto), e inferiormente collegate ad una trave orizzontale (catena o tirante).
+Le unioni o connessioni dei vari elementi si ottengono mediante intagli, opportunamente rinforzati con ferri piatti.
+Questo tipo di incavallatura, chiamato capriata semplice, può essere usato fino ad una portata di 6-7 metri.
+
+Per coprire luci maggiori si ricorre ad altri tipi di capriate come ad esempio la capriata formato da due puntoni, da un ometto e da una catena, disposti come nelle capriate semplici ed inoltre da due contraffissi o saettoni interposti fra l’ometto ed i puntoni. Le capriate di questo tipo si impiegano per coprire luci che vanno da 8 a 15 metri.
+
+Questo tipo di capriata era comunemente detta capriata all'italiana o capriata con saette fino agli anni '40 del Novecento, quando iniziò ad essere definita capriata palladiana, espressione che precedentemente indicava le capriate a tre monaci con controcatena.
+
+Altra componente delle strutture portanti dei tetti a falde è la grossa orditura che a seconda della sua disposizione distingue i tetti nei due tipi:
+*orditura alla piemontese:
+*orditura alla lombarda.
+L’orditura alla piemontese è costituita da una trave di colmo, appoggiata su capriate o direttamente su un muro di spina, e da cosiddetti falsi puntoni o travi disposti secondo la pendenza delle falde, le quali, a loro volta, appoggiano superiormente sulla trave di colmo e inferiormente su una banchina o dormiente, costituita da una trave fissata ai muri perimetrali.
+
+L’orditura alla lombarda è caratterizzata dalla presenza di arcarecci o terzere che sono travi disposte parallelamente alle linee di gronda ed appoggiate su capriate o su muri trasversali.
+
+Terza ed ultima componete delle strutture portanti dei tetti a falde è la piccola orditura.
+Costituita da correntini o listelli orizzontali, paralleli alle linee di gronda, nei tetti alla piemontese; e da travicelli o correntini o murali, inclinati secondo la pendenza del tetto, nei tetti alla lombarda.
+
+Capriata e profilati in acciaio
+Le capriate ed i profilati in acciaio possono avere forme diverse a seconda della conformazione delle falde e delle luci da coprire.
+I tipi più comuni sono le capriate semplici, quelle alla Polenceau, e a shed, realizzate in forma di trave reticolare.
+L’alta resistenza, la sicurezza dell’acciaio e la sua leggerezza rispetto ad altri sistemi, conferiscono all’insieme molti vantaggi strutturali ed economici.
+
+Capriate e pannelli di calcestruzzo armato precompresso
+Le travi di calcestruzzo armato precompresso più utilizzate e diffuse sono del tipo a parete piena a doppia pendenza. Nei sistemi con travi a doppia pendenza le travi sono in calcestruzzo armato normale o precompresso, presentano una doppia pendenza ed hanno luci che vanno da 10 a 30 metri.
+Altro tipo di capriata di calcestruzzo armato è quella utilizzata per le coperture a shed. Questi tipi di trave hanno la caratteristica forma a “ginocchio”, che permette di inserire una finestratura per l’illuminazione naturale interna. Sulle travi di calcestruzzo armato vengono sovrapposti pannelli prefabbricati per formare il piano d’appoggio del manto di copertura.
+Solai di calcestruzzo armato: La struttura di sostegno delle falde può essere costituita da solai e solette di calcestruzzo armato.
+Il solaio in calcestruzzo armato e laterizio è nella sua più generale costituzione formato da elementi di laterizio aventi funzione di cassaforma leggera i quali consentono di disporre l’armatura di acciaio in modo da ottenere col getto di calcestruzzo travetti distanti tre loro da 30 a 50 cm che vengono collegati tra loro da cordoli pure in calcestruzzo dello spessore di circa 4 cm che collegano i travetti formando una sezione reagente a T.
+La struttura di sostegno delle falde può essere costruita anche da pannelli prefabbricati, molto diffusi nelle coperture di capannoni industriali.
+Questi tipi di copertura offrono importanti vantaggi come quello di evitare le operazione di manutenzione, tipiche dell’orditura in legno, e quello di ottenere un miglior livello di inerzia termica della copertura.
+
+Pendenza delle falde
+Si può dire che la differenziazione tipologica in ordine ai diversi valori delle pendenze è derivante essenzialmente dal carico dovuto a precipitazioni nevose. Altro parametro da tenere in considerazione per la determinazione della pendenza di un tetto a falde è il materiale impiegato per il manto di copertura. L’esperienza consente di affermare come normali pendenze quelle comprese tra il 30% e il 45%.
+
+Manti di copertura
+
+I tipi di copertura realizzati con tegole di laterizio sono:
+*coperture alla romana: è una semplice tavella piatta rialzata ai bordi, a geometria trapezoidale, tale da essere posta in opera con sovrapposizione in modo da fungere da canale. Il collegamento superiore è eseguito con coppi, ossia con tegole dalla caratteristica sezione curva, oppure con le stesse tavelle poste rovesciate in modo da avere i bordi rialzati rivloti verso il basso e con la base più stretta del trapezio posta in alto, in senso opposto alle tavelle sottostanti;
+*copertura a tegole marsigliesi: sono derivate dalla tegola prodotta nei paesi nordici per tetti a forte pendenza. Sono quindi caratterizzate da un'ampia funzionalità nelle copertura a falde di elevata pendenza, sempre con ottimali risultati di impermeabilità e scorrimento delle acque; la pendenza minima richiesta per questo tipo di tegola è del 35%;
+
+*copertura a tegole portoghesi: per combinazione fra il coppo e la tegola piatta ( o marsigliese) sono state ottenute tegole a funzionamento intermedio che hanno assunto il nome di tegole portoghesi; la pendenza minima richiesta per questo tipo di tegola è del 30%;
+*coperture a tegole olandesi: danno al manto di copertura un caratteristico aspetto ondulato.
+Dal punto di vista funzionale non pare si riscontrino differenze essenziali tra i vari tipi.
+Perciò la scelta può essere fatta tenendo conto essenzialmente dell’aspetto esteriore e quindi dalla combinazione con l’architettura della costruzione e nell’inserimento dell’ambiente circostante.
+
+Oltre ai tipi di copertura realizzate con tegole di laterizio esistono coperture realizzate con tegole in cemento.
+Tra queste troviamo:
+*coperture in coppi di Francia;
+*coperture in coppi di Grecia;
+*coperture in tegole doppia romana.
+Esistono poi coperture realizzate con materiali lapidei tra cui:
+*coperture di ardesia;
+*coperture di lastre di pietra.
+Più moderne e molto più funzionali sono le coperture in lastre di fibra di cemento. Questi tipi di copertura hanno la caratteristica di essere funzionali, sicure e ad un prezzo ridotto.
+Altri tipi di copertura possono essere realizzate mediante tegole bituminose, rame: che consentono di realizzare falde con superfici molto complesse; e lamiere grecate: particolarmente adatte per realizzare falde di grandi ampiezze e con qualsiasi inclinazione.
+
+Isolamento termico dei tetti a falde
+Tutte la pari dell’edificio disperdono calore, ma è soprattutto il tetto ad incidere sulla dispersione termica complessiva della costruzione.
+Oggi è possibile ridurre queste perdite energetiche isolando termicamente il tetto con materiali specifici. Per quanto riguarda l’isolamento termico del tetto occorre fare una distinzione tra:
+*isolamento termico di sottotetti abitabili;
+*isolamento termico di sottotetti non abitabili.
+Per quanto riguarda i sottotetti abitabili lo strato isolante può essere inserito all’interno della struttura portane, soluzione ideale per l’isolamento di tetti preesistenti, oppure sopra di essa, di più facile esecuzione e ideale per gli edifici nuovi.
+Parlando invece dell’isolamento termico di sottotetti non abitabili, cioè nel caso di copertura isolata e ventilata, lo strato di isolamento può essere applicato sull’estradosso del solaio di copertura dell’ultimo piano dell’edificio.
+Si è soliti gettare un massetto di alcuni centimetri sopra l’isolamento per rendere agevole l’utilizzo del piano sottotetto.
+
+Canali di gronda
+Per lo smaltimento e la raccolta delle acque piovane sono usati i canali di gronda, posati in opera con una pendenza capace di trasferire l’acqua in canali di discesa, chiamati pluviali.
+I canali di gronda possono essere realizzati in vari modi:
+*canali di gronda di lamiera zincata, acciaio inossidabile e rame; la sezione più usata in questi casi è quella semicircolare poiché le altre comportano un maggiore impiego di materiale e una maggiore difficoltà di collegamento.
+*canali di gronda formati da cornicioni di calcestruzzo armato; spesso abbinato ad uno strato impermeabilizzante.
+*canali di gronda in PVC; composti da un elemento di testata e un elemento di giunzione. I pluviali possono essere realizzati con tubazione di lamiera zincata, acciaio inox e rame ma anche in materiali plastici. Possono anche essere installati all’esterno delle facciate o all’interno delle pareti perimetrali.
+
+Coperture di scandole in legno
+Le coperture di scandole in legno, così come le coperture di paglia sono presenti nella tradizione costruttiva di determinate regioni e sono ormai completamente in disuso.
+Quella delle scandole in legno è una tecnica molto antica, impiegata soprattutto in tetti con notevole pendenza.
+Le scandole sono realizzate con un legno molto resistente, ad esempio il larice che ne garantisce la durata nel tempo. Sono di varie dimensioni, come ad esempio le scandole alpine lunghe 100 cm, larghe 20 cm e spesse 2,5 cm e le scandole canadesi lunghe 50 cm, larghe 10 cm e spesse 1,5 cm.
+Le scandole sono inoltre lavorate con scanalature per favorire lo scorrimento dell’acqua sulla falda.
+La posa in opera avviane in due strati di scandole, alternati e sovrapposti, fissati con dei chiodi su arcarecci portascandole disposti in tavole che forniscono il collegamento all’orditura del tetto.
+Solitamente sotto le scandole viene consigliato l’inserimento di strati impermeabilizzanti per smaltire l’infiltrazione dell’acqua, soprattutto nel caso di falde con limitata pendenza.
+
+Modalità e posa delle scandole in legno canadesi
+Sopra il tavolato vanno fissate delle tavole all’orditura del tetto, sopra questo si giunta lo strato impermeabilizzante. Sopra le tavole si posano gli arcarecci portascandole.
+
+Tetti piani
+
+I tetti piani sono caratterizzati da una pendenza minima, sufficiente per assicurare lo scorrimento dell’acqua fino agli scarichi.
+Secondo la normativa UNI si definiscono tetti piani quelli con pendenza minore del 5%.
+
+È quindi necessario un sistema di impermeabilizzazione, costituito da un insieme di strati la cui scelta dev’essere fatta tenendo conto di alcuni fattori:
+*grado di accessibilità della copertura con conseguente entità dei carichi;
+*condizioni climatiche che possono danneggiare la copertura sottoforma di irraggiamento solare, sbalzi termici e temperature elevate.
+*necessità di un isolamento termico all’interno.
+
+I tetti piani possono essere divisi in due gruppi:
+#tetti piani non praticabili, quando non sono accessibili alle persone se non per manutenzione;
+#tetti piani praticabili, se sono accessibili alle persone, sono protetti contro il rischio di cedimenti e sono dotati di pavimentazione;
+
+Si distinguono in:
+*tetti a giardino pensile, quando sono dotati di uno strato di terra nel quale si possono coltivare erba, arbusti e fiori.
+*terrazze, quando sono adatte al soggiorno.
+*tetti carrabili, quando sono percorribili da veicoli.
+
+Definizione degli strati funzionali
+Nelle coperture a tetto piano sono presenti i seguenti strati:
+*strato di impermeabilizzazione;
+*strato di pendenza;
+*strato di separazione;
+*strato di isolamento termico;
+*barriera al vapore
+*strato portante.
+
+Strato di impermeabilizzazione
+Questo strato può essere realizzato come:
+*impermeabilizzazione a caldo
+*impermeabilizzazione a freddo
+*impermeabilizzazione con membrane sintetiche
+*impermeabilizzazione con membrane bituminose. Questo strato va protetto dall’azione dei carichi e dai raggi UV particolarmente dannosi per certe membrane, perciò si sovrappone uno strato di protezione superficiale.
+
+Strato di pendenza
+Questo strato ha il compito di smaltire le acque. La sua pendenza può variare dallo 0,5% al 5%. Lo strato di pendenza è generalmente realizzato con un getto di calcestruzzo o con aggregati leggeri, con uno spessore che varia dai 3 ai 5 cm, spianato in modo da eliminare le irregolarità. Questo strato a volte costituisce anche il supporto dello strato di impermeabilizzazione.
+
+Strato di separazione
+Questo strato evita i danni prodotti con il movimento del supporto con lo strato di impermeabilizzazione.
+
+Barriera al vapore
+Essa ha una doppia funzione, oltre che impedire la condensazione del vapore all’interno degli strati, protegge lo strato isolante dall’umidità presente negli strati sottostanti non ancora del tutto asciugati.
+
+Strato portante
+Questo strato ha la funzione di resistere ai carichi e al peso proprio degli strati costituenti. In un tetto è costituito da una soletta di calcestruzzo armato, da pannelli di copertura prefabbricati, da un solaio misto in laterocemento, da un tavolato in legno o da pannelli truciolari.
+
+Lo strato di impermeabilizzazione
+Lo strato di impermeabilizzazione può essere realizzato con apposite membrane per impermeabilizzazione o con prodotti sfusi. I prodotti sfusi dopo l’applicazione a caldo o a freddo costituiscono uno strato di un determinato spessore, senza giunti e impermeabile. Le impermeabilizzazioni eseguite con questi tipi di prodotti solitamente presentano:
+*semplicità di applicazione, anche su superfici inclinate
+*adattamento a forme complesse delle superfici di supporto, soprattutto se non sono di grandi dimensioni. Le membrane di impermeabilizzazione invece, sono fornite in rotoli di determinate dimensioni, che vengono adattate alle superfici e saldati tra loro. Queste membrane solitamente offrono i seguenti vantaggi:
+*rapidità di posa su grandi superfici, anche se inclinate
+*uniformità dello spessore e della composizione.
+
+Criteri di collegamento dello strato impermeabilizzante al supporto
+
+I manti impermeabili si possono posare in modi diversi:
+
+collegamento indipendente
+consiste nell’adagiare una membrana rivestita di materiale che impedisca l’adesione al supporto. La membrana viene poi saldata a questo supporto garantendo lo scorrimento dell’impermeabilizzazione sul supporto. Il collegamento indipendente è possibile solo con pendenze inferiori al 5% e presuppone uno strato di protezione pesante che impedisca al vento di sollevare la membrana.
+
+collegamento semiaderente
+si realizza incollando l’impermeabilizzazione al supporto per punti o lungo strisce. Questo collegamento è possibile con pendenze fino al 40%.
+
+collegamento aderente
+l’impermeabilizzazione viene fissata al supporto, eventualmente pretrattato con elementi che aiutano il collegamento. Questo tipo di collegamento è realizzabile con ogni tipo di pendenza: non richiede deformazioni, dilatazioni o movimenti del supporto che possono lacerare l’impermeabilizzazione.
+
+La protezione superficiale
+Per rallentare l’invecchiamento delle membrane impermeabilizzanti presento sui tetti piani si deve proteggere la loro superficie.
+
+Impiego di membrane autoprotette (protezione leggera)
+Lo strato impermeabile viene prodotto con scaglie di ardesia o da lamine di alluminio o di rame. Il tutto consente di realizzare falde colorate, dal rosso al verde scuro.
+
+Protezione mediante strato di ghiaietto (protezione pesante)
+Costituita da uno strato di ghiaietto spesso 4 o 5 cm, che consente l’accesso alla copertura per la manutenzione e nel caso di collegamento indipendente, assume la funzione di coprire la membrana. Il ghiaietto deve essere tondeggiante e posato sciolto su uno strato di separazione filtrante (esempio tessuto non tessuto). Questa protezione è molto economica e anche utile per ridurre gli effetti delle escursioni termiche.
+
+Protezione mediante pavimentazione su massetto
+Costituita da uno strato di sabbia spessa 2 cm disposto sulla membrana di impermeabilizzazione e da uno strato di separazione (esempio cartonfeltro) sul quale viene gettato un massetto di calcestruzzo dello spessore di 3 cm. La pavimentazione fatta di piastrelle viene posata con malta di allettamento o con uno strato di colla. Questa protezione permette alla copertura di essere fruibile, essendo così utilizzabile come terrazzo.
+
+Protezione mediante pavimentazione drenata
+Realizzata con lastre di calcestruzzo 50 x 50 cm, appoggiate sullo strato impermeabilizzante con elementi angolari di plastica, in modo da formare giunti aperti capaci di scolare l’acqua verso gli scarichi. Questa protezione permette l’utilizzo della copertura come terrazzo e inoltre ha anche il vantaggio di rimuovere facilmente la pavimentazione per la manutenzione della membrana impermeabilizzante.
+
+Isolamento termico di tetti piani
+
+Barriera al vapore
+Durante la stagione invernale, il vapore risale attraverso la soletta portante e può condensarsi dentro lo strato isolante. A causa della membrana impermeabilizzante l’acqua non può evaporare verso l’esterno, così si accumula negli strati e una parte riscende verso il basso. Durante la stagione estiva, l’acqua accumulata negli strati si trasforma in vapore causano la formazione di bolle sulla membrana impermeabile. La barriera al vapore riesce ad evitare entrambi gli inconvenienti poiché impedisce la formazione della condensa. I materiali comunemente impiegati per questo metodo sono fogli di alluminio, membrane di bitume polimero… Parecchi tipi di pannelli isolanti sono prodotti con la barriera al vapore applicata sulla faccia. La barriera al vapore è necessaria quando l’isolante possiede una forte permeabilità al vapore; può invece non essere messa se l’isolante non è permeabile al vapore (vetro cellulare).
+
+Strato di isolamento termico
+
+Lo strato termoisolante può essere posizionato in diversi modi rispetto agli altri strati:
+*tetto freddo: caratterizzato da un’intercapedine disposta tra lo strato impermeabilizzante e lo strato di isolamento. Questa intercapedine consente di smaltire il vapore attraverso delle aperture poste ai lati della copertura migliorando il comportamento del tetto all’inerzia termica. Questo tipo di tetto è molto costoso e necessita di una progettazione attenta.
+*tetto caldo: è lo strato isolante compreso tra la barriera al vapore e lo strato di impermeabilizzazione. È una soluzione più semplice del tetto freddo ma richiede maggiore attenzione poiché l’impermeabilizzazione è particolarmente esposta ai raggi del sole e all’accumulo di calore.
+*tetto rovescio: lo strato isolante è posizionato sopra lo strato di impermeabilizzazione. Non serve la barriera al vapore poiché tale funzione viene svolta dallo strato impermeabilizzante; è però necessario l’impiego di un materiale isolante insensibile al gelo e all’acqua. Ad esso si sovrappone uno strato di ghiaietto sia per l’irraggiamento solare che per le precipitazioni atmosferiche.
+
+Vari tipi di tetti
+Qui sotto lo schema dei principali tipi di tetto piano che verranno esaminati poi uno ad uno.
+
+Tetto piano non isolato
+Permette l’utilizzo di tecnologie molto semplici. Si usa normalmente per locali non riscaldati di varia destinazione,quindi per strutture non adibite all’accoglienza di persone.
+
+Tetto piano isolato
+Utilizzato a protezioni di locali abitati, deve garantire un buon isolamento termico.
+
+Prima di tutto bisogna costruire un cordolo perimetrale (F) in calcestruzzo per contenere tutto il pacchetto ventilazione, avendo l´accortezza di lasciare dei fori di 80 mm. (A) sui lati perpendicolari alla ventilazione. I fori naturalmente andranno protetti con una rete di protezione. Sul solaio esistente si fissano delle traversine in lamiera zincata (H) di dimensioni 170x70 e spessore 0,8 mm. con un interasse di 70 cm. come da particolare (D). Tra queste ultime si inserisce dell´isolante composto da pannelli in poliestirene estruso da 60 mm. densità 35 (I). Al di sopra delle traversine va poggiato in senso perpendicolare un tavolato in pino marino con spessori da 20 a 30 mm. (C) bullonato sulle traversine. Infine sul suddetto tavolato va steso un pannello da spessore 30 mm. in polistirene estruso a cellule chiuse densità 35 kg/m3 (E) con supporto superiore catramato per poter permettere successivamente la posa della guaina bituminosa per completare l´opera.
+
+Schema del sistema di incollaggio:
+#materiale isolante incollato
+#Isolamento termico, p.es. EPS, PU o strato esistente (strato di separazione se necessario)
+#Barriera antivapore
+#Supporto
+
+Schema del sistema con zavorra in ghiaia:
+#Strato di zavorra (ghiaia o quadrotti)
+#Strato di protezione (se necessario)
+#Strato di materiale, posato a secco, di separazione (se necessario)
+#Isolamento termico
+#Barriera antivapore
+#Strato di compensazione (se necessario)
+
+Tetto carrabile
+Il tetto carrabile assicura una adeguata resistenza al passaggio e alla sosta di veicoli. Questo è possibile grazie ad una tecnologia che utilizza conglomerato di cementizio armato.
+
+Tetto a giardino pensile
+Il tetto verde può essere di due tipi: estensivo oppure intensivo, in funzione del tipo di vegetazione scelto. Accanto alle funzioni primarie di protezione dall'acqua, dal rumore e di protezione termica, la soluzione di tetto verde offre grandi vantaggi estetici, di miglioramento del clima e soprattutto ecologici, perché restituisce all'ambiente preziosi spazi verdi. Per proteggere queste coperture dall’umidità del terreno e dalle radici si utilizzano delle barriere chimiche (prodotti con azione diserbante che proteggono la membrana dal proliferare delle radici) e quelle fisiche,cioè l’inserimento di una lamina metallica e un film di materiale sintetico.
+Caratteristiche specifiche del sistema:
+*Ricostituzione di superfici verdi
+*Ritenzione idrica che alleggerisce il carico del sistema di drenaggio e smaltimento delle acque meteoriche
+*Esteticamente gradevole
+*Favorisce la produzione di ossigeno
+*Regolarizzazione del clima dell'ambiente
+
+Particolarità esecutive
+
+Impermeabilizzazione dei cornicioni
+Realizzata con membrana posata in aderenza e dotata di risvolti per la sovrapposizione del manto del tetto.
+Giunti di dilatazione: questi giunti permettono una corretta dilatazione termica degli elementi della copertura in modo che non si vengano a creare tensioni potenzialmente pericolose per l’integrità strutturale di queste. Si usano giunti a omega, meccanici, o protetti da grembiale.
+
+Bocchettoni di scarico
+Oltre alla scelta del materiale dei pluviali, bisogna prestare attenzione alle pendenze in prossimità dell’imbocco ed alla posizione dei pluviali rispetto ad elementi verticali. Le contropendenze in prossimità dell’imbocco, generate dell'ispessimento delle sovrapposizioni tra il manto e l’imbocco, provocano ristagni d’acqua, che accelerano il deterioramento del manto. Per evitare il problema, la zona di imbocco (compresa l’area di sovrapposizione) deve essere situata ad un livello inferiore alla quota minima della pendenza.
+
+L'illuminazione attraverso coperture piane
+L'illuminazione naturale attraverso le coperture viene solitamente preferita a quella data dalle finestrature in quanto permette di fornire illuminazione anche all’ interno del capannone industriale, senza venir bloccata dall’ombra prodotta da eventuali macchinari. L’illuminazione naturale, che deve essere opportunamente schermata permette di guadagnare anche ore di luce diminuendo l’uso di sistemi artificiali. Alcuni tipi di sistemi di illuminazione:
+
+*copertura a Shed: La parte che della trave forma il canale di gronda, viene impermeabilizzata con guaine e coibentata con poliuretano. La parte in falda viene coibentata con lana di vetro protetta da alluminio, oppure da lastre in fibrocemento.
+*copertura a capriate sfasate: utilizzata in capannoni e infrastrutture per determinati lavori, deve essere opportunamente schermata
+*copertura a due livelli: soluzione che fornisce livelli di illuminazione e ventilazione molto buoni. La superficie esposta a sud deve essere protetta a soleggiamento.
+*copertura suborizzontale a piastra con cupolette o lucernari: la semplicità di questa soluzione, data da lucernari di varie forme e dimensioni in policarbonato o metacrilato, ha però alcuni lati negativi quale la difficile eliminazione dell’abbagliamento, la manutenzione periodica e il rumore prodotto dalla pioggia battente.
+
+Requisiti delle coperture
+Tenuta all’acqua
+Una copertura deve risultare impermeabile all'acqua e resistente ai carichi (vento, neve, carichi accidentali, ecc.) onde evitare l'insorgere di situazioni termoigrometriche critiche. Tali situazioni come infiltrazioni che si possono verificare per capillarità o causa il ciclo gelo disgelo, se non verificate, possono comportare condensazioni in superficie o negli strati che compongono la copertura stessa. Molto importante è anche la manutenzione del manto e gli elementi di completamento.
+
+Trasmittanza termica
+L'isolamento delle coperture è essenziale per ridurre la dispersione termica, specialmente nel caso di costruzioni monopiano, comportando notevoli economie di esercizio e sensibili vantaggi in termini di comfort abitativo. L'isolamento del tetto svolge anche una funzione protettiva nei confronti della struttura, soprattutto quando questa è in legno. Inoltre l'isolamento termico delle coperture offre notevoli vantaggi durante il periodo estivo. Per effetto delle radiazioni solari infatti la temperatura superficiale all'estradosso del manto di copertura può risultare superiore alla temperatura dell'aria esterna anche di 10-30 °C in funzione del calore del manto. Di conseguenza il salto termico effettivo tra l'interno e l'esterno della copertura è molto elevato.
+Ciò fa ulteriormente aumentare la temperatura interna dell'edificio a causa della trasmissione di calore che può avvenire attraverso il tetto nel caso non sia presente un buon isolamento termico. Migliorando l'isolamento termico delle strutture di un edificio esistente si ottengono sensibili riduzioni dei consumi di combustibile nel riscaldamento invernale e quindi nella gestione dell'impianto. Tra i possibili interventi per isolare termicamente esistono sostanziali differenze nei costi e nel risparmio ottenibile in termini di consumi energetici. In particolare le dispersioni attraverso un tetto non isolato possono rappresentare più del 25% delle dispersioni totali di un edificio.
+
+Reazione al fuoco
+Fermo restando il rispetto delle caratteristiche di resistenza al fuoco delle strutture portanti e separanti stabilite dal D.M. 9 aprile 1994 in funzione dell'altezza antincendio dell'edificio, è consentito che gli elementi strutturali della copertura, qualora non collaborino alla statica complessiva del fabbricato ma debbano garantire unicamente la propria stabilità, abbiano caratteristiche di resistenza al fuoco commisurate alla classe dei locali immediatamente sottostanti, con un minimo di R 30, indipendentemente quindi dall'altezza del fabbricato. Quanto sopra potrà essere realizzato a condizione che la situazione al contorno escluda la possibilità di propagazione di un eventuale incendio ad ambienti o fabbricati circostanti; in tale evenienza (come ad esempio nel caso di adiacenza con edifici di maggiore altezza) dovranno essere attuate idonee misure di sicurezza atte ad impedire la propagazione dell'incendio.
+
+Circolazione dell’aria
+La libera circolazione dell'aria, dalla linea di gronda al colmo, assicura:
+*lo smaltimento dell'eccessivo calore causato dall'irraggiamento estivo
+*una maggiore durata dei coppi o delle tegole grazie al mantenimento di condizioni di temperatura ed umidità simili.
+
+Altri progetti
+
+Bibliografia
+* Muratori, Disegno professionale. I.N.A.P.L.I.
+* M. Montanari, Tegole e coppi
+* P. Erlacher, Il tetto in legno termoisolato
+* C. Amerio, G. Canvesio, Tecniche ed elementi costruttivi
+
+Voci correlate
+*Angolo di massima pendenza di un piano
+*Capriata
+*Copertura
+*Coppo
+*Mansarda
+*Pannello solare
+*Tegola
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 21:05:00 from:
+  http://it.wikipedia.org/wiki/Tetto
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,173 @@
+In diritto, la proprietà (in latino proprietas da proprius) è un diritto reale che ha per contenuto la facoltà di godere e di disporre delle cose in modo pieno ed esclusivo, entro i limiti e con l'osservanza degli obblighi previsti dall'ordinamento giuridico ( del codice civile italiano). Si parla di proprietà privata, o pubblica, con riferimento allo status - privato o pubblico - del soggetto giuridico cui spetta la titolarità del diritto.
+
+Nel linguaggio comune, il termine "proprietà", oltre alla situazione giuridica soggettiva designa anche il bene oggetto del diritto.
+
+Origini storiche
+Il diritto di proprietà trova il suo antecedente storico in diritto romano nella figura del dominium ex iure Quiritium.
+Tale istituto designava in origine l'appartenenza piena ed esclusiva di una res privata ad un individuo, situazione riconosciuta e tutelata dal ius civile. Caratteristiche del dominium ex iure Quiritium erano la pienezza, la esclusività e l'elasticità. Al dominus spettava ogni facoltà di utilizzare la res in maniera illimitata, la facoltà di modificarla e perfino di distruggerla. Il suo diritto era tutelato da un'apposita azione la rei vindicatio (da res vi dicere affermare violentemente un potere sulla cosa).
+
+Per il ius civile, il dominium ex iure Quiritium poteva essere trasferito o mediante uno degli atti formali previsti per lo scopo (mancipatio o in iure cessio) se la res da trasferire era una res mancipi, ovvero tramite semplice consegna (traditio) della cosa se si fosse trattato di res nec mancipi. Qualora il trasferimento di una res mancipi non fosse avvenuto tramite l'atto formale richiesto, si creava una situazione ambigua per cui l'alienante rimaneva dominus ex iure Quiritium, mentre l'alienatario non riceveva tutela dal ius civile pur avendo acquistato la res.
+
+Per ovviare a questi problemi alla fine dell'età repubblicana un pretore di nome Publicio concesse a chi si fosse trovato in tale situazione un'actio in rem con cui l'alienatario avrebbe potuto reclamare la cosa acquistata da chiunque lo avesse privato del possesso. Parimenti concesse una exceptio per tutelarlo qualora il dominus (rimasto tale secondo il ius civile, ma non più proprietario nella sostanza) avesse rivendicato il bene.
+
+Si creò dunque un sistema doppio di proprietà che vedeva da un lato il dominum ex iure Quiritium (tutelato ex iure civili), e dall'altro la proprietà tutelata dal ius honorarium e tecnicamente definita in bonis habere. Di tale situazione scrive il giurista romano Gaio nelle sue Istituzioni: «Sed postea divisionem accepit dominium, ut alius possit esse ex iure Quiritium dominus, alius in bonis habere» (Traduzione: Ma in seguito si ebbe una divisione del dominium, tale che è possibile che qualcuno sia dominus ex iure Quiritium e un altro abbia in bonis).
+
+Divenuta ormai un orpello storico al tempo di Giustiniano, l'espressione tecnica Dominium ex iure Quiritium venne formalmente cancellata da una costituzione dell'imperatore che proclamò l'unicità del diritto di proprietà.
+
+Disciplina della proprietà nell'ordinamento italiano
+
+La disciplina principale del diritto di proprietà è dettata, nel ordinamento italiano dall' e successivi del codice civile e dall' e successivi della Costituzione.
+Il dettame congiunto delle due norme fissa i principi ed i limiti che regolano il diritto di proprietà nell'ordinamento italiano.
+
+Disciplina codicistica
+Secondo la nozione dell'art. 832, la proprietà è "il diritto di godere e disporre della cosa in modo pieno ed esclusivo, entro i limiti e con l'osservanza degli obblighi stabiliti dall'ordinamento giuridico."
+
+Ma l'art. 832 in verità è una norma che, al costo di un notevole grado di astrazione, identifica gli elementi comuni ai vari contenuti che il diritto di proprietà può assumere in rapporto alle varie categorie di beni. La proprietà è infatti il nome di un diritto. Ma non essendo un diritto un'entità astratta, bensì l'immagine riflessa della realtà sociale, tale concetto costituisce il modo per evocare in maniera generale e astratta una pluralità di qualificazioni di comportamento che si collegano cumulativamente ad una pluralità di fattispecie delle quali una si suppone alternativamente verificata quando si usa il termine proprietà.
+
+La proprietà, diritto assoluto
+Il diritto di proprietà è un diritto assoluto. È, cioè, una spettanza, una pretesa giuridica che l'ordinamento riconosce e tutela erga omnes (avverso tutti) e a favore di chi ne è titolare. Si usa anche dire che esso è un diritto soggettivo su una cosa, alludendo al potere (di appartenenza) che il proprietario ha nei confronti della cosa, oggetto del diritto. Si discute, in dottrina, se il diritto di proprietà sia o meno un rapporto giuridico, non senza la presenza di teorie intermedie. Gli autori che negano che la proprietà sia un rapporto giuridico affermano che è una mera finzione l'individuare quale parte della struttura del diritto di una pretesa erga omnes; contestualmente, la relazione fra il titolare del diritto e la cosa diventa paradigma fondamentale di questo diritto assoluto, ora colto come relazione tra il titolare e la res (comunque di natura patrimoniale). L'esito di tale scelta interpretativa permette di ravvisare nella responsabilità aquiliana, extracontrattuale, l'azione prima a difesa della proprietà.
+La diversa tesi affermativa poggia sulla lettera del codice che, alla definizione di contratto quale "accordo fra due o più parti teso a costituire, regolare o estinguere un rapporto giuridico", include implicitamente la proprietà fra i diversi rapporti giuridici, possibili oggetti di una negoziazione.
+In più si sostiene sull'idea che: 1) l'azione di rivendica sia lo strumento per eccellenza a difesa del diritto di proprietà 2) la responsabilità del possessore soccombente risulta essere identica a quella prevista per il debitore inadempiente, una responsabilità di tipo contrattuale, che necessita, cioè, di un previo rapporto giuridico: il possessore soccombente risponde, infatti, per fatto proprio ovvero non risponde per caso fortuito o per forza maggiore, così anche il debitore inadempiente.
+
+La facoltà di godere della cosa
+È la facoltà di utilizzare o non utilizzare la cosa (cosiddetta "disposizione materiale") per trarne tutte o nessuna utilità. Tale facoltà contempla anche la possibilità di trasformare, e, al limite, di distruggere la cosa.
+Per le cose fruttifere implica il diritto di farsene propri i frutti, sia naturali sia civili.
+
+La facoltà di disporre delle cose
+La cosiddetta "disposizione giuridica" della cosa. Implica la facoltà di venderla o di non venderla, di donarla, lasciarla per testamento a Tizio o a Caio, di costituire sulla cosa diritti reali minori o diritti reali di garanzia. O, secondo una diversa lettura dottrinale, il potere di disposizione si sostanzierebbe nella sola possibilità di appropriarsi o meno del valore economico del bene, relegando, così, la mera facoltà di alienare tra i poteri di godimento.
+
+La pienezza del diritto di proprietà
+Il proprietario può fare della cosa tutto ciò che non sia espressamente vietato.
+Quando sulla cosa siano istituiti diritti reali minori, la proprietà cessa di essere piena per diventare nuda proprietà. Tuttavia resta potenzialmente piena; nel momento in cui il diritto reale minore si estingue, il contenuto del diritto di proprietà si espande e riacquista, automaticamente, tutta la sua pienezza (cd. elasticità della proprietà).
+
+L'esclusività del diritto di proprietà
+Il proprietario può escludere chiunque altro dal godimento e dalla disposizione della cosa (il diritto di proprietà rende legittima la pretesa del singolo di servirsi delle cose con esclusione degli altri).
+La pretesa del proprietario è protetta erga omnes, ovvero contro chiunque la violi (mediante norme del codice penale e con le azioni civili). Tale diritto si concreta nell'articolo 841 dove si dispone che il proprietario possa in qualsiasi momento chiudere il fondo.
+
+Limiti ed obblighi
+L'art. 832 introduce anche dei correttivi ai caratteri di pienezza ed esclusività del diritto di proprietà. Con essi l'ordinamento cerca il punto di equilibrio fra opposti interessi, fra quello del proprietario di godere e disporre della cosa a suo vantaggio e a suo piacimento e l'interesse della collettività ad un impiego della ricchezza che vada a vantaggio generale o quanto meno non arrechi pregiudizio alla collettività ed ai singoli.
+Il volto concreto che (al di là dell'art. 832) il diritto di proprietà assume è quello che risulta dalla estensione e dalla qualità dei limiti alla proprietà e degli obblighi al proprietario che la mutevole legislazione in materia introduce.
+
+I limiti alle facoltà di godere e disporre sono posti dal codice e soprattutto dalla legislazione speciale in rapporto alle diverse categorie di beni.
+Generale limite alla facoltà di godimento è quello, risalente al diritto romano, del divieto di atti di emulazione (art. 833). Il proprietario non può utilizzare la cosa per compiere atti che non abbiano altro scopo se non quello di nuocere o recare molestia agli altri.
+Più vasta possibilità di applicazione ha una norma ritenuta implicita nel sistema legislativo (e di cui l'art. 833 è una specificazione), che reprime ogni forma di abuso di diritto. Questo consiste nell'esercitare il diritto per realizzare interessi diversi da quelli in vista dei quali il diritto stesso è riconosciuto dall'ordinamento.
+
+Un altro limite è costituito da quella serie di norme, cosiddette regole di vicinato, poste nell'interesse privato (e, talvolta, anche pubblico) e caratterizzate dall'automaticità (i limiti nascono dalla situazione prevista dalla legge), dalla reciprocità (quel che vale per l'uno vale anche per l'altro, il sacrificio e il vantaggio sono reciproci) e la gratuità (non esiste uno squilibrio di vantaggi e quindi, di norma, non esiste alcuna forma di compenso). Un limite generale è quello del divieto di immissioni (esalazioni, fumi, ruomori e scuotimenti) per impedire le fastidiose conseguenze dell'attività del vicino.Il crieterio scelto è quello della normale tollerabilità. Toccherà al giudice contemperare, se del caso, le ragioni della proprietà con quelle della produzione tenendo conto dei due interessi in gioco in termini di utilità sociale generale.
+La seconda fonte di limiti di vicinato è data dalle norme sulle distanze minime nelle costruzioni (tre metri, secondo quanto previsto dall'articolo 873) al fine di evitare intercapedini troppo strette. Chi costruisce per primo può farlo anche sul confine (salvo i regolamenti comunali non dispongano altrimenti). L'altro proprietario potrà costruire in aderenza, oppure rispettare la distanza costruendo in posizione arretrata all'interno del proprio fondo.Se il primo proprietario costruisce non sul confine, ma ad una distanza dal confine minore della metà di quella prescritta dal codice o dai regolamenti, l'altro ha un diritto potestaivo di ottenre la comunione forzosa del muro (di cui dovrà pagare il valore)
+Il primo potrà impedire l'occupazione del suo suolo portando la sua costruzione al confine, o arretrandola fino alla metà della distanza prevista (art.875).
+
+Gli obblighi del proprietario sono anche essi relativi alle diverse categorie di beni. Per esempio, il proprietario del suolo deve consentire l'accesso al vicino (che costituisce una servitù) che abbia necessità di entrarvi per eseguire opere sul proprio fondo; il proprietario ha inoltre l'obbligo di pagare le imposte su quel determinato bene.
+
+Disciplina costituzionale e limitazioni
+Accanto, però, a questa amplissima prima definizione del diritto di proprietà, si stagliano anche delle profonde limitazioni.
+Da un lato lo stesso Codice Civile, limita l'esercizio del diritto di proprietà tramite il dettame della seconda parte dell'art 832 (che abbiamo sopra ricordato); difatti la norma stabilisce che, l'ordinamento giuridico, può limitare l'ampiezza e le modalità di esercizio del diritto.
+Allo stesso modo l'art 42 della nostra costituzione stabilisce (al secondo comma): "La proprietà privata è riconosciuta e garantita dalla legge, che ne determina i modi di acquisto, di godimento e i limiti allo scopo di assicurarne la funzione sociale e di renderla accessibile a tutti."
+La norma appena citata da un lato si accompagna al dettato codicistico riconoscendo e garantendo il diritto di proprietà, dall'altro si preoccupa di limitare grandemente la libertà di esercizio del diritto stesso.
+La costituzione stabilisce che è la legge a determinare i modi di acquisto e di godimento del diritto, sottraendo all'autonomia privata la facoltà di scegliere liberamente le modalità di acquisto e di godimento del diritto.
+
+I modi di acquisto della proprietà (come si vedrà in seguito) sono, quindi, tassativamente dettati dalla legge e non delegati all'autonomia negoziale. L'autonomia delle parti potrà (solamente) estrinsecarsi nella scelta fra le modalità che la legge prevede.
+
+La funzione sociale della proprietà
+Altro elemento introdotto dall'art. 42 costituzione è la c.d. funzione sociale del diritto di proprietà. L'art. 42, comma 2° Cost. enuncia il principio secondo cui la legge determina, della proprietà privata, "modi d'acquisto, di godimento e i limiti allo scopo di assicurarne la funzione sociale e di renderla accessibile a tutti".
+La "funzione sociale" della proprietà è la formula con la quale tutte le carte costituzionali a partire dalla Costituzione tedesca di Weimar del 1919 hanno ricercato un nuovo equilibrio tra interessi del singolo e bisogni della collettività.
+
+Si tenga conto che per funzione si intende un potere riconosciuto ad un soggetto per soddisfare un interesse altrui.
+
+La contraddizione apparente nella enunciata duplice natura della proprietà si può superare considerando che la funzione sociale da "assicurare" non va riferita alla proprietà privata come diritto sulle cose ma piuttosto alle cose oggetto di proprietà privata. La norma costituzionale esprime il bisogno di una destinazione per il vantaggio di tutti delle risorse e va riletta come riferentesi alla destinazione sociale della ricchezza. La funzione sociale si presenta così come un vincolo esterno al diritto di proprietà che lascia intatta la sua natura di diritto soggettivo, riconosciuto e garantito solo nell'interesse del proprietario.
+
+Le implicazioni che potenzialmente si possono trarre dalla funzione sociale della proprietà sono molteplici (anche se mancano significative esperienze giurisprudenziali), a cominciare dall'area del diritto del lavoro.
+È grazie a questa norma che (nel comma successivo) si prevede la facoltà di espropriazione della proprietà da parte dello Stato.
+Lo Stato avrà quindi la facoltà di spogliare il titolare del diritto di proprietà del diritto stesso (in cambio di un equo indennizzo), per realizzare (ad esempio) un'opera che vada a vantaggio della collettività, e realizzando così quella funzione sociale del diritto di proprietà espressa chiaramente dalla nostra costituzione.
+
+Caratteristiche del diritto di proprietà
+
+Sono caratteristiche del diritto di proprietà:
+
+*Realità: la proprietà rientra tra i diritti reali, caratterizzati dalla assolutezza, dalla immediatezza del rapporto sulle cose, e dalla inerenza.
+*Pienezza: il diritto di proprietà consente al titolare di un bene di servirsi della cosa e di disporre del suo diritto trasferendolo ad altri o creando diritti altrui sulla cosa.
+*Elasticità: il diritto di proprietà in talune circostanze può essere compresso, ma caratteristica di tale diritto è che al cessare della causa che ha compresso il diritto, esso si riespande automaticamente.
+*Imprescrittibilità: il diritto di proprietà non si estingue per non uso. Va tuttavia segnalato che nell'inerzia del titolare altri potranno acquistare la proprietà sul bene, ricorrendone le condizioni, attraverso l'istituto dell'usucapione.
+*Perpetuità: una proprietà ad tempus non ha senso. Quindi il diritto di proprietà non si estingue con il passare del tempo.
+
+L'acquisto della proprietà
+La proprietà si può acquistare solo nei modi previsti dalla legge.
+
+Modi di acquisto della proprietà
+L' del codice civile prevede alcuni modi di acquisto peculiari per il diritto di proprietà.
+
+È da sottolineare come l'art. 922 c.c. non rappresenti un numero chiuso dei modi di acquisto della proprietà, bensì un'elencazione generale che apre ad altre modalità di acquisto "previste dalla legge", tra le quali assume rilievo il possesso in buona fede, previsto dall'articolo 1153.
+
+Si suole dividere le tipologie di acquisto della proprietà in: acquisto a titolo originario ed in acquisto a titolo derivativo.
+
+L'acquisto a titolo originario
+Si ha acquisto a titolo originario quando il diritto di proprietà che si acquista sulla cosa è indipendente dal diritto di un precedente proprietario. Ciò succede quando la cosa non ha un precedente proprietario, ma anche quando il diritto del precedente proprietario è destinato a soccombere di fronte al diritto di chi acquista a titolo originario.
+Conseguenza dell'acquisto a titolo originario è che la proprietà si acquista libera da ogni diritto altrui che avesse gravato il precedente proprietario. L'acquisto a titolo originario estingue dunque i diritti reali e le garanzie reali in precedenza costituiti sulla cosa.
+
+Sono modi di acquisto a titolo originario:
+*invenzione
+*accessione
+*unione e commistione (ricomprese nella categoria dell'accessione di cosa mobile a cosa mobile)
+*specificazione
+*usucapione
+*occupazione di res nullius o derelicta
+*possesso in buona fede
+
+L'acquisto a titolo derivativo
+Si ha acquisto a titolo derivativo quando si acquista sulla cosa il diritto di proprietà già spettante ad un precedente proprietario.
+Ricorre quando la cosa è dal suo precedente proprietario ("dante causa") trasferita ad un nuovo proprietario ("avente causa"). L'acquisto, in questo caso, si sostanzia in un vero e proprio fenomeno successorio che, proprio per le sue caratteristiche, fa subentrare il nuovo proprietario nella medesima situazione di diritto del precedente.
+
+L'essenza dell'acquisto a titolo derivativo sta nel fatto che l'avente causa acquista la proprietà della cosa solo se e solo come il dante causa ne era proprietario. Questo perché, nessun titolare di diritto di proprietà può alienare un diritto superiore, per ampliezza o contenuto, a quello di cui è effettivamente proprietario. Vale l'antico brocardo di Ulpiano, secondo il quale nemo plus iuris ad alium transferre potest quam ipse habet (nessuno può trasferire ad altri più diritti di quanti detenga).
+
+La successione potrà essere:
+* mortis causa (ossia a causa di morte), in caso di decesso del precedente proprietario ed acquisto da parte dell'erede designato
+* inter vivos (ossia con atto fra vivi) in caso, ad esempio, di contratto di compravendita, di donazione, di permuta etc...
+
+L'acquisto da non proprietario mediante il possesso
+Un breve cenno merita il caso particolare dell'acquisto da non proprietario mediante il possesso, che si configura qualora il soggetto che trasferisce il diritto non sia in realtà il titolare.
+Nel caso in cui il soggetto non sia mai stato l'effettivo titolare del diritto di proprietà (è il caso dell'acquisto a non domino, avremo, se ne sussistono le condizioni, un acquisto a titolo originario, nel caso in cui il soggetto non sia più (ma lo sia stato) titolare del diritto di proprietà (come nel caso di doppia alienazione), avremo un acquisto, se ne sussistono le condizioni, a titolo derivativo.
+
+Le azioni a difesa della proprietà
+Le azioni che spettano al proprietario come tale per difendere il suo diritto contro altrui anche contro eventuali comproprietari che abusano della loro quota con turbative, si chiamano azioni petitorie e sono:
+* l'azione di rivendicazione;
+* l'azione negatoria;
+* l'azione di mero accertamento della proprietà;
+* l'azione di regolamento dei confini;
+* l'azione di apposizione dei termini.
+
+La proprietà fondiaria
+La proprietà fondiaria, ha per oggetto i beni immobili, infatti viene detta anche proprietà immobiliare e si distingue in:
+*proprietà rurale, relativa agli appezzamenti di terreno agricolo situati al di fuori delle città.
+*proprietà edilizia, cioè quella degli edifici urbani.
+
+Quando più persone condividono il diritto di proprietà su uno stesso bene, si parla di comunione o comproprietà.
+
+Proprietà e gestione
+La proprietà di un soggetto pubblico o privato può essere separata dalla sua gestione.
+
+Nelle società private questa separazione segna tipicamente il passaggio da una conduzione familiare e centralizzata dell'azienda ad una società diversificata per cliente, prodotto, e area geografica in cui opera. La crescita dimensionale così come i processi di internazionalizzazione comportano una maggiore complessità aziendale e di coordinamento.
+
+Una gestione distinta dalla proprietà consente di affidare la società a persone che hanno capacità e competenze per la nuova realtà aziendale, anche all'interno della stessa conduzione familiare. La separazione è anche di interesse per i proprietari che non desiderano impegnarsi nella conduzione dell'impresa, pur beneficiando dei suoi profitti.
+
+La separazione della proprietà o della gestione fra soggetti privati, è un problema che si pone anche quando società di uno stesso gruppo integrate verticalmente (es. il proprietario di una rete di trasporti, telecomunicazioni, etc. ed uno degli operatori di rete) detengono consistenti quote di un mercato. La limitazione degli sbocchi di mercato e della concorrenza recano danno alla pubblica utilità (o all'"interesse economico generale" nella disciplina europea), e la legislazione prevede tre tipi di separazione (di proprietà e/o gestione):
+
+1)Separazione organizzativa (funzionale o divisionale): vengono create due funzioni aziendali indipendenti con responsabili distinti e disciplina del conflitto di interesse di un responsabile nella funzioni che non sono di sua appartenenza;
+
+2)Separazione societaria: vengono create due società con bilanci e contabilità interne separate, duplicazione di strutture a tutti i livelli dell'organigramma fino al Consiglio di Amministrazione; il pacchetto di controllo e la proprietà restano agli stessi soggetti.
+
+3) Separazione patrimoniale: le due società devono avere una differente composizione azionaria, un diverso azionista di riferimento, limitazioni alle quote che una società può avere in entrambe, e vincoli per le partecipazioni incrociate fra le due società, in società collegate o controllate da entrambe.
+
+Bibliografia
+*Pasquale Fava, Paolo Giuliano, Francesco Sorano, La tutela della proprietà e degli altri diritti reali, Ed Maggioli, 2006
+*Bianca, La proprietà, Milano, Giuffré, 2004
+* A.G. Diana, La proprietà immobiliare, Giuffrè, Milano, 2004
+*Gazzoni, Manuale di diritto privato, Napoli, 2004
+*Pugliatti, La proprietà nel nuovo diritto, Milano, 1964
+*Paolo Zatti, Vittorio Colussi Lineamenti di Diritto Privato, Cedam, 2005.
+*Vittorio Scialoja, Teoria della proprietà nel diritto romano, Roma, 1933
+Esterno
+* T.Veblen: L'origine della proprietà (1898)
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 11:57:56 from:
+  http://it.wikipedia.org/wiki/Proprietà_(diritto)
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

@@ -1,0 +1,238 @@
+In informatica, con il termine algoritmo si intende un metodo per la soluzione di un problema adatto a essere implementato sotto forma di programma.
+
+Definizione
+Intuitivamente, un algoritmo si può definire come un procedimento che consente di ottenere un risultato atteso eseguendo, in un determinato ordine, un insieme di passi semplici corrispondenti ad azioni scelte solitamente da un insieme finito. Il termine deriva dal nome del matematico persiano Muhammad ibn Mūsa 'l-Khwārizmī, che si ritiene essere uno dei primi autori ad aver fatto riferimento esplicitamente a questo concetto, nel libro Kitāb al-djabr wa 'l-muqābala (Libro sulla ricomposizione e sulla riduzione), dal quale tra l'altro prende anche le origini la parola algebra. Tuttavia gli algoritmi erano presenti anche nelle antiche tradizioni matematiche, ad esempio la matematica babilonese, quella cinese o del Kerala trasmettevano le conoscenze in forma algoritmica.
+
+Nel senso più ampio della parola, "algoritmo" è anche una ricetta di cucina, o la sezione del libretto delle istruzioni di una lavatrice che spiega come programmare un lavaggio. Di norma, comunque, la parola viene usata in contesti matematici (fin dalle origini) e soprattutto informatici (più recentemente). Un esempio più appropriato di algoritmo potrebbe essere, quindi, il procedimento per il calcolo del massimo comune divisore o del minimo comune multiplo.
+
+Da questa definizione si evincono le quattro proprietà fondamentali dell'algoritmo:
+*la sequenza di istruzioni deve essere finita (finitezza);
+*essa deve portare ad un risultato (effettività);
+*le istruzioni devono essere eseguibili materialmente (realizzabilità);
+*le istruzioni devono essere espresse in modo non ambiguo (non ambiguità).
+
+Affermando che i passi costituenti di un algoritmo debbano essere "semplici", si intende soprattutto che essi siano specificati in modo non ambiguo, ovvero immediatamente evidenti a chi sarà chiamato ad applicare l'algoritmo, cioè il suo esecutore. Così, "rompete le uova" può essere un passo legittimo di un "algoritmo di cucina", e potrebbe esserlo anche "aggiungete sale quanto basta" se possiamo assumere che l'esecutore sia in grado di risolvere da solo l'ambiguità di questa frase. Al contrario, un passo come "preparate un pentolino di crema pasticciera" non può probabilmente considerarsi "semplice"; potrebbe però essere associato a un opportuno rimando a un'altra sezione del ricettario, che fornisca un algoritmo apposito per questa specifica operazione. Infine, una ricetta che preveda la cottura a microonde non può essere preparata da chi è sprovvisto dell'apposito elettrodomestico.
+
+Approccio matematico
+Esistono numerosi modelli matematici di algoritmo. In generale, un algoritmo riceve un insieme di valori (dati) in input e ne genera uno in output (chiamato soluzione). Dato dunque un algoritmo A si denota con fA la funzione che associa a ogni ingresso x di A la corrispondente uscita fa(x).
+
+Questa corrispondenza tra input e output rappresenta il problema risolto dall'algoritmo. Formalmente un problema è una funzione f (D_i) \to D_s definita su insieme Di di elementi che chiameremo istanze, a valori su un insieme Ds di soluzioni.
+
+L'esecuzione di un algoritmo su un dato input richiede il consumo di una certa quantità di risorse; queste possono essere rappresentate dal tempo di computazione impiegato e dallo spazio di memoria utilizzato. È importante saper valutare la quantità di risorse consumate proprio perché un consumo eccessivo può pregiudicare le stesse possibilità di utilizzo di un algoritmo.
+
+Lo studio di un algoritmo viene suddiviso in tre fasi:
+# sintesi (detta anche disegno o progetto): dato un problema f, costruire un algoritmo A per risolvere f, cioè tale che f=fa.
+# analisi : dato un algoritmo A ed un problema f, dimostrare che A risolve f, cioè f=fa (correttezza) e valutare la quantità di risorse usate da A (complessità concreta).
+# classificazione (o complessità strutturale): data una quantità T di risorse, individuare la classe di problemi risolubili da algoritmi che usano al più tale quantità.
+
+Algoritmi e problemi
+Il concetto di algoritmo ha una grande rilevanza in matematica e in informatica, in cui esso viene generalmente descritto come "procedimento di risoluzione di un problema". In questo contesto, i "problemi" che si considerano sono quasi sempre caratterizzati da dati di ingresso variabili. Per esempio, il calcolo del massimo comune divisore fra due numeri è un esempio di "problema", e i suoi dati di ingresso, variabili di volta in volta, sono i due numeri in questione. A un non matematico questa potrebbe apparire come una "famiglia di problemi" (il problema di calcolare il massimo comune divisore fra 10 e 15, il problema di calcolarlo fra 40 e 60, fra 35 e 95, e così via). Il matematico e l'informatico identificano con la parola "problema" l'intera famiglia e con "istanza" o "caso particolare" ciascuno dei quesiti specifici ottenuti fissando due particolari valori.
+
+Data questa premessa, un algoritmo risolve un problema se è costituito da una sequenza finita di passi che, applicata indifferentemente a qualunque istanza del problema, produce in un tempo finito la soluzione desiderata.
+
+Se questa idea aveva una certa importanza per il calcolo matematico, l'avvento dell'informatica l'ha arricchita di una nuova importanza (ed è infatti con l'informatica che il termine "algoritmo" ha iniziato a diffondersi). Infatti, se per ottenere un certo risultato (risolvere un certo problema) esiste un procedimento infallibile, che può essere descritto in modo non ambiguo fino ai dettagli, e conduce sempre all'obiettivo desiderato in un tempo finito, allora esistono le condizioni per affidare questo compito a un computer, semplicemente descrivendo l'algoritmo in questione in un programma scritto in un opportuno linguaggio comprensibile alla macchina.
+
+La complessità di un algoritmo si misura asintoticamente. Vi sono tre metodi per calcolare la complessità di un algoritmo:
+*metodo di sostituzione
+*metodo dell'albero di ricorsione
+*metodo dell'esperto
+Si definisce asintotica per due motivi:
+*poiché ogni calcolatore può implementare algoritmi in modo differente, non si può stimare il tempo preciso
+*si vuole dare un'idea quantitativa di come l'algoritmo possa crescere in consumo di tempo all'aumentare dell'input, per valori sempre maggiori.
+
+Formalizzazione di un problema
+Ad ogni problema \Pi si ha che:
+f \pi: D \pi \rightarrow S \pi
+dove D \pi sono le istanze del problema e  S \pi  sono le soluzioni e \forall x \in D \pi:f \pi (x)  sia una soluzione al problema per l'istanza x.
+
+Ad esempio il problema delle primalità, ossia il problema di trovare se un numero è primo o meno, si può definire formalmente come segue:
+
+f \mathrm: \mathbb \rightarrow
+
+f \mathrm (11) = 1
+
+f \mathrm (121) = 0
+
+Ad ogni algoritmo ALG si associa una funzione parziale:
+
+\phi \mathrm : \mathrm \rightarrow \mathrm
+
+dove \mathrm  è l'insieme degli input e \mathrm è l'insieme degli output.
+
+ALG risolve il problema \pi se e solo se:
+
+\mathrm = D \pi
+
+\mathrm = S \pi
+
+\forall x \in D \Pi: f \pi (x) = \phi \mathrm(x)
+
+Un algoritmo che risolve un problema si dice corretto.
+
+Calcolabilità algoritmica
+Non tutti i problemi, sia pur matematicamente definiti, sono esprimibili in forma di algoritmi ovvero, come si suol dire, sono 'algoritmicamente calcolabili': la Teoria della Calcolabilità Algoritmica studia a livello teorico quali problemi sono risolvibili in maniera algoritmica e quali no. I problemi algoritmicamente calcolabili sono quindi un sottoinsieme di tutti i problemi matematicamente definiti.
+
+Studio della complessità di un algoritmo
+
+Un'ampia porzione della teoria degli algoritmi è lo studio della complessità, computazionale e spaziale. Vogliamo cioè sapere, al crescere della complessità del problema, in che modo cresce il tempo necessario a eseguire l'algoritmo e lo spazio di memoria occupato in un calcolatore.
+
+Presa una funzione associata ad un algoritmo del tipo:
+
+\phi ALG: \mathrm \rightarrow \mathrm
+
+si può definire la funzione peso come
+
+\mathrm: \mathrm \rightarrow \mathbb
+
+che esprime la dimensione dei dati in ingresso, ossia il numero di bit che servono per codificare i dati in input all'algoritmo. Ad esempio su un vettore la lunghezza e sulle matrici il numero dell'ordine.
+
+La complessità di un algoritmo si definisce come:
+
+\mathrm: \mathbb \rightarrow \mathbb che indica per ogni valore interno n (ossia la dimensione del problema) la quantità di tempo e/o spazio impiegata dall'algoritmo per elaborare dati di dimensione n. Un algoritmo può comportarsi in modo sensibilmente differente anche per istanze che abbiamo ugual dimensione (ossia lo stesso peso).
+
+Si dimostra che la complessità di un algoritmo è una funzione strettamente crescente, per quale vale \lim_ T(x)=\infty
+
+Infatti è banale dimostrare che S_a (x) tende all'infinito al crescere di x (cioè del numero di dati da elaborare), perché essa è minorata da x (è un o(x)) in quanto il numero minimo di spazi di memoria per memorizzare un insieme di dati è la loro cardinalità. Si noti che per le matrici sparse si deve considerare come numero di dati gli elementi non nulli.
+
+Due misure per sistemi di calcolo sequenziali sono i valori T_a (x) e S_a (x) che rappresentano rispettivamente il tempo e lo spazio di memoria richiesti da un algoritmo a su input x \in X. Per la sopra citata proprietà il dominio X deve dunque coincidere con l'insieme \mathbb. Possiamo pertanto considerare T_a (n) e S_a (n) come funzioni intere positive che rappresentano il numero di operazioni (non il tempo di esecuzione effettivo) elementari eseguite e dal numero di celle di memoria utilizzate durante l'esecuzione di a sull'istante x.
+
+Descrivere le funzioni T_a (n) e S_a (n) può essere molto complicato poiché la variabile n assume valori sull'insieme di tutti gli input. Una soluzione che fornisce buone informazioni su T_a (n) e S_a (n) consiste nell'introdurre il concetto di dimensione di un'istanza, raggruppando in tal modo gli input che hanno la stessa dimensione: la funzione dimensione associa ad ogni ingresso un numero naturale che rappresenta intuitivamente la quantità di informazione contenuta nel dato considerato. Per esempio la dimensione naturale di un intero positivo k è + log_2, cioè il numero di cifre necessario per rappresentare k in notazione binaria. Analogamente la dimensione di un vettore di elementi è solitamente costituita dal numero delle sue componenti, mentre la dimensione di un grafo è data congiuntamente dal numero dei suoi nodi e dei suoi archi. La dimensione di n si denota con |n|.
+
+Dato un algoritmo a su un insieme di input I, può accadere che due istanze i, i' di ugual dimensione cioè |i|. = |i'|. diano luogo tempi diversi di esecuzione per uno stesso algoritmo. Si parla dunque di complessità dell'input e se ne distinguono tre casi:
+
+# complessità in caso peggiore
+# complessità in caso medio
+# complessità in caso migliore
+
+Il caso peggiore è quello che di fatto viene considerato per la formulazione della complessità di un algoritmo. Il caso migliore è tipicamente O(1), cioè trovare la soluzione al primo passo o occupare una sola cella di memoria.
+
+Il caso medio permette di studiare l'algoritmo in base alla frequenza di verificarsi di alcune istanze (nel caso che le istanze siano equiprobabili).
+
+\mathrm = \sum_ p_i c_i
+dove p_i è la probabilità di accadere di un'istanza e c_i è la quantità di risorse impiegate per elaborare l'istanza i.
+
+In un algoritmo di ricerca lineare, se l'elemento cercato è il primo della lista ci troviamo nel caso migliore, T_(n)=1. Il caso medio è solitamente calcolato come limite della media aritmetica tra caso peggiore e migliore: nel caso della ricerca lineare il caso medio del è T_(n)=n/2. Nel caso peggiore l'elemento cercato è l'ultimo della lista: in questo caso T_(n)=n, ossia sono richiesti tutti gli n passi per trovare la soluzione.
+Complessità e stabilità
+Controparte della complessità di un algoritmo, è la sua stabilità numerica: essa stabilisce quanto un algoritmo è "resistente" a degli insiemi di dati particolari. Ovviamente il discorso è generalmente correlato all'analisi numerica, e alle implementazioni di algoritmi su macchine specifiche, tuttavia potrebbero darsi algoritmi prettamente matematici che per alcuni dati forniscono risultati indeterminati, tipo 0 \over 0, mentre altri algoritmi equivalenti con gli stessi dati arrivano comunque a dare risposte: i primi sono meno stabili dei secondi. Un esempio sono i limiti calcolati col metodo canonico, oppure col metodo di De l'Hôpital.
+
+Esempio: studio della complessità di risoluzione dei sistemi lineari
+
+Vogliamo trovare un algoritmo efficiente per risolvere un sistema lineare di n equazioni in n incognite (anche 100, 1000...). Dobbiamo cioè valutare, tra tutti gli algoritmi risolutivi disponibili, quello che impiega meno tempo e consuma meno spazio degli altri. L'Algebra ci offre due importanti metodi risolutivi di enorme interesse ai fini dello studio della complessità degli algoritmi.
+
+;NOTA: negli esempi si tiene conto che il sistema sia univocamente determinato. In sede di approfondimento è possibile conoscere quali sono le condizioni affinché gli algoritmi che stiamo per esporre sono applicabili
+
+La Regola di Cramer permette la risoluzione di un sistema lineare nel modo più semplice grazie ad una singola definizione:
+:x_i =
+dove A_i è la matrice formata sostituendo la iesima colonna di A con il vettore delle incognite.
+Il determinante della matrice può essere calcolato a priori, dunque serve solo il calcolo di n+1 determinanti per risolvere il sistema.
+
+Sfortunatamente, il calcolo del determinante non è un'operazione semplice. Può essere infatti calcolato ricorsivamente come ad esempio con lo sviluppo di Laplace, ovvero:
+:\det(A_k) = \sum_^n(-1)^ a_ \det(A_)
+Dove a_ è l'elemento di coordinate i,k e A_ è il minore ottenuto sopprimendo la i-esima riga e la k-esima colonna.
+
+La complessità dell'algoritmo per il calcolo del determinante è O(n!), perché per ogni determinante di ordine m si devono calcolare m determinanti di ordine m-1. Tale algoritmo, per n prossimo alla decina, richiedono anni per essere risolti su di un mainframe, e il tempo richiesto per la risoluzione si moltiplica ad ogni incremento dell'ordine di un sistema.
+
+L'algoritmo di Gauss si basa su due importanti principi.
+
+Il primo è che due sistemi lineari
+:\operatorname A \operatorname x = \operatorname b e \operatorname U \operatorname x = \operatorname c
+sono uguali se \operatorname U si ottiene sostituendo le righe e le colonne di \operatorname A con loro combinazioni lineari e gli elementi di \operatorname c sono combinazioni lineari degli elementi di \operatorname b in base ai coefficienti di \operatorname U.
+
+Il secondo è che per risolvere un sistema triangolare (dove cioè la matrice dei coefficienti gode della proprietà di triangolarità) è sufficiente utilizzare l'algoritmo di sostituzione in avanti o all'indietro (la complessità computazionale è O(n)).
+
+Si dimostra che per trasformare il sistema in triangolare occorre un algoritmo la cui complessità è O(). Applicando a questo sistema l'algoritmo di sostituzione diretta si trovano le soluzioni esatte del sistema, e si dimostra che la complessità totale dell'algoritmo di Gauss è O().
+
+Per quanto riguarda la complessità spaziale:
+*l'algoritmo basato sulla regola di Cramer richiede soltanto una variabile aggiuntiva, dove memorizzare il determinante della matrice dei coefficienti, dunque la sua complessità è minima: O(n^2)
+*l'algoritmo di Gauss permette di sovrascrivere, ad ogni passo, la matrice dei coefficienti, pertanto la complessità spaziale è sempre minima: O(n^2)
+
+Pertanto l'algoritmo risolutivo di un sistema lineare è decisamente l'algoritmo di Gauss.
+
+Strutture dati
+
+La maggior parte degli algoritmi coinvolge metodi sofisticati per l'organizzazione dei dati utilizzati nelle elaborazioni. Gli oggetti creati con questi metodi vengono chiamati strutture dati. Algoritmi semplici possono richiedere strutture dati complesse e viceversa.
+
+Inoltre molte tipologie di algoritmi sono nate per la gestione di strutture dati complesse e per agevolarne la gestione.
+
+Esempi di strutture dati sono gli Array, le liste, le code, le pile, gli alberi e i grafi.
+
+Modelli formali
+
+La definizione di algoritmo riportata sopra è, evidentemente, piuttosto informale. Allo scopo di trattare il concetto di algoritmo con strumenti matematici, era necessario darne una definizione più rigorosa. Questo obiettivo è stato realizzato inventando una serie di modelli matematici di algoritmo. Uno dei più celebri è la macchina di Turing. Essa rappresenta una sorta di computer ideale corredato di un programma da eseguire. Rispetto a un computer ideale, la macchina di Turing ha un funzionamento più semplice, con il vantaggio però che il suo funzionamento è facilmente descrivibile in termini matematici, facendo uso di concetti come insieme, relazione e funzione. Inoltre, è stato dimostrato che la macchina di Turing è tanto potente quanto la macchina di von Neumann, che è il modello sottostante a tutti i computer reali. In altre parole, se un certo problema può essere risolto da un computer (opportunamente programmato), esso può certamente essere risolto anche da una macchina di Turing.
+
+Dopo la macchina di Turing, proposta da Alan Turing nel 1936, altri matematici hanno elaborato rappresentazioni formali del concetto di algoritmo, fra i quali ricordiamo, per esempio, il lambda calcolo. Dopo alcuni anni, emerse che tutti questi modelli erano equivalenti. I problemi che una macchina di Turing poteva risolvere erano gli stessi che poteva risolvere una macchina di von Neumann e anche gli stessi che poteva risolvere una funzione costruita col lambda calcolo. Da questi risultati, tra l'altro, scaturì la tesi di Church-Turing, che afferma che qualsiasi algoritmo è modellabile con una macchina di Turing. In altri termini, questa tesi sostiene che è sostanzialmente impossibile cercare di immaginare un modello di algoritmo più potente e anche, come corollario, che nessuna macchina potrà mai risolvere problemi che una macchina di Turing non possa risolvere in linea di principio. Ovviamente, non si tratta di un teorema, in quanto la tesi stabilisce l'eguaglianza di due concetti (algoritmo e macchina di Turing) di cui solo il secondo ha una definizione formale. La tesi è ancora oggi generalmente condivisa, sebbene nuove ricerche nel settore dell'ipercomputazione sembrino volte a metterla in discussione.
+
+Catalogazione degli algoritmi
+Gli algoritmi vengono raggruppati e catalogati a seconda della loro funzione o delle tecniche utilizzate per realizzarli.
+
+In informatica è possibile catalogare gli algoritmi in:
+
+* Algoritmi di ordinamento
+* Algoritmi di ricerca
+**Ricerca sequenziale
+***Ricerca sequenziale con sentinella
+**Ricerca binaria
+* Genetici o evolutivi
+* Ricorsivi
+* Algoritmo combinatorio
+* Codice automodificante
+* Conversione e codifica
+** UUencode/UUdecode
+** Mime
+* Algoritmi di compressione
+**Senza perdita di informazioni:
+*** Run-length encoding
+**** PackBits
+**** PCX
+***Codifica a riduzione locale di Entropia
+**** Huffman
+**** Codifica aritmetica
+*** Codifica a dizionario
+**** DEFLATE
+**** LZ77 e LZ78
+**** Lempel-Ziv-Welch (ZIP)
+**** LZMA
+*** Trasformata di Burrows-Wheeler
+*** PPM
+** Con perdita di informazione
+*** Trasformata discreta del coseno (DCT)
+**** MPEG (Primo metodo di compressione ad alta diffusione basato su DCT e Delta)
+**** JPEG (Compressione d'immagini basato su quantizzazione, DCT e Huffman)
+*** Compressione frattale
+**** Trasformazione frattale
+*** Wavelet
+**** MP3 (compressione audio basata su compressione simil-wavelet e DCT)
+**** JPEG2000 (compressione d'immagini che usa wavelet, Huffman e quantizzazione)
+
+Molte categorie di algoritmi sono strettamente legate all'organizzazione dei dati in memoria (strutture dati).
+
+Altri algoritmi
+*Algoritmi quantistici, che implementati su di un computer quantistico darebbero prestazioni superiori ai classici
+*Algoritmo apriori
+*Algoritmo di Berger
+*Algoritmo di Sturm
+
+Bibliografia
+* Robert Sedgewick, Algoritmi in C++, Addison-Wesley, ISBN 88-7192-153-4
+* Robert Sedgewick, Philippe Flajolet (1996): An Introduction to the Analysis of Algorithms, Addison-Wesley, ISBN 0-201-40009-X
+* Alessandra D'Alessio, Lezioni di Calcolo Numerico e Matlab, Liguori Editore, ISBN 88-207-3459-1
+* Fabrizio Luccio, La struttura degli Algoritmi, Boringhieri, ISBN 88-339-5265-7
+* Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Introduzione agli algoritmi
+
+Voci correlate
+* Algoritmo quantistico
+* Diagramma a blocchi
+* Informatica
+*Problema della connettività
+
+Altri progetti
+
+Collegamenti esterni
+* Dizionario Informatico Francobollo di Al Khwarizmi.
+* Mis algoritmos Procedure di base in parecchi linguaggi di programmazione.
+* Dizionario degli algoritmi e delle strutture dati
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 13:02:29 from:
+  http://it.wikipedia.org/wiki/Algoritmo
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

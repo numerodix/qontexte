@@ -1,0 +1,266 @@
+Con il nome di fisica classica si raggruppano tutti gli ambiti e i settori della fisica che non fanno uso né della relatività generale, né di teorie quantistiche. Per tale motivo è possibile classificare come fisica classica tutte le teorie prodotte prima del 1900, l'anno in cui Max Planck pubblicò i primi lavori basati sull'ipotesi dei quanti. Alcune teorie successive, come la relatività ristretta, possono essere considerate classiche o moderne. Sono quindi comprese le teorie sulla meccanica, inclusa l'acustica, sulla termodinamica, sull'elettromagnetismo, inclusa l'ottica, e la gravità newtoniana.
+
+La fisica classica ricomprende teorie che avevano avuto la loro origine già prima della nascita del metodo scientifico, anche se fu solo dopo la codifica di quest'ultimo, attribuita a Galileo Galilei, che si ebbe la maggior parte delle scoperte. Già prima delle scoperte galileiane, infatti, e fin dall'inizio delle prime civiltà, l'uomo aveva iniziato a indagare la natura, seppur utilizzando metodi non necessariamente basati sul confronto diretto con l'esperienza e, per questo, più speculativi.
+
+A seguito dei lavori dello scienziato pisano, si aprì una fase di indagine approfondita, che si sviluppò a partire dai problemi meccanici, con particolare attenzione verso la meccanica celeste, attraversata dal confronto fra la teoria geocentrica e quella eliocentrica. La curiosità della comunità scientifica si estese poi ai fenomeni elettrostatici e magnetici, con la formulazione del concetto di carica elettrica, termodinamici e infine elettrodinamici. Non bisogna dimenticare, nel definire la storia dello sviluppo di questa particolare branca della fisica, che i suoi molti settori attuali si sono evoluti parallelamente nel corso del tempo e hanno subito più volte scissioni e ricombinazioni fino ad assestarsi con le suddivisioni oggi comunemente accettate. Ad esempio l'attuale elettromagnetismo classico è frutto dell'unificazione di elettricità, magnetismo e ottica, operata grazie alla sintesi matematica che ne fece James Clerk Maxwell.
+
+Fu proprio grazie agli studi di Maxwell che si posero le basi perché la fisica classica entrasse in crisi. Lo studio della forma dello spettro di corpo nero, l'impossibilità di spiegare termodinamicamente il comportamento del calore specifico a bassissime temperature, la scoperta di fenomeni come l'effetto fotoelettrico, e perfino la formulazione stessa delle equazioni di Maxwell generavano una serie di contraddizioni che in breve tempo mise in crisi il complesso apparato della fisica classica, e portò alla formulazione della relatività speciale prima e della meccanica quantistica successivamente.
+
+Infine è necessario ricordare che fu solo grazie al progressivo sviluppo della matematica che fu possibile l'evoluzione di nuove teorie fisiche che necessitavano di nuovi strumenti, come il calcolo differenziale, per poter essere studiate. Infatti la storia della fisica classica è intrecciata con quella della matematica, da cui attinse e al cui impulso contribuì non poco, per lo meno a partire da quando i fisici accettarono come conveniente il servirsi di formule matematiche per sintetizzare le proprie teorie.
+
+Storia della fisica classica
+
+La storia della fisica classica coincide con la storia della fisica fino all'inizio del XX secolo, e si intreccia con la storia di tutte le altre scienze. La nascita della fisica classica non è databile, in quanto i primi elementi di questa scienza compaiono già nell'antichità, ancora prima della nascita del pensiero filosofico greco. Infatti, nell'ambito delle osservazioni astronomiche, alcune popolazioni presenti nella mezzaluna fertile e nell'Europa preistorica avevano condotto le prime osservazioni sull'orbita dei pianeti del sistema solare, del sole e della luna, sviluppando anche strumenti in grado di calcolare gli eventi astronomici significativi del futuro, come le eclissi solari. L'insieme di queste conoscenze può essere a ragione considerato una versione primordiale di alcune delle conoscenze della meccanica celeste.
+
+In epoca successiva, nella Grecia antica e nel mondo ellenistico e romano, si svilupparono i primi rudimenti dell'idrostatica e dell'idrodinamica, con le loro applicazioni idrauliche; si ebbe un interesse per la termologia, con la costruzione delle prime macchine termodinamiche; iniziarono i primi studi di ottica geometrica, meccanica e le prime speculazioni sull'esistenza dell'atomo. Nell'ambito della meccanica celeste fu poi sviluppato il sistema tolemaico che, sfruttando la geometria euclidea, permise di calcolare le orbite del moto dei pianeti. La scienza classica era per natura speculativa e intrecciata alle teorie filosofiche dell'epoca. Proprio il sistema geocentrico di Tolomeo ci fornisce una prova di questa asserzione, considerato il fatto che l'utilizzo, ad esempio, dei solidi regolari e della sfera in particolare veniva considerato ovvio, essendo questi solidi perfetti come perfetto era considerato il cielo.
+
+Nel periodo medioevale vi fu un lungo arresto del processo tumultuoso di sviluppo avvenuto durante i secoli della storia classica, almeno in Europa. Tuttavia, in questo periodo fu grande il contributo scientifico che seppero dare i matematici, gli astronomi e gli ingegneri del califfato, grazie al periodo di relativo benessere e all'apertura delle rotte commerciali con le popolazioni dell'estremo oriente. Si ebbe l'adozione del sistema posizionale per la rappresentazione dei numeri e la sostituzione del complesso sistema numerico romano con quello basato sulle cifre arabe avvenne anche in Europa. Nel frattempo venivano fondate le prime università e nel continente si affermava il principio dell'autorictas, per cui le affermazioni fatte dai filosofi greci, come da Aristotele in campo fisico, venivano assunte come vere solo basandosi sul prestigio dell'autore
+Nel " Dialogo sui massimi sistemi" Simplicio, strenuo difensore della dottrina aristotelica, afferma:
+
+Salviati, sostenitore del metodo scientifico, risponde:
+
+.
+
+Fu solo dopo la nascita del metodo scientifico, per opera di Galileo Galilei nell'Europa rinascimentale, e con la comprensione che la scienza debba confrontarsi con l'esperimento che iniziò lo sviluppo della scienza per come la conosciamo oggi, e la progressiva ramificazione delle conoscenze in settori diversi, mano a mano che la mole di dati e fenomeni studiati aumentava. Dopo i lavori di Galilei in ambito meccanico, astronomico e ottico, la deduzione delle tre leggi di Keplero, lo sviluppo della meccanica e delle sue applicazioni, l'introduzione del formalismo matematico come linguaggio di lavoro comune per i fisici, e soprattutto grazie all'opera di Isaac Newton, si realizzò una sistematizzazione del sapere scientifico nei Philosophiae Naturalis Principia Mathematica. Sempre allo stesso autore dobbiamo, oltre ai principi della dinamica, la scoperta, assieme a Leibniz, e l'applicazione alla fisica del calcolo infinitesimale e del calcolo integrale.
+
+La legge della gravitazione universale dedotta dallo scienziato inglese ha rappresentato uno dei capisaldi della fisica classica: qualsiasi fenomeno astronomico riscontrato fino al XIX secolo poteva essere spiegato da questa teoria. A Newton si deve anche la riduzione della teoria dell'ottica (ambito in cui nel frattempo si era scoperta la diffrazione) all'azione della gravità su ipotetiche particelle - i fotoni - di cui si pensava fosse composta la luce, e la creazione della cosiddetta teoria particellare della luce, in contrapposizione alla teoria ondulatoria proposta da Christiaan Huygens.
+
+Successivamente si sviluppò anche la teoria della termologia, e in particolare la termodinamica, che ricevette grande impulso dalle esigenze della rivoluzione industriale. L'esperimento cruciale per questa disciplina è stata la dimostrazione realizzata nel 1798 da Benjamin Thompson che il lavoro meccanico può essere convertito in calore, che all'epoca era considerato una sostanza detta calorico. Fu poi Joule a dimostrare l'equivalenza fra lavoro e calore, mentre Sadi Carnot sviluppò le teorie sulle macchine termodinamiche. L'intero apparato della teoria venne quindi ricondotto a concetti meccanici grazie alla prova della corrispondenza fra termodinamica e meccanica statistica.
+
+Nel XIX secolo, alcune irregolarità nel moto di Urano furono spiegate prevedendo l'esistenza di un altro pianeta di grosse dimensioni, Nettuno. Anche la precessione del perielio dell'orbita di Mercurio si discostava da quanto predetto dalla gravitazione, ma a questo problema non fu trovata soluzione.
+
+Fino ad allora, come si vede, tutte le scienze erano state ricondotte ad avere sostanzialmente una base meccanica, tanto che questa era ormai considerata la base di qualsiasi tipo di esperienza fisica, e aveva dato origine a una corrente di pensiero chiamata meccanicismo, che ne postulava l'applicabilità in ogni ambito. Scrive Einstein a questo proposito:
+
+Tuttavia, sempre a partire dal XIX secolo iniziarono gli studi sperimentali sui fenomeni elettrici e magnetici, che proseguirono di pari passo con la creazione di accumulatori come le bottiglie di Leida, risalenti al 1746, e generatori come la pila di Volta, sviluppata intorno al 1800. Con l'esperimento di Ørsted (1820) si scoprì che correnti elettriche generano campi magnetici, e successivamente il teorema di equivalenza di Ampère stabilì che un dipolo magnetico è equivalente a una spira percorsa da corrente elettrica, e ciò si può interpretare asserendo che il campo magnetico viene generato da correnti elettriche. Sin dall'esperimento di Ørsted si sapeva che elettricità e magnetismo erano correlati, ma non se conoscevano i meccanismi; nel 1873 J. C. Maxwell sintetizzò in 20 equazioni che portano il suo nome - poi ridotte a 4 da H. A. Lorentz - le leggi dell'elettrodinamica, creando una teoria unitaria dell'elettricità e del magnetismo.
+
+La comunità fisica cercò di ridurre in ogni modo anche l'elettromagnetismo alla meccanica, ma fallì miseramente. Fu sviluppata appositamente una teoria che faceva ricorso a una sostanza inventata ad hoc, chiamata etere, per tentare di descrivere la propagazione della luce come fenomeno meccanico. Sempre Einstein scrive:
+
+Fu proprio la teoria dell'elettromagnetismo a determinare la fine del meccanicismo prima e della fisica classica in seguito. Per tentare di rendere compatibili le famose equazioni con le leggi della meccanica furono introdotte le trasformazioni di Lorentz. Ma in breve tempo ci si accorse che la meccanica andava modificata nelle sue basi più intime e di principio, ovvero nei concetti di spazio e tempo. Così facendo Albert Einstein fece nascere la relatività ristretta che è l'ultima teoria che si ascrive in quest'ambito.
+
+Fra i problemi irrisolvibili dalla fisica classica, oltre alla citata precessione di Mercurio, vi erano poi la necessità di trovare spiegazione all'effetto fotoelettrico, ovvero la capacità della luce di indurre una corrente in un conduttore, o la forma dello spettro di corpo nero, ovvero la forma che assume l'intensità della radiazione emessa da un corpo nero in funzione dell'energia. Fu solo grazie rispettivamente alla teoria della relatività generale e alla nascita della meccanica quantistica, le cui basi erano già state poste nel 1900, che questi fenomeni trovarono una spiegazione fisica. Iniziò così quella che viene definita la fisica moderna.
+
+Concetti della fisica classica
+La fisica classica è sostenuta da due principi che ne costituiscono le assunzioni di base e non furono mai messi in discussione fino a quando evidenze sperimentali determinarono il suo superamento come teoria capace di spiegare qualsiasi fenomeno naturale. In particolare questi principi erano tacitamente accettati e condivisi dalla comunità scientifica come presupposti della scienza stessa, e non erano quindi oggetto di indagine scientifica. Entrambi i concetti rivestirono un ruolo cardine prima nel guidare lo sviluppo e in seguito nel determinare la caduta delle teorie che vi si basavano, nel momento in cui comparvero teorie che li ricondussero nell'ambito dei fenomeni indagabili scientificamente e contemporaneamente li falsificarono. Il primo di questi principi, e senz'altro quello di origine più remota, avendo anche implicazioni teologiche, è quello che vedeva lo spazio e il tempo come entità assolute, perpetue, inalterabili e insensibili alle leggi fisiche del mondo. Il secondo è un principio che si sviluppò man mano che progrediva la conoscenza della meccanica e che postulava il rigoroso determinismo del nostro universo. Secondo questa concezione, se l'universo fosse stato regolato da leggi meccaniche, poiché ognuna di queste è invariante rispetto all'inversione del tempo, allora avendo il controllo completo di tutte le variabili meccaniche di tutte le particelle dell'universo si sarebbe potuto predire la sua evoluzione futura senza alcun limite temporale.
+
+Spazio e tempo assoluti
+
+Nella fisica classica sia lo spazio che il tempo erano considerati come enti la cui esistenza era il presupposto per l'esistenza stessa delle leggi fisiche. Spazio e tempo furono considerati inizialmente enti assoluti, cioè percepiti alla stessa maniera da tutti gli osservatori dell'universo conosciuto. Con il passare del tempo, i due concetti si sono progressivamente relativizzati, fino a fondersi nella relatività speciale nel 1905.
+
+L'esistenza di un tempo assoluto permetteva di definire con precisione quali fossero le relazioni causali nell'evoluzione fisica dell'universo: ciò che accadeva prima, in qualsiasi punto dell'universo, avrebbe potuto influenzare ciò che accadeva dopo, in qualsiasi altro punto dell'universo. La meccanica newtoniana prevedeva infatti che le interazioni a distanza (come la forza gravitazionale) si propagassero istantaneamente con una velocità infinita. L'idea di un tempo assoluto, percepibile allo stesso modo da tutti gli osservatori e nettamente separato dalla nozione di spazio, è accettata senza alcuna variazione fino alla formulazione della relatività ristretta, nel 1905.
+
+La relativizzazione dello spazio si è svolta essenzialmente in due passi. Il sistema tolemaico prevedeva uno spazio assoluto, che permettesse in particolare di distinguere fra oggetti fermi e mobili. Ogni oggetto aveva una sua velocità ben definita. La Terra era ferma, e tutto si muoveva intorno ad essa. Con il suo Dialogo sopra i Massimi Sistemi, Galileo intorno al 1630 propose una nozione di spazio meno assoluta. Secondo la relatività galileiana (già implicita nella meccanica newtoniana), non esiste nessun modo per distinguere un oggetto fermo da un oggetto che si muove con un moto rettilineo uniforme. La velocità di un oggetto non è più assoluta. Vi sono però nello spazio dei sistemi di riferimento privilegiati, detti inerziali, per i quali valgolo le leggi della meccanica newtoniana.
+
+La relatività galileiana entrò però in contrasto nel XIX secolo con le equazioni di Maxwell. Dalle equazioni emerse che la luce si muove ad una velocità fissata c. La velocità della luce è quindi assoluta, contrariamente a quanto prescritto da Galileo. Alla fine dell'Ottocento vi furono vari tentativi per adattare il principio galileiano alla nuova teoria: si cercò di dimostrare l'esistenza di un sistema di riferimento inerziale privilegiato, l'unico in cui potessero valere (oltre a quelle di Newton) anche le equazioni di Maxwell, refrattarie al principio di relatività galileiano.
+
+Fu prima Mach a criticare questo approccio. Secondo lui, l'inerzia di un sistema è il risultato delle interazioni di questo con tutte le masse dell'universo. Albert Einstein, a questo proposito, ebbe modo di notare:
+
+e ancora
+
+Einstein risolse la contraddizione fra relatività galileiana e equazioni di Maxwell sostituendo la prima con quella che è adesso nota come relatività ristretta. Questo nuovo principio di relatività distrugge definitivamente il carattere assoluto di tempo e spazio. Il tempo percepito non è più assoluto. In particolare, due eventi in luoghi molto distanti possono risultare in ordine temporale invertito a seconda del sistema in cui sta l'osservatore. Spazio e tempo sono intrinsecamente legati e formano un quadridimensionale spaziotempo, la cui struttura matematica fu formalizzata successivamente con la nozione di spaziotempo di Minkowski.
+
+Determinismo
+
+Il fatto che le leggi fisiche siano simmetriche rispetto al ribaltamento della freccia del tempo, ovvero allo scambio di passato e futuro, fu, nell'ambito della fisica classica, il motivo che spinse a ipotizzare che la fisica, per il tramite delle leggi matematiche, sarebbe stata in grado di predire l'evoluzione esatta dell'universo posto che ne fosse possibile conoscere esattamente il valore di tutte le velocità e le posizioni di tutte le particelle contenute in esso. Questo concetto è ben descritto da questa citazione di Pierre Simon Laplace:
+
+Proprio da questa citazione è possibile notare che gli stessi fisici classici ben si rendevano conto che la mente umana non sarebbe mai stata in grado di avere una conoscenza così vasta da poter permettere il calcolo dei successivi stati dell'universo. Tuttavia questa impossibilità era attribuita esclusivamente all'ignoranza e all'incapacità dell'uomo e niente nella forma della teoria faceva supporre che questo non fosse, almeno in potenza, possibile.
+
+Già nella fisica classica, in ogni caso, si presentavano problemi, come quello famoso dei tre corpi, che non erano stati risolti analiticamente, nonostante gli sforzi di alcuni fra i migliori fisici e matematici dell'epoca: non era stato cioè possibile scrivere le equazioni del moto esatte per ciascun componente di un sistema costituito da tre corpi, tipicamente Terra, Luna e Sole, legati dalla forza di gravità. Questo accade perché il sistema a tre corpi, seppur descritto da leggi fisiche classiche, non è integrabile. Il sistema descritto è solo uno degli esempi più antichi e maggiormente noti di questa classe. Sempre rimanendo nell'ambito della fisica classica è possibile trovare molti altri di questi esempi, e ciascuno di questi sistemi ha la particolarità di dimostrare un'elevata sensibilità alle condizioni iniziali, che è una delle caratteristiche costitutive dei sistemi caotici.
+
+La morte definitiva del determinismo si ha però nell'ambito della fisica quantistica in cui è impossibile prevedere l'evoluzione di un sistema e questo non tanto per l'ignoranza dello sperimentatore sulle condizioni del sistema, ma a causa di una caratteristica della teoria. Ne risulta che non è più possibile associare ad una particella una posizione ed una velocità definite con una precisione arbitraria. La meccanica quantistica, infatti, descrive ogni sistema fisico tramite un vettore di stato. Da questa descrizione si deduce che il risultato dell'interazione deve tenere conto anche dei fenomeni di interferenza tra gli stati: il risultato determinato dalla teoria è, nella maggioranza dei casi, un insieme composto da più stati possibili ai quali è associata una probabilità. Questo insieme tuttavia non è interpretabile con l'asserzione che il sistema si trova in uno stato o nell'altro con una certa probabilità, ma si deve invece interpretare considerando che il sistema è sia in uno stato sia nell'altro, ovvero in una sovrapposizione di stati; ciascuno dei quali è pesato con una propria probabilità. Numerosi esperimenti hanno dimostrato la validità di quest'interpretazione: ad esempio l'esperimento di Stern e Gerlach (realizzato nel 1922) e l'esperimento della doppia fenditura (realizzato nel 1961).
+
+A proposito del crollo del determinismo si ricorda una triplice citazione, organizzata in forma dialogica:
+
+Si vede dalle prime due citazioni come all'epoca della nascita della meccanica quantistica, questa caratteristica della teoria fosse controversa e che solo successivamente si pervenne ad accettarla come una caratteristica naturaleEinstein stesso propose che il non determinismo della teoria quantistica fosse spiegabile con una teoria alternativa che richiedesse la presenza di variabili nascoste, ossia grandezze ignote che, pur non essendo misurabili, avrebbero reso deterministico il comportamento del sistema.
+Nel 1965 lo scienziato John Stewart Bell mostrò che una teoria a variabile locali nascoste, come quella proposta da Einstein, dovesse soddisfare una serie di relazioni note come disuguaglianze di Bell. Alcuni esperimenti effettuati successivamente, ed in particolare nel 1980 da Alain Aspect, evidenziarono una violazione della disuguaglianza di Bell sancendo definitivamente il carattere non deterministico della teoria quantistica.
+
+Settori della fisica classica
+I vari settori di studio in cui suddividiamo al giorno d'oggi la fisica classica sono la meccanica (distinta a sua volta in più branche), la gravità (così come descritta dalla legge di gravitazione universale), la termodinamica e una buona parte dell'elettromagnetismo. Queste teorie, nonostante non siano in grado di spiegare alcuni fenomeni, per cui occorre necessariamente fare ricorso a leggi relativistiche o quantistiche, sono considerate valide approssimazioni nel limite classico di queste ultime. In particolare, per "limite classico" si usa intendere l'approssimazione per cui non si considerino oggetti di dimensioni così piccole da costringere all'utilizzo della meccanica quantistica, oppure così veloci, o così vicine a un campo gravitazionale molto intenso, da rendere necessario l'utilizzo della relatività speciale o generale. Quando si parla di limite classico è opportuno tuttavia conoscere con esattezza quale sia il sistema e lo scopo per cui si sta cercando di applicarlo; se infatti per tarare un ricevitore satellitare in orbita su un comune satellite artificiale può essere sufficiente eseguire i calcoli utilizzando le leggi della fisica classica, quando si tratta di tarare i ricevitori GPS, che pure funzionano grazie a satelliti, è necessario tenere in considerazione le correzioni dettate dalla teoria della relatività.
+
+Meccanica classica
+
+La meccanica è la scienza che studia il movimento dei corpi nello spazio se sottoposti a forze esterne, esercitate da altri corpi. Oltre alla meccanica classica è opinione di alcuni che anche la meccanica relativistica limitatamente ai risultati deducibili dalla relatività ristretta sia parte della fisica classica. La meccanica si suddivide in più branche in base all'oggetto degli studi o delle condizioni che si desidera studiare. La meccanica, utilizzando l'ultima classificazione, si suddivide in cinematica, dinamica e statica a seconda del tipo di studio che si vuole condurre. Si parla di cinematica quando si è interessati a descrivere il moto e la sua evoluzione nel tempo e nello spazio, senza rintracciarne le cause. Quando invece si desidera studiare le cause del moto e le interazioni di vari oggetti si fa riferimento alla dinamica. Infine se si desiderano studiare le condizioni di equilibrio di un corpo si utilizzano le leggi della statica.
+
+La cinematica è caratterizzata da una suddivisione interna basata sul tipo di moto descritto. Si parla, ad esempio, di moto rettilineo e uniforme, moto uniformemente accelerato, di moto parabolico, con ciò riferendosi alla forma traiettoria e alle leggi che regolano la mutua variazione delle quantità che descrivono il modo: posizione, velocità e accelerazione; a livello più approfondito la cinematica è studiata con gli strumenti matematici della geometria differenziale, che permettono di calcolare anche altre grandezze come il raggio di curvatura e la torsione della traiettoria.
+
+La dinamica si basa su tre principi noti come principi della dinamica o come leggi di Newton. Essi descrivono:
+
+* il comportamento di un corpo quando non subisce alcuna interazione;
+* il comportamento di un corpo, e in particolare l'evoluzione della sua accelerazione, se sottoposto a interazioni e quindi a forze o momenti;
+* la reazione del corpo a un'interazione subita.
+
+Accanto a questi principi sono validi strumenti della dinamica anche i principi di conservazione. Questi sono comunque utilizzati generalmente in ogni settore della fisica, e vengono considerati di valenza più generale delle leggi di Newton ma trovarono la loro origine negli studi di meccanica classica. In particolare i principi di conservazione dell'energia e della quantità di moto sono i più utili negli studi dinamici e, assieme con il teorema delle forze vive permettono la descrizione e la classificazione degli urto in elastici, anelastici e completamente anelastici.
+
+Infine, la statica si occupa di determinare le condizioni di equilibrio di un corpo, se sottoposto all'azione di altri corpi esterni. Essa studia le condizioni di equilibrio di sistemi fisici sottoposti a carichi, forze e torsioni, cioè quando il sistema non muta posizione nel tempo, o quando componenti o strutture sono a riposo. La statica è usata diffusamente nell'analisi strutturale e in scienza delle costruzioni. Per un corpo rigido le condizioni per l'equilibrio sono due: la forza risultante agente sul corpo deve essere nullo, altrimenti il centro di massa del corpo accelererebbe, così come il momento angolare totale, altrimenti il corpo ruoterebbe. Lo studio della resistenza meccanica dei materiali è anch'essa fortemente legata alla statica.
+
+La meccanica può operare mediante la risoluzione esplicita di sistemi di equazioni, ricavate utilizzando le leggi della dinamica, oppure utilizzando tecniche più raffinate di meccanica razionale o di meccanica analitica mediante la ricerca delle costanti del moto e l'utilizzo di particolari funzioni, costruite per descrivere il sistema, quali possono essere le lagrangiane o le hamiltoniane. Nel caso del formalismo hamiltoniano si opera rinunciando all'uso delle coordinate e dei momenti (lineari o angolari) definiti dalle posizioni dei corpi e dalle loro velocità nell'ordinario spazio in tre dimensioni e utilizzando al loro posto coordinate e momenti generalizzati, definiti in uno spazio particolare, detto spazio delle fasi. Una peculiarità delle coordinate e dei momenti generalizzati è che le formule che ne descrivono le variazioni tengono già conto dei vincoli imposti al sistema, come ad esempio il vincolo di rotolare su un piano senza slittare. Pertanto tutte le condizioni imposte dai vincoli sono automaticamente rispettate dal sistema. Un concetto nato nell'ambito della meccanica razionale, ma che ha grande rilevanza in tutta la fisica, è il principio di minima azione, inteso come sinonimo sia del principio di Hamilton che del principio di Maupertuis. Questo principio stabilisce che un sistema classico evolve nel tempo in modo da minimizzare una quantità fisica, detta azione. La sua applicazione permette, ad esempio, di ricavare esplicitamente le equazioni del moto a partire dall'hamiltoniana del sistema, nel caso in cui gli integrali possano essere risolti per via analitica.
+
+La meccanica si suddivide anche a seconda del tipo di oggetto considerato. Considerando un corpo solido, sono due i modelli meccanici più utilizzati: il modello del punto materiale e il modello del corpo rigido. Il primo di questi è utilizzato per studiare corpi le cui parti interne e le dimensioni siano molto piccole rispetto alle altre grandezze considerate nel problema. Ad esempio nel caso si voglia studiare il modo di uno pneumatico che percorre una scarpata senza ostacoli in discesa si potrà agevolmente considerare lo pneumatico come un punto; al contrario se si volesse studiare il moto dello stesso pneumatico in modo da calcolare il numero di giri compiuti prima della fine della scarpata, sarà necessario ricorrere almeno al modello del corpo rigido. Ulteriori modelli che tengono conto anche delle deformazioni che un solido può subire sono oggetto di studio della meccanica del continuo, che si occupa anche dei fluidi.
+
+Nello studio dei fluidi, la situazione è più complessa, in quanto ciascun fluido è costituito da un numero molto alto di costituenti elementari (atomi o molecole), che non possono essere considerati tra loro solidali. Si deve perciò scegliere se si vuole una descrizione che tenga conto esclusivamente delle proprietà globali o se si vuole invece analizzare più nel dettaglio i comportamenti dei costituenti, rinunciando comunque a una descrizione esatta. Nel primo caso si ricorre alle leggi della fluidodinamica e della fluidostatica e ai modelli di fluido: ideale, incomprimibile, newtoniano o non newtoniano, a seconda dei valori della viscosità o della possibilità o meno di comprimere le sostanze considerate.
+
+Se invece si vuole una descrizione più fine dei fluidi considerati, si rende necessario uno studio dal punto di vista della meccanica statistica. Quest'ultima è in grado di descrivere i comportamenti medi dei costituenti di un sistema, e quindi fornire gli stessi risultati ottenuti con una descrizione tipica della meccanica dei fluidi, ma è anche in grado di dare risposte su quale sia la probabilità che le variabili che descrivono un costituente assumano un certo insieme di variabili. La meccanica statistica è cioè in grado di operare valutando le distribuzioni dei costituenti interni. Bisogna considerare che questo settore della meccanica fu sviluppato in modo da spiegare per altra via i fenomeni di cui si occupa la termodinamica e che, pertanto, una sua trattazione completa richiede anzitutto la comprensione delle grandezze base della termodinamica stessa.
+
+Infine, un discorso a parte merita l'acustica, che studia in generale la generazione, la trasmissione e la ricezione di vibrazioni meccaniche, o onde sonore, nei mezzi materiali. L'acustica può essere considerata parte della fluidodinamica nel caso in cui il mezzo di propagazione sia un fluido come l'aria o l'acqua. L'equazione delle onde governa la propagazione di tutti i tipi di onde di pressione in qualsiasi mezzo (per esempio i comuni suoni in aria e le onde sismiche, cioè i terremoti).
+
+Gravitazione universale
+
+La legge della gravitazione universale è la legge che viene utilizzata per descrivere la mutua interazione a distanza che subiscono due corpi a causa della loro massa. La descrizione secondo la fisica classica di questo fenomeno si basa o sul concetto di forza o su quello più moderno di campo e potenziale, che trovano applicazione anche nella descrizione di tutti gli altri tipi di forza a distanza noti alla fisica classica. Il campo gravitazionale è un campo conservativo, ovvero non compie lavoro se un corpo segue un percorso chiuso, cioè se si spende tanta energia per spostare un corpo in alto lungo la verticale in prossimità della superficie terrestre, tanta se ne guadagna spostandolo in basso. A causa di questa proprietà del campo è possibile associare alla forza un'energia potenziale gravitazionale.
+
+Questa legge, scoperta da Newton, viene considerata il limite classico della relatività generale ed è comunemente usata, insieme a molte altre leggi, per i calcoli necessari alla messa in orbita dei satelliti artificiali o nello studio del comportamento dei corpi celesti. La legge in questione stabilisce che la forza che un corpo esercita su un secondo oggetto è proporzionale al prodotto delle masse e al reciproco del quadrato della distanza fra i due. La costante di proporzionalità è chiamata costante di gravitazione universale. Newton calcolò le orbite dei satelliti tramite questa legge, riottenendo le leggi di Keplero, le leggi empiriche che governano il sistema solare.
+
+Nonostante la gravità sia la più debole delle interazioni fondamentali oggi note in fisica è responsabile delle maree, frutto dell'interazione fra la luna e i mari, e del movimento dei corpi celesti come i pianeti del nostro sistema solare o come le stelle nella galassia. Un'intera branca della meccanica, la meccanica celeste, si occupa proprio di questi fenomeni.
+
+Termologia
+
+La termologia studia il comportamento dei corpi nei fenomeni in cui siano coinvolti scambi di calore, combinati o meno con la produzione o l'utilizzo di lavoro. In particolare il corpo considerato può essere egli stesso il mezzo attraverso il quale il calore si propaga (per conduzione o convezione), per cui viene studiato per capirne le migliori o peggiori qualità per diffondere il calore. Oppure si può studiare il comportamento dello stesso una volta che questo assorbe una certa quantità di calore e misurarne il cambiamento di volume, dovuto alla dilatazione termica, o delle altre proprietà chimico fisiche, come ad esempio la variazione della resistività.
+
+La branca della termologia che studia lo scambio di calore fra corpi a temperatura diversa, le trasformazioni di calore in lavoro e viceversa, è la termodinamica, che per la sua natura è sfruttata e studiata sia in ambito fisico che chimico: in effetti, non c'è praticamente ambito della fisica al quale la termodinamica non possa essere applicata. Anche in chimica, così come in meccanica statistica, si parla di sistemi
+
+Le grandezze alla base delle misurazioni in termologia e in termodinamica sono le quantità di lavoro, calore e la temperatura. Quest'ultima è definita da quello che è chiamato il principio zero della termodinamica, che stabilisce che due o più corpi messi a contatto tendono a raggiungere l'equilibrio termodinamico e che, una volta raggiunto, manifestano una proprietà in comune, detta appunto temperatura.
+
+La termodinamica si basa su tre ulteriori principi che stabiliscono che:
+* la variazione di energia interna di un corpo è uguale alla differenza fra il calore assorbito dal sistema (il valore è convenzionalmente negativo se il calore è ceduto dal sistema) e il lavoro compiuto dal sistema (il valore è convenzionalmente negativo se il lavoro è compiuto sul sistema);
+* è impossibile costruire una macchina che abbia esclusivamente l'effetto di trasferire calore da un corpo freddo a un corpo caldo;
+* è impossibile raggiungere lo zero assoluto utilizzando un numero finito di trasformazioni termodinamiche.
+
+Elettromagnetismo
+
+L'elettromagnetismo è la branca della fisica che studia i fenomeni di natura elettrica e magnetica e le loro mutue interazioni. La teoria dell'elettromagnetismo riesce a conciliare fenomeni apparentemente diversi quali i fenomeni elettrici, magnetici e l'ottica geometrica, riconducendoli a essere manifestazioni fenomenologiche del campo elettromagnetico. A seconda della tipologia di fenomeni studiati, è comunque utile suddividere lo studio dei fenomeni elettromagnetici ascrivendoli a diverse aree della teoria. La teoria può essere suddivisa differenziando tra fenomeni appartenente statici e dinamici. Nell'ambito dei fenomeni statici un'ulteriore distinzione, di origine storica, è quella tra fenomeni magnetici ed elettrici. Bisogna notare che si può parlare di fenomeni statici anche in ambito magnetico, ma ciò considerando il campo elettromagnetico nel suo insieme non ha molto senso, poiché il magnetismo è un effetto elettrodinamico.
+
+Fra i fenomeni statici quelli elettrici sono studiati dall'elettrostatica. In questa teoria gli enti fondamentali sono le cariche elettriche, positive o negative, che contemporaneamente generano e subiscono gli effetti del campo elettrico. Le cariche elettriche interagiscono secondo la legge di Coulomb: oggetti carichi si attraggono o si respingono a seconda del tipo di cariche presenti su di essi: cariche dello stesso segno si respingono, mentre cariche di segno opposto si attraggono. L'intensità della forza che si origina fra i due corpi è proporzionale al prodotto delle cariche e al reciproco del quadrato della distanza fra i due. La costante di proporzionalità è chiamata costante di Coulomb ed è proporzionale all'inverso della costante dielettrica del vuoto.
+
+In elettrostatica si definisce un campo elettrico, analogo al campo gravitazionale definito nell'ambito della gravitazione universale, che è conservativo e quindi non compie lavoro se un corpo segue un percorso chiuso, cioè se si spende tanta energia per spostare un corpo lungo la coordinata radiale allontanandosi dalla sorgente del campo, tanta se ne guadagna spostandolo nel verso opposto. A causa di questa proprietà del campo è possibile associare alla forza un'energia potenziale elettrica.
+
+In elettrostatica riveste particolare importanza l'equazione di continuità della carica elettrica, che afferma che la quantità carica elettrica non si può né creare né distruggere, ma può solo trasferirsi da un corpo all'altro. Un altro importante teorema è il teorema del flusso, che si può definire anche per il campo gravitazionale, che fornisce un legame tra il flusso del campo elettrico attraverso una superficie chiusa e la carica contenuta all'interno.
+
+I fenomeni magnetici stazionari sono invece studiati dalla magnetostatica. Come nel caso elettrostatico, viene definito un campo magnetico non conservativo; tuttavia non esistono cariche magnetiche localizzate: le due polarità magnetiche si presentano sempre accoppiate e il campo per questo motivo è detto solenoidale. In magnetostatica si osserva che, analogamente a quanto accade in elettrostatica, poli magnetici uguali si respingono e poli magnetici opposti si attraggono. Sulla base di questo principio, e sulla base del fatto che la Terra possiede un proprio campo magnetico, si basa il funzionamento della bussola, inoltre è per questa ragione che le due polarità magnetiche sono chiamate "nord" e "sud". In ogni caso il campo magnetico non è un'entità autonoma, ma è generato da correnti, ovvero da cariche in movimento, come affermato dalla legge di Biot-Savart.
+
+La legge di Lorentz descrive l'azione del campo magnetico sulle cariche elettriche. A differenza di quella elettrica, quest'ultima forza non compie lavoro e quindi non modifica il modulo della velocità con cui si muovono le cariche, ma ne può modificare la direzione e il verso. Questo è il motivo per cui negli acceleratori di particelle i campi magnetici sono utilizzati per mantenere la direzione del fascio di particelle, o per deviarlo, mentre i campi elettrici sono intervallati in brevi regioni per accelerare le particelle.
+
+Una descrizione classica del magnetismo nella materia sfrutta le correnti amperiane, deboli correnti che si generano su scale molto piccole, per schematizzare gli effetti di magnetizzazione, in modo analogo agli effetti della polarizzazione elettrica. Il comportamento dei materiali sottoposti a un campo magnetico varia a seconda delle loro caratteristiche chimico-fisiche, potendo variare da un estremo di minimo effetto (come ne materiali diamagnetici e paramagnetici) a un effetto molto pronunciato (come nei materiali ferromagnetici).
+
+L'unione di elettricità e magnetismo è sintetizzata dalle quattro equazioni di Maxwell. In questa visione due aspetti di uno stesso fenomeno: in particolare, se viene meno la condizione di stazionarietà, cioè se uno dei campi varia nel tempo, la variazione di uno induce l'altro. Le equazioni di Maxwell non bastano per descrivere completamente l'elettromagnetismo, ma devono comunque essere associate alla legge di Lorentz. Le equazioni dell'elettromagnetismo, se risolte opportunamente, originano un'equazione che descrive la propagazione di un'onda che viaggia alla velocità della luce nel vuoto. L'elettromagnetismo classico contiene quindi anche una teoria ondulatoria della luce, la quale viene descritta come onda elettromagnetica. Sono in questo modo ricondotti nell'ambito della fisica classica anche i fenomeni dell'ottica fisica, come la diffrazione.
+
+In formule
+La fisica classica e tutti i fenomeni da essa previsti possono essere completamente riassunti da poche formule:
+
+;Secondo principio della dinamicaIsaac Newton enunciò la seconda legge nel seguente modo:
+: \mathbf F = \frac \quad \mathbf p = \gamma m \mathbf = \frac
+
+;Legge della gravitazione universale:\mathbf F = \frac \, \mathbf e_r
+
+;Legge di Lorentz:\mathbf F = q\,(\mathbf E + \mathbf v \times \mathbf B)
+
+;Equazioni di Maxwell (nel vuoto):
+\begin
+\nabla \cdot \mathbf E = \dfrac \\
+\nabla \times \mathbf E = -\dfrac \\
+\nabla \cdot \mathbf B = 0\\
+\nabla \times \mathbf B = \mu_0\, \mathbf J + \varepsilon_0\, \mu_0 \dfrac
+\end
+
+;Conservazione della carica:\mathbf \nabla \cdot \mathbf J = - \frac
+
+Spiegazione
+Nelle formule i simboli sono usati per rappresentare quantità fisiche scalari o vettoriali (queste ultime in grassetto):
+
+*\mathbf F \,\! il vettore forza;
+*\mathbf p \,\! il vettore quantità di moto;
+*t \,\! il tempo;
+*\mathbf v \,\! il vettore velocità totale relativa tra l'oggetto e l'osservatore;
+*\gamma \,\! il fattore di Lorentz;
+*c \,\! la velocità della luce nel vuoto che è una costante universale;
+*G \,\! la costante di gravitazione universale;
+*m_1 \,\! e m_2 \,\! sono le masse dei due corpi;
+*\mathbf e_r \,\! un versore diretto dal corpo 1 al corpo 2;
+*r \,\! la distanza tra i baricentri dei corpi;
+
+*il simbolo \nabla \,\! rappresenta l'operatore nabla;
+*\nabla \cdot \,\! e \nabla \times \,\! rispettivamente gli operatori differenziali divergenza e rotore espressi tramite l'operatore nabla;
+*\mathbf J \,\! il vettore flusso della densità di corrente;
+*\rho_c \,\! la densità di carica;
+*\mathbf E \,\! il vettore campo elettrico;
+*\mathbf B \,\! il vettore campo magnetico;
+*le costanti \varepsilon_0 \,\! e \mu_0 \,\! rispettivamente la costante dielettrica del vuoto e la permeabilità magnetica del vuoto, e sono legate dalla relazione 1/c^2 = \varepsilon_0 \mu_0 \,\!;
+*q \,\! la carica elettrica.
+
+Queste formule si applicano nel rispetto del principio di relatività galileiano, del principio di conservazione della massa e della proporzionalità tra massa inerziale e gravitazionale che sono sottintesi come cardini costitutivi dell'intera fisica classica.
+
+Teorie semiclassiche
+
+A seguito della nascita della meccanica quantistica e in assenza di una teoria quantistica che spiegasse il comportamento dei campi (ad esempio, dell'elettrodinamica quantistica per il campo elettromagnetico) si svilupparono teorie dette semiclassiche che, pur trattando i sistemi atomici da un punto di vista quantistico, non speculavano sulla natura della radiazione, salvo ammettere che questa si comportasse come se fosse composta da particelle (dette fotoni) che avevano la bizzarra proprietà di comportarsi sia come particelle che come onde.
+
+La teoria più nota è la teoria semiclassica della radiazione, proposta per spiegare l'intensità delle righe di emissione e di assorbimento di uno spettro atomico. In particolare, secondo questo modello, assumendo che gli elettroni orbitassero intorno al nucleo atomico a energie ben definite e quantizzate (cioè tali che solo quei valori, a intervalli discreti gli uni dagli altri, fossero permessi dalla natura), prevedeva che gli elettroni potessero passare da un livello a un altro solamente in tre modi: emissione spontanea, emissione stimolata e assorbimento. Secondo questa teoria, a ciascun modo è associato un coefficiente, detto di Einstein, che viene indicato con la lettera A per il processo stimolato e con la lettera B per i processi spontanei. Allo scopo di distinguere fra i due processi la lettera B è seguita da un pedice a due cifre, che indica se il processo è di emissione (21) o di assorbimento (12) Seguendo il metodo introdotto da Albert Einstein, è quindi possibile stabilire una relazione matematica tra il coefficiente A e ciascuno dei coefficienti B, e dimostrare che i due coefficienti B sono uguali. Applicando questo modello si riesce a calcolare la probabilità di transizione spontanea fra due livelli di un elettrone, e da questa si può ricavare l'intensità di riga senza aver precedentemente quantizzato il campo elettromagnetico. In assenza di questa teoria e dell'elettrodinamica quantistica, invece non si saprebbe come procedere, poiché, essendo il campo elettromagnetico descritto classicamente, non è possibile ricavare una formula che partendo da un sistema puramente quantistico produca un risultato che contempli contemporaneamente nozioni di fisica classica e quantistica.
+
+Note
+
+Bibliografia
+*.
+*.
+*.
+*.
+*.
+*
+*.
+
+Voci correlate
+
+;Generali
+*Fisica
+*Astronomia
+*Matematica
+*Metodo scientifico
+
+;Concetti
+*Massa
+*Spazio
+*Tempo
+
+;Branche
+*Meccanica classica
+*Meccanica statistica
+*Elettromagnetismo
+*Magnetismo
+*Elettricità
+*Gravità
+*Termologia
+
+;Storiche
+*Fisica aristotelica
+*Storia della fisica
+*Storia dell'elettricità
+*Storia della matematica
+*Storia della scienza
+
+;Personaggi
+*Aristotele
+*Tolomeo
+*Galileo Galilei
+*Isaac Newton
+*Christiaan Huygens
+*Charles Augustin de Coulomb
+*Henry Cavendish
+*Sadi Carnot
+*Benjamin Thompson
+*James Prescott Joule
+*Lord Kelvin
+*Ludwig Boltzmann
+*André-Marie Ampère
+*Alessandro Volta
+*James Clerk Maxwell
+*Heinrich Rudolf Hertz
+*Albert Einstein
+
+Altri progetti
+
+Collegamenti esterni
+* in cui è contenuta una sezione sulla storia della fisica. URL visitato il 02 nov 2008.
+*Appunti di fisica per le scuole superiori. URL visitato il 02 nov 2008.
+*Animazioni di fisica classica
+* HyperPhysics, un ambiente di esplorazione dei concetti della fisica (classica e moderna) strutturato come una mappa concettuale.URL visitato il 02 nov 2008.
+* Motion Mountain: The adventure of physics.
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 13:59:28 from:
+  http://it.wikipedia.org/wiki/Fisica_classica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

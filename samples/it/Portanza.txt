@@ -1,0 +1,166 @@
+La portanza (spesso abbreviata con la lettera L, dalla lingua inglese lift) è la componente perpendicolare al moto della forza aerodinamica che agisce su un corpo immerso in un fluido (come ad esempio un aeromobile in volo nell'aria). Al contrario la resistenza è la componente parallela al moto.
+
+Comunemente associata all'ala di un aeroplano, la portanza è generata anche dal moto delle pale del rotore principale di un elicottero, dalle vele e dalla chiglia di una barca a vela, dagli aliscafi o dagli alettoni di un'automobile da corsa.
+
+La portanza, essendo normale alla direzione del vento, non sempre è opposta alla forza peso, ma può seguire qualsiasi direzione. Infatti nel moto in crociera degli aeroplani generalmente la portanza ha la stessa direzione del peso e verso opposto, ma quando l'aereo sale o scende di quota, oppure quando compie una virata, la portanza si inclinerà rispetto alla verticale. In alcune manovre acrobatiche la portanza può assumere lo stesso verso della forza peso, così come sugli alettoni di un'auto da corsa. In questo caso si usa spesso il termine di deportanza.
+
+Genesi della portanza su di un profilo alare
+
+La portanza è generata dalla differenza di pressione tra la superficie superiore ed inferiore di un corpo. Per spiegare questa differenza di pressione si possono impiegare diverse leggi fisiche fondamentali quali i principi della dinamica, l'equazione di Bernoulli, la legge di conservazione della massa e della quantità di moto (che è una formulazione del secondo principio della dinamica). Come risultato vi sono diverse interpretazioni fisiche con differente grado di rigore scientifico e complessità.
+
+In seguito si prenderà in considerazione un profilo alare, o, il che è lo stesso, un'ala tridimensionale di apertura infinita, immersa in una corrente uniforme. La portanza sarà generata dalla differenza di pressione tra ventre (la porzione inferiore del perimetro del profilo che va dal bordo d'attacco al bordo di uscita) e dorso (la porzione superiore di perimetro del profilo).
+
+Interpretazione globale: reazione ad una deflessione
+Il moto relativo del velivolo rispetto all'aria interessa una certa massa di fluido. In particolare la massa d'aria per unità di tempo che investe il corpo è data dal prodotto della densità dell'aria per la velocità di volo (velocità asintotica) e per un'"area di attraversamento" che è funzione essenzialmente della forma del corpo e, in particolare per un velivolo, della superficie alare.
+Possiamo dunque porre:
+
+: = \rho \cdot V \cdot A \cdot K_m
+
+La geometria dell'ala e la sua posizione rispetto alla velocità asintotica sono tali da indurre all'aria un'accelerazione verso il basso che generalmente risulta variabile lungo l'apertura alare.
+
+Il valore medio della variazione della velocità verticale indotta (detta anche, tecnicamente "downwash") dipende dalla geometria dell'ala e, per piccoli angoli d'attacco, risulta all'incirca lineare con questo.
+
+È da notare che tale deflessione del flusso verso il basso avviene principalmente grazie a quelle linee di flusso che "aggirano" il dorso del profilo alare incurvandosi in seguito verso il basso (vedi anche Effetto Coandă).
+
+Abbiamo dunque:
+
+: = K_v \cdot V \cdot \mathrm  , ovvero  = K_v \cdot V \cdot
+
+in cui:
+\alpha è l'angolo d'attacco, V è la velocità di volo, mentre la costante K_v dipende ancora dalla geometria dell'ala (e in particolare, in questo caso, dall'allungamento alare).
+
+Per la terza legge di Newton si ottiene una forza contraria alla variazione di velocità verso il basso e proporzionale alla densità dell'aria, al quadrato della velocità di volo, all'angolo d'attacco più ad un certo numero di costanti dipendenti dalla forma dell'ala (o più genericamente, dal corpo):
+
+: L = \cdot
+
+Solitamente si fa ricorso ad un coefficiente adimensionale chiamato coefficiente di portanza, definito come:
+
+:C_L = \frac
+
+in cui:
+* ρ è la densità dell'aria (1,225 kg/m³ al livello del mare)
+* V è la velocità di volo;
+* S è la superficie alare;
+* L è la forza di portanza prodotta.
+
+Il teorema di Bernoulli
+La generazione della portanza può essere attribuita alla distribuzione di pressione intorno al corpo che attraversa il fluido.
+
+Su di un'ala, la produzione della portanza è dovuta alle differenze di pressione tra il ventre e il dorso. Tale differenza di pressione genera una forza aerodinamica la cui componente ortogonale alla direzione del moto è la portanza.
+Più precisamente, la combinazione di angolo d'attacco, curvatura e spessore dell'ala, produce un andamento della pressione sulla sua superficie il cui risultato è una forza aerodinamica.
+
+Tipicamente, per un'ala composta da due semiali simmetriche, tale forza giace nel piano di simmetria:
+
+:\mathbf = \mathbf+\mathbf = \oint_p\mathbf \; d\partial\Omega
+
+in cui:
+* F è il vettore forza aerodinamica,
+* L è il vettore portanza,
+* D è il vettore resistenza indotta,
+* \partial\Omega è la frontiera del dominio d'integrazione,
+* p è la pressione,
+* n è il versore normale alla superficie.
+
+Un possibile modo per calcolare la pressione è l'utilizzo dell'equazione di Bernoulli, che consente di legare la velocità sul profilo alla pressione.
+
+I limiti di un tale modo di procedere risiedono nelle ipotesi a monte della scrittura dell'equazione di Bernoulli in regime incomprimibile, tra le quali ricordiamo la stazionarietà del flusso, la incomprimibilità e la assenza di viscosità.
+
+Ciò nonostante, esso rimane un valido strumento di stima preliminare delle prestazioni di un'ala in condizioni non "estreme" (bassi angoli d'attacco, basse velocità ecc...) per la presenza di metodi ingegneristici di valutazione separata degli effetti della viscosità e della comprimibilità.
+
+L'applicazione dell'ipotesi di fluido non viscoso porta, però, ad una indeterminazione matematica e a degli assurdi fisici. Per simulare gli effetti dell'attrito e dell'inerzia (legati anche all'effetto Coanda) e chiudere il problema matematico, si impone la cosiddetta condizione di Kutta.
+Ad esempio, una condizione di Kutta corrisponde all'imporre che le linee di corrente divise da un profilo alare si ricongiungano in corrispondenza del bordo d'uscita.
+
+La teoria della circolazione
+Un altro modo di spiegare la genesi della forza di portanza prende spunto da ragionamenti quasi esclusivamente matematici. Sebbene assai più precisa delle precedenti, tale dimostrazione risulta poco intuitiva; se ne espongono qui solo i punti salienti.
+
+La trattazione presuppone la conoscenza dei teoremi di Helmholtz di conservazione della vorticità (o, per estensione, di un tubo vorticoso in un campo fluidodinamico) e del teorema di Kutta-Žukovskij, che permette di dimostrare che un corpo investito da una corrente fluida di velocità assegnata, intorno al quale esista una circolazione non nulla, subisce l'azione di una forza normale alla velocità e di verso ottenuto ruotando il vettore velocità di 90° in senso contrario al senso della circolazione stessa (vedi anche effetto Magnus).
+
+La circolazione può essere definita come l'integrale lineare della velocità dell'aria su un "circuito" chiuso che racchiuda il corpo (ciò permette di definire la quantità di vorticità attorno al corpo).
+
+Applicando questo discorso al caso di un profilo alare investito da una corrente fluida si ottiene la nascita di una forza "portante" (per unità di lunghezza dell'ala) diretta verso l'alto e la cui intensità è data da:
+
+: = - V \Gamma \, \!
+
+in cui  \rho  è la densità dell'aria,  V  è la velocità della corrente "asintotica", e  \Gamma  è il valore della circolazione.
+
+È necessario però a questo punto fare alcune considerazioni: per il teorema di Kutta-Žukovskij il valore della portanza prodotto da un profilo alare in un fluido ideale è legato al valore della circolazione attorno ad esso, ma per i teoremi di Helmholtz di conservazione della vorticità, si deve dunque ipotizzare una presenza di vorticità fin dall'inizio del moto. Ma in questo stato il profilo è in quiete, il campo di moto è quindi irrotazionale e la circolazione attorno al profilo è nulla (vedi anche paradosso di D'Alembert).
+
+Questo problema può essere superato considerando che il modello di fluido ideale è un modello limite cui si può tendere per valori sempre più bassi del coefficiente di viscosità, sebbene per un profilo alare gli effetti viscosi non possano essere trascurati anche nelle immediate vicinanze del corpo.
+
+In effetti quando un corpo comincia a muoversi in un fluido inizialmente in quiete, il "campo" che si realizza nei primi istanti è irrotazionale, ma il fluido nelle immediate vicinanze del corpo è "reale". In particolare, nel caso di un profilo alare si forma nella parte superiore del bordo d'uscita un vortice (anche detto in questo caso vortice d'avviamento) a causa della separazione del flusso causata dall'"aggiramento" del bordo d'uscita aguzzo da parte del fluido che proviene dal ventre del profilo (vedi anche condizione di Kutta).
+
+Durante la fase di accelerazione questo vortice, che è instabile, viene trasportato a valle e quindi "dissipato" dal moto principale del fluido.
+
+Il vortice di avviamento, che possedeva una circolazione antioraria ha però generato in conseguenza del suo allontanamento, per il teorema di conservazione della vorticità di Helmholtz, una circolazione uguale e opposta (cioè oraria) attorno al profilo alare, che per il teorema di Kutta-Žukovskij genera "finalmente" una forza (la portanza) diretta verso l'alto.
+
+In definitiva la circolazione attorno al profilo nasce per reazione a quella associata al vortice di avviamento durante la fase di accelerazione.
+Nel flusso reale (dunque viscoso) durante il moto, vortici con asse parallelo alla direzione dell'apertura alare sono continuamente prodotti negli strati limite del dorso e del ventre dell'ala.
+
+In pratica il modello di flusso ideale può ancora essere considerato valido per calcolare la circolazione attorno ai corpi ma occorre introdurre dei "vortici ideali" sulla superficie del profilo per tenere in conto la viscosità nelle immediate vicinanze del profilo e simulare le circolazioni prodotte dai vortici di avviamento.
+
+Con tali assunzioni il flusso stazionario attorno ad un profilo alare può pertanto essere schematizzato con la sovrapposizione di un moto di flusso rettilineo uniforme e un campo di "sola circolazione" attorno al profilo.
+
+Punti notevoli
+Il punto di applicazione della forza aerodinamica, la forza risultante dal sistema di forze elementari agenti sul corpo, rispetto al quale il momento risultante quindi è nullo, è detto centro di pressione.
+
+Quando il contributo della resistenza al momento aerodinamico è trascurabile, il centro aerodinamico coincide con il punto di applicazione della portanza, tale che il momento rispetto ad esso è nullo.
+
+Il centro aerodinamico, detto anche fuoco o punto neutro, è il punto in cui il coefficiente di momento agente sul corpo (che non si trovi ad incidenze elevate) rimane generalmente costante al variare dell’incidenza. Considerando la risultante delle forze aerodinamiche applicata in questo punto bisognerà tenere in considerazione anche un momento aerodinamico applicato generalmente non nullo (è un sistema di forze equivalente al sistema di forze effettivamente applicate).
+
+Il mito dello stesso tempo di percorrenza
+Esiste una spiegazione, errata ma molto popolare, della generazione di portanza, nota come teoria dello stesso tempo di percorrenza.
+
+Secondo questa teoria due particelle di fluido appaiate che vengono divise da un profilo solido devono necessariamente ricongiungersi sul bordo d'uscita.
+
+Poiché, allora, il tempo di percorrenza delle due particelle sul dorso e sul ventre del profilo deve essere lo stesso, l'aria che passa sul dorso deve avere una velocità più elevata, e quindi, si dice, per il principio di Bernoulli (o anche per effetto Venturi) una pressione inferiore rispetto a quella presente sul ventre.
+
+Tale spiegazione è errata, in primo luogo, perché non si verifica che due particelle di fluido percorrono dorso e ventre nello stesso tempo, in secondo luogo perché richiederebbe una grande differenza di curvatura tra il dorso e il ventre, portando a conclusioni paradossali.
+
+Infatti il mito dello stesso tempo di percorrenza viene smentito dalla teoria della circolazione: se due particelle percorressero rispettivamente dorso e ventre di un profilo aerodinamico nello stesso tempo non ci sarebbe circolazione e, dunque, portanza. Vi è portanza verso l'alto solo se il tempo di percorrenza sul dorso è inferiore a quello sul ventre, generando una circolazione non nulla.
+
+La differenza di lunghezza tra dorso e ventre, in un profilo alare di uso comune, è troppo piccola per sviluppare una portanza sufficiente alla sostentazione secondo tale teoria: sta di fatto che possono volare anche aeroplani con profilo alare simmetrico.
+Ciò che genera portanza verso l'alto è la deviazione delle linee di corrente verso il basso (Effetto Coandă). Tale deviazione è governata in gran parte dalla presenza di un angolo d'attacco.
+
+Applicazioni tecniche
+La portanza in aeronautica
+
+La portanza è la forza responsabile del sostentamento di un aeroplano, poiché si oppone alla forza peso.
+
+Tra le altre forze agenti su un aeroplano vi sono la spinta (generata dal motore e responsabile in primo luogo dell'avanzamento) e la resistenza aerodinamica in direzione opposta al moto.
+
+Tipicamente, l'organo preposto a sviluppare la portanza su un aeroplano è l'ala, ma spesso aliquote considerevoli di portanza sono generate dalla fusoliera, mentre i piani di coda orizzontali (detti anche stabilizzatori) generano portanza (verso l'alto o verso il basso) per bilanciare la coppia costituita dalla forza aerodinamica dell'ala applicata nel centro di pressione, e dalla forza peso applicata nel baricentro.
+
+Un profilo alare il cui scopo sia la sostentazione deve essere studiato in modo tale da deviare il fluido verso il basso, talora con il vincolo del mantenimento di una resistenza aerodinamica ridotta (ad esempio, per un volo in crociera), talora ricercando la generazione della stessa portanza alla minima velocità possibile (ad esempio, nell'atterraggio).
+
+Si parla di portanza anche in idrodinamica nel caso di "ali" sottomarine, ad esempio usate negli aliscafi.
+
+La deportanza in automobilismo
+Se la portanza è diretta verso il basso invece che verso l'alto, si parla, in gergo, di deportanza.
+
+La deportanza è utilizzata in ambito automobilistico quando i veicoli raggiungono velocità elevate, per garantire l'aderenza al suolo dello pneumatico.
+
+Si applicano allora degli appositi alettoni, che sfruttano lo stesso principio delle ali degli aeromobili, ma in senso opposto.
+
+Per ottenere ciò, il profilo alare è inclinato in modo da deviare l'aria verso l'alto.
+
+Un altro metodo è quello d'adoperare un fondo piatto della vettura, assieme alle minigonne e a un estrattore posteriore, in modo da creare una depressione sotto l'auto.
+
+Voci correlate
+*Aerodinamica
+*Aeronautica
+*Aeroplano
+*Ala
+*Effetto Coandă
+*Equazioni di Eulero
+*Equazioni di Navier-Stokes
+*Profilo alare
+*Superficie alare
+
+Collegamenti esterni
+* Animazione di un fluido attorno un profilo alare
+* Tutorial della NASA, con animazioni
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 14:01:47 from:
+  http://it.wikipedia.org/wiki/Portanza
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

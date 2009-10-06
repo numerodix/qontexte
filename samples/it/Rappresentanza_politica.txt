@@ -1,0 +1,196 @@
+L’analisi
+
+Introduzione
+
+L’analisi del concetto moderno-occidentale della rappresentanza politica richiede preliminarmente l’analisi di due ulteriori concetti, quello della rappresentanza, da cui esso è derivato e ha ereditato aspetti fondamentali, e quello della rappresentanza politica, di cui esso è la specie prevalente.
+
+La rappresentanza
+
+La rappresentanza è la conclusione di un negozio giuridico (la manifestazione cosciente e volontaria di un proprio intento, a cui l’ordinamento giuridico riconnette quegli effetti ritenuti necessari o convenienti alla sua miglior realizzazione in forma giuridica), da parte di un soggetto (il rappresentante), in nome (manifestando di agire nelle veci di altri) e per conto (nell’interesse) di un altro soggetto (il rappresentato) e nei confronti di un terzo, e si distingue in individuale e collettiva, di interessi e di volontà, organica e soggettiva nonché legale e volontaria.
+
+Individuale e collettiva
+
+La rappresentanza individuale è la rappresentanza il cui interesse è individuale, cioè appartenente a un individuo.
+La rappresentanza collettiva è la rappresentanza il cui interesse è collettivo, cioè appartenente a una collettività, e si distingue in generale, che è quella il cui interesse è universale, cioè appartenente alla totalità dei componenti della collettività, e speciale, che è quella il cui interesse è particolare, cioè appartenente a una parte – maggioritaria (l’interesse maggioritario) o minoritaria (l’interesse minoritario) – dei componenti della collettività.
+
+Di interessi e di volontà
+
+La rappresentanza di interessi è la rappresentanza il cui interesse è oggettivo, cioè interpretato dal rappresentante.
+La rappresentanza di volontà è la rappresentanza il cui interesse è soggettivo, cioè interpretato dal rappresentato.
+
+Organica e soggettiva
+
+La rappresentanza organica è la rappresentanza il cui rappresentante è un organo di una persona giuridica e il cui rappresentato è tale persona giuridica.
+
+La rappresentanza soggettiva è la rappresentanza il cui rappresentante è un soggetto giuridico e il cui rappresentato è un altro soggetto giuridico e si distingue in diretta, che è quella il cui rappresentante agisce in nome altrui (con immediata destinazione degli effetti giuridici sul patrimonio del rappresentato) (il potere di spendere il nome altrui), e indiretta, che è quella il cui rappresentante agisce in nome proprio (con immediata destinazione degli effetti giuridici sul patrimonio del rappresentante e con obbligo di successivo ritrasferimento degli stessi sul patrimonio del rappresentato).
+
+Legale e volontaria
+
+La rappresentanza legale è la rappresentanza il cui potere è conferito e regolato dalla legge.
+
+La rappresentanza volontaria è la rappresentanza il cui potere è conferito e regolato dal rappresentato.
+
+La rappresentanza politica
+
+La rappresentanza politica è la rappresentanza di uno Stato di democrazia classica e si distingue in autoritaria, democratica e mista.
+
+Autoritaria
+
+La rappresentanza politica autoritaria è la rappresentanza politica, sul piano sostanziale, generale e di interessi nonché, sul piano formale, organica e legale.
+
+Da quanto s’è detto, discendono i seguenti corollari:
+
+–	sul piano sostanziale, che il rappresentante e il rappresentato consistono, rispettivamente, nel governante e nella totalità dei governati e che l’atto rappresentativo può prescindere dall’elezione;
+
+– nonché, sul piano formale, che il rappresentante e il rappresentato costituiscono un unico soggetto giuridico e che il rapporto rappresentativo è disciplinato da un accordo morale (regolato da norme morali) (il mandato non imperativo): sicché, il precetto rappresentativo ha un carattere morale e la sanzione rappresentativa non può superare la mancata conferma.
+
+La rappresentanza politica autoritaria, pertanto, è caratterizzata dal potere del rappresentante politico di disattendere le promesse elettorali.
+
+Democratica
+
+La rappresentanza politica democratica è la rappresentanza politica, sul piano sostanziale, speciale e di volontà nonché, sul piano formale, soggettiva e volontaria.
+
+Da quanto s’è detto, discendono i seguenti corollari:
+
+–	sul piano sostanziale, che il rappresentante e il rappresentato consistono, rispettivamente, nell’eletto e nella maggioranza degli elettori e che l’atto rappresentativo non può prescindere dall’elezione;
+
+–	nonché, sul piano formale, che il rappresentante e il rappresentato costituiscono due soggetti giuridici distinti e che il rapporto rappresentativo è disciplinato da un accordo giuridico (regolato da norme giuridiche) (il mandato imperativo): sicché, il precetto rappresentativo ha un carattere giuridico e la sanzione rappresentativa non può superare la revoca.
+
+La rappresentanza politica democratica, pertanto, è caratterizzata dal dovere del rappresentante politico di rispettare le promesse elettorali.
+
+Mista
+
+La rappresentanza politica mista è la rappresentanza politica, in tutto o in parte, autoritaria o democratica.
+
+La rappresentanza politica mista, pertanto, è caratterizzata dalla libertà del rappresentante politico di obbligarsi o meno a rispettare, in tutto o in parte, le promesse elettorali.
+
+La rappresentanza politica vigente nelle democrazie moderne e occidentali
+
+La rappresentanza politica normalmente vigente nelle democrazie moderne e occidentali1 ha un carattere essenzialmente autoritario2.
+
+La critica
+
+Introduzione
+
+La critica del concetto moderno-occidentale della rappresentanza politica si è sviluppata essenzialmente secondo due contrapposte teorie, quella per cui la rappresentanza politica vigente nelle democrazie moderne e occidentali dovrebbe avere un carattere autoritario (la teoria autoritaria) e quella per cui tale rappresentanza dovrebbe avere un carattere democratico (la teoria democratica).
+
+La teoria autoritaria
+
+Gli autori principali della teoria autoritaria sono G. Jellinek3, V.E. Orlando4, S. Romano5 e V. Miceli6, vissuti tra la metà dell’Ottocento e la metà del Novecento.
+
+La tesi fondamentale della teoria autoritaria è che la rappresentanza politica dovrebbe essere, sul piano sostanziale, generale e di interessi, poiché il massimo bene pubblico possibile consiste nella cura degli interessi universali e oggettivi dello Stato, nonché, sul piano formale, organica e legale, poiché la complessità e l’imparzialità di tali interessi richiedono che il rappresentante abbia, rispetto al rappresentato, la titolarità diretta della sovranità (che, di conseguenza, dovrebbe essere unica e indivisibile).
+
+La teoria democratica
+
+L’autore principale della teoria democratica è H. Kelsen7, vissuto tra il 1881 e il 1973.
+
+La tesi fondamentale della teoria democratica è che la rappresentanza politica dovrebbe essere, sul piano sostanziale, speciale e di volontà, poiché il massimo bene pubblico possibile consiste nella cura degli interessi maggioritari e soggettivi dello Stato, nonché, sul piano formale, soggettiva e volontaria, poiché la semplicità e la parzialità di tali interessi richiedono che il rappresentante abbia, rispetto al rappresentato, la titolarità indiretta della sovranità (che, di conseguenza, dovrebbe essere molteplice e divisibile).
+
+La teoria preferibile
+
+La teoria preferibile, tra l’autoritaria e la democratica potrebbe essere la mista, poiché la rappresentanza politica autoritaria, rispetto alla democratica, ha il vantaggio di garantire un’amministrazione più flessibile, comportando una maggiore libertà del rappresentante, mentre la rappresentanza politica democratica, rispetto all’autoritaria, ha il vantaggio di garantire un’amministrazione più rappresentativa, comportando la cura degli interessi della maggioranza degli elettori anziché quella degli interessi personali del rappresentante8.
+
+Con parole di P. Ardant9, pertanto, si potrebbe dire che la rappresentanza politica vigente nelle democrazie moderne e occidentali è una “rappresentanza snaturata”, come, tra l’altro, risulta dai seguenti fatti:
+
+–	che i partiti mirano al potere piuttosto che alla rappresentanza;
+
+–	che i partiti non sono organizzati in modo pienamente democratico;
+
+–	che gli eletti dipendono dai partiti piuttosto che dagli elettori (e, di conseguenza, rappresentano i partiti più che gli elettori);
+
+–	che gli eletti sembrano essere meno capaci e competenti del possibile;
+
+–	la diminuzione dei partiti fortemente caratterizzati e dei partiti generalisti;
+
+–	l’aumento dei partiti “pigliatutto”, de-ideologizzati o dai programmi vaghi e poco differenziati gli uni dagli altri e dei partiti regionali, ecologisti o corporativistici;
+
+–	e la moltiplicazione degli elettori fluttuanti.
+
+Una ipotesi di applicazione della teoria preferibile potrebbe essere l’istituzione di un mandato costituzionale di rappresentanza politica10, cioè un mandato il cui accordo consisterebbe nella candidatura e intercorrerebbe tra lo Stato e il candidato, la cui causa consisterebbe nella rappresentanza politica, il cui oggetto consisterebbe nel nucleo essenziale del programma elettorale e sarebbe sospensivamente condizionato all'elezione e la cui forma consisterebbe in una legge costituzionale.
+
+Il mandato suddetto metterebbe in concorrenza i partiti politici, oltre che sui programmi elettorali, anche sulle conseguenze della mancata realizzazione degli stessi, vincolando maggiormente i rappresentanti politici al rispetto delle promesse elettorali.
+
+Note
+
+1. H. Kelsen, infatti, in Teoria generale del diritto e dello Stato, Milano, 1980, a pag. 295, scrive: “Le costituzioni delle democrazie moderne … solo eccezionalmente conferiscono al corpo elettorale il potere di revocare i funzionari elettivi. Si dànno tali eccezioni nelle costituzioni di alcuni Stati membri degli Stati Uniti d’America, quale la Costituzione della California, che all’art. XXIII, sez. 1, stabilisce: “Ogni pubblico ufficiale elettivo dello Stato di California può essere rimosso dal suo ufficio in qualsiasi momento dagli elettori aventi la facoltà di eleggere un successore a tale pubblico ufficiale, mediante il procedimento e nel modo qui previsti, procedimento che andrà sotto il nome di revoca… recall)””.
+
+2. La rappresentanza politica, nell’ordinamento giuridico italiano, è regolata principalmente dall’art. 67 della Cost., che recita: “Ogni membro del Parlamento rappresenta la Nazione ed esercita le sue funzioni senza vincolo di mandato”.
+
+3. G. Jellinek, infatti, in La dottrina generale del diritto dello Stato, Milano, 1949, a pag. 153, scrive: “Nello Stato con costituzione rappresentativa, il popolo, come elemento unitario dello Stato, è nello stesso tempo membro attivo dello Stato, organo collegiale dello Stato: o – per esprimerci ancor più esattamente – quella parte del popolo, alla quale, secondo la Costituzione, compete … l’esercizio di funzioni statali. Una parte di queste funzioni l’esercita il popolo stesso; l’altre, per mezzo di una deputazione, la quale, come organo del popolo, è nel contempo organo dello Stato stesso. Le rappresentanze popolari, adunque, sono organi secondari, cioè organi di un organo”.
+
+4. V. E. Orlando, infatti, in Principi di diritto costituzionale, Firenze, 1917, a pagg. 88-89, scrive: “Lungi dal rappresentare la media comune della intelligenza e della cultura del corpo elettorale, si presume che questi corpi siano ad essa grandemente superiori, componendosi degli elementi migliori che, in un dato momento storico, offre l’ambiente politico della nazione. L’eletto può rappresentare un generale indirizzo politico prevalente nel suo corpo elettorale, ma, entro questa sfera molto larga (e l’attenervisi è per lui un obbligo morale, ma, certamente, non giuridico), egli conserva una piena indipendenza di opinioni e di condotta, o, in altri termini, egli non rappresenta che sé stesso”.
+
+5. S. Romano, infatti, in Principi di diritto costituzionale generale, Milano, 1947, a pag. 166, scrive: “È però da rilevare che, quando si parla della rappresentanza della nazione o del popolo da parte della Camera o di altra istituzione e, quindi, di una relazione intercedente fra quest’ultima e la collettività rappresentata, alla parola relazione occorre dare un significato che non è quello di rapporto giuridico vero e proprio, in quanto essa non implica dei diritti o doveri della prima verso la seconda o della seconda verso la prima”.
+
+6. V. Miceli, infatti, in Il concetto giuridico moderno della rappresentanza politica, Perugia, 1891, a pagg. 173 e 174, scrive: “mandato politico secondo lo spirito della rappresentanza moderna … implica che la persona scelta debba rappresentare i bisogni e gl’interessi dello stato in genere e debba soprattutto occuparsi del suo generale benessere, quantunque non sia possibile di determinare in che modo e fino a che punto, tanto che se ne possa fare per essa un obbligo certo e preciso. Per questo l’obbligo imposto dal mandato politico al mandatario, non è un obbligo giuridico, ma è un obbligo puramente morale …”.
+
+7. H. Kelsen, infatti, nell’op. cit., a pagg. 295-297, scrive: “Per stabilire un vero rapporto di rappresentanza, non basta che il rappresentante sia nominato o eletto dal rappresentato. È necessario che il rappresentante sia giuridicamente obbligato ad eseguire la volontà del rappresentato, e che l’adempimento di questo obbligo sia giuridicamente garantito. La garanzia tipica è il potere del rappresentato di revocare il rappresentante, nel caso che l’attività di quest’ultimo non si conformi ai desideri del primo. …
+
+La formula che il membro del parlamento non è il rappresentante dei suoi elettori ma di tutto il popolo, o, come taluno scrive, di tutto lo Stato, e che perciò non è vincolato da nessuna istruzione dei suoi elettori e non può venire revocato, è una finzione politica. …
+
+Se gli scrittori politici insistono nel definire un organo “rappresentativo” il parlamento della democrazia moderna, nonostante la sua indipendenza giuridica dal corpo elettorale, se taluni scrittori dichiarano persino che il mandat imperatif è contrario al principio del governo rappresentativo, essi non presentano una teoria scientifica, ma sostengono un’ideologia politica. La funzione di questa ideologia è di nascondere la situazione reale, di mantenere l’illusione che il legislatore sia il popolo nonostante il fatto che, in realtà, la funzione del popolo – o, formulata più esattamente del corpo elettorale – sia limitata alla creazione dell’organo legislativo.
+
+L’indipendenza giuridica del parlamento dal corpo elettorale significa che il principio della democrazia è sostituito, in una certa misura, da quello della divisione del lavoro. Per celare questo passaggio da un principio ad un altro, si ricorre alla finzione secondo la quale il parlamento “rappresenta” il popolo”.
+
+8. V. Miceli, infatti, nell’op. cit., a pagg. 147-148, scrive: “Egli sa che per essere eletto e quindi per essere confermato nelle elezioni successive, deve accontentare certe esigenze, e certi desideri, deve soddisfare certi interessi, e siccome l’ambizione di occupare quell’ufficio è nella più gran parte degli uomini più forte del desiderio del generale benessere dello stato, egli si deve sentire a preferenza attratto a favorire le aspirazioni dei suoi rappresentati anziché a tener conto dei bisogni dello stato in genere. Inoltre i bisogni generali dello stato sono troppo complessi per potere essere da tutti compresi in tutta la loro estensione e percepiti in tutta la loro evidenza; mentre gl’interessi locali sono assai più semplici e possono essere facilmente percepiti e compresi e perciò stesso possono assumere maggiore importanza e gravitare con più forza sulla coscienza dei rappresentati, come su quella dei rappresentanti, onde essi anche in buona fede possono diventare a preferenza i campioni di questi ultimi.
+
+Ciò quando le cose si svolgono normalmente e quando non entrano in campo influenze immorali ed interessi sinistri; che quando poi queste seconde cause cominciano ad agire, non sono più i legittimi bisogni e le legittime aspirazioni dei gruppi quelle che a preferenza occupano la mente e dirigono le azioni del rappresentante; sono invece i bisogni egoistici, le aspirazioni ingiuste, le pretese esagerate dei piccoli centri, o di personaggi potenti e di grandi elettori. Questi dominano e tengono come incatenato il rappresentante, che non è se non una loro creatura, e lo fanno agire secondo il loro talento e per il conseguimento dello loro mire”.
+
+9. ARDANT, P., La rappresentanza politica, in Rivista di diritto costituzionale, Torino, 1996, 164-167.
+
+10. L’istituzione di un mandato costituzionale di rappresentanza politica, nell’ordinamento giuridico italiano, potrebbe avvenire, principalmente, tramite l’aggiunta all’art. 67 della Cost. dell’inciso “salvo il disposto del mandato costituzionale di rappresentanza politica”.
+
+Bibliografia
+
+*ARDANT, P., La rappresentanza politica, in Rivista di diritto costituzionale, Torino, 1996;
+
+*BARBERO, D., Il sistema del diritto privato, Torino, 1993;
+
+*BISCARETTI DI RUFFÌA, P., Introduzione al diritto costituzionale comparato, Milano, 1988;
+
+*CERRI, A., Istituzioni di diritto pubblico, Milano, 2006;
+
+*GALGANO, F., Diritto privato, Padova, 2004;
+
+*GAZZONI, F., Manuale di diritto privato, Napoli, 2006;
+
+*JELLINEK, G., La dottrina generale del diritto dello Stato, Milano, 1949;
+
+*KELSEN, H., Teoria generale del diritto e dello Stato, Milano, 1980;
+
+*MARTINES, T., Diritto costituzionale, Milano, 2005;
+
+*MAZZIOTTI DI CELSO, M., e SALERNO, G. M., Manuale di diritto costituzionale, Padova, 2005;
+
+*MICELI, V., Il concetto giuridico moderno della rappresentanza politica, Perugia, 1891;
+
+*NIVARRA, L., RICCIUTO, V., e SCOGNAMIGLIO, C., Istituzioni di diritto privato, Torino, 2004;
+
+*ORLANDO, V. E., Principi di diritto costituzionale, Firenze, 1917;
+
+*PALADIN, L., Diritto costituzionale, Padova, 1998;
+
+*PERASSI, T., Introduzione alle scienze giuridiche, Padova, 1967;
+
+*ROMANO, S., Principi di diritto costituzionale generale, Milano, 1947.
+
+Voci correlate
+
+*Corrente politica
+*Mandato
+*Norma giuridica
+*Norma morale
+*Ordinamento giuridico
+*Partito politico
+*Politica
+*Rappresentanza
+*Rappresentanza (filosofia politica)
+*Scienza politica
+*Sistema elettorale
+*Stato
+*Stato di democrazia classica
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 09:55:07 from:
+  http://it.wikipedia.org/wiki/Rappresentanza_politica
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

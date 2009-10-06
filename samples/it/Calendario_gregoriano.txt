@@ -1,0 +1,134 @@
+Il calendario gregoriano è il calendario ufficiale della maggior parte dei paesi del mondo. Esso prende il nome da papa Gregorio XIII, che lo introdusse nel 1582, con la bolla papale Inter Gravissimas promulgata dalla sua residenza di Villa Mondragone (presso Monte Porzio Catone). È una modificazione del calendario giuliano, che era in vigore in precedenza.
+
+Si tratta di un calendario solare, cioè basato sul ciclo delle stagioni. L'anno si compone di 12 mesi di durate diverse (da 28 a 31 giorni), per un totale di 365 o 366 giorni. Gli anni di 366 giorni sono detti bisestili: è bisestile un anno ogni quattro, con alcune eccezioni (la regola esatta è spiegata più avanti).
+
+Storia
+La questione della progressiva regressione dell'equinozio di primavera dovuta all'imprecisione del calendario giuliano era nota e dibattuta fin dal concilio di Nicea (325).
+Nel 1582 l'equinozio astronomico cadeva oramai l'11 di marzo, con un anticipo di dieci giorni rispetto all'equinozio convenzionale del 21 marzo, stabilito dal Concilio di Nicea quale base per il calcolo della Pasqua.
+Papa Gregorio XIII si rese conto che la Pasqua, di quel passo, avrebbe finito per essere celebrata in estate. Decise quindi che era giunto il momento di affrontare la questione.
+Per riformare il calendario giuliano papa Gregorio XIII nominò una commissione di esperti, presieduta dal matematico bavarese Cristoforo Clavio, gesuita. Ai lavori diedero un contributo decisivo il medico calabrese Luigi Lilio e il matematico perugino Ignazio Danti.
+
+Per sistemare il calendario giuliano furono usate le misurazioni dell'astronomo Niccolò Copernico, pubblicate nel 1543 (anno della sua morte) sotto il titolo di De Revolutionibus orbium coelestium libri sex ("Sei libri sui movimenti circolari dei corpi celesti"), il quale era riuscito a calcolare, con notevole accuratezza, sia l'anno tropico, che l'anno siderale.
+Il calendario gregoriano entrò subito in vigore il 15 ottobre 1582 (5 ottobre secondo il calendario giuliano) in Italia, Francia, Spagna, Portogallo, Polonia - Lituania e Belgio - Olanda - Lussemburgo, e negli altri paesi cattolici in date diverse nell'arco dei cinque anni successivi (Austria a fine 1583, Boemia e Moravia e cantoni cattolici della Svizzera a inizio 1584, ...).
+Gli altri paesi si uniformarono in epoche successive: gli stati luterani, calvinisti e anglicani durante il XVIII secolo, quelli ortodossi ancora più tardi.
+Le Chiese ortodosse russa, serba e di Gerusalemme continuano a tutt'oggi a seguire il calendario giuliano: da ciò nasce l'attuale differenza di 13 giorni tra le festività religiose "fisse" ortodosse e quelle delle altre confessioni cristiane.
+
+Durata dei mesi
+I mesi del calendario gregoriano sono:
+* gennaio (31 giorni)
+* febbraio (28 giorni, 29 negli anni bisestili)
+* marzo (31 giorni)
+* aprile (30 giorni)
+* maggio (31 giorni)
+* giugno (30 giorni)
+* luglio (31 giorni)
+* agosto (31 giorni)
+* settembre (30 giorni)
+* ottobre (31 giorni)
+* novembre (30 giorni)
+* dicembre (31 giorni)
+
+N.B:Il 365º giorno è il 31 dicembre, 366º negli anni bisestili
+
+I giorni di ciascun mese sono identificati da una numerazione progressiva, a partire da 1. Così ad esempio il primo giorno dell'anno è il 1º gennaio, mentre l'ultimo è il 31 dicembre.
+
+Vi sono diversi metodi per ricordare agevolmente la durata dei mesi. Uno utilizza questa filastrocca:
+
+trenta dì conta novembre
+con april, giugno e settembre
+di ventotto ce n'è uno (febbraio)
+tutti gli altri ne han trentuno.
+
+la cui variante più moderna è:
+
+trenta giorni ha novembre
+con aprile, giugno e settembre
+di ventotto ce n'è uno (febbraio)
+tutti gli altri ne han trentuno.
+
+Un altro utilizza le nocche della mano e gli avallamenti fra di esse. Le nocche indicheranno i mesi lunghi, gli avallamenti i mesi corti.
+Partendo dalla nocca più esterna si "batte" "gennaio"; l'avallamento adiacente indica "febbraio"; la nocca successiva indica "marzo" e così via fino a "luglio" (ultima nocca). A questo punto bisogna ricominciare dalla prima nocca (e non tornare indietro) battendovi "agosto" e poi "settembre" nell'avallamento proseguendo fino a "dicembre".
+
+Il metodo vale anche partendo dalla nocca dell'indice e procedendo in senso opposto, basta ricordare di "andare a capo" una volta giunti a battere "luglio". La foto a destra dovrebbe chiarire lo schema.
+
+Il caso svedese
+Come risulta dalla tabella qui sopra, la Svezia (compresa la Finlandia che all'epoca era territorio svedese) adottò definitivamente il calendario gregoriano a partire dal 1º marzo 1753 (18 febbraio del calendario giuliano). Però in realtà questa è soltanto una parte della storia.
+
+Nel 1700 era già stato deciso di adottare il calendario gregoriano, ma non si era voluto disporre un "salto" di 10 giorni come negli altri paesi: si era scelto invece di recuperare progressivamente, eliminando tutti gli anni bisestili dal 1700 al 1740. D'altra parte, i giorni da recuperare erano diventati undici dagli originali dieci, perché anche il 1700 era bisestile per il calendario giuliano ma non per il gregoriano.
+
+Tuttavia, negli anni successivi, il governo svedese trascurò di eseguire il piano programmato: così sia il 1704 che il 1708 furono bisestili. Riconosciuto l'errore, il re svedese Carlo XII prese la decisione di tralasciare questo piano, che causava soltanto molta confusione.
+Però, anziché portare la data di 10 giorni avanti, per coincidere con il calendario gregoriano, si è deciso di tornare al calendario giuliano. Per recuperare il giorno saltato nel 1700, si stabilì quindi che il 1712 fosse doppiamente bisestile, cioè con il 30 febbraio.
+Alla fine, come detto sopra, la Svezia (compresa Finlandia) adottò il calendario gregoriano il 1753, quando dopo il 17 febbraio, ha seguito il 1º marzo.
+
+La riforma sovietica
+Dopo che la Russia nel 1918 aveva adottato il calendario gregoriano, nel 1923 la formula per decidere quali anni centenari fossero bisestili fu ufficialmente modificata, ottenendo il Calendario Soviet. In esso, tra gli anni divisibili per 100 sono bisestili solo quelli che divisi per 9 diano come resto 2 o 6. Il primo anno di discordanza con il calendario gregoriano sarà il 2800. Resta da vedere se la riforma sia ancora considerata ufficiale dopo il dissolvimento dell'Unione Sovietica.
+
+Motivazione
+Secondo il calendario giuliano, sono bisestili gli anni la cui numerazione è multipla di 4: l'anno giuliano medio dura quindi 365 giorni e 6 ore (la media di tre anni di 365 giorni e uno di 366). Questa durata non corrisponde esattamente a quella dell'anno solare medio, che si ricava dalle osservazioni astronomiche: quest'ultimo infatti è più corto di 11 minuti e 14 secondi. Di conseguenza, il calendario giuliano accumula un giorno di ritardo ogni circa 128 anni rispetto al trascorrere delle stagioni.
+
+Dal 325, anno in cui il Concilio di Nicea stabilì la regola per il calcolo della Pasqua, nel 1582 si era ormai accumulata una differenza di circa 10 giorni. Questo significava, ad esempio, che la primavera, in base alle osservazioni astronomiche, non risultava più iniziare il 21 marzo, ma l'11 marzo. Così la Pasqua, che avrebbe dovuto cadere la prima domenica dopo il plenilunio di primavera, veniva spesso a cadere nella data sbagliata.
+
+Venne dunque stabilito di:
+* recuperare i giorni perduti, in modo da riallineare la data d'inizio delle stagioni con quella che si aveva nel 325;
+* modificare la durata media dell'anno, in modo da prevenire il ripetersi di questo problema.
+
+Regole
+Per recuperare i dieci giorni perduti, si stabilì che il giorno successivo al 4 ottobre 1582 fosse il 15 ottobre; inoltre, per evitare interruzioni nella settimana, si convenne che il 15 ottobre fosse un venerdì, dal momento che il giorno precedente, il 4, era stato un giovedì. Anche i paesi che adottarono il calendario gregoriano successivamente dovettero stabilire un analogo "salto di giorni" per riallinearsi (vedi la tabella sopra).
+
+Per modificare la durata media dell'anno, venne cambiata la regola che decide gli anni bisestili: secondo la nuova regola, gli anni la cui numerazione è multipla di 100 sono bisestili soltanto se essa è anche multipla di 400: vale a dire, sono bisestili gli anni 1600, 2000, 2400... mentre non lo sono gli anni 1700, 1800, 1900, 2100, 2200, 2300... Tutti gli altri anni la cui numerazione è multipla di 4 rimangono bisestili. (Per i secoli precedenti resta valido il calendario giuliano quindi gli anni 1500, 1400, 1300... sono tutti bisestili.)
+
+In questo modo ci sono 97 anni bisestili ogni 400 anni, invece che 100. L'anno gregoriano medio è quindi di 3/400 di giorno, cioè 10 minuti e 48 secondi, più corto di quello giuliano: la differenza dall'anno solare è di soli 26 secondi (in eccesso). Questa discrepanza equivale a circa un giorno ogni 3.323 anni, quindi essendo stato istituito nell'anno 1582 bisognerà sopprimere un giorno soltanto nell'anno 4905 per non avere, per esempio, che la primavera inizi il 20 marzo invece del 21.
+
+Inoltre, in 400 anni gregoriani ci sono esattamente 365 · 303 + 366 · 97 = 146097 giorni. Poiché 146097 è divisibile per 7, anche i giorni della settimana si ripetono uguali dopo 400 anni. Questo vuol dire che i calendari sono esattamente uguali: il calendario del 2000 è uguale a quello del 1600 e sarà uguale a quello del 2400, del 2800...
+
+Parallelamente alla riforma del calendario, pur mantenendo la regola per il calcolo della Pasqua dettata dal Concilio di Nicea, venne stabilito che la data del primo plenilunio di primavera fosse computata col sistema delle epatte, ideato da Luigi Giglio (ideatore della riforma gregoriana), anziché con il metodo di Dionigi il Piccolo fino ad allora seguito dalla Chiesa.
+Per i dettagli si veda voce specifica.
+
+Il calendario gregoriano guadagna un giorno rispetto a quello giuliano ogni volta che "salta" l'anno bisestile: così la differenza, che era di 10 giorni nel 1582, è diventata di 11 giorni nel 1700, di 12 nel 1800 e di 13 nel 1900; nel 2100 diventerà di 14 giorni, nel 2200 di 15, e così via.
+
+Ulteriori miglioramenti
+Per migliorare ulteriormente l'accuratezza del calendario gregoriano, John Herschel (1792-1871) ha proposto di non considerare bisestili gli anni multipli di 4000, cioè 4000, 8000, 12000... In questo modo ci sarebbero 969 anni bisestili ogni 4000; la durata media dell'anno corrispondente è di 365 giorni, 5 ore, 48 minuti e 50 secondi circa. L'errore verrebbe così abbassato a soli circa 4 secondi in eccesso ogni anno (un giorno ogni 20000 anni).
+
+Ancora più precisa è la riforma sovietica del calendario giuliano: gli anni multipli di 100 sono bisestili se, prendendo il numero dei secoli e dividendolo per 9, il resto è 2 oppure 6. In questo modo ci sono 218 anni bisestili ogni 900 anni; la durata media dell'anno risulta di 365 giorni e 218/900 = 365 giorni, 5 ore, 48 minuti e 48 secondi. La differenza rispetto all'anno solare è così di soli 2 secondi.
+
+Infine una corrispondenza esatta con la durata media dell'anno tropico, convenzionalmente pari a 365.2422 giorni, si ottiene non considerando bisestili sia gli anni multipli di 4000, sia quelli multipli di 10000. Cioè non sarebbero bisestili gli anni 4000, 8000, 10000, 12000, 16000, 20000... In questo modo infatti vi sono 4844 anni bisestili ogni 20000: 4844/20000 = 0,2422.
+
+La ricerca di un calendario "perfetto" è utopistica. Attualmente infatti possiamo calcolare con esattezza infinitesimale la lunghezza di un anno, ma tale lunghezza non è costante su lunghi periodi. L'orbita terrestre infatti, a causa dell'interazione gravitazionale con gli altri pianeti, cambia lentamente (in particolare cambia la sua eccentricità), e la durata dell'anno varia di conseguenza.
+
+Inoltre, a causa dei fenomeni di marea la rotazione terrestre sta rallentando, e quindi la lunghezza del giorno aumenta, anche se di poco. Negli ultimi decenni, perciò, è entrato in uso l'inserimento quando necessario di un secondo aggiuntivo alla mezzanotte del 31 dicembre, in modo da mantenere allineato il giorno astronomico con quello civile. Questi secondi aggiuntivi (23 dal 1972 al 2005) però alterano anche la durata media dell'anno gregoriano.
+
+Numerazione degli anni
+Il calendario gregoriano continua la numerazione degli anni di quello giuliano: tale numerazione conta gli anni a partire dalla nascita di Gesù, che secondo i calcoli di Dionigi il Piccolo, avvenne nell'anno 753 Ab Urbe condita (dalla fondazione di Roma).
+
+Gli anni successivi alla nascita di Gesù sono indicati con la sigla d.C., cioè "dopo Cristo", o e.v., cioè "era volgare" (nei paesi di lingua inglese si usa invece la sigla A.D., cioè "Anno Domini", oppure C.E., common era; nella ex-DDR si usava indicare l'anno con il più "laico" "u. Z.", ovvero unserer Zeitrechnung, "nostro computo del tempo"). Quelli precedenti invece con la sigla a.C., cioè "avanti Cristo", o a.e.v., cioè "avanti era volgare" (nei paesi di lingua inglese B.C., before Christ, oppure B.C.E., before common era; nella ex-DDR "v. u. Z.", vor unserer Zeitrechnung, "prima del nostro computo del tempo"). Quando si omette la sigla, si sottintende sempre "dopo Cristo". Poiché al tempo di Dionigi lo zero non era conosciuto in Europa, non esiste un "anno zero": l'anno precedente all'1 d.C. è l'1 a.C.
+
+La data tradizionale per la nascita di Gesù è quindi il 25 dicembre dell'1 a.C., una settimana prima che iniziasse l'1 d.C. Oggi si pensa però che i calcoli di Dionigi fossero errati: secondo la maggior parte degli storici, la data di nascita di Gesù fu tra il 7 e il 4 a.C.
+
+Gli astronomi usano a volte una numerazione in cui gli anni avanti Cristo sono indicati con numeri negativi. Questa numerazione non salta lo zero: perciò l'anno -N non corrisponde all'anno N a.C., bensì all'anno N+1 a.C. (cioè l'anno 0 è l'1 a.C., l'anno -1 è il 2 a.C., e così via).
+
+Dato che non esiste l'anno zero, ogni nuovo decennio, secolo, millennio... inizia sempre con l'anno terminante con "1" e non con "0", proprio perché il primo decennio, secolo, millennio... inizia dall'anno 1. Così il III millennio è iniziato il 1º gennaio 2001.
+
+Il 1º gennaio 4713 a.C. è stato scelto nel 1583 dall'astronomo Scaliger come Giorno giuliano (JD) zero (il giorno 1 inizia alle 12:00 del detto giorno).
+
+Voci correlate
+*Calendario
+*Calendario giuliano
+*Calendario romano
+*Anno bisestile
+*Calcolo della Pasqua
+*Anno Domini
+*Numero aureo
+*Calendario C&T
+*Era volgare
+
+Bibliografia
+* Adriano Cappelli, Cronologia, Cronografia e Calendario perpetuo. Dal principio dell'era cristiana ai nostri giorni, Settima edizione rivista, corretta e ampliata, a cura di Marino Vigano, Milano, Hoepli, 1998.
+
+Collegamenti esterni
+* Calendario perpetuo
+* Calendario K13 e corrispondenza con il calendario Gregoriano
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 07:58:39 from:
+  http://it.wikipedia.org/wiki/Calendario_gregoriano
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

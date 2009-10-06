@@ -1,0 +1,150 @@
+In matematica, la dimensione di Hausdorff è un numero reale esteso non negativo (cioè, un numero nell'intervallo chiuso +\infty associato a un generico spazio metrico. È stata introdotta nel 1918 dal matematico Felix Hausdorff. Molti degli strumenti tecnici usati per calcolare la dimensione di Hausdorff di insiemi molto irregolari sono stati sviluppati da Abram Samoilovitch Besicovitch. Per questa ragione la dimensione di Hausdorff è talvolta menzionata come dimensione di Hausdorff-Besicovitch. Meno frequentemente è chiamata dimensione frattale.
+
+Intuitivamente, la dimensione di un insieme (ad esempio, un sottoinsieme dello spazio euclideo) è il numero di parametri indipendenti necessari alla descrizione di un punto dell'insieme. Un concetto matematico che modella fedelmente questa idea ingenua è la dimensione topologica di un insieme. Ad esempio, un punto sul piano è descritto da due parametri indipendenti (le coordinate cartesiane del punto), così, in questo senso, il piano è bidimensionale. Come ci si aspetta, la dimensione topologica è sempre un numero naturale.
+
+Tuttavia, la dimensione topologica si comporta in modi del tutto inaspettati con determinati insiemi molto particolari come i frattali. Ad esempio l'insieme di Cantor ha dimensione topologica zero, ma in un certo senso si comporta come uno spazio a dimensione superiore. La dimensione di Hausdorff offre un altro modo di definire la dimensione, che coinvolge la metrica.
+
+Per definire la dimensione di Hausdorff di X, dobbiamo considerare il numero N(r) delle palle di raggio massimo r necessarie a coprire completamente X. Chiaramente, diminuendo r, N(r) aumenta. Molto grossolanamente, se N(r) cresce allo stesso modo di 1/rd quando r viene ridotto fino a zero, allora diciamo che X ha dimensione d. In realtà la definizione rigorosa di dimensione di Hausdorff è qualcosa di tortuoso, poiché definisce in primo luogo un'intera famiglia di misure di copertura per X. Si scopre che la dimensione di Hausdorff raffina il concetto di dimensione topologica e la mette in relazione con altre proprietà dello spazio, come area o volume.
+
+Si dovrebbe porre attenzione sul fatto che esistono diverse nozioni di dimensione frazionaria, strettamente collegate. Ad esempio la dimensione di Minkowski-Bouligand generalizza l'idea di contare i quadrati di carta millimetrata nei quali può essere trovato un punto di X, al diminuire della dimensione dei quadrati. In molti casi queste nozioni coincidono, ma la relazione fra di esse è fortemente tecnica.
+
+Definizione formale
+
+La dimensione di Hausdorff fornisce un modo accurato per misurare la dimensione di uno spazio metrico arbitrario, inclusi insiemi complicati come i frattali.
+
+Supponiamo che (X,d) sia uno spazio metrico. Come menzionato nell'introduzione, siamo interessati a contare il numero di palle di un certo raggio necessarie a coprire un insieme dato. È possibile provare a fare questo direttamente in molti casi (portando alla cosiddetta dimensione box counting), ma l'intuizione di Hausdorff è stata di affrontare il problema indirettamente usando la teoria della misura sviluppata precedentemente da Henri Lebesgue e Constantin Carathéodory. Allo scopo di trattare i dettagli tecnici di questo approccio, Hausdorff ha definito un'intera famiglia di misure sui sottoinsiemi di X, una per ogni possibile dimensione s ∈ 0,∞. Ad esempio, se X= R3, questa costruzione assegna una misura s-dimensionale Hs a tutti i sottoinsiemi di R3 inclusi il segmento unitario lungo l'asse x 0,1 × × , il quadrato unitario sul piano XY 0,1 × 0,1 × e il cubo unitario 0,1 × 0,1 × 0,1. Per s=2, ci si aspetta che
+
+*  H^2(0,1 \times \ \times \) = 0
+
+*  0
+
+*  H^2(0,1 \times 0,1 \times 0,1) = +\infty
+
+Il precedente esempio suggerisce che possiamo definire s la dimensione di Hausdorff di un insieme A se la sua misura di Hausdorff s-dimensionale è positiva e finita; in realtà dobbiamo modificare leggermente questa definizione. La dimensione di Hausdorff di A è il valore di soglia s al di sotto del quale la misura di Hausdorff s-dimensionale è ∞ e al di sopra del quale è 0. È possibile che la misura di Hausdorff s-dimensionale di un insieme di dimensione s sia 0 o ∞. Ad esempio R ha dimensione 1 e la sua misura di Hausdorff 1-dimensionale è infinita.
+
+Per sorreggere questa costruzione della misura usiamo una teoria della misura appropriata per gli spazi metrici. Si definisce una famiglia di misure esterne metriche su X usando il Metodo II di costruzione delle misure esterne dovuto a Munroe (vedi misura esterna). Sia C la classe di tutti i sottoinsiemi di X; per ogni numero reale s sia ps la funzione A \mapsto diam(A)s su C. La misura di Hausdorff esterna di dimensione s, indicata con Hs è la misura esterna corrispondente alla funzione ps su C.
+
+Quindi per ogni sottoinsieme E di X
+: H^s_\delta(E) = \inf\Bigg\
+dove l'estremo inferiore è preso sulle successioni i che coprono E con insiemi di diametro ≤ δ. allora
+: H^s(E) = \lim_ H^s_\delta(E).
+
+Possiamo concisamente descrivere il valore Hs(E) come l'estremo inferiore di tutti gli h > 0 tali che, per ogni δ > 0, E può essere coperto da una quantità numerabile di insiemi chiusi di diametro ≤ δ, e la somma di tutte le potenze s-esime di questi diametri è minore o uguale ad h.
+
+Risultati
+La misura di Hausdorff esterna Hs è definita per tutti i sottoinsiemi di X. Ma in generale le proprietà addittive, cioè
+
+:  H^s(A \cup B) = H^s(A) + H^s(B)
+
+per A e B disgiunti valgono solo se A e B sono insiemi di Borel. Nella prospettiva di assegnare misura e dimensione a insiemi con proprietà metriche insolite come i frattali, comunque, non è una restrizione.
+
+Teorema. Hs è una misura metrica esterna. Allora tutti i sottoinsiemi di Borel di X sono misurabili e Hs è una misura numerabilmente addittiva sulla σ-algebra degli insiemi di Borel.
+
+Chiaramente, se (X, d) e (Y, e) sono spazi metrici isomorfi, allora anche i corrispondenti spazi delle misure di Hausdorff sono isomorfi. È utile osservare che la misura di Hausdorff si comporta bene anche in caso di limitate modifiche della metrica sottostante. La misura di Hausdorff è un invariante di Lipschitz nel senso seguente: se d e d1 sono metriche su X tali che per qualche 0 C^ d_1(x,y) \leq d(x,y) \leq C d_1(x,y)
+allora le misure di Hausdorff corrispondenti Hs, H1s soddisfano
+: C^ H^s_1(E) \leq H^s(E) \leq C^s H^s_1(E)
+per ogni insieme di Borel E.
+
+La funzione s → Hs(E) è non decrescente.
+Di fatto, si scopre che per tutti i valori di s, a parte eventualmente uno, Hs(E) è o 0 o ∞. Diciamo che E ha dimensione di Hausdorff positiva e finita se e solo se esiste un numero reale 0s(E) = ∞ e se s > d, allora Hs(E) = 0. Se
+Hs(E)=0 per ogni s positivo, allora E ha dimensione di Hausdorff 0. Infine, se Hs(E)=∞ per ogni s positivo, allora E ha dimensione di Hausdorff ∞
+
+La dimensione di Hausdorff è un numero reale esteso ben definito per ogni insieme E e abbiamo sempre 0 ≤ d(E) ≤ ∞. Segue dalla proprietà di Lipschitz della misura di Hausdorff che la dimensione di Hausdorff è un invariante di Lipschitz. La sua relazione con le proprietà topologiche è delineata più avanti.
+
+Nota che se m è un intero positivo, la misura di Hausdorff m-dimensionale di Rm è un riscalamento dell'usuale misura di Borel m-dimensionale λm normalizzata in modo che la misura di Borel del cubo unitario m-dimensionale 0,1m sia 1. Infatti, per ogni insieme di Borel E,
+: \lambda_m(E) = 2^ \frac H^m(E).
+
+Osservazione. alcuni autori adottano una definizione leggermente differente di misura di Hausdorff; la differenza è nella normalizzazione, scelta in modo che la misura di Hausdorff m-dimensionale coincida esattamente con la misura di Borel λ.
+
+Vedi il riferimento bibliografico 'Federer' per ulteriori informazioni sulle misure frattali.
+
+Esempi
+
+* Lo spazio euclideo Rn ha dimensione di Hausdorff n.
+* La circonferenza S1 ha dimensione di Hausdorff 1.
+* Gli insiemi numerabili hanno dimensione di Hausdorff 0.
+* I frattali sono definiti come insiemi la cui dimensione di Hausdorff eccede strettamente la loro dimensione topologica. Ad esempio, l'insieme di Cantor (uno spazio topologico 0-dimensionale) è l'unione di due copie di sé stesso, ciascuna delle quali ridotta di un fattore 1/3; questo fatto può essere usato per dimostrare che la sua dimensione di Hausdorff è ln(2)/ln(3), che è approssimativamente 0.63 (vedi logaritmo naturale). Il triangolo di Sierpinski è l'unione di tre copie di sé stesso, ciascuna delle quali ridotta di un fattore 1/2; questo porta a una dimensione di Hausdorff pari a ln(3)/ln(2), che è approssimativamente 1.58.
+* La traiettoria di un moto browniano in due e più dimensioni ha dimensione di Hausdorff 2 quasi certamente.
+
+Dimensione di Hausdorff e dimensione topologica
+
+Sia X uno spazio metrico separabile arbitrario. Esiste una nozione di dimensione topologica per X definita ricorsivamente. È sempre un intero (o +&infin) ed è indicata con dimtop(X).
+
+Teorema. Sia X non vuoto. allora
+: \operatorname_(X) \geq \operatorname_(X)
+Inoltre
+: \inf_Y \operatorname_(Y) =\operatorname_(X)
+dove Y varia sugli spazi metrici omeomorfi a X. In altre parole, X e Y si basano sullo stesso insieme di punti e la metrica dY di Y è topologicamente equivalente a dX.
+
+Questi risultati sono stati dimostrati inizialmente da Edward Szpilrajn (1907-1976). Vedi anche il capitolo VIII di Hurewicz e Wallman nei riferimenti bibliografici.
+
+Insiemi autosimili
+
+Molti insiemi definiti da una condizione di autosimilarità hanno dimensioni che possono essere determinate esplicitamente. Grossolanamente, un insieme E è autosimile se è unione di copie rimpicciolite di sé stesso.
+La definizione esatta è data più avanti.
+
+Teorema. Siano
+
+: \psi_i: \mathbb^n \rightarrow \mathbb^n, \quad i=1, \ldots, m
+
+applicazioni contrattive su Rn con costante di contrazione rj  A = \bigcup_^m \psi_i (A).
+
+Questo segue dal teorema delle contrazioni di Banach, applicato allo spazio metrico completo degli insiemi compatti non vuoti di Rn, dotati della distanza di Hausdorff.
+
+Per determinare la dimensione dell'insieme autosimile A (in certi casi) abbiamo bisogno di una condizione tecnica chiamata condizione di insieme aperto sulla successione di contrazioni ψi espressa nel modo seguente: Esiste un insieme relativamente compatto V tale che
+
+: \bigcup_^m\psi_i (V) \subseteq V
+
+dove gli insiemi in unione a sinistra sono a due a due disgiunti.
+
+Teorema. Supponiamo che la condizione di insieme aperto valga e che ogni ψi sia una similitudine, cioè la composizione di una isometria e di una dilatazione rispetto a un certo punto. Allora l'unico punto fisso di ψ è un insieme la cui dimensione di Hausdorff è s, dove s è l'unica soluzione di
+
+: \sum_^m r_i^s = 1.
+
+Nota che il coefficiente di contrazione della similitudine è la grandezza della dilatazione.
+
+Possiamo usare questo teorema per calcolare la dimensione del triangolo di Sierpinski (talvolta chiamato guarnizione di Sierpinski). Si considerino i tre punti non collineari a1, a2, a3 nel piano R2 e sia ψi la dilatazione di rapporto 1/2 rispetto ad ai. L'unico punto fisso non vuoto dell'applicazione corrispondente ψ è una guarnizione di Sierpinski e la dimensione s è l'unica soluzione di
+
+: \left(\frac\right)^s+\left(\frac\right)^s+\left(\frac\right)^s = 3 \left(\frac\right)^s =1.
+
+Prendendo il logaritmo naturale di entrambi i membri dell'equazione precedente, possiamo risolverla rispetto a s, cioè:
+
+: s = \frac.
+
+La guarnizione di Sierpinski è autosimile. In generale un insieme E punto fisso di una applicazione
+
+:  A \mapsto \psi(A) = \bigcup_^m \psi_i(A)
+
+è autosimile sse le intersezioni
+
+: H^s\left(\psi_i(E) \cap \psi_j(E)\right) =0
+
+dove s è la dimensione di Hausdorff di E. È chiaro nel caso della guarnizione di Sierpinski (le intersezioni sono solo punti), ma è vero più in generale:
+
+Teorema. Nelle stesse condizioni del teorema precedente, l'unico punto fisso di ψ è autosimile.
+
+Significato intuitivo
+
+Questa condizione richiede intuitivamente che gli insiemi considerati non si "sovrappongano" troppo. Se la condizione non è verificata il calcolo della dimensione di Hausdorff con la formula precedente può portare a dei risultati inconsistenti. Ad esempio si consideri la classe di applicazioni che trasformano un quadrato in quattro quadrati scalati di 1/2 e centrati nel punto medio dei lati del quadrato precedente (vedi figura). Se i quadrati sono ruotati di 45° (seconda figura) la formula restituisce ancora 2, nonostante l'insieme ottenuto sia chiaramente frattale. Nell'ultimo caso i quadrati sono scalati di 1/\sqrt; e, benché la figura ottenuta sia bidimensionale, la formula restituisce 4.
+
+Voci correlate
+* Lista di frattali per dimensione di Hausdorff
+
+Bibliografia storica
+* A. S. Besicovitch, On Linear Sets of Points of Fractional Dimensions, Mathematische Annalen 101 (1929).
+* A. S. Besicovitch and H. D. Ursell, Sets of Fractional Dimensions, Journal of the London Mathematical Society, v12 (1937). Diverse antologie di questo volume sono ristampate in Classics on Fractals,ed. Gerald A. Edgar, Addison-Wesley (1993) ISBN 0-201-58701-7 Vedi capitoli 9,10,11.
+* F. Hausdorff, Dimension und äusseres Mass, Mathematische Annalen 79 (1919).
+
+Bibliografia
+* M. Maurice Dodson and Simon Kristensen, Hausdorff Dimension and Diophantine Approximation (12 giugno, 2003).
+* L. Evans and R. Gariepy, Measure Theory and Fine Properties of Functions, CRC Press, 1992
+* K. J. Falconer, The Geometry of Fractal Sets, Cambridge University Press, 1985
+* H. Federer, Geometric Measure Theory, Springer-Verlag, 1969.
+* W. Hurewicz and H. Wallman, Dimension Theory, Princeton University Press, 1948.
+* Frank Morgan, Geometric Measure Theory, Academic Press, 1988. Buona presentazione introduttiva con molte illustrazioni.
+* E. Szpilrajn, La dimension et la mesure, Fundamenta Mathematica 28, 1937, pp 81-89.
+
+------------------------------------------------------------------------------
+Retrieved on Sun, 04 Oct 2009 19:39:39 from:
+  http://it.wikipedia.org/wiki/Dimensione_di_Hausdorff
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

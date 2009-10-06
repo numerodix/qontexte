@@ -1,0 +1,120 @@
+La compravendita è un contratto disciplinato dagli art. dal 1470 fino al 1509 del codice civile. Il c.c. la chiama semplicemente vendita, mentre la stessa si traduce in latino come emptiovenditio. Ex art 1470 del c.c. La vendita è il contratto che ha per oggetto il trasferimento della proprietà di una cosa o il trasferimento di un altro diritto verso il corrispettivo di un prezzo. Si possono individuare due parti: il venditore (o alienante) che trasferisce il diritto ed il compratore (o acquirente), che si obbliga a pagare un prezzo, espresso in una somma di denaro, come corrispettivo.
+
+I caratteri tipici del contratto di vendita
+
+È il contratto che ha per oggetto il trasferimento della proprietà di una cosa o il trasferimento di un altro diritto verso il corrispettivo di un prezzo, determinato o determinabile (in difetto il prezzo viene determinato da un giudice o si fa riferimento a quello usualmente applicato per il bene oggetto di compravendita). È un contratto consensuale ad effetti reali in cui accordo, consegna e pagamento sono pressoché contestuali. È un contratto ad effetti obbligatori: il venditore ha l'obbligo di consegnare la cosa all'acquirente, fargli acquistare la proprietà e di garantirlo dall'evizione e dai vizi del bene.
+La cosa deve essere consegnata unitamente agli accessori, alle pertinenze e ai titoli relativi alla proprietà della cosa venduta. Eventuali spese della vendita sono a carico del compratore.
+
+Esistono diverse tipologie del contratto di compravendita:
+1) vendita alternativa: il trasferimento non si verifica se non quando sia stata effettuata la scelta fra due o più cose dedotte in obbligazione;
+2) vendita di cosa futura: la proprietà passa in capo al compratore quando la cosa viene ad esistenza: es. vendita di appartamento sulla carta-> la proprietà si trasferisce quando il bene viene edificato; vendita del raccolto di un anno agrario. Il contratto è nullo se la cosa non viene ad esistenza. Il contratto di vendita di cosa futura è assoggettabile a trascrizione e tale funzione di pubblicità ha lo scopo di risolvere eventuali controversie tra più acquirenti.
+3) vendita di cosa generica: il passaggio di proprietà avviene quando la cosa risulta individuabile e distinguibile rispetto alla categoria cui appartiene. Per esempio: acquisto di un'autovettura.
+4) vendita di cosa altrui: è disciplinata dagli artt. 1478 - 1479 c.c. Oggetto di questa tipologia di compravendita è la cosa altrui. In questo caso è obbligo dell'alienante quello di far acquistare la proprietà della cosa all'acquirente. Tale trasferimento di proprietà può avvenire indirettamente e quindi la res oggetto di compravendita passa di proprietà dell'alienante e contestualmente dell'acquirente, oppure tramite il trasferimento della proprietà recta via dal terzo proprietario al compratore. In questo caso il terzo non subentra nel contratto di vendita e resta estraneo a tale rapporto.
+Inoltre l'art. 1479 c.c. consente al compratore in buona fede di chiedere la risoluzione del contratto qualora, al momento della conclusione del negozio, ignorasse che la cosa non era di proprietà del venditore e se nel frattempo non ne ha acquistato la proprietà.
+Abbiamo un collegamento con l’art. 1153 c.c. in tema di possesso vale titolo: nel caso di alienazione di un bene mobile a non domino sulla base di un titolo astrattamente idoneo, quando si acquisisce il possesso in buona fede si acquista la proprietà oppure l’uso, usufrutto o pegno. Quindi:
+-	Bene mobile a non domino;
+-	Titolo astrattamente idoneo: ossia che produce effetti. In concreto il titolo non è idoneo perché non proviene dal titolare. Astrattamente idonei sono anche i titoli viziati, un contratto viziato. Il contratto annullabile produce effetti, il contratto nullo non è mai titolo astrattamente idoneo. Il contratto rescindibile sì finché non viene rescisso. Il contratto simulato non produce effetti perché apparente, quello dissimulato sì. Il contratto stipulato dal falsus procurator no perché per produrre effetti occorre la ratifica;
+-	Possesso =consegna;
+-	Buona fede soggettiva.
+Nel caso di vendita di cosa altrui, quando l’oggetto è costituito da un bene mobile e il bene viene consegnato si perfeziona la fattispecie dell’art. 1153 c.c. Si ha un acquisto a titolo originario perché l’acquisto della proprietà è indipendente dal diritto del precedente titolare. Se l’acquirente ha acquistato la proprietà a titolo originario può domandare la risoluzione? Giurisprudenza: sì.
+5) vendita di cosa parzialmente altrui: se la cosa oggetto di vendita è solo parzialmente del venditore, l'acquirente può chiedere la risoluzione del contratto e il risarcimento del danno se dimostra che senza quella parte "mancante" non avrebbe proceduto all'acquisto.
+
+La forma del contratto
+
+La forma di un contratto di compravendita è libera (può anche manifestarsi oralmente o per comportamenti concludenti), ma per alcuni casi, per lo più riferiti alla natura dell'oggetto, la legge dispone l'obbligatorietà della forma scritta (atto pubblico o scrittura privata autenticata o scrittura privata ), ad esempio nel caso di trasferimento della proprietà di cose immobili (art. 1350 c.c.), a pena di nullità. In tal caso si parlerà anche di contratto formale
+
+Casi particolari di compravendita
+I beni immobili
+
+Per i beni immobili la vendita può essere a misura o a corpo, secondo rispettivamente che in contratto si faccia o meno riferimento all'estensione superficiaria del bene per la determinazione del prezzo. Se, ad esempio, la vendita avviene per un corrispettivo di X lire per metro quadrato, si tratta di una vendita a misura, diversamente è una vendita a corpo. La circostanza rileva anche in ordine ad eventuali successive compensazioni del prezzo, che possono essere richieste anche dopo la conclusione del contratto, qualora si riscontri una differenza rispetto alla superficie dichiarata. Si noti che anche nella vendita a corpo, però, può aversi titolo ad una richiesta di compensazione qualora la misura sia comunque indicata (e ciò anche se la vendita sia dichiaratamente a corpo), se la differenza fra il valore indicato e quello effettivamente riscontrato sia maggiore di un ventesimo (5%), in più o in meno.
+
+La vendita con riserva di proprietà
+
+Nella vendita a rate e non con riserva di proprietà, il compratore acquista la proprietà della cosa solo con il pagamento dell'ultima rata di prezzo, ma assume i rischi dal momento della consegna(art. 1523 c.c.). Se il compratore non paga, alle scadenze pattuite, le rate del prezzo, il venditore può ottenere la risoluzione del contratto. Non può però ottenerla per il mancato pagamento di una sola rata che non superi l'ottava parte del prezzo,nonostante ogni patto contrario. Risolto il contratto il venditore esigerà la restituzione delle cosa, ma dovrà a sua volta restituire le rate già riscosse, salvo il diritto a trattenerne una quota a titolo di compenso per l'uso che il compratore ha fatto della cosa.
+
+*Per maggiori dettagli vedi: Patto di riservato dominio.
+
+La vendita con riserva di gradimento
+
+La vendita con riserva di gradimento è disciplinata dall'art 1520 c.c.;la vendita in questo caso non si perfeziona fino a che il gradimento non sia comunicato dal compratore al venditore. La dichiarazione di gradimento è assolutamente discrezionale;secondo l'opinione prevalente siamo in presenza di un patto d'opzione.
+
+La vendita con patto di riscatto
+
+Il venditore è indotto a vendere per realizzare denaro liquido, ma spera di avere, entro un certo termine, la somma necessaria per farsi restituire la cosa venduta. Se la condizione si verifica ha effetto retroattivo. L’esercizio del diritto di riscatto è sottoposto ad un breve termine di decadenza (2anni beni mobili, 5 anni beni immobili). Ci sono stati vari orientamenti nel tempo:
+-	Questa fattispecie doveva ritenersi valida perché corrispondente ad un tipo disciplinato dalla legge;
+-	Bisogna guardare allo scopo concreto che le parti hanno voluto…se è quello di garanzia realizzato con il trasferimento in concreto non c’è una causa di compravendita ma un patto commissorio quindi è nullo;
+-	Sezioni Unite 1989’: c’è la necessità di un accertamento in concreto dello scopo voluto dalle parti e cioè, non conta che le parti hanno fatto ricorso ad uno schema contrattuale disciplinato ma bisogna avere riguardo allo scopo pratico, e allora spetta al giudice di merito verificare la causa del contratto.-> ci sono degli indici sintomatici: nella vendita lo scopo pratico consiste solitamente in un’acquisizione diretta del godimento e del rischio della cosa. Per la Cassazione quando le parti regolano i propri interessi prescindendo da questi due elementi (godimento e rischio) allora il trasferimento della proprietà è attuato per fini diversi cioè come fine di garanzia. Un indice può essere la clausola con cui l’acquirente viene esonerato da ogni rischio inerente il bene nei confronti dei 3; oppure il patto di retro comodato del bene con cui l’acquirente contestualmente retrocede il godimento del bene al venditore. Tizio e Caio si accordano con preliminare che il promissario acquirente possa pretendere la stipula del definitivo nel caso in cui il promissario venditore non adempie ad una sua obligatio. La Cassazione ha affermato che è nullo il preliminare di compravendita che risulta stipulato concretamente con scopo di garanzia…es. contratto di opzione con trasferimento della proprietà di un bene con accordo che l’opzionario possa accettare la proposta irrevocabile se il concedente la prelazione è inadempiente ad una sua obligatio. L’opzionario può esercitare il suo diritto se il concedente non sarà adempiente ad una parallela obligatio->scopo di garanzia. Quindi anche l’art.1500 c.c. può essere usato a scopo di garanzia per eludere.
+
+Diversa dalla vendita con patto di riscatto è la vendita con patto di retrovendita,con questo patto il compratore si obbliga nei confronti del venditore a ricedergli il bene in un secondo momento. In questo caso non basta la semplice dichiarazione del venditore per riacquistare il bene, ma serve un ulteriore negozio di trasferimento, in cui oltre alla volontà del venditore c'è quella del compratore. Il patto di retrovendita ha la stessa funzione di un contratto preliminare, con il patto di retrovendita le parti si vincolano reciprocamente a stipulare un nuovo negozio di vendita. Nel caso in cui il compratore non volesse ritrasferire il bene, il venditore può agire in via esecutiva e ottenere (ex art 2932 c.c.) una sentenza costitutiva che produce gli stessi effetti del contratto che si sarebbe dovuto porre in essere.
+
+La garanzia nella vendita
+
+Il venditore deve garantire il bene venduto sia da vizi occulti sia dall' evizione (art 1476), ossia che la cosa venduta non appartiene ad altri che la possano rivendicare.
+
+La garanzia per l'evizione è funzionale alla tutela del compratore per eventuali "vizi giuridici", non conosciuti al momento della conclusione del contratto, che limitano il godimento del diritto o del bene. Si distinguono tre tipi di evizione:
+*Totale
+*Parziale
+*Limitativa
+
+L' evizione totale si ha nel caso in cui il compratore subisce l'accoglimento di una azione di rivendicazione proposta da un terzo, perdendo così la proprietà del bene. In tal caso è previsto che il compratore possa proporre l'azione di risoluzione del contratto, condannando il venditore alla restituzione del prezzo e al risarcimento del danno.
+
+L' evizione parziale si ha nel caso in cui una cosa sia soltanto di proprietà parizlamente altrui. Se al momento della conclusione del contratto il compratore avrebbe ugualmente acquistato il bene nonostante fosse a conoscenza di tale situazione, allora ha diritto alla sola riduzione del prezzo oltre al risarcimento del danno, nel caso in cui il compratore non avesse acquistato il bene allora può chiedere la risoluzione e il risarcimento del danno.
+
+L' evizione limitativa si ha quando sul bene i terzi vantino diritti reali minori, in tal caso la disciplina opera come per l'evizione parziale.
+
+Il compratore ha l'onere di chiamare a testimoniare il venditore nella eventualità che un terzo vanti diritti sul bene acquistato, qualora non lo facesse perderebbe la garanzia per l'evizione. Ciò si spiega con il fatto che il venditore può eccepire in giudizio la validità dell'atto traslativo e smentire le pretese del terzo.
+
+Come la garanzia per l'evizione la garanzia per i vizi è un effetto naturale della compravendita.
+Con tale tipo di garanzia il venditore garantisce l'assenza di vizi materiali del bene che non ne consentano l'uso per il quale è destinato.
+La garanzia opera quindi solo se i vizi sono tali da rendere la cosa inidonea, in tutto o in parte, all'uso cui è destinata o sono tali da diminuire sensibilmente il valore del bene. La mancanza delle qualità promesse o delle qualità necessarie per l'uso cui la cosa è destinata, può portare alla risoluzione contrattuale se la mancanza delle qualità eccede il limite di tollerabilità determinato dagli usi, ma non alla sostituzione o alla riparazione. La garanzia per i vizi può essere contrattualmente limitata, la limitazione non opera però per i vizi che sono stati in malafede taciuti dal venditore, né per i vizi che erano, al momento della stipulazione del contratto, conosciuti o conoscibili usando la diligenza dell'uomo medio. I rimedi in caso di vizi sono: la riduzione del prezzo (azione estimatoria) e la risoluzione contrattuale (azione redibitoria).
+
+La garanzia deve essere fatta valere dal compratore entro 8 giorni dal momento della scoperta dei vizi a pena di decadenza, dopodiché il diritto di far valere la garanzia si prescrive in 1 anno dalla data di consegna della cosa.
+
+L'acquisto da parte del consumatore
+Gli articoli 1469 bis/1469 sexies e gli articoli 1519 bis/1519 nonies hanno introdotto la disciplina della vendita ai consumatori e della vendita dei beni di consumo.
+
+*Il consumatore è colui il quale, al di fuori della sua attività professionale, acquista beni o servizi.
+*Il professionista è colui il quale nell'esercizio della sua attività imprenditoriale o professionale offre beni o servizi.
+*Il bene di consumo è un bene mobile (anche da assemblare o futuro) destinato ad essere messo sul mercato e consumato. Fanno eccezione acqua, gas ed energia, a meno che non siano confezionati.
+
+La ratio di questi articoli si trova nella necessità di dover garantire il consumatore da eventuali squilibri contrattuali che i venditori possono compiere. Infatti il consumatore si trova in una posizione subordinata, si tratta di un soggetto che aspira a conseguire un bene che pochi offrono, mentre i professionisti si trovano nella posizione di offrire i beni o i servizi a una molteplicità di persone. La disciplina sancisce la nullità di alcune clausole c.d. vessatorie che determinano gravi squilibri contrattuali a meno che queste non siano state oggetto di una seria trattativa (non semplicmenete di sottoscrizione). Si è tuttavia prevista la nullità delle clausole, che sebbene oggetto di trattativa, determinino l'adesione del consumatore a condizioni generali e a clausole che al momento della stipulazione non poteva conoscere, oppure limitino la responsabilità del professionista e le azioni che può esperire il consumatore. L'eventuale sanzione di nullità della clausola vessatoria non determina la nullità del contratto. Il giudizio di vessatorietà non riguarda l'oggetto e il prezzo, salvo questi non siano determinati chiaramente.
+
+È stata introdotta anche una disciplina volta a garantire la conformità del bene al contratto (articolo 129 del Codice del Consumo). La conformità va valutata non soltanto in relazione al contratto, ma anche con riguardo all'informazione pre-contrattuale e alle descrizioni del professionista, nonché alla pubblicità o all'etichettatura del bene.
+La conformità è comunque fondata su:
+*l'idoneità all'uso quale servono abitualmente beni dello stesso tipo.
+*la sussistenza di qualità che il consumatore può ragionevolmente aspettatarsi tnuto conto della natura del bene e delle dichiarazioni fatte al riguardo dal venditore, dal produttore o dal suo agente o dal suo rappresentante (Nella pubblicità ed etichettatura).
+*l'idoneità all'uso particolare voluto e segnalato dal consumatore e che il venditore abbia accettato per fatti concludenti, ovvero tacitamente.
+
+La rilevanza è esclusa se al momento della conclusione del contratto il consumatore ne era a conoscenza o avrebbe dovuto esserlo usando l'ordinaria diligenza.
+
+Come rimedio a disposizione del consumatore la sostituzione del bene o la sua riparazione. Resta in piedi la possibilità di richiedere la risoluzione del contratto con restituzione del prezzo. La scelta tra riparazione e sostituzione sono esperibili sono nel caso in cui non siano troppo onerosi, altrimetni subentrerà la scelta tra azione redibitoria o estimatoria.
+
+Nel caso dei beni di consumo si ha un termine di decadenza di due mesi dalla scoperta e un termine di prescrizione di due anni dalla consegna. qualora il difetto si manifesti entro 6 mesi dalla consegna allora si presume già presente al momento della consegna, salvo la prova contraria.
+
+La vendita estimatoria e la vendita a prova
+Con il contratto estimatorio una parte si obbliga nei confronti dell'altra a trasferire la erarsi dall'obbligazione di pagare il prezzo restituendo i beni che ha ricevuto dal venditore.
+
+Si tratta di una prassi molto diffusa nei contratti di distribuzione, infatti il fornitore si garantisce una diffusione capillare dei suoi prodotti, mentre il rivenditore non rimane vincolato al pagamento del prezzo, potendo infatti ottenere la liberazione da tale obbligazione restituendo il bene al fornitore.
+
+I rischi del perimento dei beni gravano sull'acquirente, il quale sarà ugualmente costretto a pagare anche se i beni periscono per causa a lui non imputabile.
+
+La vendita a prova (art. 1521 c.c.) è invece una particolare compravendita sottoposta alla condizione sospensiva che la cosa abbia le qualità pattuite, quindi la vendita produrrà pienamente i suoi effetti solo nel momento in cui si sia palesato che la cosa ha tutte le qualità pattuite ex ante.
+
+La buona fede dell'acquirente
+In base all' art. 1153 il possessore in buona fede (ossia che ignora di ledere un altrui diritto) di un bene che ha acquistato a titolo oneroso,si considera il legittimo proprietario anche se ha acquistato a non domino. Per i diritti sugli immobili la regola del "possesso vale il titolo" non può trovare applicazione, visto il regime di pubblicità a cui sono soggetti gli immobili. In tal caso se la trascrizione del titolo di trasferimento avviene prima della trascrizione di una qualsiasi azione volta a modificare la situazione del dante causa su quel bene, tali azioni non saranno a lui opponibili. Per la cessione di credito (art. 1260 e ss) la cessione ha efficacia nei confronti del debitore nel momento in cui gli verrà notificata.
+
+I divieti di alienazione
+I divieti di alienazione sono limitazioni all'autonomia contrattuale. Se il divieto di alienazione ha fonte legale, l'eventuale atto traslativo è nullo. Il divieto di alienazione può essere anche pattuito, in tal caso il divieto non ha efficacia erga omnes, l'eventuale alienazione comporterà quindi la sola sanzione di inadempimento contrattuale ex art. 1218.
+
+La determinazione del prezzo affidata a un terzo
+il prezzo costituisce elemento essenziale della compravendita,inteso come corrispettivo in denaro.esso deve essere determinato,o almeno determinabile,indipendentemente da una nuova manifestazione di volontà delle parti.normalmente è concordato dalle parti,ma la sua determinazione può essere rimessa ad un terzo...chiamato arbitratore.in questa ipotesi si applicano i principi enunciatinegli artt.1349/1473c.c.
+
+Voci correlate
+Fido commerciale
+
+Testi Normativi
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 09:02:32 from:
+  http://it.wikipedia.org/wiki/Compravendita_(diritto_italiano)
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

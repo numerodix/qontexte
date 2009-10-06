@@ -1,0 +1,169 @@
+Il sistema elettorale è costituito dall’insieme delle regole che si adottano in una democrazia rappresentativa per trasformare le preferenze degli elettori in voti e i voti in seggi.
+
+Talvolta, all'espressione si dà un significato più generale che comprende l'intero insieme delle norme che regolano le elezioni: la disciplina della modalità della loro indizione, la disciplina dell’elettorato attivo e passivo, le modalità tecnico-operative di esercizio del voto, le modalità secondo le quali si presentano le candidature, la disciplina delle campagne elettorali e della propaganda politica in genere, la disciplina del finanziamento delle campagne elettorali e dell’attività dei partiti, le modalità di allestimento delle sezioni elettorali e di protezione di esse, il procedimento elettorale nelle altre sue fasi fino allo scrutinio con interpretazione e conteggio dei voti espressi, la formula elettorale, l’apparato di tutela nel caso di eventuali contestazioni, le modalità di sostituzione nell’ufficio di coloro che, proclamati eletti, cessino per qualsiasi ragione dalla carica.
+
+Un sistema elettorale è composto da due elementi fondamentali: il sistema di votazione e il metodo per l'attribuzione seggi. Quest'ultimo richiede una formula che si basa su due distinti principi - quello maggioritario e quello proporzionale - o sulle varie commistioni dette usualmente sistemi misti. Il sistema di votazione ha dato origine alla teoria del voto, a partire dal metodo di Borda e dal metodo di voto di Condorcet, entrambi sviluppati in Francia intorno al 1770 (anche se scritti di Raimondo Lullo ritrovati solo nel 2001 dimostrano che egli aveva già ideato entrambi i metodi nel XII secolo). I primi contributi all'attribuzione di seggi sono successivi al 1787, anno di approvazione della Costituzione degli Stati Uniti, negli USA e furono riscoperti indipendentemente in Europa alla fine del XIX secolo. La ricerca scientifica contemporanea si concentra sugli effetti del comportamento strategico dei partiti e/o degli elettori sugli esiti del voto, impiegando la teoria dei giochi.
+
+Il sistema maggioritario
+
+Il sistema elettorale maggioritario è quello che ha accompagnato le prime forme di rappresentanza politica diretta, nel mondo classico (Grecia) e fin dal Seicento (mondo anglosassone), con l'eccezione del Maggior Consiglio della Repubblica di Venezia, per il quale dal XIII secolo al XVIII secolo si usò il voto per approvazione.
+
+Oggigiorno il sistema maggioritario è basato su un collegio uninominale che viene assegnato a colui che vince l'elezione in quella sfida (sistema uninominale); in passato, invece, non era infrequente la sua applicazione utilizzando collegi plurinominali, poi aboliti perché distorcenti la rappresentanza politica in una maniera intollerabile per un ordinamento democratico.
+
+Nel sistema maggioritario si dà spazio a un aspetto di governabilità: i suoi sostenitori ne sostengono la democraticità in quanto, spingendo i partiti a presentarsi agli elettori riuniti in coalizioni, permette ai cittadini una sorta di "elezione diretta" della maggioranza, e di conseguenza del governo. Nei sistemi elettorali maggioritari infatti, solitamente le coalizioni sono guidate da subito da un leader presentato agli elettori che potranno, votando i suoi partiti, elevarlo direttamente alla presidenza del nuovo governo.
+
+Il sistema uninominale
+In un contesto uninominale, in linea di principio, ci sono due metodi per designare il rappresentante di un determinato collegio: uno nel quale vince l'elezione chi ottiene la maggioranza relativa dei voti qualunque essa sia, e un secondo in cui vince solo chi ottiene la maggioranza assoluta, il 50%+1 delle preferenze. In quest'ultima ipotesi, non essendo improbabile che il corpo elettorale si frazioni non indicando alcun candidato vincente, è da prevedersi di norma un secondo turno di votazioni, a meno che l'elettore non possa operare una classificazione dei candidati, meccanismo che permette un'istantanea individuazione del vincitore della contesa politica.
+
+Possiamo dunque distinguere fra tre sistemi elettorali uninominali.
+* Il sistema uninominale a un turno o plurality con maggioranza relativa: trattasi del più semplice e più antico meccanismo elettorale in assoluto, prevedendo la vittoria del candidato avente riportato il maggior numero di preferenze. È il sistema in vigore nel Regno Unito e nella stragrande maggioranza degli Stati Uniti. Questo tipo di scrutinio tende a sovrarappresentare i partiti più grandi, a parziale detrimento di quelli medi ma soprattutto di quelli piccoli. Nel caso di un sistema partitico stabile e ben consolidato, questo metodo comporta inoltre una tendenza naturale degli elettori al voto strategico in caso di evidente incapacità o impossibilità di vittoria del candidato preferito.
+
+* Il sistema uninominale a doppio turno o majority: tale tipo di scrutinio pone la clausola del raggiungimento della maggioranza assoluta per ottenere l'elezione di un candidato al primo turno, ricorrendosi in caso contrario ad un secondo appuntamento elettorale. Il numero di candidati ammessi a questo secondo turno divide questo tipo di scrutinio in due sottosistemi: il primo, il più classico, è quello che vede contendersi il seggio i due candidati più votati al primo turno (in tale ipotesi, il secondo turno assume il nome di ballottaggio), e veniva utilizzato in Italia prima della Grande Guerra; il secondo, utilizzato attualmente in Francia, elimina dalla contesa solamente i candidati che non abbiano raggiunto una determinata soglia, consentendo quindi l'eleggibilità nella seconda tornata anche a maggioranza relativa. Il sistema a doppio turno incoraggia l’elettore a esprimere un voto sincero al primo turno, mentre comporta la tendenza al voto strategico nella seconda tornata.
+
+* Il sistema uninominale a voto alternativo con maggioranza assoluta o instant runoff: è la versione a turno unico del sistema majority. Tipicamente usato come base del sistema elettorale australiano, prevede la possibilità per l'elettore di non votare un singolo candidato, ma di classificare tutti i candidati secondo il proprio ordine di gradimento. Qualora nessun candidato abbia raggiunto la maggioranza assoluta di prime preferenze, il candidato meno votato viene eliminato, e le sue schede vengono ripartite fra i rimanenti candidati seguendo le seconde preferenze in esse riportate. Il meccanismo continua in tal guisa finché nessun candidato residuo abbia raggiunto la prescritta maggioranza assoluta.
+
+La particolarità del sistema elettorale uninominale – specie di quello basato sulla maggioranza relativa – è quella di distorcere la rappresentatività aumentando la vittoria in termini di seggi del primo partito o coalizione a danno relativo del secondo e a gravissimo danno del terzo partito. Per esempio, dati tre partiti A, B e C che si classifichino rispettivamente primo (45% dei voti), secondo (30%), e terzo (25%), è facile immaginare che - sempre per esempio - il primo otterrà il 55% dei seggi, il secondo 30% e il terzo 15%. Ovviamente, per i partiti, con questo sistema elettorale, è più importante vincere di misura in più collegi possibili che non vincere in pochi collegi con alta maggioranza. A questo proposito, si ricorda l'arte del "Gerrymandering" messa in atto dal governatore Elbridge Gerry del Massachusetts negli Usa, che disegnava (o cercava di fare) collegi elettorali che gli permettessero la rielezione.
+
+All'interno dei sistemi uninominali poi, quelli a doppio turno tendono a premiare i partiti di centro, mentre quelli a turno unico favoriscono formazioni ideologicamente più schierate. Il motivo di ciò è facilmente comprensibile: se si va al ballottaggio, qualora vi sia presente un partito di centro che parta anche da una posizione di svantaggio, esso ne uscirà tendenzialmente vincitore, perché saprà, meglio del suo avversario, attrarre i voti dei partiti esclusi: quelli di sinistra se si troverà a confrontarsi con un avversario di destra o viceversa.
+
+Il sistema proporzionale
+Il sistema elettorale proporzionale, o di lista, fu introdotto nel corso del Novecento su spinta delle grandi formazioni politiche di massa, quelle centriste popolari, e quelle di sinistra socialiste. Il primo paese ad applicarlo fu il Belgio nel 1900.
+
+Elemento caratterizzante del sistema proporzionale è l'assegnazione dei seggi in circoscrizioni elettorali plurinominali, suddividendoli fra le varie liste in proporzione ai voti ottenuti. Si presenta quindi come un sistema elettorale basato sulla democraticità e rappresentatività in quanto permette di fotografare la situazione reale del Paese.
+
+Aspetto positivo, quindi, che salta subito all'occhio è la possibilità di una rappresentanza parlamentare che rifletta in maniera meno distorta possibile la reale situazione politica di un paese, con una significativa tutela delle minoranze. Qualora i partiti siano notevolmente frazionati, però, il proporzionale riflette questo frazionamento reale in parlamento e la formazione di un governo richiede coalizioni che uniscano più partiti, con conseguente forte instabilità.
+
+I meccanismi proporzionali sono essenzialmente due: quello del quoziente e i più alti resti, e quello dei divisori e le più alte medie.
+
+Metodo del quoziente
+
+Nella prima famiglia di metodi proporzionali, si stabilisce un quoziente elettorale che sarà il costo di un seggio in termini di voti, e si vede quante volte tale quoziente entra nel totale dei voti che una lista ha preso in una circoscrizione. La parte decimale del quoziente servirà per assegnare i seggi che non si è riusciti ad assegnare con le parti intere del quoziente. Tali seggi andranno alle liste che avranno i resti più alti in ordine decrescente.
+
+Per individuare questo quoziente elettorale, ci sono vari metodi:
+#Quoziente Hare (o Naturale): si divide il totale dei voti validi (V) per il numero dei seggi da assegnare nella circoscrizione (S): =\frac
+#Quoziente Hagenbach-Bischoof: si divide il totale dei voti validi (V) per il numero dei seggi da assegnare nella circoscrizione più uno (S+1): =\frac
+#Quoziente Imperiali: si divide il totale dei voti validi (V) per il numero dei seggi da assegnare nella circoscrizione più due (S+2): =\frac
+#Quoziente +3: si divide il totale dei voti validi (V) per il numero dei seggi da assegnare nella circoscrizione più tre (S+3): =\frac
+#Quoziente Droop: si divide il totale dei voti validi (V) per il numero dei seggi da assegnare nella circoscrizione più uno (S+1) e al tutto si aggiunge un' unità: =(\frac)+1
+
+I metodi più utilizzati sono i quozienti Hare e Hagenbach-Bischoof. Passando da Hare ad Hagenbach-Bischoof ad Imperiali, si riducono i resti e i seggi da assegnare in base a questi, favorendo in misura crescente le liste più votate; con il metodo Droop invece, si ottengono risultati pressoché identici all'Hare.
+Esempio di applicazione del Quoziente Hare in una circoscrizione che pone 8 seggi in palio per 118.000 votanti.
+
+Esempio di applicazione del Quoziente Imperiali in una circoscrizione che pone 8 seggi in palio per 118.000 votanti.
+
+Metodo dei divisori
+
+Nella seconda famiglia di metodi proporzionali, quello dei divisori e le più alte medie, si dividono i voti totali di ciascuna lista di candidati in un collegio per una serie di coefficienti lunga fino al numero di seggi da assegnare nel collegio, e si assegnano i seggi alle liste in base ai risultati in ordine decrescente, fino ad esaurimento dei seggi da assegnare. La serie dei divisori è ciò che differenzia i vari metodi:
+
+#Metodo D'Hondt (noto in USA come metodo Jefferson): si dividono i totali di voti delle liste per 1, 2, 3, 4, 5, 6, 7, 8, ... fino al numero di seggi da assegnare nel collegio.
+#Metodo Nohlen: si dividono i totali di voti delle liste per 2, 3, 4, 5, 6, 7, 8, 9, ... .
+#Metodo Sainte-Laguë (noto in USA come metodo Webster): si dividono i totali di voti delle liste per 1, 3, 5, 7, 9, 11, 13, 15, ... .
+#Metodo Sainte-Laguë corretto o Metodo danese: si dividono i totali di voti delle liste per 1.4, 3, 5, 7, 10, 13, 16, 19, 22, ... .
+#Metodo belga: si dividono i totali di voti delle liste per 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, ... .
+#Metodo Huntington: si dividono i totali di voti delle liste per 1.41, 2.45, 3.46, 4.47, ... .
+
+Dal punto di vista degli esiti, il metodo più favorevole ai piccoli partiti è il Sainte-Laguë (anche corretto), il più favorevole ai grandi partiti è il Nohlen, seguito dal D'Hondt.
+
+Esempio di applicazione del Metodo D'Hondt in una circoscrizione che pone 8 seggi in palio per 118.000 votanti.
+
+Le cifre in grassetto sono le più forti medie.
+
+Voto di preferenza
+
+Il sistema proporzionale può prevedere o meno la possibilità per l'elettore di esprimere una o più preferenze per un candidato all'interno della lista votata. In questo caso, vengono eletti nell'ambito di ogni lista i candidati che hanno ottenuto il numero maggiore di preferenze. Se invece non è previsto il voto di preferenza, i candidati vengono scelti secondo l'ordine in cui compaiono in lista, delegando ai partiti l'individuazione degli eletti: si parla in questo caso di lista bloccata.
+
+Il voto di preferenza ha benefici controversi. A favore vi è la maggiore possibilità di scelta per l'elettore; contro vi è il fatto che il singolo candidato, per ottenere la preferenza, è costretto ad una costosa campagna elettorale personale, e la necessità di raccogliere i fondi necessari può potenzialmente stimolare episodi di corruzione.
+
+Le modalità di indicazione della persona prescelta sono due: spuntare il nome in una lista dei candidati prestampata sulla scheda elettorale, oppure scrivere il nominativo per esteso. La seconda modalità è soggetta a una maggiore discrezionalità dei presidenti di seggio, che possono stabilire se sono valide o meno le schede che non riportano interamente nome e cognome, le iniziali o diverse abbreviazioni, oppure parole aggiuntive che non fanno parte del nome del candidato. Questa seconda modalità è adatta al controllo dei voti clientelari. Il voto è anonimo, ma l'elettore in cambio di favori personali può accordarsi per scrivere il nominativo con il nominativo completo di secondo nome e alcune parti abbreviate, creando un numero di combinazioni che rendono riconoscibile un numero elevato di schede e verificabile il rispetto di altrettanti accordi clientelari.
+
+Sistemi corretti (o misti)
+Come abbiamo visto, non esiste un sistema elettorale che si possa considerare perfetto, ma entrambi i tipi possiedono i propri vantaggi e i propri svantaggi. Per ovviare a tali inconvenienti, cercando di recuperare le caratteristiche positive di ciascun sistema ma limitando quelle negative, si sono col tempo andati ad elaborare sistemi corretti, o misti, dei due modelli originari.
+
+* Sistemi maggioritari corretti
+
+L'aspetto negativo del maggioritario è, lo abbiamo visto, la scarsa, se non nulla, rappresentanza e di conseguenza tutela delle formazioni politiche minori. Per ovviare a tale problema, il metodo solitamente utilizzato è quello dell'introduzione di quote proporzionali che sottraggano una parte dei seggi in palio alla regola uninominale generale, per attribuirli con meccanismi tipici o similari a quelli proporzionali. Essenziale a tal fine è il collegamento espresso a livello nazionale dei singoli candidati uninominali in più ampie liste di partito o coalizione.
+
+Il primo dei sistemi elettorali così formulati è quello che prevede il ripescaggio dei migliori perdenti. In tale casistica, i seggi uninominali non sono in numero pari a quelli dell'organo da eleggere, ma inferiore, e i seggi rimanenti vengono ripartiti fra i candidati perdenti, sulla base dei voti residui (cioè depurati di quelli raccolti dai candidati della lista stessa, risultati però già eletti nei collegi uninominali) raccolti dalle liste nazionali o circoscrizionali. Ne era esempio il sistema in vigore per il Senato Italiano dal 1993 al 2005, che, in un contesto uninominale plurality prevedeva un 25% dei seggi attribuiti proporzionalmente alle liste regionali formate dai candidati perdenti di ciascuna coalizione. Calcolati i seggi spettanti a ciascuna lista, venivano poi dichiarati eletti, all'interno di ogni lista stessa, i candidati che avessero ottenuto le più alte percentuali elettorali.
+
+Un secondo gruppo è quello dei sistemi paralleli, come quello russo e di numerosi paesi dell'Est Europa, che prevedono banalmente una quota di seggi assegnati proporzionalmente ed una con sistema maggioritario, senza che vi sia alcun collegamento fra le due parti. La quota proporzionale può essere anche molto alta, arrivando a coprire fino alla metà dei seggi in palio. Apparteneva a questo gruppo anche il particolare sistema italiano per la Camera dei Deputati in vigore fra il 1993 e il 2005, che poteva essere chiamato "a compensazione parallela" e prevedeva due quote distinte, 75% maggioritario e 25% proporzionale, che venivano però in tal caso collegate con il famigerato sistema dello "scorporo", che svantaggiava i partiti maggiori, cioè quelli che avevano ottenuto molti seggi nella parte maggioritaria, a favore dei partiti più piccoli.
+
+* Sistemi proporzionali corretti
+
+Si è detto che l'inconveniente maggiore provocato dalla proporzionale è quello di creare instabilità governativa, sia perché, garantendo i partiti minori, consegna loro in verità la possibilità di condizionare i governi in misura ben maggiore del proprio reale peso elettorale, sia perché, a causa dell'alta frammentazione, le maggioranze sono spesso assai risicate ed esposte a continue imboscate da parte dell'opposizione.
+
+Per ovviare al primo inconveniente, sono stati elaborati sistemi che limitino il meccanismo proporzionale sottraendo i partiti minori ai benefici che esso fornirebbe loro. Esistono due metodi, uno implicito ed uno esplicito, per ottenere tale scopo:
+
+:A - quello implicito si ottiene limitando la dimensione delle circoscrizioni elettorali. Caratteristica saliente della proporzionale rispetto al maggioritario è, lo abbiamo visto, l'ampio numero di elettori, e conseguentemente seggi, compresi nella circoscrizione proporzionale rispetto ai collegi maggioritari. Riducendo l'ampiezza della circoscrizioni, dunque, si riduce il tasso di proporzionalità del sistema, diminuendo le probabilità dei partiti minori di ottenere i pochi seggi disponibili in ciascuna delle succitate circoscrizioni. È il meccanismo previsto dal sistema elettorale spagnolo e, de facto, dal sistema elettorale svizzero per la Camera bassa elvetica.
+
+:B - quello esplicito consiste nell'introdurre una clausola di sbarramento (o di accesso), cioè una percentuale minima di voti che il partito deve ottenere per poter entrare in Parlamento. Ne è esempio il sistema elettorale tedesco che stabilisce di regola nel 5% la soglia minima di voti necessari per entrare a far parte del Bundestag.
+
+Per aggirare invece il secondo problema, quello delle scarse maggioranze su cui si basano solitamente i governi nati da elezioni proporzionali, il meccanismo tipico è quello del premio di maggioranza (bonus), consistente in una quota variabile di seggi assegnati in regalo alla lista o alla coalizione di liste risultanti prime classificate nella tornata elettorale, qualora non ne abbiano già raggiunto un livello predeterminato. Tale sistema, che oltretutto costringe i partiti a coalizzarsi fin da prima delle elezioni come accade col maggioritario, è ed è stato particolarmente utilizzato in Italia in vari frangenti. Al giorno d'oggi, sotto varie forme più avanti esplicate, viene utilizzato sia per l'elezione dei due rami del Parlamento, sia per le elezioni di tutti gli enti locali. In passato fu inoltre utilizzato, sempre per le elezioni politiche italiane, sia nel 1953 con la cosiddetta Legge Truffa, sia nel 1924 con la Legge Acerbo che favorì l'ascesa del fascismo.
+
+Governabilità e rappresentatività
+
+Molto brevemente, la differenza fra proporzionale e maggioritario si può riassumere così: il maggioritario favorisce la governabilità, il proporzionale favorisce la rappresentatività: col primo il parlamento è egemonizzato da pochi partiti, col secondo il parlamento ha una composizione abbastanza fedele all'orientamento degli elettori. Spetta al legislatore decidere quale dei due utilizzare.
+
+Vi è però un'importante eccezione alla regola appena descritta, costituita dai partiti regionalisti. Un partito piccolo ma fortemente concentrato sul territorio, infatti può non solo uscire indenne da un'elezione maggioritaria, ma anzi al contrario rafforzato, ottenendo fino al monopolio della rappresentanza politica nelle regioni in cui esso è particolarmente radicato. Nel sistema uninominale inglese, ad esempio, questo è il caso tipico dello Scottish National Party. In Italia, nel sistema in vigore dal 1993 al 2005, si segnalavano i casi della Südtiroler Volkspartei, che senza il meccanismo dello scorporo avrebbe ottenuto il monopolio della rappresentanza dell'Alto Adige, e della Lega Nord, la quale nelle elezioni del 1996, pur correndo solitaria, non solo non ebbe un danno se non minimo in termini di seggi (9,4% a fronte del 10,1% dei voti validi), ma provocò la disfatta, sempre in termini di seggi, dell'allora avversaria coalizione di Silvio Berlusconi, favorendo la vittoria dell'Ulivo di Romano Prodi.
+
+Le modalità di voto sono modificabili con una legge ordinaria, approvabile dalla maggioranza di Governo. In altri Paesi, la Costituzione stabilisce le principali modalità di voto e la modifica delle modalità elettorali richiede procedure lunghe e articolate di revisione costituzionali, quanto meno leggi da approvare con maggioranze qualificate (dei 2/3 circa del Parlamento) difficilmente raggiungibili dalla sola maggioranza di Governo, in modo tale che le regole democratiche siano condivise.
+
+Talora, esiste un vincolo temporale che vieta di modificare le norme elettorali a tre mesi di distanza dal giorno delle elezioni.
+
+Sistemi italiani
+La situazione italiana è complessa e differenziata a seconda del tipo di elezione. Il sistema proporzionale puro, in auge per tutte le elezioni italiane prima del 1993, è ancora usato per le elezioni del Parlamento europeo, basandosi su cinque circoscrizioni interregionali più una circoscrizione nazionale per il recupero dei resti.
+
+Anche i restanti appuntamenti elettorali si svolgono sulla base di sistemi elettorali proporzionali, ma significativamente corretti con premi di maggioranza variamente assegnati:
+
+*nel sistema di elezione dei Consigli regionali, che trova una sua prima specificazione nell’articolo 122 della Costituzione, la cui legge attuativa susseguente ad una revisione costituzionale del 1999 stabilisce che il Presidente della Regione sia di norma eletto direttamente dai cittadini in un turno unico di votazioni, il Consiglio regionale è eletto contestualmente al Presidente con un sistema misto: in gran parte proporzionale, in piccola parte consistente in un premio di maggioranza. Quattro quinti dei seggi sono attribuiti proporzionalmente, sulla base di liste di partito presentate nelle diverse province. Le liste che hanno ottenuto meno del tre per cento dei voti, non ottengono alcun seggio (sbarramento), a meno che non siano collegate con un candidato presidente che abbia ottenuto almeno il cinque per cento dei voti all’interno della Regione. Un quinto dei seggi è attribuito sulla base di liste regionali (i cosiddetti listini) il cui capolista è il candidato alla presidenza. Chi vince fa eleggere in blocco i candidati del proprio listino, con la seguente eccezione: se le liste circoscrizionali collegate alla lista regionale vincente hanno ottenuto già il 50 per cento dei seggi, alla nuova maggioranza è attribuita solo la metà dei seggi del "listino" (dieci per cento del totale dei seggi in consiglio), il resto è distribuito proporzionalmente tra le liste di opposizione. Il nuovo presidente ha diritto ad avere una maggioranza stabile in consiglio: se le liste a lui collegate hanno ottenuto meno del 40 per cento dei seggi, oltre alla totalità dei seggi del "listino" gli vengono attribuiti tanti consiglieri "extra" fino ad arrivare al 55 per cento dei seggi del consiglio (clausola di governabilità). Per le elezioni regionali del 2005 le regioni Lazio, Puglia, Calabria e Toscana hanno eletto i propri rappresentanti con le rispettive leggi elettorali. Tramite la legge costituzionale 2/2001 il sistema dell'elezione diretta del presidente della Giunta è stato esteso anche alle Regioni ad autonomia speciale. Tale particolare legge costituzionale, che ha modificato parte degli statuti a Regione speciale, ha infatti transitoriamente dettato la disciplina elettorale per i Consigli Regionali delle regioni di cui all'articolo 116, in maniera simile a quella delle Regioni a statuto ordinario. Solo per Valle d'Aosta e Trentino-Alto Adige ha dettato regole specifiche, ispirate al proporzionalismo puro, onde garantire le minoranze linguistiche;
+
+*nelle elezioni comunali per i comuni con meno di 15 mila abitanti, e nelle elezioni circoscrizionali, alla lista del candidato vincitore viene assegnato almeno il 66% dei seggi. Anche in questo caso è previsto il voto di preferenza;
+
+*nelle elezioni provinciali e nelle elezioni comunali per i centri maggiori, alla coalizione di liste collegate al Sindaco o al Presidente eletto (che in tal caso devono aver ottenuto la maggioranza assoluta, ricorrendosi in caso contrario ad un ballottaggio), viene garantito almeno il 60% dei seggi assembleari; posta questa clausola, all'interno della coalizione di maggioranza, e fra le liste di minoranza, la distribuzione dei seggi avviene in maniera proporzionale. Tali regole decadono, passando ad una integrale distribuzione proporzionale pura, nel particolare caso in cui gli elettori eleggano un Sindaco o un Presidente, ma diano la maggioranza assoluta ad una coalizione diversa dalla sua (si instaura così una forzata coabitazione nota come anatra zoppa). Se per le elezioni comunali è previsto il voto di preferenza, per le elezioni provinciali, secondo un uso risalente al 1953, vige un particolarissimo meccanismo di lista bloccata, in cui i candidati dei vari partiti, in numero pari ai seggi da coprire, sono assegnati ciascuno ad un singolo collegio uninominale, da non confondersi però col similare istituto dei sistemi maggioritari, poiché in tal caso la distribuzione dei seggi prescinde totalmente il collegio, essendo tale territorio solo l' "area riservata" per ogni singolo candidato, abbattendo la tipica conflittualità interna ai partiti tipica dei sistemi proporzionali;
+
+*nelle elezioni politiche, la riforma del 2005 che ha riportato al voto di lista, ha introdotto, con modalità differenziate fra le due Camere, una quota minima di seggi pari al 55% assegnata alla coalizione meglio piazzata nella tornata elettorale. È un sistema abbastanza simile a quello appena descritto relativo alle province e ai Comuni maggiori. La legge n. 493 del 16 maggio 1956 disciplina gli aspetti operativi: nomina dei componenti del seggio e dei rappresentanti di lista, costituzione del seggio, modalità di voto e scrutinio delle schede elettorali.
+
+Le regioni a statuto speciale emanano proprie legge elettorali a tutti i livelli, dalle comunali alle elezioni politiche.
+
+Note
+
+Bibliografia
+*Giovanni Sartori, Ingegneria costituzionale comparata (2004), Il Mulino. ISBN 8815096361
+*G. Baldini, A. Pappalardo, Sistemi elettorali e partiti nelle democrazie contemporanee (2004), Editori Laterza. ISBN 8842071927
+*Gianfranco Pasquino, I sistemi elettorali, Bologna, Il Mulino, 2006. ISBN 88-15-11297-9
+*Maria Serena Piretti, La fabbrica del voto: Come funzionano i sistemi elettorali, Roma-Bari, Laterza, 1998. ISBN 88-420-5618-9
+*Alessandro Chiaramonte, Tra maggioritario e proporzionale: l'universo dei sistemi elettorali misti, Bologna, Il Mulino, 2005. ISBN 88-15-10586-7
+*D'Alimonte R., Bartolini S., Maggioritario finalmente? La transizione elettorale 1994-2001, Bologna, Il Mulino, 2005. ISBN 88-15-08426-6
+
+Voci correlate
+*Presidente di seggio
+*Segretario di seggio
+*Scrutatore di seggio
+*Rappresentante di lista
+*Tessera elettorale
+*Matita copiativa
+*Voto di scambio
+*Clientela
+*Brogli elettorali
+*Franco tiratore
+*Votazione elettronica
+*Ballottaggio
+*Teorema del ballottaggio
+*Bipartitismo
+*Bipolarismo
+*Elezioni
+*Parlamento
+*Metodo D'Hondt
+*Metodo Schulze
+*Instant-runoff voting
+*Voto a punteggio
+*Mattarellum
+*Sistema elettorale francese
+*Sistema elettorale tedesco
+*Rappresentanza politica
+
+Collegamenti esterni
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 09:53:57 from:
+  http://it.wikipedia.org/wiki/Sistema_elettorale
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

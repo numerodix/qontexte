@@ -1,0 +1,144 @@
+L'archeologia (dal greco, composto dalle parole, "antico", e, "discorso") è la scienza che studia le civiltà e le culture umane del passato e le loro relazioni con l'ambiente circostante, mediante la raccolta, la documentazione e l'analisi delle tracce materiali che hanno lasciato (architetture, manufatti, resti biologici e umani).
+
+Venne definita in passato come scienza ausiliaria della storia, atta a fornire documenti materiali per quei periodi non sufficientemente illuminati dalle fonti scritte. In alcuni paesi, e specialmente negli Stati Uniti è stata sempre considerata come una delle quattro branche dell'antropologia (le altre tre essendo l'etnologia, la linguistica e l'antropologia fisica), avente come obiettivo l'acquisizione di conoscenza delle culture umane attraverso lo studio delle loro manifestazioni materiali.
+
+L'archeologia è tradizionalmente suddivisa in discipline a seconda del periodo o della cultura oggetto di studio (ad esempio archeologia classica o archeologia industriale o paletnologia), oppure a seconda di particolari tecniche di indagine (archeologia subacquea o archeologia sperimentale), o di specifiche problematiche (archeologia urbana, archeologia teorica), o ancora sulla base del tipo di materiale esaminato (numismatica o epigrafia).
+
+Tecniche e metodi di indagine
+
+La principale tecnica di indagine è quella dello scavo stratigrafico, che consente di rimuovere strati di terreno rispettando la successione cronologica e di raccogliere i materiali che vi sono deposti, collocandoli in una precisa sequenza cronologica relativa.
+
+L'indagine archeologica può inoltre usufruire oggi di tecniche di rilevamento e di datazione o di analisi scientifiche elaborate da altre discipline.
+
+L'esame del territorio, sia come ricerca preliminare ad uno scavo, per individuare la presenza di resti archeologici, sia per acquisire dati statistici generali sulla storia del territorio stesso, oltre che della tradizionale ricognizione archeologica di superficie (osservazione diretta), può avvalersi dell'interpretazione delle fotografie aeree e di prospezioni geofisiche (in particolare magnetometriche o con georadar). I sonar possono essere utilizzati in ambiente subacqueo, mentre sonde fotografiche sono state impiegate per esplorare preliminarmente cavità presenti nel terreno, quali tombe non ancora scavate.
+
+Metodi di datazione
+
+Lo studio dei materiali, sia di quelli raccolti nello scavo, sia quelli privi di contesto stratigrafico, ha gli scopi di comprenderne i modi di utilizzo e l'origine e di arrivare ad una datazione.
+
+Il primo modo per datare un oggetto in senso relativo è il suo inserimento nella sequenza stratigrafica. Tuttavia per gli oggetti rinvenuti in un momento in cui questa tecnica non era ancora stata elaborata, o comunque fuori contesto, si continua ancora ad utilizzare il confronto formale e stilistico con altri oggetti simili. A questo si aggiunge l'insieme delle tecniche scientifiche oggetto dell'archeometria.
+
+Per ottenere datazioni assolute possono essere utilizzati il metodo del Carbonio 14 (o radiocarbonio) per i materiali organici (mentre altri metodi di datazione ai radioisotopi, quali quelli del potassio-argo, dell'uranio-torio-piombo e delle tracce di fissione dell'uranio 238, possono servire a datare le rocce e quindi i fossili o i resti di industria litica ad esse associate), la dendrocronologia per il legno, la termoluminescenza e l'archeomagnetismo, per ceramiche, laterizi e terre di fusione.
+
+Possono aiutare nella datazione relativa di oggetti rinvenuti in uno stesso sito i metodi del FUN test o della racemizzazione degli amminoacidi, per le ossa, e quello dell'idratazione dell'ossidiana o del rapporto tra cationi (in ambienti aridi) per datare la lavorazione dell'ossidiana o della pietra in genere. Presso i ghiacciai un altro metodo è quello tramite il conteggio delle "varve", un particolare tipo di depositi che registra variazioni annuali nei sedimenti glacio-lacustri.
+
+Discipline correlate e attuali indirizzi di studio
+
+L'archeozoologia e la paleobotanica indagano i resti faunistici e botanici, allo scopo di ricostruire l'ambiente naturale con il quale gli uomini interagivano.
+
+L'archeoastronomia fornisce inoltre un supporto all'indagine con lo studio degli allineamenti astronomici e degli orientamenti delle strutture antiche, a volte ricercati per specifici motivi simbolici, soprattutto nel caso di edifici legati al culto.
+
+Le numerose applicazioni del computer, dall'archiviazione e organizzazione dei dati, alle rappresentazioni cartografiche (GIS), alle ricostruzioni virtuali, con utilizzi sia per la ricerca, sia per la presentazione al pubblico, sono oggetto dell'archeologia computazionale.
+
+Esiste inoltre l'archeologia musicale che studia i fenomeni musicali dell'età antica.
+
+L'archeologia sperimentale tenta infine di riprodurre le condizioni antiche nelle quali gli oggetti sono stati prodotti e si sono successivamente modificati, deteriorati e distrutti, allo scopo di sottoporre a prova sperimentale le ipotesi fatte sulla base dei resti rinvenuti.
+
+Oltre alla chimica e alla fisica, per l'elaborazione delle tecniche di analisi già citate, le indagini archeologiche possono ricevere un utile apporto dalla geologia, per la conoscenza sia delle caratteristiche delle varie pietre da costruzione, delle gemme, dei metalli e leghe metalliche, delle argille, sia dei i meccanismi geomorfologici di erosione e di sedimentazione, e ancora per la datazione delle rocce. Un'altra disciplina che fornisce il suo apporto alle indagini archeologiche è la paleontologia o paleobiologia, per lo studio dei resti fossili (con la paleozoologia per i fossili animali, la paleobotanica per quelli vegetali, la palinologia per i pollini fossili e l'antracologia per i resti carbonizzati, e infine la paleoantropologia per i resti fossili umani e lo studio dell'evoluzione dell'uomo): nel loro insieme i cambiamenti ambientali e climatici sono studiati dalla paleoecologia. Numerose sono anche le possibili applicazioni dei metodi statistici all'analisi dei dati.
+
+Molti degli interessi delle discipline bioarcheologiche e archeometriche nel loro insieme costituiscono l'oggetto di studio del metodo interdisciplinare dell'archeologia ambientale.
+
+Hanno inoltre tematiche affini e complementari numerose discipline, quali l'antropologia culturale e l'etnologia (per lo studio delle organizzazioni socio-culturali delle comunità umane, dei loro aspetti comportamentali e simbolici e delle loro relazioni con l'ambiente), la paletnologia (per lo studio delle origini e dei movimenti delle popolazioni), la linguistica storica (per lo studio e la diffusione delle lingue), le ricerche di storia dell'arte e naturalmente della storia.
+
+Storia dell'archeologia
+
+Durante la sua storia l'archeologia si è progressivamente costituita in disciplina autonoma e si è dotata di una metodologia e concezioni proprie. La sua storia è stata parallelamente ritmata da una lunga serie di scoperte importanti, la cui interpretazione ha avuto ripercussioni sull'evoluzione delle concezioni sul passato terrestre e umano. In ogni epoca le culture si sono confrontate con i resti materiali delle civilizzazioni che le avevano precedute, ma non si può parlare di vera e propria scoperta archeologica finché i ritrovamenti non siano considerati segni che permettono di decifrare il passato. Anche la nozione di scoperta archeologica si è evoluta con il progredire dei metodi di indagine: alla ricerca dell'oggetto eccezionale e raro, cara agli antiquari e ancora presente nell'immaginazione del grande pubblico, si è sostituita l'indagine sul passato nei suoi aspetti più ordinari e quotidiani; parallelamente le scoperte sono divenute sempre meno dipendenti dal caso o dall'intuizione.
+
+Il termine archeologia era già utilizzato dagli storici antichi, nel suo senso letterale di "discorso sul passato". Lo storico greco Tucidide utilizza in qualche caso le testimonianze materiali come prova per una ricostruzione del passato (i Cari avrebbero abitato in passato le isole dell'Egeo in quanto a Delo erano state rinvenute dagli ateniesi molte tombe antiche con oggetti e tipo di sepoltura simili a quelli utilizzati ancora ai suoi tempi da quella popolazione).
+
+A partire dall'Umanesimo e dal suo interesse per il passato classico, si sviluppò un collezionismo di antichità greco-romane, dalle opere d'arte agli oggetti di uso comune. Tuttavia a volte questi resti non erano ancora utilizzati ai fini di una ricostruzione storica, che si basava, invece, quasi esclusivamente sulle fonti scritte, ma erano visti come semplici raccolte di "curiosità". Ciriaco Pizzecolli (o Ciriaco di Ancona), umanista e viaggiatore, venne chiamato dai suoi contemporanei "pater antiquitas", cioè padre delle antichità, per il fatto che la sua ricerca incessante di testimonianze del mondo antico non era dettata da semplice curiosità, ma era invece finalizzata a "riportare in vita" (come lui stesso diceva) il passato romano e greco. Fu lui il primo a portare testimonianza nel mondo europeo dell'acropoli di Atene, dei geroglifici, delle piramidi egiziane e di molti altri siti archeologici, che incessantemente visitava riportandone schizzi grafici e relazioni scritte. Per questi motivi a volte Ciriaco Pizzecolli è considerato il padre dell'archeologia.
+
+L'archeologia classica come storia dell'arte antica
+
+Johann Joachim Winckelmann, ritenuto l'iniziatore degli studi archeologici moderni, pubblicò nel 1764 la sua Geschichte der Kunst des Altertums (in italiano Storia delle arti del disegno presso gli antichi), nella quale, in contrapposizione con gli eruditi studi della precedente disciplina "antiquaria", le opere d'arte greco-romane vennero inserite nel loro contesto storico. L'archeologia era ancora intesa principalmente come studio dell'arte greco-romana, fortemente influenzata dalle concezioni estetiche neoclassiche.
+
+Alois Riegl, appartenente alla "scuola viennese", pubblicò nel 1901 lo studio sull'Industria artistica tardoromana, nel quale si asseriva la necessità di giudicare l'opera d'arte in rapporto alle concezioni dell'epoca in cui è stata realizzata e non in rapporto ad un astratto modello ideale. Questa storicizzazione permise una rivalutazione dell'arte romana rispetto a quella greca e pose le basi per l'allargamento degli studi alle civiltà artistiche estranee al mondo classico.
+
+Dopo le scoperte di Pompei e di Ercolano nel XVIII secolo, dei primi ritrovamenti si erano già avuti a partire dal XIX secolo, con Giovanni Battista Belzoni e Karl Richard Lepsius in Egitto dove la scrittura geroglifica era stata decifrata da Jean-François Champollion, con Paul Émile Botta, Austen Henry Layard e Robert Koldeway in Mesopotamia, con la decifrazione della scrittura cuneiforme ad opera di Georg Friedrich Grotefend, fino alla celeberrima riscoperta di Troia da parte di Heinrich Schliemann nel 1873 e agli scavi di Cnosso di sir Arthur Evans nel 1900. Si trattava in buona parte ancora di "sterri" allo scopo di "scoprire" oggetti d'arte da esporre nei musei, più che della raccolta e indagine di testimonianze storiche.
+
+In questo periodo si sviluppò anche l'archeologia cristiana, legata alla scoperta delle catacombe di Roma e interessata prevalentemente ai fenomeni storico-artistici.
+
+La fase dell'approccio storico-culturale
+
+Contemporaneamente i rinvenimenti di utensili in pietra associati ad ossa di animali estinti inaugurarono gli studi sulla preistoria: Christian Thomsen elaborò per l'ordinamento dei materiali del Nationalmuseet ("museo nazionale" danese, fondato nel 1807, la periodizzazione delle età della pietra, del bronzo e del ferro.
+
+Gli studi sulle culture preistoriche e protostoriche, che non potevano avvalersi di fonti scritte, ma solo dei dati materiali ("cultura materiale"), rivalutarono l'importanza degli oggetti come testimonianze del passato, indipendentemente dalla loro eventuale qualità artistica. L'archeologia assunse dunque, e in particolare nei paesi anglosassoni, un aspetto sempre più storico-antropologico, al posto dell'iniziale orientamento storico-artistico.
+
+In Italia, a partire dalla seconda metà del XIX secolo il paletnologo Luigi Pigorini recuperava sistematicamente tutti gli oggetti rinvenuti e curava l'esecuzione dello scavo e l'analisi dei dati che questo forniva. La documentazione del ritrovamento di ciascun oggetto divenne sistematica anche nella prosecuzione degli scavi di Pompei, ad opera di Giuseppe Fiorelli e Amedeo Maiuri.
+
+Ci si cominciò infine ad interessare prima alle architetture e quindi ai siti e ai materiali di epoca medioevale, con veri e propri scavi archeologici soprattutto in Gran Bretagna e nei paesi scandinavi, in collegamento con lo sviluppo di un interesse per le origini nazionali, portando alla creazione della disciplina dell'archeologia medioevale. In quest'ambito il generale inglese Pitt-Rivers si dedicò tra il 1881 e il 1896 alla ricerca di villaggi e necropoli, registrando in modo estremamente accurato tutti i dati dei ritrovamenti.
+
+A Roma i primi scavi stratigrafici del Foro Romano furono condotti negli anni tra il 1898 e il 1925 da Giacomo Boni, mentre Rodolfo Lanciani documentava la grande quantità di ritrovamenti casuali e di scavi "di recupero" che avvenivano parallelamente alle costruzioni per la Roma Capitale. Successivamente le esigenze propagandistiche del regime fascista condussero ad una ripresa di grandi sterri poco documentati, mentre sulla via dell'indagine stratigrafica proseguivano Nino Lamboglia in Liguria e studiosi di paleontologia e preistoria.
+
+La necessità di una corretta raccolta dei dati portò nel XX secolo alla codificazione del metodo stratigrafico. Il sistema dello "scavo per quadrati", fu elaborato dall'archeologo inglese sir Mortimer Wheeler tra gli anni '20 e '50 mentre quello "per grandi aree" fu descritto da alla fine degli anni '70.
+
+Lo scavo delle zone cittadine bombardate e distrutte durante la seconda guerra mondiale, in occasione delle ricostruzioni permise di elaborare inoltre gli specifici metodi di indagine dell'archeologia urbana, legata spesso a scavi di emergenza e costretta ad operare quindi con tempi limitati in contesti stratigrafici estremamente complessi.
+
+I metodi archeologici sono indipendenti dall'epoca dei resti studiati e sono infatti stati applicati anche all'epoca successiva alla rivoluzione industriale (archeologia industriale) e persino come metodo di indagine sulle società contemporanee (per esempio con l'analisi dei rifiuti urbani).
+
+"La perdita dell'innocenza" e le archeologie antropologiche
+La relazione della ricerca archeologica con l'antropologia culturale (e fisica), ha dato origine a vari approcci, tra essi contraddittori o complementari, secondo i punti di vista dei vari studiosi che si sono succeduti e tuttora si succedono nel dibattito archeo-metodologico e teorico, animato (se non iniziato) a partire dagli anni 1960, per l'esplicitazione di metodi e finalità della ricerca, e per migliorare la capacità dell'archeologia di spiegare e interpretare le società del passato (e del presente).
+Tra questi si contano l'archeologia processuale, l'archeologia post-processuale, l'archeologia (neo-)marxista, la Gender Archaeology, l'archeologia neo-evoluzionista, l'archeologia cognitiva.
+
+Negli anni '60 si sviluppò, in particolare negli Stati Uniti la cosiddetta archeologia processuale o "nuova archeologia" ("processual archaeology" o "new archaeology", soprattutto in ambito preistorico e protostorico), che ambiva a collocare l'archeologia tra le scienze esatte attraverso l'elaborazione di un metodo completamente nuovo, che partisse da ipotesi teoriche sui grandi processi culturali, da verificare quindi attraverso metodi scientifici (lo scavo). Si tendeva a ricollegare l'archeologia all'antropologia, come studio dei fenomeni culturali, staccandola invece dalla storia e dalla ricostruzione storica delle diverse culture umane. Si criticava in modo particolare la tendenza degli archeologi "tradizionali" a limitarsi alla pura e semplice raccolta di manufatti e il loro mero inserimento in serie cronologiche e la mancanza di una riflessione metodologica e sugli scopi della disciplina. Il ruolo centrale era riconosciuto ai "processi culturali" che costituivano comportamenti umani fondamentali. Nell'attività archeologica queste premesse teoriche si traducevano in una nuova attenzione rivolta ai modelli di insediamento e di rapporto con l'ambiente.
+
+La successiva archeologia post-processuale, sviluppatasi in Gran Bretagna criticava in particolare la possibilità di un'osservazione oggettiva e asettica dei fenomeni culturali e quindi la pretesa di raggiungere una scientificità astratta poco coerente con le specificità della ricerca archeologica.
+
+Nell'archeologia italiana e mediterranea la nuova archeologia ha avuto scarso seguito, anche a causa della mancanza di una prospettiva storica e del meccanicismo dei processi culturali, intesi come inevitabili adattamenti delle culture alle trasformazioni ambientali.
+
+Voci correlate
+* Johann Joachim Winckelmann
+* Ciriaco Pizzecolli
+* Archeologi
+*Zona archeologica marittima
+* Voci comprese nella categoria dei
+* Storia
+* Preistoria
+* Paletnologia
+* Etnologia
+* Restauro
+* Archeologia misteriosa
+* Archeologia virtuale
+
+Bibliografia
+
+*Barker, P. Tecniche dello scavo Archeologico. Longanesi & C., Milano, 1977
+*Bianchi Bandinelli, R. Introduzione all'archeologia classica come storia dell'arte antica, Laterza, Roma-Bari, 1976
+*Binford, L.R. Preistoria dell'uomo. La nuova archeologia, Rusconi, Milano, 1990
+*Carandini, A. Storie dalla terra. Manuale di scavo archeologico, Einaudi, Torino, 1991
+*Carandini, A. Archeologia e cultura materiale. lavori senza gloria nell'antichità, De Donato, Bari, 1979
+*Gamble, C. Archaeology. The Basics, Routledge, Abingdon (UK), 2008
+*Gelichi, S. Introduzione all'archeologia medievale, Carocci, Roma, 1997
+*Giannichedda, E. Uomini e cose. Appunti di archeologia, Edipuglia, Santo Spirito (Bari), 2006
+*Gordon Childe, V. Il progresso nel mondo antico, Einaudi, Torino, 1973
+*Guidi, A. I metodi della ricerca archeologica, Laterza, Roma-Bari 1995
+*Harris, E. Principi di stratigrafia Archeologica, Carocci, Roma, 1989
+*Manacorda, D. Lezioni di archeologia, Laterza, Roma-Bari 2008
+*Moreno, D. Storia, archeologia e ambiente. Contributo alla definizione ed agli scopi dell’archeologia postmedievale in Italia, in “Archeologia Postmedievale”, 1 (1997), pp. 89-94
+*Maniscalco, F. "Mare Nostrum. Fondamenti di archeologia subacquea", Massa, Napoli, 1999
+*Renfrew, C., Bahn, P. Archeologia: Teorie, Metodi e Pratica, Zanichelli, Bologna, 2006.
+
+Altri progetti
+
+Collegamenti esterni
+*Direzione generale per i beni archeologici del Ministero per i beni i le attività culturali (MiBAC)
+*Antichità classica Rassegna di strumenti informatici per lo studio dell'antichità classica (Università di Bologna)
+*Archeologia italiana Portale di archeologia in Italia
+*Archaeogate, portale italiano di archeologia
+*Archeomedia (rivista di archeologia on-line)
+*Archeologia viva (sito della rivista di divulgazione sull'archeologia)
+*Archeologia medievale Portale di archeologia medievale (Università degli studi di Siena)
+* Riassunto del manuale di Renfrew e Bahn
+
+Associazioni
+*Associazione internazionale di archeologia classica
+*Società degli archeologi medievisti italiani
+*Istituto italiano di preistoria e protostoria
+*Gruppi archeologici d'Italia (associazione di volontariato archeologico)
+*Associazione nazionale archeologi (associazione professionale)
+*Confederazione italiana archeologi (associazione professionale)
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 17:43:32 from:
+  http://it.wikipedia.org/wiki/Archeologia
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

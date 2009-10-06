@@ -1,0 +1,342 @@
+Lo o è l'alfabeto della lingua coreana.
+__TOC__
+Lo hangul fu ideato da scienzati su iniziativa del re Sejong il Grande nel XV secolo e andò a sostituire il sistema di scrittura cinese, basato sugli hanja, usato dalle élites colte del paese fino a quel momento.
+
+A differenza del sistema di scrittura cinese, è un alfabeto fonetico, in cui ogni carattere rappresenta una sillaba ed è la composizione grafica dei due o tre suoni elementari che la compongono; a ciascuno dei suoni elementari corrisponde un simbolo, ad esempio (vedi figura)
+* ㅎ (h aspirata) ㅏ (a) ㄴ (n) si combinano in 한 (han)
+* ㄱ (g) ㅡ (u breve, indistinta) ㄹ (r, l) si combinano in 글 (gŭl)
+
+Una sillaba si compone di 2 o 3 simboli detti jamo. Fra i jamo si contano 14 consonanti e 10 vocali. La forma moderna dello hangul deriva da un'operazione di semplificazione; storicamente, l'alfabeto coreano comprendeva molti altri simboli oggi abbandonati.
+
+La lingua coreana viene scritta oggi quasi completamente con lo hangul, tuttavia circa un migliaio di caratteri cinesi (hanja) è rimasto in uso - benché relativamente raro - nella Corea del Sud. Lo hangul si scrive da sinistra a destra, con le righe disposte dall'alto in basso. La scrittura antica, con i caratteri disposti dall'alto in basso e le righe da destra a sinistra, è ancora usata in casi particolari o per enfasi.
+
+I simboli dello hangul moderno sono i seguenti (la traslitterazione usata in questa voce è quella ufficiale del governo sudcoreano, basata sulla pronuncia inglese di j, ch, y e w):
+
+Nome
+
+Il nome hangul fu coniato da Ju Si-gyeong nel 1912 e significa sia "grande alfabeto" in coreano antico che "alfabeto coreano" in coreano moderno. Non viene scritto in hanja, benché la prima sillaba, han (한), se usata nel senso di "coreano" possa essere resa anche col carattere 韓. Si pronuncia e viene trascritta in diversi modi
+* Hangeul or Han-geul, secondo la convenzione adottata dal governo della Corea del Sud
+* Han'gŭl, secondo la convenzione di McCune-Reischauer, spesso senza il diacritico nei testi in lingua inglese
+* Hankul, secondo la convezione adottata da Yale, anch'essa frequente in testi inglesi
+
+Hunmin Jeong-eum è il nome storico originale, mentre i coreani del nord adottano il nome, per via del diverso nome che loro danno alla Corea.
+
+è una forma usata in entrambe le Coree.
+
+Fino agli inizi del XX secolo, lo hangul era spesso denigrato da coloro che avrebbero preferito mantenere la tradizionale scrittura hanja, fu da loro pertanto spesso appellato come
+
+* .
+* . 암 - (probabilmente derivato da 陰) è un prefisso usato per assegnare a un sostantivo il genere femminile.
+* .
+
+ciò nonostante l'utilizzo della scrittura ideografica è diventato nei decenni sempre più raro in Corea del Sud ed è stato bandito in Corea del Nord; oggi questi appellativi non si usano più.
+
+Storia
+
+Lo hangul fu ideato e promulgato dal quarto re della dinastia Joseon, Sejong il Grande nel XV secolo.
+
+Fu completato a cavallo tra il 1443 e il 1444 e pubblicato due anni dopo nel documento Hunmin Jeong-eum, da cui l'alfabeto prese il nome. Il giorno di pubblicazione dello Hunmin Jeong-eum, il 9 ottobre in Corea del Sud è il "giorno dello hangul", festa nazionale fino al 1991. Il suo equivalente in Corea del Nord è il 15 gennaio.
+
+Secondo una vecchia leggenda re Sejong disegnò i caratteri ispirandosi ad un reticolo intricato, tuttavia la leggenda fu smentita nel 1940 a seguito del ritrovamento dello scritto Hunmin Jeong-eum Haerye (spiegazioni ed esempi dell'alfabeto coreano), datato 1446, in cui viene spiegata la logica alla base della scelta delle forme dei caratteri.
+
+Re Sejong disse di aver creato lo hangul perché i caratteri cinesi (hanja) usati per rendere per scritto il coreano parlato erano inaccurati nel riprodurre esattamente i suoni e difficili da imparare per la gente comune. Da qui il nome Hunmin Jeong-eum, che nell'antico sino-coreano significava "i suoni adatti per l'istruzione delle persone". All'epoca solo i maschi delle famiglie aristocratiche (Yangban) venivano istruiti a leggere e scrivere gli hanja; questo rendeva la grandissima maggioranza dei coreani degli analfabeti di fatto. Lo hangul trovò una grande opposizione da parte delle classi colte, che rivendicavano gli hanja come l'unico sistema di scrittura legittimo. La protesta di Choe Manri e di altri confuciani nel 1444 ne fu un esempio.
+
+Il governo prese successivamente le distanze dallo hangul. Re Yeonsangun, il decimo della dinastia, nel 1504 proibì che lo hangul venisse studiato e usato. Lo hangul rimase il sistema di scrittura usato dalle donne e dalle persone non istruite.
+
+Nel tardo XIX secolo il nazionalismo coreano, riacceso dai tentativi del Giappone di sganciare la Corea dalla sfera di influenza della Cina, vide nello hangul un simbolo nazionale. A seguito della Riforma Gabo (갑오 개혁), promossa da alcuni politici pro-giapponesi, lo hangul nel 1894 fu adottato in documenti ufficiali. Dopo l'annessione della Corea da parte del Giappone nel 1910 lo hangul fu insegnato per un breve periodo nelle scuole, ma fu successivamente bandito in ossequio alla politica giapponese dell'assimilazione culturale delle popolazioni dei territori conquistati.
+
+La Corea, dopo aver riottenuto l'indipendenza dal Giappone nel 1945, adottò lo hangul come suo alfabeto ufficiale. Alcune élites avrebbero preferito mantenere un sistema misto simile a quello giapponese, che usasse gli hanja per i sostantivi, ma questo utilizzo misto è andato via via decrescendo. Oggi l'utilizzo degli hanja in normali documenti e pubblicazioni è relativamente raro.
+
+Jamo
+
+I jamo (자모; hanja: 字母) o nassori (낱소리) sono le singole lettere che compongono i caratteri dello hangul. Ja significa "lettera" o "carattere", mo significa "madre", il nome sta quindi ad indicare che i jamo sono gli elementi di base da cui si generano i caratteri.
+
+Esistono 51 jamo, di cui 24 sono equivalenti alle lettere dell'alfabeto latino. Gli altri 27 sono raggruppamenti di due o (raramente) tre jamo. Dei 24 jamo semplici, quattordici sono consonanti (ja-eum 자음, 子音: letteralmente "suoni figli") e dieci sono vocali (mo-eum 모음, 母音: letteralmente "suoni madri"). 5 consonanti sono raddoppiate per produrre l'equivalente suono doppio e 11 raggruppamenti sono coppie di consonanti diverse. I dieci jamo vocalici formano per combinazione 11 dittonghi:
+
+* 14 consonanti semplici: ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ, cui si aggiungono le obsolete ㅿㆁㆆㅱㅸㆄ
+* 5 consonanti doppie: ㄲㄸㅃㅆㅉ, cui si aggiungono le obsolete ㅥㆀㆅㅹ
+* 11 raggruppamenti di consonanti ㄳㄵㄶㄺㄻㄼㄽㄾㄿㅀㅄ, cui si aggiungono gli obsoleti ㅦㅧㅨㅪㅬㅭㅮㅯㅰㅲㅳㅶㅷㅺㅻㅼㅽㅾㆂㆃ, e gli obsoleti raggruppamenti tripli ㅩㅫㅴㅵ
+
+* 6 vocali semplici: ㅏㅓㅗㅜㅡㅣ, cui si aggiunge l'obsoleta ㆍ
+* 4 vocali semplici iotizzate: ㅑㅕㅛㅠ
+* 11 dittoghi: ㅐㅒㅔㅖㅘㅙㅚㅝㅞㅟㅢ, cui si aggiungono gli obsoleti ㆎㆇㆈㆉㆊㆋㆌ
+
+Quattro jamo vocalici sono derivati dai corrispondenti jamo semplici per aggiunta di un trattino che sta ad indicare iotizzazione, ovvero che la vocale è preceduta da una i breve (trascritta come y): ㅑ ya, ㅕ yeo, ㅛ yo e ㅠ yu. Questi quattro jamo sono considerati appartenenti al gruppo dei 24 jamo fondamentali, dato che il trattino da solo non rappresenta il suono i breve. Non esiste infatti un jamo per tale suono.
+
+Tra le consonanti semplici, ㅊ chieut, ㅋ kieuk, ㅌ tieut e ㅍ pieup sono i corrispondenti suoni aspirati rispettivamente di ㅈ jieut, ㄱ giyeok, ㄷ digeut e ㅂ bieup; sono formati dallo jamo della consonante da cui derivano con l'aggiunta di un trattino orizzontale aggiuntivo che sta ad indicare l'aspirazione del suono.
+
+Le consonanti doppie consistono di due segni identici appaiati orizzontalmente e rappresentano il rafforzamento del suono in maniera analoga a come avviene per le consonanti doppie nella lingua italiana. Sono ㄲ ssang-giyeok (kk: ssang- 쌍 "doppio"), ㄸ ssang-digeut (tt), ㅃ ssang-bieup (pp), ㅆ ssang-siot (ss) e ㅉ ssang-jieut (jj).
+
+Nel combinarsi a formare una sillaba, ciascun jamo può occupare tre posizioni
+
+* iniziale (초성, 初聲 choseong): è la consonante che precede la vocale, può essere anche doppia; la mancanza di un suono consonante iniziale è rappresentata dal jamo muto ᄋ. Si trova in alto, a sinistra o nell'angolo in alto a sinistra della sillaba
+* mediale (중성, 中聲 jungseong): è la vocale o il dittongo della sillaba. Si trova a destra o al centro della sillaba se c'è un jamo finale, in assenza dal jamo finale è a destra o o in fondo alla sillaba.
+* finale (종성, 終聲 jongseong): è la consonante che chiude la sillaba; il jamo ᄋ in questa posizione non è muto, ma rappresenta un suono analogo al suono ng della lingua inglese; le sole consonanti doppie che occupano questa posizione sono ᆻ (ss) e ᆩ (kk). Si trova in fondo, a destra o nell'angolo in fondo a destra della sillaba.
+
+La forma dei jamo
+I singoli caratteri degli alfabeti possono rappresentare morfemi (come nella lingua cinese), sillabe (come nel katakana giapponese) o segmenti (come quello che state leggendo in questo momento). Lo hangul va oltre questo punto, dato che la forma del carattere è in corrispondenza con la pronuncia stessa del suono; nella forma di ciascun jamo consonante sono infatti codificati il punto di articolazione (labiale, coronale, velare, glottale) e il modo di articolazione (plosivo, nasale, sibilante, aspirato) del suono, nella forma di ciascun jamo vocale l'eventuale iotizzazione e l'addolcimento.
+
+Ad esempio, il jamo ㅌ (t) si compone di tre tratti, ciascuno con un suo significato: il tratto in alto indica che la consonante è plosiva (come ㄱ g, ㄷ d, ㅂ b, ㅈ j); il tratto centrale indica che il suono è aspirato (come ㅎ h, ㅋ k, ㅍ p, ㅊ ch); il terzo tratto (verticale e orizzontale in fondo, sono un unico segno curvo) indicano un suono coronale (come ㄴ n, ㄷ d, ㄹ l).
+
+Nei jamo vocalici la iotizzazione era rappresentata da un punto, oggi un trattino breve aggiuntivo; un tratto verticale supplementare rappresenta l'addolcimento del suono (analogo a quello reso in lingua tedesca dalla dieresi), derivando ㅐ , ㅔ , ㅚ , ㅟ rispettivamente da ㅏ , ㅓ , ㅗ , ㅜ .
+
+Benché la struttura dello hangul sia molto descrittiva, ai fini pratici si comporta come un normale alfabeto; il jamo ㅌ ad esempio non viene interpretato come "consonante aspirata plosiva coronale" ma semplicemente come t. Similmente, il carattere ㅔ viene visto nella sua interezza come e.
+
+Nella sua versione originale, lo hangul impiegava anche dei segni diacritici per indicare il tono della sillaba. Nella scrittura verticale, una sillaba in tono alto era contrassegnata da un punto (·) alla sua sinistra, due punti (:) indicavano invece un tono ascendente. Questi segni oggi non sono più usati.
+
+La relazione tra la forma ed il significato dei jamo viene spiegata nel Hunmin Jeong-eum Haerye. Le consonanti sono disegnate per descriverne la pronuncia, le vocali sono disegnate per descrivere a quale classe appartengono - la lingua coreana è contraddistinta dal fenomeno dell'armonia vocalica come la lingua ungherese e quella finlandese.
+
+Le consonanti
+
+I jamo delle consonanti si dividono in cinque gruppi, ciascuno distinto da una propria forma base cui vengono aggiunti altri segni. La forma base di un suono illustra la posizione di lingua, palato, denti o gola durante la sua pronuncia.
+
+*consonante velare (아음, 牙音 a-eum):
+** ㄱ g, ㅋ k
+** Forma base: ㄱ rappresenta la vista laterale della lingua, sollevata verso il palato molle. ㅋ deriva da ㄱ per aggiunta di un tratto aggiuntivo che indica il suono aspirato.
+*consonante coronale (설음, 舌音 seol-eum):
+** ㄴ n, ㄷ d, ㅌ t, ㄹ r/l
+** Forma base: ㄴ rappresenta la vista laterale della lingua, la cui punta tocca l'interno della gengiva superiore. Il tratto superiore di ㄷ rappresenta il contatto con il palato anteriore, il tratto supplementare in ㅌ indica che il suono è aspirato; il tratto superiore di ㄹ rappresenta il movimento battente della lingua.
+*consonante bilabiale (순음, 唇音 sun-eum):
+** ㅁ m, ㅂ b, ㅍ p
+** Forma base: ㅁ rappresenta il contorno delle labbra. La parte superiore di ㅂ rappresenta lo "scoppio" della b, il tratto superiore di ㅍ indica che il suono è aspirato.
+*consonante sibilante (치음, 齒音 ''chieum'):
+** ㅅ s, ㅈ j, ㅊ ch
+** Forma base: ㅅ originariamente a forma di cuneo ʌ , senza lo svolazzo superiore, rappresenta una vista laterale dei denti. Il tratto superiore di ㅈ rappresenta il contatto con il palato anteriore, il tratto aggiuntivo in ㅊ indica che il suono è aspirato.
+*consonante glottale (후음, 喉音 hueum):
+** ㅇ ng, ㅎ h
+** Forma base: ㅇ rappresenta il contorno della gola. Orignariamente vi erano due lettere distinte: un semplice cerchio per il suono muto e il cerchio col trattino verticale ㆁ per il suono nasale. Un jamo oggi obsoleto è ㆆ, in cui il tratto orizzontale è analogo a quello di ㄱ, ㄷ, e ㅈ; da esso deriva ㅎ, in cui il tratto aggiuntivo indica che il suono è aspirato.
+
+Le vocali
+
+I jamo delle vocali sono composti da tre elementi
+* una linea orizzonate che rappresenta la Terra e l'essenza dello yin
+* un punto che rappresenta il Sole nel cielo e l'essenza dello yang, che, scritto con un pennello, si è evoluto in un breve trattino
+* un tratto verticale che rappresenta l'essere umano in posizione eretta, mediatore neutrale tra i due cardini
+
+A questi elementi base sono stati aggiunti altri punti - oggi evoluti in trattini - per rappresentare suoni derivati.
+
+* Vocali semplici
+** jamo orizzontali: rappresentano vocali posteriori
+*** ㅗ o
+*** ㅜ u
+*** ㅡ eu (ŭ)
+** jamo verticali: rappresentavano vocali anteriori (il suono ㅓ eo col tempo è migrato nella parte posteriore)
+*** ㅏ a
+*** ㅓ eo (ŏ)
+*** ㅣ i
+* jamo composti: lo hangul non ha mai avuto una w (u breve), se non in parole sino-coreane e non vi è mai stato bisogno di un carattere per rappresentarla, dato che il suono compare nei suoni composti e e viene reso da una u o o posta prima di eo o a rispettando l'armonia vocale negli abbinamenti: yin ㅜ con yin ㅓ; yang ㅗ con yang ㅏ:
+
+** ㅘ wa = ㅗ o + ㅏ a
+** ㅝ wo = ㅜ u + ㅓ eo
+** ㅙ wae = ㅗ o + ㅐ ae
+** ㅞ we = ㅜ u + ㅔ e
+
+I jamo composti che terminano in ㅣ i erano invece in origine dei dittonghi; col tempo molti di essi sono evoluti in singole vocali addolcite:
+
+** ㅐ ae = ㅏ a + ㅣ i
+** ㅔ e = ㅓ eo + ㅣ i
+** ㅙ wae = ㅘ wa + ㅣ i
+** ㅚ oe = ㅗ o + ㅣ i
+** ㅞ we = ㅝ wo + ㅣ i
+** ㅟ wi = ㅜ u + ㅣ i
+** ㅢ ui = ㅡ eu + ㅣ i
+
+* vocali iotizzate: non essendoci un jamo per la y (i breve), la iotizzazione è rappresentata dal raddoppio dei trattini uniti alla linea principale
+** ㅑ ya da ㅏ  a
+** ㅕ yeo da ㅓ  eo
+** ㅛ yo da ㅗ  o
+** ㅠ yu da ㅜ  u
+** ㅒ yae da ㅐ  ae
+** ㅖ ye da ㅔ  e
+
+Nella lingua coreana all'epoca dell'ideazione dello hangul l'armonia vocale era molto più presente che nel coreano attuale. Le vocali erano distinte in gruppi armonici descritti in termini di yin e yang. Parole la cui radice ha vocali yang venivano declinate usando desinenze aventi vocali yang e analogamente succedeva per le parole la cui radice ha vocali yin.
+
+La vocale ㅣ i è neutra e può accompagnarsi a vocali di entrambi i gruppi. Le vocali yin sono ㅡ, ㅜ e ㅓ (eu, u e eo) i cui trattini secondari vanno in basso o a sinistra. Le vocali yang sono ㅗ,ㅏ e l'obsoleto ㆍ (o, a e ) i cui trattini secondari vanno in alto o a destra.
+
+La teoria di Ledyard sulle consonanti
+[
+
+Esistono diverse teorie su quali fonti possano aver ispirato re Sejong nella creazione dello hangul. Benché nessuna di esse sia ampiamente accettata, il professor Gari Ledyard della Columbia University pensa che cinque consonanti possano essere derivate dall'alfabeto mongolo phagspa della dinastia Yuan e le restanti lettere come descritto nello Hunmin Jeong-eum.
+
+Secondo lo Hunmin Jeong-eum, re Sejong creò lo hangul modificando i caratteri 古篆 "Gǔ". Tale nome potrebbe derivare da 蒙古 Měnggǔ, "mongolo" e 古篆 essere un'abbreviazione di 蒙古篆字 "caratteri mongoli per i sigilli", che era una variante formale dell'alfabeto phagspa adattato per somigliare ai "caratteri per sigilli" dei cinesi. Nel palazzo reale c'erano certamente dei manoscritti in alfabeto phagspa e diversi dei ministri di re Sejong lo conoscevano bene.
+
+Se questo fosse vero, la reticenza di re Sejong sulle origini mongole dello hangul potrebbe essere spiegata alla luce delle relazioni della Corea con la Cina dei Ming dopo la caduta della dinastia Yuan e il disprezzo delle classi colte per lo hangul, dato che i mongoli erano considerati da loro "barbari".
+
+Secondo Ledyard le cinque lettere furono semplificate graficamente in modo da poter essere adattate nelle sillabe e modificate per poterne derivare le corrispondenti consontanti plosive aspirate ㅋ,ㅌ,ㅍ e ㅊ. A differenza quindi della spiegazione tradizionale, le consonanti non plosive (ng, ㄴ,ㅁ e ㅅ) sarebbero state derivate togliendo la parte superiore delle cinque consonanti. È plausibile che ㅁ possa derivare da ㅂ per rimozione della parte superiore, non è invece chiaro come possa accadere l'inverso, ovvero che ㅂ derivi da ㅁ, dato che ㅂ è dissimile dalle altre consonanti plosive.
+
+Anche la spiegazione del carattere ng di Ledyard differisce dalla spiegazione tradizionale. Molte parole cinesi iniziano con un suono ng ma in Cina nel XV secolo ng era una sillaba muta o pronunciata ed era muta nelle parole di origine cinese usate nel coreano. Inoltre la forma di ng - una linea verticale ottenuta per rimozione del tratto superiore di ㄱ - sarebbe stata troppo simile alla vocale ㅣ i. Re Sejong quindi risolse l'ambiguità aggiungendo il tratto verticale al simbolo di sillaba muta ㅇ creando ᇰ per rappresentare in fondo alla sillaba e un silenzio all'inizio. La distinzione tra ㅇ e ᇰ andò poi persa in favore dell'ultimo dei due.
+
+Inoltre, la composizione dei caratteri obsoleti ᇢ, ᇦ, ᇴ (w, v, f) per aggiunta di un cerchio sotto ㅁ, ㅂ, ㅍ (m, b, p) è simile a come nel phagspa viene aggiunto un piccolo svolazzo chiuso sotto tre varianti della lettera h.
+
+Infine, la maggior parte delle lettere base dello hangul erano semplici forme geometriche, almeno in origine, ma ㄷ d ha sempre avuto una piccola sporgenza nell'angolo in alto a sinistra come il d phagspa, a sua volta forse derivante dalla d tibetana, ད.
+
+L'ordine alfabetico dei jamo
+
+L'ordine alfabetico dello hangul non mescola consonati e vocali come fanno ad esempio gli alfabeti latino e cirillico. L'ordine è invece quello degli alfabeti indiani, prima le consonanti velari, poi le coronali, poi le labiali, poi le sibilanti, eccetera. Tuttavia, le consonanti precedono le vocali, a differenza di quanto avviene nel sanscrito e nel tibetano.
+
+L'oridne alfabetico moderno fu stabilito da Choi Sejin nel 1527, prima che venissero a crearsi i jamo delle consonanti doppie e venisse persa la distinzione tra ㅇ e ㆁ. Quando i governi della Corea del Nord e della Corea del Sud regolarizzarono l'uso dello hangul nei rispettivi stati, ordinarono le lettere in modo diverso; i coreani del sud raggruppano le lettere simili, quelli del nord mettono le consonanti doppie in fondo.
+
+Corea del Sud
+L'attuale ordine alfabetico dei jamo delle consonanti è
+
+ㄱ ㄲ ㄴ ㄷ ㄸ ㄹ ㅁ ㅂ ㅃ ㅅ ㅆ ㅇ ㅈ ㅉ ㅊ ㅋ ㅌ ㅍ ㅎ
+
+i jamo delle consonanti doppie vengono posti immediatamente dopo il jamo semplice da cui derivano; non c'è distinzione tra il ㅇ nasale e quello muto.
+
+L'ordine dei jamo delle vocali è
+
+ㅏ ㅐ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ
+
+Ogni vocale è seguita dalle sue forme derivate: quella addolcita (+ i), poi quella iotizzata, poi quella addolcita e iotizzata. I dittonghi che iniziano per w sono ordinati come fossero combinazioni di due caratteri.
+
+Corea del Nord
+L'ordine alfabetico usato in Corea del Nord è più simile a quello antico.
+
+L'attuale ordine alfabetico dei jamo delle conosnanti è
+
+(nullo) ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ ㄲ ㄸ ㅃ ㅆ ㅉ (ㅇ muto)
+
+Il primo ㅇ è il suono nasale ㅇ ng in chiusura di sillaba. Lo ㅇ usato in posizione iniziale invece viene dopo ㅉ, perché è solo un segnaposto muto. Una sillaba senza consonante finale tuttavia viene prima di ogni combinazione con un jamo in posizione finale, pertanto precede nell'ordine la sillaba simile ma con un ㄱ finale.
+
+tutte le "nuove" lettere, ovvero i jamo delle consonanti doppie, sono posti in fondo all'alfabeto, in modo da non alterare l'ordine tradizionale del resto dell'alfabeto.
+
+L'ordine dei jamo delle vocali è
+
+ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ ㅐ ㅒ ㅔ ㅖ ㅚ ㅟ ㅢ ㅘ ㅝ ㅙ ㅞ
+
+Tutti i jamo composti da due e tre tratti, compresi i vecchi dittonghi ㅐ e ㅔ, sono posti dopo le vocali fondamentali, mantenendo l'ordine alfabetico di Choi Sejin.
+
+I nomi dei jamo
+
+L'a-b-c dello hangul si chiama ganada (가나다 순), dal nome dei primi tre jamo (g, n, e d). I nomi dei jamo furono coniati da Choi Sejin nel 1527. La Corea del Nord ha standardizzato i nomi quando ha fatto dello hangul il suo alfabeto ufficiale.
+
+Le consonanti
+Le consonanti moderne hanno un nome composto da due sillabe, con la consonante che compare sia all'inizio che alla fine del nome:
+
+La maggior parte dei jamo (tutti in Corea del Nord, tutti tranne tre in Corea del Sud, dove i nomi sono più simili a quelli originali) hanno nomi il cui formato è del tipo lettera + i + eu + lettera. Ad esempio, Choi Sejan descrisse il suono di 비읍 bieup usando gli hanja 非 (bi) e 邑 (eup). I nomi di g, d e s fecero eccezione perché non esistono hanja per i suoni euk, eut e eus, fuorno pertanto scelti 役 yeok, 末 kkeut e 衣 os.
+
+Choi diede a j, ch, k, t, p e h dei nomi monosillabici, ovvero ji, chi, ki, ti, pi e hi dato che, secondo le istruzioni dello Hunmin jeong-eum, queste lettere non sarebbero dovute essere usate in posizione finale. Tuttavia dopo la riforma ortografica del 1933, che consente ad ogni jamo consonante di essere usato in posizione finale, i nomi fuorono cambiati nella forma attuale.
+
+I jamo delle consonanti doppie aggiungono il prefisso 쌍 ssang ("doppio" o "gemello") in Corea del Sud e 된 don (o chiusa, "forte") in Corea del Nord
+
+In Corea del Nord, un modo alternativo di indicare i jamo è usare la forma lettera + eu (ㅡ), per esempio 그 geu è il nome del jamo ㄱ, 쓰 sseu è il nome del jamo ㅆ, e così via.
+
+Le vocali
+Le vocali hanno per nome semplicemente il suono della vocale stessa, scritto facendolo precedere dall'iniziale muta ㅇ
+
+Jamo obsoleti
+Molti jamo sono oggi obsoleti. Tra questi vi sono quelli che descrivono suoni oggi scomparsi dalla lingua nonché una serie di simboli che descrivevano suoni cinesi mai usati nella lingua coreana. Quelli più frequenti su scritture antiche sono i seguenti
+
+* ㆍ o 丶; Ə (arae-a 아래아 "a inferiore"): pronunciato come, simile al moderno eo.
+*:Ə era scritta isolata o nel dittongo ㆎ area-ae. La parola ahƏ ("bambino"), originariamente scritta usando questo jamo è cambiata in ai (아이).
+* ㅿ z (bansios 반시옷): un suono abbastanza insolito, forse (una consonante nasale fricativa sonora). (Se il vostro browser non la visualizza, ha la forma di un piccolo triangolo equilatero).
+* ㆆ ’ (yeorin hieuh 여린 히읗 "hieuh debole" o doen ieung 된 이응 "ieung forte"): una consonante glottale intermedia tra la h aspirata ㅎ e il segno muto ㅇ.
+* ㆁ ng (yet-ieung 옛이응): Il jamo per il suono, oggi evoluto in ㅇ ieung.
+* ㅸ β (gabyeoun bieup 가벼운 비읍): rappresenta il suono. Si presenta come un digrafo di bieup e ieung, ma la sua origine potrebbe essere più complessa. Altri tre jamo obsoleti sono simili: ᇢ w (w or m), ᇴ f, e ㅹ ff.
+
+Sono due i jamo doppi oggi obsoleti
+
+* ㆅ x (ssanghieuh 쌍히읗 "doppio hieuh"): o.
+* ㆀ (ssang-ieung 쌍이응 "doppio ieung")
+
+Nel sistema hangul originale, i jamo doppi erano usati per rappresentare alcune consonanti cinesi sonore (濁音) non presenti nelle parole della lingua coreana. Solo successivamente sarebbero stati usati per rappresentare le consonanti doppie della lingua coreana.
+
+Le consonanti sibilanti ("dentali") furono modificate per rappresentare le due serie delle sibilanti cinesi, alveolari e retroflesse, tuttavia una distinzione di questo genere non è mai esistita in coreano ed era quasi del tutto scomparsa dal cinese parlato nelle regioni settentrionali. I jamo che rappresentano suoni alveolari erano allungati a sinistra, mentre i retroflessi erano allungati a destra
+
+Vi sono infine alcuni gruppi di consonanti scomparsi dalla lingua, quali ㅴ bsg e ㅵ bsd nonché alcuni dittonghi usati solo per rappresentare vocali mediali cinesi quali ㆇ, ㆈ, ㆊ e ㆋ.
+
+Alcuni dei suoni rappresentati dai jamo obsoleti continuano ad esistere in alcuni dialetti della lingua coreana.
+
+Le sillabe
+
+Fatta eccezione per alcune particelle grammaticali usate agli albori dello hangul, nessun jamo compare isolato nelle parole coreane. I jamo sono invece combinati graficamente in sillabe. Ogni sillaba deve avere almeno una consonante iniziale e una vocale; quando una sillaba non ha un suono consonante iniziale, viene usato il jamo muto ㅇ come segnaposto (es. 우유 u-yu, "latte"). Non è invece necessario mettere alcun segnaposto alle sillabe che non hanno una consonante in posizione finale.
+
+Ogni sillaba si compone di due o tre jamo
+
+* una consonante semplice o doppia, o una coppia di consonanti, o il segnaposto muto ㅇ + una vocale o un dittongo
+* una consonante semplice o doppia, o una coppia di consonanti, o il segnaposto muto ㅇ + una vocale o un dittongo + una consonante semplice o doppia, o una coppia di consonanti
+
+La posizione dei jamo nella sillaba segue alcune regole:
+
+* i componenti dei jamo complessi (coppie di consonanti o dittonghi, es. ㅄ o ㅝ) si leggono da sinistra a destra
+* le vocali il cui jamo è verticale vengono scritte a destra del jamo iniziale (es. ㅂ b + ㅐ ae = 배 bae)
+* le vocali il cui jamo è orizzontale vengono scritte sotto al jamo iniziale (es. ㅂ b + ㅜ u = 부 bu)
+* quando il jamo della vocale ha lunghi tratti sia orizzonali che verticali, si snoda attorno al jamo iniziale, in basso a destra (es. ㄱ g + ㅟ wi = 귀 gwi)
+
+* il jamo finale, quando c'è, viene posto in fondo; si chiama 받침 batchim "pavimento"
+* i jamo nelle sillabe vengono sempre scritti in ordine fonetico: iniziale, centrale, finale
+* le sillabe la cui vocale è un jamo orizzontale vengono scritte dall'alto in basso, es. 읍 eup
+* le sillabe la cui vocale è un jamo verticale o "avvolgente" vengono scritte in senso orario, es. 쌍 ssang, 된 doen
+* se il jamo finale è una coppia di consonanti, la si scrive da sinistra a destra, es. 밟 balp
+
+Il blocco deve essere proporzionato - deve poter essere inscritto in un quadrato - e l'aspetto deve ricordare quello di un hanja; all'occhio di chi non conosce lo hangul, una sillaba può essere confusa con un ideogramma.
+
+Escludendo i jamo obsoleti, esistono 11.571 sillabe possibili.
+
+Si conobbe all'inizio del XX secolo un movimento minoritario che propugnava l'eliminazione delle sillabe e la scrittura dei jamo su un'unica riga, in maniera analoga agli alfabeti occidentali, ma tale movimento non ebbe un grande supporto. La struttura a blocchi sillabici rende lo hangul molto comodo da leggere, dato che ogni sillaba ha una propria forma distintiva che viene facilmente memorizzata; molte persone di lingua madre cinese e coreana trovano la lettura delle parole in alfabeto latino meccanica come l'interpretazione del codice Morse.
+
+Ortografia
+
+Fino al XX secolo non è esistita un'ortografia ufficiale dello hangul. Per via delle legature, dell'assimilazione delle consonanti e delle diverse varianti dialettali, una parola coreana poteva essere scritta in modi diversi. Re Sejong preferì un'ortografia morfo-fonemica (ovvero basata sul ruolo grammaticale delle parole) piuttosto che una puramente fonemica (ovvero basata solo sulla rappresentazione dei suoni pronunciati). Agli inizi, lo hangul era trascritto principalmente in modo fonemico, tuttavia col passare dei secoli l'ortografia divenne parzialmente morfo-fonemica, prima nei sostantivi e poi nei verbi, come lo è oggi.
+
+*pronuncia e trascrizione:
+: una persona che non può
+*ortografia fonemica: 모타는사라미
+*ortografia morfo-fonemica: 못하는사람이
+::못-하-는 mos-ha-neun "non può" (attributo) + 사람-이 sa-ram-i "persona" (soggetto)
+
+Dopo la "riforma Gabo" del 1894, la dinastia Joseon e successivamente l'impero coreano iniziarono a scrivere tutti i documenti ufficali in hangul. Sotto la direzione governativa venne discusso il corretto uso dell'alfabeto, ortografia compresa, fino a quando la Corea non venne annessa dal Giappone nel 1910.
+
+Il governatorato giapponese optò per un sistema di scrittura misto hanja-hangul, concettualmente simile al sistema di scrittura giapponese. Il governo rivide le regole di ortografia - allora relativamente fonemiche - nel 1911, nel 1921 e nel 1930.
+
+Nel 1933 la Hangul Society (fondata da Ju Si-gyeong) annunciò una proposta per una riforma dell'ortografia in senso morfo-fonemico, tale riforma divenne la base delle ortografie contemporanee adottate in Corea del Nord e in Corea del Sud, che rividero successivamente le loro ortografie dopo la separazione.
+
+Il testo guida per l'ortografia dello hangul è lo Hangeul machumbeop, la cui ultima revisione in Corea del Sud è stata pubblicata nel 1988 dal locale ministero dell'educazione.
+
+Sistemi misti
+
+Durante il periodo coloniale giapponese vennero usati gli hanja per le radici lessicali (sostantivi e verbi) e lo hangul per le particelle grammaticali, similmente a come katakana, hiragana e kanji sono usati nel giapponese. Oggi gli hanja sono usciti completamente dall'uso in Corea del Nord e in Corea del Sud il loro uso è limitato ad alcuni nomi propri e alla disambiguazione di parole omofone.
+
+Nello hangul vengono usati anche i numeri arabi, come ad esempio nelle date 2006년 2월 24일 (24 febbraio 2006).
+
+L'alfabeto latino - e occasionalmente altri alfabeti - possono essere usati a scopo illustrativo o per rappresentare parole straniere non ancora pienamente assimilate nella lingua coreana.
+
+Stile
+
+Lo hangul può essere scritto sia orizzontalmente che verticalmente. La direzione tradizionale è quella del cinese, dall'alto in basso e da destra a sinistra. La scrittura orizzontale nello stile dell'alfabeto latino fu promossa da Ju Si-gyeong e divenne quella largamente preferita.
+
+Nello Hunmin Jeong-eum i caratteri dello hangul erano scritti con linee angolari di pari spessore e senza grazie. Questo stile è quello usato nei libri pubblicati fino al 1900 circa ed è oggigiorno usato nelle incisioni su pietra (ad esempio per le statue).
+
+Nel corso dei secoli venne ad evolversi uno stile di calligrafia del tipo a pennello e inchiostro che faceva ricorso alle stesse linee e agli stessi angoli della calligrafia cinese. Questo stile è detto myeongjo, dal nome della dinastia cinese Ming, ed è quello usato oggi in libri, giornali riviste e font per computer (ad esempio il Batang, 바탕).
+
+Uno stile senza grazie è tornato in uso con la scrittura a penna ed è generalmente lo stile usato dai browser web.
+
+Voci correlate
+* lingua coreana
+* lingua cinese
+* lingua giapponese
+* katakana
+* kanji
+* alfabeto
+
+Bibliografia
+*Coulmas Florian, The Blackwell Encyclopeda of Writing Systems. Oxford, Blackwell Publishers, 1999.
+*Grant, Bruce K., A guide to Korean characters, reading and writing Hangul and hanja - II ed. - Elizabeth, N. J. Hollym, 1983. ISBN 0930878132
+*Ross King, Jae-Hoon Yeon, Elementary Korean. Boston, Tuttle Publishing, 2000.
+* Sohn, H.-M., The Korean Language - Cambridge, Cambridge University Press, 1999.
+* Song, J. J., The Korean Language: Structure, Use and Context - London, Routledge, 2005.
+*Young-Ja Beckers-Kim, Koreanisch für Anfänger. Göttingen, Edition Peperkorn, 2005.
+*Young-Key Kim-Renaud, The Korean Alphabet. Its History and Structure - Honolulu, University of Hawai'i Press, 1997.
+
+Collegamenti esterni
+* Pagina sullo hangul presso il Ministero della Cultura e del Turismo Coreano
+* Lezioni di Hangul
+* Lo hangul nei browser web
+* Descrizione dello hangul
+* Pronuncia
+* I Jamo nell'Unicode
+
+------------------------------------------------------------------------------
+Retrieved on Mon, 05 Oct 2009 19:05:00 from:
+  http://it.wikipedia.org/wiki/Hangŭl
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/

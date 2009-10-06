@@ -1,0 +1,128 @@
+La Drosophila o moscerino della frutta o moscerino dell'aceto (Drosophila melanogaster Meigen, 1830) è un insetto dell'ordine dei Diptera, organismo modello per la ricerca genetica.
+
+Aspetto fisico
+
+Gli insetti della specie Drosophila melanogaster hanno occhi rossi, il corpo giallo-marrone con alcuni anelli neri trasversali nel loro addome. È evidente il dimorfismo sessuale: le femmine sono lunghe 2.5 mm, mentre i maschi sono un po' più corti e la parte terminale del loro corpo e più scura. La principale differenza tra i due sessi (facilmente osservabile al microscopio anche da un neofita) è il ciuffo di piccoli peli che circonda l'ano e i genitali del maschio.
+
+Ciclo vitale
+
+Il ciclo vitale di Drosophila melanogaster a 25 °C è di sole 2 settimane; la durata è circa doppia a 18 °C. Le femmine possono deporre fino a 600 uova (embrioni) all'interno di frutta o altri materiali organici. Le uova, il cui diametro è di circa 0.5 millimetri, si schiudono dopo 24 ore dalla deposizione. Le larve risultanti crescono per 5 giorni, in cui usano microorganismi che decompongono la frutta e gli zuccheri della frutta stessa per nutrirsi. Poi la larva si trasforma in pupa, passando altri 5 giorni consumando il cibo accumulato per effettuare una metamorfosi, alla fine della quale emerge l'insetto adulto.
+
+Le femmine si accoppiano dopo circa 12 ore dalla metamorfosi, accumulando lo sperma in alcune sacche, utilizzandolo a posteriori per fecondare le uova. Per questo motivo i genetisti devono separare le femmine dal resto della popolazione prima che abbiano la possibilità di accoppiarsi, in modo da essere certi che l'incrocio avvenga solo con il particolare tipo di maschio da utilizzare nell'esperimento. Femmine inseminate possono essere "re-verginizzate" con una prolungata incubazione a -10 °C, uccidendo lo sperma (Ashburner et al. 2005).
+
+Organismo modello
+La Drosophila melanogaster è un organismo modello, ovvero uno degli organismi più studiati nella ricerca biologica, in particolare nella genetica e nella divulgazione biologica.
+
+I motivi sono molteplici:
+* Si tratta di un insetto piccolo e facile da allevare in laboratorio;
+* Ha un breve tempo di generazione (circa 2 settimane) e una elevata produttività (ogni singola femmina può deporre fino a 600 uova in 10 giorni);
+* Le larve mature mostrano cromosomi politenici nelle ghiandole salivari;
+* Hanno solo 4 paia di cromosomi: 3 autosomi e 1 sessuale;
+* I maschi non mostrano ricombinazioni genetiche, facilitando gli studi genetici;
+* Tecniche di trasformazione genetica sono state disponibili dal 1987;
+* Il sequenziamento del suo genoma è stato completato nel 1998.
+* Le mutazioni genetiche nella specie sono molto frequenti.
+
+A Charles W. Woodworth è riconosciuto il merito di essere stato il primo ad allevare esemplari di Drosophila e di aver suggerito a W. E. Castle, durante il suo soggiorno alla Harvard University, che essi potevano essere usati per ricerche genetiche.
+A partire dal 1910 i moscerini della frutta furono di aiuto a Thomas Hunt Morgan per compiere i suoi studi sull'ereditarietà. Morgan e colleghi estesero il lavoro di Mendel descrivendo i meccanismi ereditari legati al cromosoma X e dimostrando che i geni collocati su uno stesso cromosoma non mostravano ricombinazioni genetiche. Gli studi sulle caratteristiche collegate al cromosoma X hanno aiutato a confermare che i geni si trovano nei cromosomi, mentre altri studi sulle caratteristiche morfologiche di Drosophila hanno portato alle prime mappe che mostravano le locazioni dei geni sui cromosomi. La prima mappatura dei cromosomi di Drosophila fu completata da Alfred Sturtevant.
+
+Il genoma della Drosophila
+
+La Drosophila ha 4 paia di cromosomi: una coppia X/Y e tre coppie autosomiche etichettate 2, 3, e 4. Il quarto cromosoma è così sottile che è spesso ignorato. Il genoma, che è stato interamente sequenziato, contiene 132 milioni di basi e approssimativamente 13.767 geni, tra questi ad esempio vi sono:
+* Antennapedia (gene che controlla il posizionamento delle antenne dell'insetto)
+
+Somiglianze con la specie umana
+
+Da un punto di vista genetico l'uomo e il moscerino della frutta sono abbastanza simili. Circa il 60% delle malattie genetiche conosciute si possono verificare nel patrimonio genetico del moscerino. E circa il 50% delle proteine della Drosophila hanno un analogo nei mammiferi. La Drosophila viene usata come modello genetico per varie malattie umane, inclusi i disturbi neurodegenerativi come il morbo di Parkinson, la corea di Huntington e il morbo di Alzheimer. La mosca viene utilizzata anche per studiare il meccanismo biologico del sistema immunitario, del diabete, del cancro e persino dell'abuso di sostanze stupefacenti.
+
+Nomenclatura genetica
+
+I geni che prendono il nome da alleli recessivi hanno l'iniziale minuscola, mentre gli alleli dominanti hanno l'iniziale maiuscola. I geni che prendono il nome dalla proteina prodotta hanno l'iniziale maiuscola. I nomi dei geni sono solitamente scritti in corsivo.
+La convenzione di scrittura dei genotipi è X/Y; 2nd/2nd; 3rd/3rd.
+
+Nella comunità dei biologi molecolari la nomenclatura genetica della Drosophila è nota per i nomi fantasiosi associati alle mutazioni genetiche scoperte. Le mutazioni del lievito di birra o di altri organismi, microscopici e non, hanno solitamente nomi come "cdc4" e "cdk4"; nella Drosophila invece sono frequenti nomi come "cheap date" (letteralmente "appuntamento economico", una mutazione che rende il moscerino più sensibile all'effetto dell'etanolo) o "snafu" (una mutazione che provoca anomalie anatomiche grottesche).
+
+Sviluppo ed embriogenesi
+
+L'embriogenesi nella Drosophila è stata studiata molto approfonditamente. La piccola dimensione, il ciclo di vita molto breve e la grande quantità di prole tipici della Drosophila ne fanno un campione ideale per studi genetici. È anche l'unico fra gli organismi modello in cui la suddivisione dell'ovulo fecondato avviene in una cavità sinciziale.
+
+Durante l'ovogenesi, l'ovocita in formazione è connesso alle cellule nutrici dei ponti citoplasmatici. Sostanze nutrienti e altre molecole che controllano lo sviluppo si trasferiscono nell'ovocita.
+
+Nella figura si può vedere come l'ovocita in formazione venga rivestito da cellule follicolari di supporto.
+Circa 5000 nuclei cellulari si ammassano nel citoplasma indiviso dell'ovocita prima che inizi la loro migrazione verso la superficie e vengano avvolti da membrane plasmatiche per formare le cellule che circondano il sacco del tuorlo. Poco dopo la linea germinale si separa dalle cellule somatiche, attraverso la formazione di cellule polari nell'estremità posteriore dell'embrione.
+
+La divisione cellulare nei primi stadi dell'embrione di Drosophila avviene tanto rapidamente che non esistono fasi distinte, per cui possono verificarsi errori nella divisione del DNA. Per aggirare questo problema i nuclei che commettono tali errori si staccano dai loro centrosomi e cadono nel centro dell'embrione, che non farà parte dell'insetto.
+
+La definizione degli assi antero-posteriore e dorso-ventrale avviene secondo un meccanismo definito specificazione sinciziale, in cui gradienti di geni materni, introdotti nell'oocita grazie alle cellule nutrici, definisco gli assi del corpo prima ancora che l'oocita venga fecondato; in particolare i geni materni nanos e bicoid creano il gradiente morofogeno che specifica per le strutture anteriori (bicoid) e per quelle posteriori (nanos).
+
+I geni materni agiscono come fattori di trascrizione attivando i geni zigoti. I primi geni zigoti ad essere trascritti sono la classe dei geni gap, il cui nome deriva dal fatto che la loro mutazione provoca una grossa perdita di segmenti nella larva del moscerino. I più importanti geni gap sono hunchback, kruppel, giant, knirps e tailless ognuno dei quali, in base a gradienti di concentrazione dei geni materni, è espresso in determinate regioni lungo l'asse antero/posteriore dell'embrione di drosophila dividendolo in unità distinte.
+
+Combinazioni opportune di geni gap sono in grado di attivare specifici enhancer di promotori modulari dei geni della regola pari primari i quali vengono espressi periodicamente in 7 striscie lungo l'asse antero-posteriore andando così a delineare un pattern di 14 zone discrete definite parasegmenti. La caratteristica principale di questa classe di geni è che alcuni di essi saranno espressi solo nei parasegmenti dispari mentre altri solo nei parasegmenti pari. Tali geni sono inoltre importanti per determinare il pattern di espressione dei geni della regola pari secondari: questi sono espressi inizialmente in tutto l'embrione ma a seguito dell'espressione dei geni della regola pari primari la loro espressione sarà limitata in quei parasegmenti non occupati da quest'ultimi in quando sono in grado di legare gli enhancer dei geni della regola pari secondari e regolarne negativamente l'espressione.
+
+Una volta che i geni della regola pari sono espressi, quest'ultimi attivano i geni della polarità segementale i quali definisco il lato anteriore e posteriore di un parasegmento. In particolare nei 14 parasegmenti formati le file di cellule che mostrano un'alta concentrazione di prodotto genico dei geni della regola pari cominciano ad esprimere il gene della polarità segmentale chiamato engrailed che definisce il confine anteriore del parasegmento; a sua volta engrailed agisce come fattore di trascrizione facendo esprimere il gene hedgehog il quale venendo secreto dalle cellule va ad interagire con il recettore cellulare posto sulla fila di cellule anteriore a quelle esprimenti engrailed, ciò attiva un pathway che permette di esprimere un altro gene della polarità segmentale chiamato wingless che definisce il confine posteriore del parasegmento. Wingless a sua volta viene secreto ed interagisce con il recettore frizzled della fila di cellule esprimenti engrailed il quale induce un patway che induce ulteriore espressione di engrailed chiudendo il circuito. Grazie a tale sistema, anche a seguito di cessato stimolo da parte dei geni della regola pari, questo circuito può automantenrsi definendo in modo definitivo i confini di ogni parasegemnto.
+
+La combinazione di geni gap, della regola pari e della polarità segmentale fa esprimere l'ultima classe di geni per lo sviluppo della drosophila chiamati geni selector omeotici. Tali geni definiscono in modo preciso il destino dello sviluppo di ogni parasegmento definendo se questo diventarà una zampa piuttosto che un'antenna.
+
+La specificazione dell'asse dorso-ventrale è stabilito dal gradiente di concentrazione di un fattore di trascrizione chiamato dorsal. L'mRNA materno di dorsal è posto nell'oocita di drosophila dalle cellule nutrici lungo tutto la membrana citoplasmatica dove viene tradotto 90 minuti dopo la fertilizzazione. Nonostante dorsal sia presente in tutto l'oocita esso entra solo nel nucleo delle cellule ventrali dove attiva geni per la ventralizzazione (twist e snail) e reprime quelli per la dorsalizzazione.Il fatto che dorsal entri solo nelle cellule ventrali è dovuto alla posizione all'intero del citoplasma del nucleo dell'oocita nel periodo che precede la fecondazione: trovandosi sul lato dorsale attiva fattori di trascrizione che inibiscono i geni necessari per attivare dorsal. Ciò non succede sul lato ventrale che si trova lontano dal nucleo ed in questo modo dorsal può esplicare la sua funzione ventralizzante.
+
+Genetica comportamentale e neuroscienze
+Nel 1971 Ron Konopka e Seymour Benzer pubblicarono un articolo intitolato "Mutanti orologio di Drosophila melanogaster" in cui descrivevano la prima mutazione che influenzava il comportamento di un animale. I moscerini Drosophila normali mostravano un ritmo di attività e riposo coincidente grosso modo con il giorno solare (24 ore). I mutanti di Konopka e Benzer invece mostravano ritmi più rapidi o più lenti, e in alcuni casi del tutto irregolari: i moscerini mutanti riposavano ed erano attivi per periodi di tempo del tutto casuali. I lavori dei successivi 30 anni hanno dimostrato che queste mutazioni (e altre simili) interessano un gruppo di geni e di loro prodotti che formano un orologio biologico o molecolare. Questo orologio biologico è stato trovato in molte cellule del moscerino, ma quelle determinanti per il ciclo attività/riposo sono alcune dozzine di cellule nel cervello centrale della Drosophila.
+
+Da allora Benzer, i suoi studenti e molti altri hanno usato maschere comportamentali per isolare geni coinvolti in visione, olfatto, udito, apprendimento e memoria, corteggiamento, dolore e altri processi biologici come la longevità.
+
+La visione nella Drosophila
+
+L'occhio composto del moscerino della frutta contiene 800 unità oculari o ommatidi, ed è uno dei più sofisticati fra tutti gli insetti. Ogni ommatide contiene 8 cellule fotorecettrici (R1-8) ed alcune cellule di supporto, cellule pigmentate e una cornea. I moscerini normali hanno cellule pigmentate rossastre, per assorbire l'eccesso di luce blu e non venire accecati dalla luce del giorno.
+
+Ogni fotorecettore consiste di due sezioni principali, il corpo cellulare e il rabdomero. Il corpo cellulare contiene il nucleo della cellula mentre il rabdomero è fatto di ammassi di membrane dette microvilli che lo rendono simile ad uno spazzolino da denti. Ogni microvillo è lungo da 1 mm a 1.5 mm ed ha un diametro di 50 nm. La membrana del rabdomero contiene circa 100 milioni di molecole di rodopsina, la proteina visuale che assorbe la luce. Il resto delle proteine della visione sono concentrate nello spazio microvillare, lasciando poco spazio al citoplasma.
+
+I fotorecettori in Drosophila secernono molte varietà di forme di rodopsina. Le cellule fotorecettrici R1-R6 sintetizzano la Rodopsina1 (Rh1) che assorbe luce blu (480 nm). Le cellule R7 e R8 sintetizzano le forme Rh3 o Rh4 che assorbe luce ultravioletta (345 nm e 375 nm), e Rh5 o Rh6 che assorbono rispettivamente luce blu (437 nm) e verde (508 nm). Ogni molecola di rodopsina consiste di una proteina chiamata opsina legata in modo covalente ad un cromoforo carotenoide.
+
+Come nella visione dei vertebrati, anche negli invertebrati la trasduzione visiva avviene tramite un cammino di proteine G accoppiate. Però nei vertebrati la proteina G è la transducina, mentre negli invertebrati è la Gq (dgq in Drosophila). Quando la rodopsina (Rh) assorbe un fotone, il suo cromoforo carotenoide si isomerizza, producendo in Rh un cambiamento conformazionale verso la sua forma attiva, la metarodopsina. Essa attiva la Gq, che a sua volta attiva una fosfolipasi Cβ (PLCβ) nota come NorpA.
+
+PLCβ idrolizza il fosfatidilinositolo-4,5-bisfosfato (PIP2), un fosfolipide presente nella membrana cellulare, in inositolo-trifosfato (IP3) e diacilglicerolo (DAG). DAG, molecola idrofobica, rimane nella membrana, generando l'apertura di un canale ionico selettivo per il calcio (noto come TRP, transient receptor potential) e, a valle, l'ingresso nella cellula di ioni calcio e sodio. Il destino di IP3 è invece quello di legare specifici recettori (IP3 receptors) presso specifiche cisterne del reticolo endoplasmatico, generando l'uscita nel citoplasma di altri ioni calcio, sebbene questo processo non sia ritenuto essenziale per la normale visione.
+
+Gli ioni calcio legano proteine come la calmodulina (CaM) e protein chinasi C (PKC) specifiche per la visione, note come InaC. Le InaC interagiscono poi con altre proteine a valle e sono ritenute le principali responsabili del segnale acceso/spento della visione. Hanno un certo ruolo nello spegnimento del processo visivo anche le arrestine, proteine in grado di inibire l'interazione della metarodopsina con le Gq, inibendo la trasduzione a monte.
+
+Lo spegnimento avviene attraverso uno scambiatore sodio/calcio di membrana dipendente dal potassio (noto come NCKX30C), che pompa il calcio al di fuori della cellula. Ciò è permesso dai gradienti transmembrana favorevoli di sodio e potassio. Per ogni ione Ca++ estruso, 4 di Na+ entrano ed un di K+ esce dalla cellula.
+
+La proteina InaD funge da supporto per tutte le proteine chiave della via di trasduzione: contiene cinque domini di legame (domini PDZ) per la regione C-terminale di molecole come TRP, InaC e PLC. Mutazioni a carico dei domini PDZ generano notevoli problemi nella trasduzione stessa. Ad esempio, un calo dell'interazione tra InaC e InaD genera una inattivazione tardiva della risposta alla luce.
+
+A differenza della metarodopsina dei Vertebrata, la metarodopsina di Drosophila (e degli Invertebrata) viene riconvertita a rodopsina con il semplice assorbimento di un fotone di luce arancione (580 nm).
+
+Circa due terzi del cervello di Drosophila (circa 200.000 neuroni) sono dedicati al processo visivo. Sebbene la risoluzione spaziale sia notevolmente minore di quella umana, la velocità della risposta visiva è quasi dieci volte maggiore.
+
+Il volo nella Drosophila
+Le ali di una mosca come Drosophila possono battere fino a 250 volte al secondo. Il volo è essenzialmente composto di lunghi tratti lineari, intervallati da rapidi cambi di direzione chiamati saccade. Durante queste "svolte", è in grado di ruotare di 90 gradi in meno di 50 millisecondi.
+
+Drosophila, e probabilmente molte altre mosche, presenta nervi ottici collegati direttamente ai muscoli delle ali (mentre in altri insetti c'è in ogni caso un passaggio attraverso il cervello), rendendo se possibile ancora minore il tempo di reazione.
+
+Si è creduto per lungo tempo che le caratteristiche del volo di Drosophila fossero sottoposte più alla viscosità dell'aria che all'inerzia del corpo dell'animale. Recenti ricerche di Michael Dickinson e Rosalyn Sayaman hanno invece indicato che è l'inerzia la forza dominante
+
+Bibliografia
+*Ashburner, M., Golic, K. & Hawley, S.H. "Drosophila: A Laboratory Handbook". Cold Spring Harbor Laboratory Press, New York (2005)
+*K. Haug-Collet, et al. (1999). "Cloning and Characterization of a Potassium-dependent Sodium/Calcium Exchanger in Drosophila". J. Cell Biol. 147(3):659-669.
+*P. Raghu, et al. (2000). "Normal Phototransduction in Drosophila Photoreceptors Lacking an InsP3 Receptor Gene". Molec. & Cell. Neurosci. 15:4289-445.
+*R. Ranganathan, et al. (1995). "Signal Transduction in Drosophila Photoreceptors". Annu. Rev. Neurosi. 18:283–317.
+*S. Fry & M. Dickinson (2003). "The Aerodynamics of Free-Flight Maneuvers in Drosophila". Science. 300:495-498.
+*A. Keller (2007). "Drosophila melanogaster's story as a human commensal". Current Biology 17:R77-R81.
+
+Voci correlate
+* Drosophix
+
+Altri progetti
+
+Collegamenti esterni
+* Una veloce e semplice introduzione a questo insetto
+* FlyBase
+* La biblioteca virtuale: Drosophila
+* Il Berkeley Drosophila Genome Project
+* Linee guida per la crescita e il mantenimento di Drosophila
+* FlyMove - Banca dati su Drosophila
+* The Interactive Fly - Guida alla comprensione del ruolo dei geni di Drosophila nello sviluppo
+* Nomenclatura dei geni di Drosophila
+
+------------------------------------------------------------------------------
+Retrieved on Tue, 06 Oct 2009 11:39:30 from:
+  http://it.wikipedia.org/wiki/Drosophila_melanogaster
+Licensed under CC-BY-SA, see http://creativecommons.org/licenses/by-sa/3.0/
